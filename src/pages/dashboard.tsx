@@ -65,7 +65,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
 
     useEffect(() => {
         if (searchTerm.length > 3) {
-            const newFilteredLawsuits = filteredLawsuits.filter((lawsuit: any) =>
+            const newFilteredLawsuits = lawsuits.filter((lawsuit: any) =>
                 lawsuit.activity.filter(
                     (activity: any) => activity.text.includes(searchTerm)
                 ).length > 0);
@@ -74,7 +74,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
             setFilteredLawsuits(lawsuits);
         }
         setIsLoading(false);
-    }, [searchTerm]);
+    }, [searchTerm,lawsuits]);
 
 
 
@@ -153,7 +153,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
                         <Accordion allowToggle>
                             {filteredLawsuits.map((lawsuit: any) => {
                                 return (
-                                    <AccordionItem>
+                                    <AccordionItem key={lawsuit.id}>
                                         <h2>
                                             <AccordionButton>
                                                 <Box flex='1' textAlign='left'>
@@ -173,7 +173,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
 
                                                 <Tbody>
                                                     {lawsuit.activity.map((activity: any) =>
-                                                        <Tr>
+                                                        <Tr key={activity.id}>
                                                             <Td>{new Date(activity.date).toLocaleDateString()}</Td>
                                                             <Td>{activity.text}</Td>
                                                         </Tr>
