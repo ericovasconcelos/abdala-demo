@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
-import { Head } from "../components/Head";
-import dynamic from 'next/dynamic';
+import { Head } from "../../components/Head";
 import {
     Box,
     Flex,
@@ -23,14 +22,15 @@ import {
     Td,
     Icon
 } from '@chakra-ui/react';
-import { Sidebar } from "../components/Sidebar";
+import { Sidebar } from "../../components/Sidebar";
 import fs from 'fs';
 
 import { RiSearchLine } from 'react-icons/ri';
-import data from '../../data/mrs/summary/6124003faa4aac000c990571.json';
-import ChartLawsuits from "../components/ChartLawsuits";
+import data from '../../../data/mrs/summary/6124003faa4aac000c990571.json';
+import ChartLawsuits from "../../components/ChartLawsuits";
 import path from "path";
 import { Interface } from "readline";
+import { GetServerSideProps } from 'next'
 
 const years = Object.values(data.distribution.year);
 const yearsLabels = Object.keys(data.distribution.year);
@@ -38,15 +38,29 @@ const yearsLabels = Object.keys(data.distribution.year);
 const justiceField = Object.values(data.distribution.justice_field);
 const justiceFieldLabels = Object.keys(data.distribution.justice_field);
 
-export async function getServerSideProps() {
-    const jsonFiles = await fs.readdirSync(`./data/mrs/lawsuits_labor_justice`).filter((lawsuitFile: string) => path.extname(lawsuitFile).toLowerCase() === '.json');
-    const data = await Promise.all(jsonFiles.map(jsonFile => JSON.parse(fs.readFileSync(`./data/mrs/lawsuits_labor_justice/${jsonFile}`, 'utf8'))));
-
+export const getServerSideProps: GetServerSideProps = async (context) => {
+    const { entity } = context.query;
+    console.log(fs.readdirSync(`.`));
     return {
-        props: {
-            lawsuits: data,
-        },
-    };
+        notFound: true,
+      }
+    if (entity === 'mrs' || entity === 'votorantim' || entity === 'abril') {
+
+
+        const jsonFiles = await fs.readdirSync(`./data/mrs/lawsuits_labor_justice`).filter((lawsuitFile: string) => path.extname(lawsuitFile).toLowerCase() === '.json');
+        const data = await Promise.all(jsonFiles.map(jsonFile => JSON.parse(fs.readFileSync(`./data/mrs/lawsuits_labor_justice/${jsonFile}`, 'utf8'))));
+
+        return {
+            props: {
+                lawsuits: data,
+            },
+        };
+
+    } else {
+        return {
+            notFound: true,
+          }
+    }
 }
 
 interface DashboardProps {
@@ -61,7 +75,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
     const [isLoading, setIsLoading] = useState(false)
 
     const handleChange = (e: any) => { setInputValue(e.target.value) };
-    const handleClick = (e: any) => {   setIsLoading(true); setSearchTerm(inputValue) };
+    const handleClick = (e: any) => { setIsLoading(true); setSearchTerm(inputValue) };
 
     useEffect(() => {
         if (searchTerm.length > 3) {
@@ -74,7 +88,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
             setFilteredLawsuits(lawsuits);
         }
         setIsLoading(false);
-    }, [searchTerm,lawsuits]);
+    }, [searchTerm, lawsuits]);
 
 
 
@@ -143,12 +157,12 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
 
 
                     {isLoading ? <Text align="center"><Spinner /></Text> : <>
-                    <Flex
-                        ml="auto"
-                        align="center"
-                    >
-                        <Text fontSize="xl" fontWeight="bold">Total de processos: {filteredLawsuits.length}</Text>
-                    </Flex>
+                        <Flex
+                            ml="auto"
+                            align="center"
+                        >
+                            <Text fontSize="xl" fontWeight="bold">Total de processos: {filteredLawsuits.length}</Text>
+                        </Flex>
 
                         <Accordion allowToggle>
                             {filteredLawsuits.map((lawsuit: any) => {
@@ -186,7 +200,7 @@ const Dashboard = ({ lawsuits }: DashboardProps) => {
                                 )
                             })}
                         </Accordion>
-                        </>
+                    </>
                     }
 
                 </Box>

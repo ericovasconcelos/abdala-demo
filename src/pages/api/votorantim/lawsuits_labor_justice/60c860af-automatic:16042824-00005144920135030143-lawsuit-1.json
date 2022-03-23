@@ -1,0 +1,488 @@
+{
+  "lawsuit": {
+    "id": "NjBjODYwYWYtYXV0b21hdGljOjE2MDQyODI0LTAwMDA1MTQ0OTIwMTM1MDMwMTQzLWxhd3N1aXQ=",
+    "activityCount": 71,
+    "number": "0000514-49.2013.5.03.0143",
+    "value": "",
+    "subject": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+    "kind": "",
+    "district": "Juiz de Fora",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Roberto Batista da Silva",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Reclamante",
+          "normalized": "Reclamante"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Tenace Engenharia e Consultoria LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Reclamado",
+          "normalized": "Reclamado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Votorantim Metais Zinco S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Reclamado",
+          "normalized": "Reclamado"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 1365476400000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZTgwM2U3MjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YjU5MzdhNTkzOGY0YjctMTM2NTQ3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1365476400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Audi\u00eancia Inicial Para 05/06/2013 \u00c0s 15:45 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "ZmI5MDUyMTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYTQwYTIxNGUxMDdhMzgtMTM2NTQ3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1365476400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Processo Distribu\u00eddo Em 09/04/2013 \u00c0s 18:01 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "YWJhZjNlYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02M2JmMTA2ZDdlNzZjMWQtMTM2NTU2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1365562800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 10/04/2013 - Antec Tutela",
+      "attachments": []
+    },
+    {
+      "id": "NTlkYWY3MmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MGE3ZjQ0NjNlMzBmYmItMTM2NTU2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1365562800000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: R\u00c9U\r\nTr\u00e2mite Processual: Notifica\u00e7\u00e3o De Audi\u00eancia Inicial 01983/13 Em 11/04/2013",
+      "attachments": []
+    },
+    {
+      "id": "NGQxZWUyYzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YzY0Mzk5NDIwYTkyOTAtMTM2NTU2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1365562800000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: R\u00c9U\r\nTr\u00e2mite Processual: Notifica\u00e7\u00e3o De Audi\u00eancia Inicial 01982/13 Em 11/04/2013",
+      "attachments": []
+    },
+    {
+      "id": "NThhZWNhMDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOGY2ZDU4ZDg4ZjE1MWItMTM2NjM0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366340400000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 22/04/2013 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 19/04/2013) - Tomar Ciencia De Que Indeferida, Neste Momento, A Antecipacao De Tutela Requerida.",
+      "attachments": []
+    },
+    {
+      "id": "ZTYyMzJkNjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTE4OTA4ODk1ZWVlYjMtMTM3MDQwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1370401200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Audi\u00eancia De Instru\u00e7\u00e3o Para 08/07/2013 \u00c0s 09:30 Horas Doc.:01632/13",
+      "attachments": []
+    },
+    {
+      "id": "ZGNjYjJlMzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWUyNjc5MTIyYTIwOGItMTM3MzI1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1373252400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carga De Juiz Em 08/07/2013",
+      "attachments": []
+    },
+    {
+      "id": "MGEyODI0MDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOGIyNzk4MGZjZmM2ZTItMTM3MzI1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1373252400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Instru\u00e7\u00e3o Encerrada Em 08/07/2013 - Decis\u00e3o Para 18/07/2013 \u00c0s 17:00 Horas Doc.:02037/13 - Dra. Rosangela Alves Da Silva Paiva",
+      "attachments": []
+    },
+    {
+      "id": "OGQ2MTMzMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjVmMDU1ZjU3NzIyZWEtMTM3NDExNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374116400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Juiz Em 18/07/2013",
+      "attachments": []
+    },
+    {
+      "id": "NjcxYTY2NjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMWE5MDYzMGNkYWY5OGItMTM3NDExNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374116400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Proced\u00eancia Parcial Em 18/07/2013 Doc.:02241/13 - Dra. Rosangela Alves Da Silva Paiva - Senten\u00e7a N\u00e3o L\u00edquida",
+      "attachments": []
+    },
+    {
+      "id": "Yzc3MzIxMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMDRhOTcxYjFiYzk4NTktMTM3NDYzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374634800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 24/07/2013",
+      "attachments": []
+    },
+    {
+      "id": "MDY5ZWZhZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NjM2YzNhOTVmMmYyMWUtMTM3NTMyNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375326000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 01/08/2013 - Gabinete",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ3NzAzZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NTEzYTJiOGMzZjM2NWYtMTM3NTQxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375412400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 13755/13 Em 02/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "NGEwMWE2NTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MDRhMWJiZjRkN2NkZTQtMTM3NjQ0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376449200000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 05940/13 Em 15/08/2013 - Vista Da Manifesta\u00e7\u00e3o Do Autor, Pelo Prazo De 05 Dias, Comum \u00c0s Reclamadas, A Contar De 27/08/13, Inclusive.",
+      "attachments": []
+    },
+    {
+      "id": "MGUwZTlhNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYWE5NmFkMWU5ZTU3OTQtMTM3NjQ0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376449200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 14870/13 Em 14/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "YjU0NGIwOGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jM2E5YWY3NzA5Zjg5ZTktMTM3NjYyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376622000000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 19/08/2013 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 16/08/2013) - Vistos Etc. Ante O Teor Da Oj 142, I, Da Sdi-i, Do C. Tst, Vista \u00c0 Autora Dos Embargos De Declara\u00e7\u00e3o Opostos Pela 2A. R\u00e9, Prazo De 05 Dias. Sucessivamente, Vista \u00c0 Reclamada Da Manifesta\u00e7\u00e3o Do Autor, Prazo De 05 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "Njg4MWZmN2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTNlZDk0ZGI2YzFlZGMtMTM3Njk2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376967600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carga De Advogado 15389/13 Em 20/08/2013 - Para 031223Mge Williane Regina Da Matta Moreira Reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NmZhNTVhY2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNWYxZDQ4NjE1OTU0MGEtMTM3NzQ4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1377486000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 26/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q2NjkxNzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MTJkOGY4NTMzY2IwOGQtMTM3NzU3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1377572400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 27/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "NjY0YTc1MmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYzcyMWY1Yjk3ZTQwNDItMTM3ODQzNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1378436400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 16626/13 Em 06/09/2013",
+      "attachments": []
+    },
+    {
+      "id": "NDc4Y2FkODAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYzBhNDAxNjIxYzYzNjgtMTM3ODY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1378695600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 09/09/2013 - Gabinete",
+      "attachments": []
+    },
+    {
+      "id": "MWJmNDdjZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOWNjZWNhYWI3ZjQ5MjEtMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Improcedentes Em 17/09/2013 Doc.:03202/13 - Dra. Sheila Marfa Valerio",
+      "attachments": []
+    },
+    {
+      "id": "NTg0MTM4ZjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMzVmMDhmZTZiZGY5NGEtMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Audi\u00eancia Decis\u00e3o Incidente Processual 17/09/2013 \u00c0s 17:25 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "NTdiMDdjZWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYTQxM2I3ZTFmODU3NmQtMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Conclusos Em 17/09/2013 - Dra. Sheila Marfa Valerio",
+      "attachments": []
+    },
+    {
+      "id": "NTMxMmM0YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Mjk3MWNkMjBhMzM5YjUtMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Interpostos Em 17/09/2013",
+      "attachments": []
+    },
+    {
+      "id": "ZGI0NmFkNzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hY2VmOGFlNzU3ZDE5MjEtMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Antecipa\u00e7\u00e3o De Tutela Procedente Em 17/09/2013 - Dra. Sheila Marfa Valerio - Doc: 03201/13",
+      "attachments": []
+    },
+    {
+      "id": "N2E2MWI0ZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMzFmMmM1OTczMjIzNWItMTM3OTM4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379386800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Antecipa\u00e7\u00e3o De Tutela Interposta Em 17/09/2013",
+      "attachments": []
+    },
+    {
+      "id": "ODZhYzMwZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTZmMjM0OWQ2NzVlOWYtMTM3OTY0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379646000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carta Precat\u00f3ria Texto Livre 00167/13 Em 02/10/2013 - Carta Precat\u00f3ria - Ju\u00edzo Deprecado: Mm. Juiz(a) Distribuidor(a) Do Foro De(o) Salvador",
+      "attachments": []
+    },
+    {
+      "id": "YTFhNmNhMTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04Yzg4MDA0YjlhMDJhMjItMTM3OTkwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379905200000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 24/09/2013 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 23/09/2013) - Tomar Ciencia Da Decisao Que Julgou Improcedentes Os Ed Opostos E Deferiu A Antecipacao De Tutela.",
+      "attachments": []
+    },
+    {
+      "id": "YWNkMGZhYjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTlkYjA5NmJhMDg4ZjMtMTM4MDc2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1380769200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 03/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "N2Q3MDU3NWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMGRiZWNlMTg4ZWYwYzYtMTM4MTIwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381201200000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 09/10/2013 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 08/10/2013) - Contrarrazoar Recurso Ordin\u00e1rio, No Prazo De 08 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "MmY2ZDkyMzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MTZlYTY1YzRlNzg0MzktMTM4MTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381719600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carga De Advogado 19457/13 Em 14/10/2013 - Para 142091Mg Leonardo Junio Paiva Duriguetto Reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NjBlZWE5ZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NjU1OGUwYTIyZTVjNDctMTM4MTg5MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381892400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 16/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "ZjllMmRkYWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xY2MzZGVmM2UxZjhkMGUtMTM4MjA2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1382065200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 18/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "MjUyZDE4NTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMjc0NGNhMmIyOTY5ZmEtMTM4MjU4MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1382580000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 20347/13 Em 24/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ1NmQ0MWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNDRjNDI5NjIwOTRlNGUtMTM4MzA5ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1383098400000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 07871/13 Em 04/11/2013 - Vista Dos Recursos Interpostos Pela Segunda Reclamada E Pelo Reclamante, Prazo Legal.",
+      "attachments": []
+    },
+    {
+      "id": "OTcxMTk1MTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMGZlNmJkMThhNDE2NmUtMTM4NTM0NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1385344800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 25/11/2013",
+      "attachments": []
+    },
+    {
+      "id": "Y2UxMGEzODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MWMyNWQ2NGM4YTBhYTgtMTM4NjEyMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1386122400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 23492/13 Em 04/12/2013",
+      "attachments": []
+    },
+    {
+      "id": "NjFhZjg1YzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZjgzODMyMjZmNzAzYWYtMTM4NjI5NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1386295200000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 09/12/2013 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 06/12/2013) - Recte Tomar Ci\u00eancia De Que N\u00e3o H\u00e1 Nos Autos Comprova\u00e7\u00e3o Da Intima\u00e7\u00e3o Do Reclamado, Portanto Dever\u00e1 Ser Aguardado Retorno Da Cp; Vista \u00c0 Segunda Reclamada Do R.A. Do Autor, Prazo Legal.",
+      "attachments": []
+    },
+    {
+      "id": "ZTBjMzY1NmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYjU3Nzg0ODc5NjhhZmYtMTM4NzMzMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1387332000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 18/12/2013",
+      "attachments": []
+    },
+    {
+      "id": "OTU2MzQ1Y2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWFjYTY0OTkxZTcyNTMtMTM4ODcxNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1388714400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 03/01/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZmNlODM1MmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTY2MTA5ZjA3NWVjYmMtMTM5MDk2MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1390960800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 29/01/2014",
+      "attachments": []
+    },
+    {
+      "id": "ODQwM2RkMTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NjIyNjE5MjVhNDM1ZjAtMTM5MTEzMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1391133600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 01536/14 Em 31/01/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZDdmNWM2ZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02OWVmYTRiMzc2MjFiNWQtMTM5NDc2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1394766000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 14/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "OTBmNWY5ZWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNGZjYjJhZDgwZjYwZjAtMTM5NDc2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1394766000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carta Precat\u00f3ria Expedida - Devolu\u00e7\u00e3o Pelo Ju\u00edzo Deprecado 00167/13 Em 14/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "OGVjOTQzNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZjRhZjEwMGVhNWVhMTktMTM5NTYzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1395630000000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 25/03/2014 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 24/03/2014) - Ter Vista Dos Autos, 05 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "Y2I2NDc0NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNjlhMDUwNjBiNGJkZDgtMTM5NTcxNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1395716400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carga De Advogado 05530/14 Em 25/03/2014 - Para 092777Mg Elisangela Marcia Do Nascimento Reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NDgzMDBhOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNTNiMzdjZWUxMTlmOGYtMTM5NjIzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396234800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 31/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZWE4NjhiMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTAwMzg3ZDEzMDY0ZWQtMTM5NjMyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396321200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 01/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "MDcwNDBiNDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OGFhOTMyZTAwY2UyYWUtMTM5NjgzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396839600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 06692/14 Em 07/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "Mzg1MDA2ODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGM0NzhkMThiZWZkOGUtMTM5NjkyNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396926000000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Mandado De Texto Livre 00522/14 Em 09/04/2014 - Mandado",
+      "attachments": []
+    },
+    {
+      "id": "MDdiOTJiNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZWNlNWI1NzYzMGI0NmMtMTM5NzE4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1397185200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Mandado: Cumprido Com \u00caxito 00522/14 Em 11/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZTljOGZkYjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZmMyY2IwYjkwMjA3MGMtMTM5NzE4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1397185200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Carga De Advogado 07067/14 Em 11/04/2014 - Para 037196Mge Gabriel Augusto Neves De Souza Reclamada (2A)",
+      "attachments": []
+    },
+    {
+      "id": "NDY0ZDc4NDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODJjZDY3MjIwNDk2MmEtMTM5NzUzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1397530800000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 02642/14 Em 15/04/2014 - Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmRhMmE0ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjhiYjMxYjcxYzY0NTAtMTM5NzUzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1397530800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 15/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "MWRiZTg5ZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGExOTNkNzliYzNlZDUtMTM5NzUzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1397530800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 30/04/2014 \u00c0s 11:40 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZiY2QwMmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NDVjZTQzOGJlNzI1NGUtMTM5ODEzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1398135600000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 23/04/2014 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 22/04/2014) - Tomar Ci\u00eancia De Que Foi Designada Audi\u00eancia Para O Dia 30/04/2014 \u00c0s 11H40min. Partes E Procuradores Dever\u00e3o Comparecer",
+      "attachments": []
+    },
+    {
+      "id": "MzYzMjQ0ODktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjk1YzlmZTlkOGNiNzYtMTM5ODgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1398826800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Prosseguimento Do Conhecimento Em 30/04/2014 Doc.:01333/14",
+      "attachments": []
+    },
+    {
+      "id": "MDQ2MDk0Y2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMzM3YTc3MWZhMTI1YzItMTM5OTQzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1399431600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 07/05/2014",
+      "attachments": []
+    },
+    {
+      "id": "OTI0YTIwYmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMjE5YmQ3YzFmY2ZhOTQtMTQwMDQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1400468400000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 09049/14 Em 19/05/2014",
+      "attachments": []
+    },
+    {
+      "id": "YTNkM2FlMzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOGRiNDlhYzUxMDc3ZjMtMTQwMDY0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1400641200000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 03384/14 Em 21/05/2014 - Intima\u00e7\u00e3o 1\u00aa Recda.",
+      "attachments": []
+    },
+    {
+      "id": "NWQwZGQ1ODgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Y2Y5OTdkMjBkMjE5MzItMTQwMDcyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1400727600000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 23/05/2014 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 22/05/2014) - Tomar Ci\u00eancia Da Homologa\u00e7\u00e3o Do Acordo De Fls.188/189.",
+      "attachments": []
+    },
+    {
+      "id": "Mzc1NTc5MTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iY2Y0ZjhhMjNiYWIxYjAtMTQwMTkzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401937200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Pagamento Ao Autor Em 05/06/2014 Doc.: - Parcela De Acordo",
+      "attachments": []
+    },
+    {
+      "id": "MGEzZmMzYzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01N2MxOTJjODJiYzViMWYtMTQxMDkyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1410922800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 17604/14 Em 17/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "NDA1Y2MyNTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YWIzZWIxMWE3MmQxMDMtMTQxMTA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1411095600000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO AUTOR\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 22/09/2014 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 19/09/2014) - Receber Guia No Prazo De 05 Dias, Devendo, No Mesmo Prazo, Receber Documentos Juntados.",
+      "attachments": []
+    },
+    {
+      "id": "ZTM0NzY3MDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YWUwNmI4YjU4YTllM2QtMTQxMTM1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1411354800000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 23/09/2014 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 22/09/2014) - Receber Documentos No Prazo De 05 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "YjNkOWM4NDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYWVmNTVjOTAxN2I3MjItMTQxMTM1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1411354800000,
+      "text": "Inst\u00e2ncia: 1\r\nDestinat\u00e1rio/Local: ADVOGADO DO R\u00c9U\r\nTr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 23/09/2014 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 22/09/2014) - Receber Alvar\u00e1 No Prazo De Cinco Dias.",
+      "attachments": []
+    },
+    {
+      "id": "MjIxZDkzODctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MDZmMWNlOTkyNzE2ODItMTQxMzk0MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1413943200000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Conclusos Para Despacho Em 22/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "NjI2OGYxNmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYTQyYmU1MGVjOTc0MTQtMTQxNDQ2MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1414461600000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Despacho 20818/14 Em 28/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZjEyYmI4NjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZmUwY2I4ZGFiMTk5OWItMTQxNTE1MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1415152800000,
+      "text": "Inst\u00e2ncia: 1\r\nTr\u00e2mite Processual: Processo Arquivado Sob O N\u00famero 01213/14 Em 05/11/2014 - Certidao No. 05155/14",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

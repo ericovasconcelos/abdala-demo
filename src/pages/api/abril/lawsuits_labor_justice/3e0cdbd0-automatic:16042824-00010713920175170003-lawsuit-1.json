@@ -1,0 +1,869 @@
+{
+  "lawsuit": {
+    "id": "M2UwY2RiZDAtYXV0b21hdGljOjE2MDQyODI0LTAwMDEwNzEzOTIwMTc1MTcwMDAzLWxhd3N1aXQ=",
+    "activityCount": 127,
+    "number": "0001071-39.2017.5.17.0003",
+    "value": 40000.0,
+    "subject": "Reajuste Salarial",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Michele Cesar de Souza Novaes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Maria Madalena Selvatici Baltazar",
+            "cpf": "721.214.327-87",
+            "lawyerId": "NWUyNDYxY2MtYXV0b21hdGljOjE2MDQyODI0LTc3Y2M1ZjE1ODlkN2Y5OC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Associacao Evangelica Beneficente Espirito-Santense - Aebes",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Bruna Chaffim Mariano",
+            "cpf": "107.219.877-02",
+            "lawyerId": "NTQ4MzVmZjMtYXV0b21hdGljOjE2MDQyODI0LTdhN2EzOTM1ZDhhYTljYi1sYXd5ZXI="
+          },
+          {
+            "name": "Gustavo Miguez Costa",
+            "cpf": "100.321.917-90",
+            "lawyerId": "OWI2YTA4NzktYXV0b21hdGljOjE2MDQyODI0LTNjMWRmZDhjOTJjNWNkYy1sYXd5ZXI="
+          },
+          {
+            "name": "Alexandre Mariano Ferreira",
+            "cpf": "787.832.167-15",
+            "lawyerId": "ZDVjYWYzMjYtYXV0b21hdGljOjE2MDQyODI0LWY2MmRhNWE3NGNjYjRjMC1sYXd5ZXI="
+          },
+          {
+            "name": "Dulcelange Azeredo da Silva",
+            "cpf": "903.970.617-49",
+            "lawyerId": "YzA2NjY5Y2MtYXV0b21hdGljOjE2MDQyODI0LTViNDRmYjI0YWY4M2Y1ZS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 1500865200000,
+    "stateAcronym": "",
+    "normalizedSubject": [
+      {
+        "id": "2449",
+        "items": [
+          [
+            {
+              "code": 2449,
+              "text": "Reajuste Salarial",
+              "level": 4
+            },
+            {
+              "code": 2458,
+              "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+              "level": 3
+            },
+            {
+              "code": 2581,
+              "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+              "level": 2
+            },
+            {
+              "code": 864,
+              "text": "DIREITO DO TRABALHO",
+              "level": 1
+            }
+          ]
+        ]
+      }
+    ],
+    "court": "TRT17",
+    "courtSection": "3\u00aa Vara do Trabalho de Vit\u00f3ria",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": "ATORD"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NGY2ZWM5MGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMWM2OWQ0YWZjNGY2ZGEtMTUwMDg2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500865200000,
+      "text": "Audi\u00eancia inicial designada (09/11/2017 13:20 - 3\u00aa Vara do Trabalho de Vit\u00f3ria)",
+      "attachments": []
+    },
+    {
+      "id": "YTc4YWZjMDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OWZiMWUwNzJlZjQ0MjEtMTUwMDg2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500865200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NjE1MjVjMjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmZkNmZjZDUxNzM5MjMtMTUwMDg2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500865200000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "ZjFhNzkyM2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MDMyMTI5MjFlZjdlMTUtMTUwMTAzODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501038000000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NDNhMWNjYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYjkwODJhMmQ2NzkxYjktMTUwMTAzODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501038000000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "Mjk4MjY3NDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNTMyN2RjMTdkNDZjZDMtMTUwMTAzODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501038000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ODUwYjk0YTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YmEyZmFhODUzYWExY2YtMTUwMTAzODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501038000000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTlmOWU3ZWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YThjZDdkM2ViMjhlODgtMTUwMjI0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1502247600000,
+      "text": "Devolu\u00e7\u00e3o de mandado",
+      "attachments": []
+    },
+    {
+      "id": "OTQ2ZjQxYjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYzE2MDFlZWI0MTExYzYtMTUxMDE5MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510192800000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NzUyZmNkMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NjU5MzJiYzI0MzIyZTItMTUxMDE5MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510192800000,
+      "text": "Audi\u00eancia inicial realizada (09/11/2017 13:20 - 3\u00aa Vara do Trabalho de Vit\u00f3ria)",
+      "attachments": []
+    },
+    {
+      "id": "MDI4MjUxNzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmZkNmZjZDUxNzM5MjMtMTUxMDE5MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510192800000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "M2IzNjRhM2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDE4NzQ5NjliZjQyODYtMTUxMDE5MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510192800000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NGEzNzdmZTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDE4NzQ5NjliZjQyODYtMTUxMDc5NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510797600000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NDY2MmVhZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYTRjOGQ3YjJiMGY3ZGYtMTUxMTE0MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511143200000,
+      "text": "RECLAMADA apresenta quesitos e indica assistente",
+      "attachments": []
+    },
+    {
+      "id": "YzBhYjZmNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNGNjMjg4MzJiMDc5NWYtMTUxMTE0MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511143200000,
+      "text": "quesitos",
+      "attachments": []
+    },
+    {
+      "id": "OTk4ZjI3ZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNzgxOGJiMDUwZjA1ZDktMTUxMTE0MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511143200000,
+      "text": "REPLICA",
+      "attachments": []
+    },
+    {
+      "id": "MmU5NzdkNDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYWVkNWZjMzhhODlmMTEtMTUxMTIyOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511229600000,
+      "text": "EMAIL AO PERITO",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ1ZTA4NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYmI0YjM2NTVmNDI3ZDYtMTUxMjY5ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1512698400000,
+      "text": "RECLAMADA Rol de testemunha",
+      "attachments": []
+    },
+    {
+      "id": "YmVjYjU2NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZDg2M2E0ZTIxZGY2ZTYtMTUxNzg4MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517882400000,
+      "text": "Informa\u00e7\u00e3o dia e hora dos trabalhos periciais",
+      "attachments": []
+    },
+    {
+      "id": "MWViNzVhZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNDBhNmZmNDA5YmM2ZWMtMTUyMjg5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1522897200000,
+      "text": "Rosto Laudo T\u00e9cnico Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NjI1MmZiYjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzI1ZTQ0NjM5MGE4ZmYtMTUyMjk4MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1522983600000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzAzZWRkNTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTFiYzhlNGY2ZjY0ZjItMTUyMzQxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1523415600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "MWI2MjlkYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTUyMzQxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1523415600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Mjk0MjVlY2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NmYwNjE5NGQxY2YxZTItMTUyNDAyMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524020400000,
+      "text": "Reclamada impugna laudo pericial",
+      "attachments": []
+    },
+    {
+      "id": "ZTZhYTA1ZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDE4NzQ5NjliZjQyODYtMTUyNDAyMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524020400000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "YmZmNDJmMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNTE1MjBiNTZjMmFmYmEtMTUyNDAyMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524020400000,
+      "text": "impugna\u00e7\u00e3o ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NzFiNzUzMTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iN2NmM2ExZDY5ZmFjODItMTUyNDI3OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524279600000,
+      "text": "Decorrido o prazo de ALEXANDRE MARIANO FERREIRA em 20/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OWVlODAxOGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTJlNmNiZDVjZjlmZjQtMTUyNDI3OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524279600000,
+      "text": "Decorrido o prazo de MARIA MADALENA SELVATICI BALTAZAR em 20/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDEzMThhMDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MTg1ZjdmZGIxNmU2NDktMTUyNDYyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1524625200000,
+      "text": "email perito",
+      "attachments": []
+    },
+    {
+      "id": "M2M1ZmZhMmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOGJmNzI2ODQ3NWM3MjctMTUyNTY2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1525662000000,
+      "text": "Esclarecimentos",
+      "attachments": []
+    },
+    {
+      "id": "ZmZlOGM4NmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYWI2ZTVjYWE1NDE5MzctMTUyNjYxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1526612400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) perito",
+      "attachments": []
+    },
+    {
+      "id": "ZmIwZGIxYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MGEwZjI4NGRlMDZlYWUtMTUyNjYxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1526612400000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "MjY1NmNjNjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Zjc4MmY3MDM0NGNiYWUtMTUyNjk1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1526958000000,
+      "text": "envio de requisi\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "M2JmZjY3OGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YmEyZmFhODUzYWExY2YtMTUyNzEzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527130800000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjE1Y2U3NTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzI1ZTQ0NjM5MGE4ZmYtMTUyNzEzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527130800000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDJhOTZjZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NzMwYjJhZTk5OTFiYzAtMTUyNzEzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527130800000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (26/09/2018 14:05 - 3\u00aa Vara do Trabalho de Vit\u00f3ria)",
+      "attachments": []
+    },
+    {
+      "id": "MDc2ZjI5ZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wODVhODAxMTI3ODllZDctMTUyNzIxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527217200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "MTg0NWQzZDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTUyNzIxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527217200000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmNiMTAzZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGJhMzExNjQ3Y2FiZjUtMTUyNzQ3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527476400000,
+      "text": "ROL DE TESTEMUNHAS",
+      "attachments": []
+    },
+    {
+      "id": "YzgxZTU2NGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYzQ1OWE5NDg1ZDgzZWItMTUyNzY0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527649200000,
+      "text": "manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjgzMmFiOTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNWI2YjI4ZWQ4ZmI0YzUtMTUyNzgyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1527822000000,
+      "text": "Reclamada impugna esclerecimentos do laudo",
+      "attachments": []
+    },
+    {
+      "id": "NzQ3ZDhiOGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jM2VhYzg2ODVhNTg2NDktMTUyODI1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528254000000,
+      "text": "Decorrido o prazo de DULCELANGE AZEREDO DA SILVA em 05/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGM2ZWUwZmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MzYyYjljZjBhYzExNjctMTUyODI1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528254000000,
+      "text": "Decorrido o prazo de MARIA MADALENA SELVATICI BALTAZAR em 05/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGYwYWE1YmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kODQ2MDM2NzI5NWY1OWMtMTUyODI1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528254000000,
+      "text": "Decorrido o prazo de GUSTAVO MIGUEZ COSTA em 05/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ4N2QzZmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NzdmZGNmNjQwYTA5YmYtMTUyODI1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528254000000,
+      "text": "Decorrido o prazo de ALEXANDRE MARIANO FERREIRA em 05/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjkzYmFmMDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZDhkYzA0MzI4MmY2YTAtMTUyODM0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528340400000,
+      "text": "Decorrido o prazo de MARCELA MIRANDA CAVALCANTE LOZER em 06/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjhlZTRmMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MmMwZDZiMzRlZTNiZDQtMTUyODM0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528340400000,
+      "text": "Decorrido o prazo de IZABELLA BASSANI MUNIZ em 06/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWQyYjdmYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05OTRlZmQzNjc3MDNiMDQtMTUyODUxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1528513200000,
+      "text": "Decorrido o prazo de ALEXANDRE MARIANO FERREIRA em 08/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTc3NzUyYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOWJhMWE1YmVkMGE2OWMtMTUzMTE5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531191600000,
+      "text": "Notifica\u00e7\u00e3o Devolvida",
+      "attachments": []
+    },
+    {
+      "id": "OWNhNDJlYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYjkwODJhMmQ2NzkxYjktMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "MzkwZDIzMWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzM0YWEyMzY1ZjNmOWMtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Expedido(a) Mandado a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "MzAyMmI3MjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNDE5YmQ5YWNmZWFhM2YtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Mandado",
+      "attachments": []
+    },
+    {
+      "id": "YmFlNjE0ZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODBmYWFjNDM2MzJiMGYtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YzM2NGRlM2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yODAwMGRhZTMzY2JjZDMtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzA1MTliZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MzM5NDRjZWIyMDc4MGUtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Conclusos os autos para despacho a SUZANE SCHULZ RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "ZDQwNmExYjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDg5NzQwZWFjMjA2ZWQtMTUzMTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531278000000,
+      "text": "Certid\u00e3o de pesquisa do endere\u00e7o da testemunha",
+      "attachments": []
+    },
+    {
+      "id": "NGNmYjVmYTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MDMyMTI5MjFlZjdlMTUtMTUzMTQ1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1531450800000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "Y2UwZjI0NjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYjkwODJhMmQ2NzkxYjktMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "OTRmYmE4OTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzM0YWEyMzY1ZjNmOWMtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Expedido(a) Mandado a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "NmVlYTdhNjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNDE5YmQ5YWNmZWFhM2YtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Mandado",
+      "attachments": []
+    },
+    {
+      "id": "MWQ2ZTI0NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yODAwMGRhZTMzY2JjZDMtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGM1ZWZiZmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODBmYWFjNDM2MzJiMGYtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjkyYWQ0OTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MzM5NDRjZWIyMDc4MGUtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Conclusos os autos para despacho a SUZANE SCHULZ RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "NTc1MzQ1ZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjAxMzA1ODcyNTUxN2QtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/08/2018 14:10 - 3\u00aa Vara do Trabalho de Vit\u00f3ria)",
+      "attachments": []
+    },
+    {
+      "id": "MmRhYWRhMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MDMyMTI5MjFlZjdlMTUtMTUzMzI2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533265200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "YTA5ZDkzY2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOWRiZGYyNzdlNWJkNjAtMTUzNDA0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534042800000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4OGJjOWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTM5ZDhmODA2MTc1ZDktMTUzNDA0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534042800000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 8b63e21",
+      "attachments": []
+    },
+    {
+      "id": "NTA1MjQ5NDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTgzOTAwYjQwM2ZhNDctMTUzNDMwMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534302000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (entregue ao destinat\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "YjlkYTdlODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNDNkMDcyZDI4N2YzNWItMTUzNDMwMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534302000000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID a031c01",
+      "attachments": []
+    },
+    {
+      "id": "Njk4OTc2ZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYmFmMmFjYTY0MmZhNDEtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "ZDU0YWRmNTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01N2M4ZTJkZTZmNjQ4ZDItMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 0d53da1",
+      "attachments": []
+    },
+    {
+      "id": "NGIwMWU4YTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYzE2MDFlZWI0MTExYzYtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "Y2Y3YzE4YTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZmU0MWY5NGRhMzgyZmMtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (16/08/2018 14:10 - 3\u00aa Vara do Trabalho de Vit\u00f3ria)",
+      "attachments": []
+    },
+    {
+      "id": "YTI4MmUyYzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjU0MDg2YmNkZTc4NTEtMTUzNDQ3NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534474800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VALERIA LEMOS FERNANDES ASSAD",
+      "attachments": []
+    },
+    {
+      "id": "ODkxYmVhMDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMTFlNjJlNzdmOTdlZjAtMTUzODk2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1538967600000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MmI0ZjZlNzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMGIxYTk1MjY4OTQxMDQtMTUzODk2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1538967600000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 100.00",
+      "attachments": []
+    },
+    {
+      "id": "ZDYzMTNlYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02M2ZmYzhhOTcxZGRkZTktMTUzODk2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1538967600000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a MICHELE CESAR DE SOUZA NOVAES",
+      "attachments": []
+    },
+    {
+      "id": "OWY1Y2YwMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOWJjZTg4YzUyNjA1YTItMTUzODk2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1538967600000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de MICHELE CESAR DE SOUZA NOVAES",
+      "attachments": []
+    },
+    {
+      "id": "NDI1ZDRhMWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZGYyNjY2YmRhOTkxMmUtMTUzOTE0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539140400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "YjcxNmI4ZDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTUzOTE0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539140400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MGJlNjBiYWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZmY3ZDJiMDVhNzE0NGItMTUzOTgzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539831600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2EyZmVhNTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWZjMzY0YWQ1ZDU0ZTEtMTUzOTgzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539831600000,
+      "text": "EMBARGOS DE DECLARA\u00c7\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "ODRiZGYyNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hM2QzZTkyNDM5MzgyZTAtMTUzOTgzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539831600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZGVlZTIxMGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDE4NzQ5NjliZjQyODYtMTUzOTgzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539831600000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "Yjk2NDIwYzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MmE2OGNlMjM3NmE3NzUtMTUzOTkxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1539918000000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a VALERIA LEMOS FERNANDES ASSAD",
+      "attachments": []
+    },
+    {
+      "id": "ZWI2MWE2NmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Y2M4NmI4NTc4M2JhMWMtMTU0MDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1540350000000,
+      "text": "Decorrido o prazo de ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES em 23/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzUzYzNmNTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzEyN2Y5YjlmNzk3ZjAtMTU0MDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1540350000000,
+      "text": "Decorrido o prazo de MICHELE CESAR DE SOUZA NOVAES em 23/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWQ1Yzg5NDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmZkZTlkMjQxZDBmMGMtMTU0ODEyMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548122400000,
+      "text": "Conclusos os autos para despacho a VALERIA LEMOS FERNANDES ASSAD",
+      "attachments": []
+    },
+    {
+      "id": "ODBmMTljYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNGFmYzUwNjY2MWY0NGQtMTU0ODEyMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548122400000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTNmNGY1NDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZDIyZjk0NTcyMmY5OWItMTU0ODI5NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548295200000,
+      "text": "Suspenso ou sobrestado o processo por Conflito de Compet\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVlZjFlY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODBmYWFjNDM2MzJiMGYtMTU0ODI5NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548295200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjEwODA4YjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yODAwMGRhZTMzY2JjZDMtMTU0ODI5NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548295200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODI5MjQ1MGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOTFiZmRjOWY5OGFkOGUtMTU0ODkwMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548900000000,
+      "text": "Encerrada a suspens\u00e3o ou o sobrestamento do processo",
+      "attachments": []
+    },
+    {
+      "id": "MWUyYmI5MjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzI1ZTQ0NjM5MGE4ZmYtMTU0OTg1MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549850400000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGVkNmFmMmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTFjYmU5MzgyMTgwMDEtMTU1MDAyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550023200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "OWE5NzA2ZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTU1MDAyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550023200000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjdhYzYzMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZDEyYWFiYTMwY2MwNGQtMTU1MDU0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550545200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (manifesta\u00e7\u00e3o em ED)",
+      "attachments": []
+    },
+    {
+      "id": "NzI1M2Q1NjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01OTVlOGVkMmVmOWIwMGEtMTU1MDU0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550545200000,
+      "text": "manifesta\u00e7\u00e3o em ED",
+      "attachments": []
+    },
+    {
+      "id": "ZWRkZGI5ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNmM5NDgwYWUxZDhlMGYtMTU1MDYzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550631600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es ao ED )",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ4M2FjYzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzA3NTVjNDNkZmNmMTMtMTU1MDYzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550631600000,
+      "text": "Contrarraz\u00f5es ao ED",
+      "attachments": []
+    },
+    {
+      "id": "N2MwMTdhMzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iOTZiMGQ0YzNjZjhhOTktMTU1MDg5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550890800000,
+      "text": "Decorrido o prazo de MARIA MADALENA SELVATICI BALTAZAR em 22/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OWI3MzZjOTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMmE4ZjJmMTQyMWIzYzYtMTU1MDg5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550890800000,
+      "text": "Decorrido o prazo de BRUNA CHAFFIM MARIANO em 22/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTM1MDk2OTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MmE2OGNlMjM3NmE3NzUtMTU1MTMyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1551322800000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a VALERIA LEMOS FERNANDES ASSAD",
+      "attachments": []
+    },
+    {
+      "id": "MzQ5YzFjY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NjE4ZDhmMDBlMTAyM2EtMTU1MzU2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553569200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Certid\u00e3o (ENVIO DE EMAIL)",
+      "attachments": []
+    },
+    {
+      "id": "Zjc5OTgwYjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZTBlYTdmNmFlYjIzZjctMTU1MzU2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553569200000,
+      "text": "ENVIO DE EMAIL",
+      "attachments": []
+    },
+    {
+      "id": "NDAyYmNjZmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMTFlNjJlNzdmOTdlZjAtMTU1ODA2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1558062000000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YmIwM2Y4NWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOWM1NTJlYjIxYTM4Y2QtMTU1ODA2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1558062000000,
+      "text": "Acolhidos os Embargos de Declara\u00e7\u00e3o de IZABELLA BASSANI MUNIZ - CPF: 058.891.377-43",
+      "attachments": []
+    },
+    {
+      "id": "NTYyYzNmMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MmE4NzFlNzc1YTA3MmUtMTU1ODA2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1558062000000,
+      "text": "Acolhidos os Embargos de Declara\u00e7\u00e3o de ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES - CNPJ: 28.127.926/0001-61",
+      "attachments": []
+    },
+    {
+      "id": "ZmQzNDBkNWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04M2QxYjM4NDI3OGQ4ZmItMTU1ODQwNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1558407600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzkyMmY0YTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTU1ODQwNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1558407600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4ZGU0NzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNTVmMzBlMzVkYTJjZDMtMTU1OTI3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559271600000,
+      "text": "recurso ordinario",
+      "attachments": []
+    },
+    {
+      "id": "MGUwYTQxOWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZGE3ZmJiNTg1M2I1MjUtMTU1OTI3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559271600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (recurso ordinario)",
+      "attachments": []
+    },
+    {
+      "id": "N2M5MjkyYWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MzZkNzcyODFlYzJmODYtMTU1OTM1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559358000000,
+      "text": "Decorrido o prazo de MICHELE CESAR DE SOUZA NOVAES em 31/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTIwZjY0NWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMDI5M2ViYThkOGU3MGMtMTU1OTM1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559358000000,
+      "text": "Decorrido o prazo de ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES em 31/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTZiODhiNTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZmRhYWI0YjYzNjIxYzItMTU1OTYxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559617200000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES - CNPJ: 28.127.926/0001-61 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NTNmNDU0MzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MTFhOGZjNTg0ZTYxN2EtMTU1OTYxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559617200000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MICHELE CESAR DE SOUZA NOVAES - CPF: 096.385.707-09 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NzU4NmM1NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYjcxM2Q0M2JlODgyYjQtMTU1OTYxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559617200000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZjZDIwNWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MGVjYTdkZGM4M2U1ZGQtMTU1OTYxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559617200000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a SUZANE SCHULZ RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "MDFkMGViYzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZDQzNzdkOGJmYTljMGQtMTU1OTc5MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559790000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjQyZDNmNTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTE1ZjE3OTY4YjhkMTItMTU1OTc5MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559790000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDQ5MWUyNWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lODI1YzM2YjVhMjA1MmYtMTU2MDc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560740400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "YjJjNDViN2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNTk5OWExYjM3ZjhiOWItMTU2MDc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560740400000,
+      "text": "Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ3Nzg1OTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lODI1YzM2YjVhMjA1MmYtMTU2MDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560826800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "ODgxNTRkNmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNTk5OWExYjM3ZjhiOWItMTU2MDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560826800000,
+      "text": "Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "OGJhNzVkYjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Y2Q1YWU2YmVkNDA5NzMtMTU2MDk5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560999600000,
+      "text": "Decorrido o prazo de MICHELE CESAR DE SOUZA NOVAES em 19/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Y2I3ZTdiMWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YjViYmI4ZGIxZTRmYjYtMTU2MDk5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1560999600000,
+      "text": "Decorrido o prazo de ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES em 19/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTlmNDAwOWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMDlmYTU4N2Q3NGU5M2YtMTU2MjkwMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1562900400000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

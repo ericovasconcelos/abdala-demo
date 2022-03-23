@@ -1,0 +1,673 @@
+{
+  "lawsuit": {
+    "id": "MjkxNTM2MTAtYXV0b21hdGljOjAtMDAxMDUzOTIzMjAxNTUwMzAwNTYtbGF3c3VpdA==",
+    "activityCount": 97,
+    "number": "0010539-23.2015.5.03.0056",
+    "value": 254985.6,
+    "subject": "Altera\u00e7\u00e3o Contratual ou das Condi\u00e7\u00f5es de Trabalho",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Curvelo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "D. F. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Luis Goncalves",
+            "cpf": "512.760.976-20",
+            "lawyerId": "NTk0NTZkMDYtYXV0b21hdGljOjAtMzgyNjk1YjM3YWIwYjUxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1447951918000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Altera\u00e7\u00e3o Contratual ou das Condi\u00e7\u00f5es de Trabalho",
+                "code": 1806
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1806"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Curvelo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA1",
+      "date": 1464722976000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (31/05/2016 13:50 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM2",
+      "date": 1449255053000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmU1",
+      "date": 1478810159000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY2",
+      "date": 1468929822000,
+      "text": "Expedido(a) of\u00edcio a(o) perito",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNk",
+      "date": 1448900475000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZj",
+      "date": 1466048766000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNl",
+      "date": 1448831576000,
+      "text": "Decorrido o prazo de DEIVISON FERNANDES ARRUDA em 27/11/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBj",
+      "date": 1461728293000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVh",
+      "date": 1477059347000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBk",
+      "date": 1461728293000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY1",
+      "date": 1468941408000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI1",
+      "date": 1453747869000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZh",
+      "date": 1466999266000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 24/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZm",
+      "date": 1465993509000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a DEIVISON FERNANDES ARRUDA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA3",
+      "date": 1462419239000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE5",
+      "date": 1458185219000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI4",
+      "date": 1452707261000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZl",
+      "date": 1465993509000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 5099.71",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFk",
+      "date": 1458140383000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI3",
+      "date": 1453438201000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNi",
+      "date": 1449248599000,
+      "text": "Conclusos os autos para despacho  a DANUSA ALMEIDA DOS SANTOS SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE2",
+      "date": 1461179311000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVl",
+      "date": 1476143560000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzAx",
+      "date": 1465993508000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY4",
+      "date": 1468249576000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmUy",
+      "date": 1539027976000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFl",
+      "date": 1458139675000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzAz",
+      "date": 1464785095000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJh",
+      "date": 1452707162000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzMy",
+      "date": 1449761983000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA4",
+      "date": 1462419239000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY5",
+      "date": 1468246444000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA5",
+      "date": 1462288918000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBl",
+      "date": 1461679796000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (31/05/2016 13:50 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzEw",
+      "date": 1461675681000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBm",
+      "date": 1461675681000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE4",
+      "date": 1458875146000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 22/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQ2",
+      "date": 1447951927000,
+      "text": "Audi\u00eancia inicial designada (10/12/2015 08:50 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFj",
+      "date": 1458140383000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA2",
+      "date": 1462937356000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 10/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM0",
+      "date": 1449543627000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE0",
+      "date": 1461269482000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzEz",
+      "date": 1461675577000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE3",
+      "date": 1458875148000,
+      "text": "Decorrido o prazo de DEIVISON FERNANDES ARRUDA em 22/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmU5",
+      "date": 1478803618000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFi",
+      "date": 1458142522000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmYy",
+      "date": 1472741192000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI0",
+      "date": 1453747892000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNh",
+      "date": 1449253641000,
+      "text": "Audi\u00eancia inicial redesignada (17/12/2015 10:32 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJi",
+      "date": 1452537542000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY0",
+      "date": 1469635358000,
+      "text": "Transitado em julgado em 11/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzMz",
+      "date": 1449543627000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/12/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI2",
+      "date": 1453438201000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/01/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmU2",
+      "date": 1478810159000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJk",
+      "date": 1451923541000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNm",
+      "date": 1448791802000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM5",
+      "date": 1449254025000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJj",
+      "date": 1452537477000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQ3",
+      "date": 1447951918000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJl",
+      "date": 1450404658000,
+      "text": "Decorrido o prazo de DEIVISON FERNANDES ARRUDA em 17/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBi",
+      "date": 1462288776000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzJm",
+      "date": 1450383459000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVm",
+      "date": 1475869324000,
+      "text": "Conclusos os autos para despacho  a VERENA SAPUCAIA SILVEIRA GONZALEZ",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmYz",
+      "date": 1472662298000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM3",
+      "date": 1449255053000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzAw",
+      "date": 1465993508000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) /  ) de DEIVISON FERNANDES ARRUDA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzBh",
+      "date": 1462288918000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzIy",
+      "date": 1453948105000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/01/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM1",
+      "date": 1449255053000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFm",
+      "date": 1457892116000,
+      "text": "Expedido(a) documento diverso a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzIx",
+      "date": 1454381144000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 01/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVk",
+      "date": 1476143560000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmUz",
+      "date": 1539027907000,
+      "text": "Desarquivados os autos para prosseguir na fase de cogni\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQ1",
+      "date": 1447955448000,
+      "text": "Conclusos os autos para despacho  a DANUSA ALMEIDA DOS SANTOS SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzA0",
+      "date": 1464722976000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzMw",
+      "date": 1450383459000,
+      "text": "Audi\u00eancia inicial realizada (17/12/2015 10:32 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVi",
+      "date": 1477059347000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzM4",
+      "date": 1449254025000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmVj",
+      "date": 1476969470000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzEy",
+      "date": 1461675578000,
+      "text": "Conclusos os autos para despacho  a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQw",
+      "date": 1448791802000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzIw",
+      "date": 1454381144000,
+      "text": "Decorrido o prazo de DEIVISON FERNANDES ARRUDA em 01/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzE1",
+      "date": 1461269482000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (20/04/2016 13:45 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQx",
+      "date": 1448563055000,
+      "text": "Conclusos os autos para despacho  a DANUSA ALMEIDA DOS SANTOS SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmY3",
+      "date": 1468249576000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmYx",
+      "date": 1472741193000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQz",
+      "date": 1448305910000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzIz",
+      "date": 1453948105000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZi",
+      "date": 1466999266000,
+      "text": "Decorrido o prazo de LUIS GONCALVES em 24/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmZk",
+      "date": 1466048766000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzNj",
+      "date": 1448900475000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzI5",
+      "date": 1452707260000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzFh",
+      "date": 1458185219000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmYw",
+      "date": 1473101625000,
+      "text": "Expedido(a) of\u00edcio a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NmU0",
+      "date": 1479144499000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzMx",
+      "date": 1450363568000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (20/04/2016 13:45 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxZDY5ZDQyNjc0OWRmNWYyODU3NzQy",
+      "date": 1448305910000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

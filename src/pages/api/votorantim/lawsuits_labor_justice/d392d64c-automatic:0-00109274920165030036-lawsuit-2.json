@@ -1,0 +1,595 @@
+{
+  "lawsuit": {
+    "id": "ZDM5MmQ2NGMtYXV0b21hdGljOjAtMDAxMDkyNzQ5MjAxNjUwMzAwMzYtbGF3c3VpdA==",
+    "activityCount": 72,
+    "number": "0010927-49.2016.5.03.0036",
+    "value": 300000.0,
+    "subject": "Adicional de Periculosidade, Ac\u00famulo de Fun\u00e7\u00e3o, Adicional de Insalubridade, Isonomia Salarial",
+    "kind": "Trabalhista",
+    "district": "2\u00aa Vara do Trabalho de Juiz de Fora",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "YTc3MDUwOGMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "S. E. E.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "T. F. L.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Marcelo Picoli",
+            "cpf": "958.391.866-00",
+            "lawyerId": "MzFmNTI3ZWMtYXV0b21hdGljOjAtMGJkMmYwZjFjYWRmNmNmLXVuaWZpZWQ="
+          },
+          {
+            "name": "Paulo Cesar Ferreira Carneiro",
+            "cpf": "061.877.356-84",
+            "lawyerId": "MDhmNDY3YWQtYXV0b21hdGljOjAtNTYyYjU4NjUzMjRiZTRmLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1505923871000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Insalubridade",
+                "code": 10291
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Periculosidade",
+                "code": 10292
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Isonomia",
+                "code": 10341
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10337
+              },
+              {
+                "level": 2,
+                "text": "Militar",
+                "code": 10324
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "10291-10292-10341"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVl",
+      "date": 1480421562000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM5",
+      "date": 1525837658000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWMy",
+      "date": 1526958916000,
+      "text": "Decorrido o prazo de TIAGO FONSECA LIMA em 21/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY3",
+      "date": 1468955098000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ1",
+      "date": 1510231098000,
+      "text": "Conhecido em parte o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWIy",
+      "date": 1566233176000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para apreciar acordo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVi",
+      "date": 1486643260000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJi",
+      "date": 1539803674000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWUx",
+      "date": 1507070760000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM1",
+      "date": 1525837662000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVk",
+      "date": 1484507512000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRi",
+      "date": 1507690991000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 10/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWYz",
+      "date": 1473171767000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM0",
+      "date": 1525837662000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 09/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWYx",
+      "date": 1476804613000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNj",
+      "date": 1525110512000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQw",
+      "date": 1512007846000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 29/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU4",
+      "date": 1500592337000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ5",
+      "date": 1508941032000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI5",
+      "date": 1539923142000,
+      "text": "Publicado(a) o(a) Despacho em 19/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY2",
+      "date": 1469553017000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNl",
+      "date": 1524848906000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI1",
+      "date": 1552050306000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU3",
+      "date": 1501760679000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNi",
+      "date": 1525837571000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY5",
+      "date": 1467308388000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQx",
+      "date": 1512007844000,
+      "text": "Decorrido o prazo de SALATIEL ENGENHARIA LTDA - EPP em 29/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWUw",
+      "date": 1507070794000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a Denise Alves Horta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRh",
+      "date": 1508450838000,
+      "text": "Conclusos os autos para julgamento (relatar) a Denise Alves Horta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY0",
+      "date": 1471549856000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM3",
+      "date": 1525837660000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRm",
+      "date": 1507071091000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI4",
+      "date": 1541042468000,
+      "text": "Decorrido o prazo de TIAGO FONSECA LIMA em 31/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWUz",
+      "date": 1505923872000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNm",
+      "date": 1512008046000,
+      "text": "Decorrido o prazo de TIAGO FONSECA LIMA em 29/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVh",
+      "date": 1496935248000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ0",
+      "date": 1510591311000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJk",
+      "date": 1539783391000,
+      "text": "Conclusos os autos para despacho  a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVm",
+      "date": 1479988759000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQy",
+      "date": 1510885016000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 17/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU5",
+      "date": 1499370718000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRl",
+      "date": 1507071092000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY4",
+      "date": 1467730262000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ4",
+      "date": 1509128935000,
+      "text": "Inclu\u00eddo o processo em pauta (08/11/2017, 13:06:00, Desa. Denise Alves Horta)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI2",
+      "date": 1541417448000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRk",
+      "date": 1507172858000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNh",
+      "date": 1525837571000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 09/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU0",
+      "date": 1505921693000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWY1",
+      "date": 1470251145000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWYy",
+      "date": 1474914822000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWMx",
+      "date": 1526958917000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 21/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWYw",
+      "date": 1478598268000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWVj",
+      "date": 1486034371000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI0",
+      "date": 1565210311000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWI3",
+      "date": 1541042469000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 31/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQz",
+      "date": 1510885016000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM2",
+      "date": 1525837660000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 09/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU2",
+      "date": 1502379252000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJm",
+      "date": 1526959382000,
+      "text": "Decorrido o prazo de SALATIEL ENGENHARIA LTDA - EPP em 21/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWUy",
+      "date": 1506637161000,
+      "text": "Conclusos os autos para julgamento (relatar) a Denise Alves Horta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJl",
+      "date": 1526959382000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 21/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWNk",
+      "date": 1525110511000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWU1",
+      "date": 1504105740000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWM4",
+      "date": 1525837658000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 09/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWMz",
+      "date": 1526501534000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ3",
+      "date": 1509128941000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWQ2",
+      "date": 1509415866000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 31/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWIz",
+      "date": 1565385444000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJh",
+      "date": 1539923141000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWJj",
+      "date": 1539803673000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWMw",
+      "date": 1526959381000,
+      "text": "Decorrido o prazo de TIAGO FONSECA LIMA em 21/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwZGYyNGZhN2U0ZTUwODgyNGRhNWRj",
+      "date": 1507172858000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/10/2017",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

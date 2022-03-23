@@ -1,0 +1,582 @@
+{
+  "lawsuit": {
+    "id": "NTQ4ZDVlYTItYXV0b21hdGljOjAtMDAxMTg1NjM1MjAxNjUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 81,
+    "number": "0011856-35.2016.5.03.0084",
+    "value": 35198.0,
+    "subject": "Repouso Semanal Remunerado e Feriado",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "O. P. B.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Rafael Tadeu Santos de Souza",
+            "cpf": "054.510.686-90",
+            "lawyerId": "YmFiMGIxMzEtYXV0b21hdGljOjAtMGE5MzI4MjgzYmU1ZWFlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1567003603000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Repouso Semanal Remunerado e Feriado",
+                "code": 2426
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2426"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "AP",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdl",
+      "date": 1582167661000,
+      "text": "Decorrido o prazo de UNI\u00c3O FEDERAL (PGF) em 19/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZm",
+      "date": 1589999947000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ORLANDO PINTO BORGES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjgz",
+      "date": 1579718523000,
+      "text": "Conclusos os autos para despacho  a Jales Valad\u00e3o Cardoso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjY5",
+      "date": 1590548484000,
+      "text": "Decorrido o prazo de UNI\u00c3O FEDERAL (PGF) em 26/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjY0",
+      "date": 1591153563000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 02/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjgw",
+      "date": 1580152289000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjgy",
+      "date": 1580152288000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhh",
+      "date": 1556552218000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmI4",
+      "date": 1485798045000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhj",
+      "date": 1554823712000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg4",
+      "date": 1564064108000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc4",
+      "date": 1583895925000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 11/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZi",
+      "date": 1590030233000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhi",
+      "date": 1556032870000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmI1",
+      "date": 1485974474000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmEw",
+      "date": 1504148937000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 31/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmIx",
+      "date": 1488454782000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc5",
+      "date": 1583860516000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmEy",
+      "date": 1503929779000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjcx",
+      "date": 1585330324000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MINISTERIO PUBLICO DO TRABALHO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdm",
+      "date": 1580217773000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado/",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg3",
+      "date": 1565644657000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmIw",
+      "date": 1488457298000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jales Valad\u00e3o Cardoso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdj",
+      "date": 1582211842000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jales Valad\u00e3o Cardoso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjkx",
+      "date": 1549273240000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE3",
+      "date": 1491275003000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 03/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZh",
+      "date": 1590030233000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFj",
+      "date": 1489547616000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 15/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjlj",
+      "date": 1511895112000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmIz",
+      "date": 1486586952000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg5",
+      "date": 1561568874000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjcz",
+      "date": 1585330324000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) NEXA RECURSOS MINERAIS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk1",
+      "date": 1542655455000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFl",
+      "date": 1489513220000,
+      "text": "Inclu\u00eddo o processo em pauta (21/03/2017, 09:13:00, Dr. Jales Valad\u00e3o Cardoso)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFi",
+      "date": 1490195477000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFk",
+      "date": 1489513224000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc2",
+      "date": 1584539961000,
+      "text": "Conhecido o recurso de ORLANDO PINTO BORGES - CPF: 453.383.536-87 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc1",
+      "date": 1584623442000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZl",
+      "date": 1589999947000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) NEXA RECURSOS MINERAIS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjlm",
+      "date": 1504926507000,
+      "text": "Decorrido o prazo de ORLANDO PINTO BORGES em 08/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjcy",
+      "date": 1585330324000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) UNIAO FEDERAL (PGF)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE2",
+      "date": 1491275003000,
+      "text": "Decorrido o prazo de ORLANDO PINTO BORGES em 03/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk0",
+      "date": 1547004609000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjkw",
+      "date": 1550084278000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE5",
+      "date": 1490325198000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk2",
+      "date": 1513703310000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFm",
+      "date": 1488986969000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhl",
+      "date": 1553119658000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk4",
+      "date": 1513649809000,
+      "text": "Decorrido o prazo de ORLANDO PINTO BORGES em 18/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjcw",
+      "date": 1585581195000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Ci\u00eancia de Decis\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjY1",
+      "date": 1591153563000,
+      "text": "Decorrido o prazo de ORLANDO PINTO BORGES em 02/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE4",
+      "date": 1490325198000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 24/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdk",
+      "date": 1582209472000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio/",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjky",
+      "date": 1547288095000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjll",
+      "date": 1504926507000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 08/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE1",
+      "date": 1502362432000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjlh",
+      "date": 1512441270000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmE0",
+      "date": 1503929779000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmEx",
+      "date": 1504148937000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhm",
+      "date": 1552075064000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjkz",
+      "date": 1547057908000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdi",
+      "date": 1583157264000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmIy",
+      "date": 1487354905000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmI3",
+      "date": 1485798504000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg0",
+      "date": 1579718504000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjlk",
+      "date": 1511563413000,
+      "text": "Conclusos os autos para despacho  a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZk",
+      "date": 1590030233000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk5",
+      "date": 1512441270000,
+      "text": "Publicado(a) o(a) Despacho em 05/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmFh",
+      "date": 1490202254000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc3",
+      "date": 1584539960000,
+      "text": "Conhecido o recurso de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjY4",
+      "date": 1591125108000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (HABILITA\u00c7\u00c3O NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjZj",
+      "date": 1590030233000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjhk",
+      "date": 1554316031000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg1",
+      "date": 1567016158000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jales Valad\u00e3o Cardoso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjc0",
+      "date": 1585330324000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ORLANDO PINTO BORGES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjY3",
+      "date": 1591125300000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso de Revista (RECURSO DE REVISTA NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjk3",
+      "date": 1513649809000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 18/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjdh",
+      "date": 1583860511000,
+      "text": "Inclu\u00eddo em pauta o processo para 17/03/2020, 08:31:00, Dr. Jales Valad\u00e3o Cardoso ()",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjg2",
+      "date": 1567003604000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMmI2",
+      "date": 1485974232000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGM3ZGFjODBlNGFlOTAyYmRkMjli",
+      "date": 1511895112000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

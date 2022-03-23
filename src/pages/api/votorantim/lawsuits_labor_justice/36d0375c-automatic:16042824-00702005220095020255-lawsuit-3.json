@@ -1,0 +1,240 @@
+{
+  "lawsuit": {
+    "id": "MzZkMDM3NWMtYXV0b21hdGljOjE2MDQyODI0LTAwNzAyMDA1MjIwMDk1MDIwMjU1LWxhd3N1aXQ=",
+    "activityCount": 17,
+    "number": "0070200-52.2009.5.02.0255",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "Companhia Sider\u00fargica Nacional - CSN",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Sidney Ruiz Bernardo J\u00fanior",
+            "cpf": "",
+            "lawyerId": "NzY2NDMzODgtYXV0b21hdGljOjE2MDQyODI0LTgwNjNhMWFlNWI3N2NlNy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Manoel Messias Silva",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Paula Renata Nunes Nascimento",
+            "cpf": "",
+            "lawyerId": "YmY4YjhkODAtYXV0b21hdGljOjE2MDQyODI0LTgyYjI5YTgxZGY3OGIwZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "DAD Engenharia e Servi\u00e7os LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Robson dos Santos Amador",
+            "cpf": "",
+            "lawyerId": "NTk3ZTExMWItYXV0b21hdGljOjE2MDQyODI0LTJhNWRiYjJhOWM5YmI0NS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "V&M do Brasil S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Gerdau A\u00e7ominas S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Felipe Gazola Vieira Marques",
+            "cpf": "",
+            "lawyerId": "ZWQ5NmJmNjEtYXV0b21hdGljOjE2MDQyODI0LTg0NTVmMGRkMGZjZmQ1Yy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Samarco Minera\u00e7\u00e3o S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Carine Murta Nagem Cabral",
+            "cpf": "",
+            "lawyerId": "MGM1MGI0MTQtYXV0b21hdGljOjE2MDQyODI0LThjNDUwMGNjODlmODcxZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Votorantim Metais Zinco S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Leila Azevedo Sette",
+            "cpf": "",
+            "lawyerId": "NDk3ZDNjMjktYXV0b21hdGljOjE2MDQyODI0LTc1OTk4MzUzODJmNjFjNi1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ODFmOTJmZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjA1YmU2MDlhY2Y1ODItMTM3NDYzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374634800000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "NmRhZTdjODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YzY5N2ZkY2M4MDk2MzItMTM3NDYzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374634800000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDgwNDdiZmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNWQyZTQ4NzQ4ZjExMjUtMTM3NDcyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1374721200000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "NGMxYTYxYzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOGE5OWVlMDA3NzQzYzUtMTM3NTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375671600000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "NGEyYWQyMTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZDIyMzJhZmQxODdhYjUtMTM3NTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375671600000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGU5ZDhmMmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMzFjNTY2YjA3ODhjZWMtMTM3NTc1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375758000000,
+      "text": "Recebidos os autos para triagem",
+      "attachments": []
+    },
+    {
+      "id": "ZDY3OTI5N2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZTliOTMwMmY5NTJhNjAtMTM3NTc1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375758000000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ODc1N2Y1NWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NjVhNGFlOGZhMWM3OWEtMTM3NjM2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376362800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Dela\u00edde Miranda Arantes)",
+      "attachments": []
+    },
+    {
+      "id": "ZGViNWRlZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NDU0YzRjYTdjMzc1OTItMTM3NjM2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376362800000,
+      "text": "Distribu\u00eddo por sorteio \u00e0 Exm\u00aa Ministra DMA - T7 em 13/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "MjU4ZTZjNjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZTk4NDU0MjRiZDMyN2UtMTM3NjM2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376362800000,
+      "text": "Recebidos os autos - triagem conclu\u00edda",
+      "attachments": []
+    },
+    {
+      "id": "NzcyM2Y3ZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZTM1YmUyZTU0MjgxMzUtMTM3NjUzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376535600000,
+      "text": "Peti\u00e7\u00e3o: 119832/2013 - Instrumento de Mandato",
+      "attachments": []
+    },
+    {
+      "id": "MWMxZWYyYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ODE1ODFmM2M4NDI4ZjEtMTM4MDE2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1380164400000,
+      "text": "Remetidos os Autos para Secretaria da 7\u00aa Turma para publicar decis\u00e3o monocr\u00e1tica",
+      "attachments": []
+    },
+    {
+      "id": "ODZiYTY5YzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZDljOWVkZWUyYmJkMDQtMTM4MDUxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1380510000000,
+      "text": "Negado seguimento ao recurso.",
+      "attachments": []
+    },
+    {
+      "id": "ZTdhNzczZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDkxZDM0NDQyNTdmZmYtMTM4MDU5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1380596400000,
+      "text": "Publicado despacho em 01/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "N2NmNGY4NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NzQxMjU2YzM5MWUwYWItMTM4MjQwNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1382407200000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 2\u00aa Regi\u00e3o para encaminhar \u00e0 origem",
+      "attachments": []
+    },
+    {
+      "id": "OWQ3YjUyOGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYmYzNjMxNzMwNGQwOTYtMTM4MjQwNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1382407200000,
+      "text": "Transitado em Julgado em 09/10/2013",
+      "attachments": []
+    },
+    {
+      "id": "Nzc5YmM0MWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNzRhOWZhMGY3MTljZTAtMTM4Mzc4OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1383789600000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

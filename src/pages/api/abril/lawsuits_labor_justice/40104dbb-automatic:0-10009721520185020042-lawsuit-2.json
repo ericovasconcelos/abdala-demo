@@ -1,0 +1,460 @@
+{
+  "lawsuit": {
+    "id": "NDAxMDRkYmItYXV0b21hdGljOjAtMTAwMDk3MjE1MjAxODUwMjAwNDItbGF3c3VpdA==",
+    "activityCount": 66,
+    "number": "1000972-15.2018.5.02.0042",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Patricia Riboldi de Oliveira Moreira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Giuseppe Claudio Fagotti",
+            "cpf": "070.976.928-80",
+            "lawyerId": "ODhjZmQzNDctYXV0b21hdGljOjAtNThkNjZjODExZDA0MWJjLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A. Em Recuperacao Judicial",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1514815200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "8\u00aa Turma - Cadeira 2",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YzlhZjRlZWU3MGM1MjZiZTE2NDdjYjdjNjdmNTRiNDE=",
+      "date": 1534464000000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmYzN2RkNjA3MDY4NGRiMWRkZTg0NmRhYzZhOGMyMjg=",
+      "date": 1535673600000,
+      "text": "Recte: Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDEwMTcwNmE5ZjZjYTgzZWEzOWNiY2ZkY2VkYWVlYjY=",
+      "date": 1533600000000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YThmODNmNGFjNDFjZjNiYTBmNmE3NWIwOTZlYzYyMGQ=",
+      "date": 1544659200000,
+      "text": "Conclusos os autos para julgamento (revisar) a MARCOS CESAR AMADOR ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZmYwZWUwYzQ5Y2I0MzY1NTgzMDQyOGNlZDExZGY1ZGU=",
+      "date": 1549065600000,
+      "text": "Disponibilizado (a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTAyNzQwMTQyMTE4YzM5Mzc5MjY1Zjg3MGE5ODk1YTM=",
+      "date": 1534464000000,
+      "text": "guia SD | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTNhZDM5OTlmMDBmMzRjZGY3YzcyYzkxNzMyOWIwY2E=",
+      "date": 1533600000000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTYwMjhlZjQ4ZGE3NDg0NzIxYTNlM2RkOTMwYzg5MmI=",
+      "date": 1534464000000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJkZDA2MzE5ZmZhMmY3NzUyNDAzM2UxMDM5YjlmZTU=",
+      "date": 1534464000000,
+      "text": "despacho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmRmYmQwZTRhYjI4ZDFkYTM3MGYwYTU1ZTBhNGY2NmU=",
+      "date": 1534464000000,
+      "text": "Holerite | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTEyNmZiYjk5ZTIxZWMxMmY1ODE2NzU4MTkwMTg4ZjA=",
+      "date": 1534464000000,
+      "text": "TERMO DE PRORROGACAO DO PLANO DE SAUDE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2YwMjU1YmJlYmEzYjFjZTBjYWY5ZmRkYjc2MTJiYzc=",
+      "date": 1533600000000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjk0MGM1OTk4NDM2MDYzNDQ4NzgxNjc5MjJiZTA5ODg=",
+      "date": 1545091200000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "MTQyOTM1MWMyZTQ3YTE3ZjUxNmFkNjE3YTA5NGUxODE=",
+      "date": 1534464000000,
+      "text": "RESSALVA TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY5MmQ3ZjAyZGZkNThjOGJlZDk4NjAxOTk5NzEzMmU=",
+      "date": 1534464000000,
+      "text": "Comunica\u00e7\u00e3o de Dispensa e Seguro Desemprego (CD/SD) | Comunica\u00e7\u00e3o de Dispensa e Seguro Desemprego (CD/SD) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdhZWZhYmEyZjQ1YWFiNWZlNzgzZmQwMTFmYzMxOWQ=",
+      "date": 1533600000000,
+      "text": "Cirurgia e tratamento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2FiNDg3YzE5OGRjNjA3ZmQ1MzlmODhkZDU3ZWY3N2U=",
+      "date": 1547683200000,
+      "text": "Disponibilizado (a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTYwOGQ5OThiMDg4YWVmZGEzNWVjMzIyNjg2NGIzNTU=",
+      "date": 1533686400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmU2ZTQxYWRiODE3MzBhOWJmNWI0ZDZjZTAzMDEyZmU=",
+      "date": 1534464000000,
+      "text": "Atestado de Sa\u00fade Ocupacional (ASO) | Atestado de Sa\u00fade Ocupacional (ASO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDgwNDQ4NmVjNWVjODhmZmU1ODViNjRiMzI0MTk1ODE=",
+      "date": 1550448000000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "MTRlNjBjZTZkMDc3MWM1NTg2OWQ1ZDE2NjI1MDk2Mjc=",
+      "date": 1549065600000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 04/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "YTQyOGVjNzk2NDUxODlkNDAzM2E5ZWU0MjcwYTdmNWQ=",
+      "date": 1534464000000,
+      "text": "ASO DEMISSIONAL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTE1NDdiNWYwYWVhZGEyZmM4Nzg4YmJhMjg3MGYzNDM=",
+      "date": 1534809600000,
+      "text": "Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjRhYzM0MDYzZTBhMjYyY2VhODZhM2M4N2QyYTZlZGM=",
+      "date": 1534464000000,
+      "text": "Demiss\u00e3o Carlos Cesar | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjU1NjhhNzg5MzE3MDU5ODcyZTYxYmY1NTY0NWY4Yjk=",
+      "date": 1547683200000,
+      "text": "Inclu\u00eddo em pauta para 30/01/2019, 13:15:00, SALA 17 - SILVANE (2)",
+      "attachments": []
+    },
+    {
+      "id": "ZGI0ODc3NTc1MWE1N2Q3MDBjYzY2ZDg3M2NmZmQ2MTM=",
+      "date": 1534464000000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmVjZmY5MzMxZjkxOWZjYjcwZTFiNzZkOTEwYmJiOWY=",
+      "date": 1550188800000,
+      "text": "Decorrido o prazo de PATRICIA RIBOLDI DE OLIVEIRA MOREIRA em 14/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODE1N2I1ZWIwMjIwYzA5OTNhM2NiODQ3Zjk3ZGEzYTI=",
+      "date": 1534464000000,
+      "text": "EMAIL 04 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTVkOWMzMDRlOGQ5M2NhN2M2OTMyOTk0OTcxNTIxMTM=",
+      "date": 1534723200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZWYzZThiYjkwYTcwNGY5ZGRlZDRlNjgwZDFjNDYxYzg=",
+      "date": 1534464000000,
+      "text": "Demiss\u00e3o Cristiane Cruz | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M2YmQ3NWEzMGU0ZThkYWIyOWU3ZDEzMDNkNTZlYTg=",
+      "date": 1535068800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YTk5Y2FiN2RlZGQ3NzZiNDIyZDQ4MzhjYzE4NjNhZmI=",
+      "date": 1533600000000,
+      "text": "Carteira de Identidade/Registro Geral (RG) | Carteira de Identidade/Registro Geral (RG) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjYyM2NlNDdiZGNhMTlmMTJmM2MxZTkzNmMyZmJlYjI=",
+      "date": 1533600000000,
+      "text": "E-mail 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ0OTY5YTA3M2RlMjI0NTM2MDFmMGI0NTUwZTQ4ZTU=",
+      "date": 1534464000000,
+      "text": "EMAIL 02 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2ZhMmI4ZmM4ZWM0MTAxZTBmZTFlNTgzNmVkYjNjZTk=",
+      "date": 1547856000000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 21/01/2019",
+      "attachments": []
+    },
+    {
+      "id": "M2QyYjMxMzEwMGViZGI4YTlkNWYwM2NmOTlkMWZmZDk=",
+      "date": 1534464000000,
+      "text": "Acordo parcelamento rescis\u00f3rias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDk2MTkyN2Q5YTQyZjJiMTUxZTVjMWVlMTlhNmY2N2Y=",
+      "date": 1534118400000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 7e89d61 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2VjOTQxMWE1NThjZWJiZWViMDUyNTVlMmNjYTdiYjY=",
+      "date": 1534377600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDljMzFlM2Q5N2ExNTIxYjM0MmNkODA1NWM0ZDc2OTY=",
+      "date": 1533600000000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGI2M2IzMTdiNDdmOWUzYWJjYzczYzA4M2Y5NmMzODQ=",
+      "date": 1534118400000,
+      "text": "Mandado assinado | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGYyNjMwMmYyN2Q0NWM4ZDJiZDIwZDUxNDM0ODVlNDA=",
+      "date": 1533600000000,
+      "text": "Aviso Pr\u00e9vio | Aviso Pr\u00e9vio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTNmMjE4OWRlYmQ0NTY5OGQ5ZTQ1ZDJhYzllNDk0NWY=",
+      "date": 1534377600000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDFhNDRiMjczMjUzYjg4ZGUwNjFlNWI1YjA1N2I4NjI=",
+      "date": 1534464000000,
+      "text": "COMPROVANTE PARCELA RESCIS\u00d3RIAS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmNmMjhjNzlhM2Y3MWJlMjRlNTIxMzQzOGFmZTdjNjA=",
+      "date": 1550188800000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 14/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NmE2MGJmZDhiYjk3ZTFlNDEyZDFjYzEwODRlOGIyY2E=",
+      "date": 1533600000000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDkwZjM2ODFhYTRlOGU1MDNhZGMyYjQ1MGY0OTRmOGU=",
+      "date": 1538524800000,
+      "text": "Controle de prazo recursalMinutar decis\u00e3o - ARminutaEmElaboracao | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Njk0ZDMwZjkzYWFiZGQwYTM5MmZjZjhhOTBhYWVhYzM=",
+      "date": 1534464000000,
+      "text": "EMAIL 01 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTdhMDI3NDZmOWMwMWI5MGM4MmRlMzZmOWY3ZTNlNzk=",
+      "date": 1533686400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTMzN2ExYmUxMDNiOGVhZGFjYzJjMjYyOWQzMGMwZDc=",
+      "date": 1534464000000,
+      "text": "EMAIL 03 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVkZjQyOGRiMjA0ZDJlYzVkNzAyNzdiNmJmNjc2NjU=",
+      "date": 1538524800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2U5Njk5YWJhOGVhMmUyZWFhNWY3OTkyMTliMGE2YzQ=",
+      "date": 1534809600000,
+      "text": "Recte: Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTIzZGU4Mjc0MzM1YTk4N2VkZmQ1MGVhZjIyM2FjMTU=",
+      "date": 1533600000000,
+      "text": "Exame M\u00e9dico | Exame M\u00e9dico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YThiYzI3Y2QyNTM1YTMzNDE4NGE1ODFmZDc3OWJmYmM=",
+      "date": 1539820800000,
+      "text": "Contrarraz\u00f5es | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2VlYTYxMWI4NmY0MmQxNDY1NDBkODcxYjgyNmJiZTA=",
+      "date": 1548892800000,
+      "text": "Conhecido o recurso de PATRICIA RIBOLDI DE OLIVEIRA MOREIRA - CPF: 114.450.308-61 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "OWQxNDQzNTc0NzE3NWUxNjkxNGQyZDRhZTg2MzQ4MjA=",
+      "date": 1534464000000,
+      "text": "Recupera\u00e7\u00e3o judicial Abril | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjlhMGYwOTczNzYwNGFiYmUyMTA5MTgxODU2NTE5MzE=",
+      "date": 1534377600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDc5OTc3ZGQ3NDQ5YjA4N2RiMDQ4ODI1MzhlMzI2NTg=",
+      "date": 1548892800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGJlYzQ4M2U0ZjdhMzY0NzM4NjAxNmU2MDE0Y2Y2ZTM=",
+      "date": 1534464000000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWY0ZDM4NDdiOTI5ZjAzNDE0YWEyNWYzMDAyNzE0Yzg=",
+      "date": 1533686400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTQ5OTQxYmY3MzNkOGQ0ZGQ5ZTM1NWQ1MjM4OWEzYmM=",
+      "date": 1548806400000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTgxMDVmMDA2NWU1MWNmZTIzMDUzNjhjYmNkNmZlNTU=",
+      "date": 1534464000000,
+      "text": "EXTRATO E GUIA FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ5NDE1YWZjMzk4MzE0NmFjNzE2YmNlNDlkMzQwMWQ=",
+      "date": 1533600000000,
+      "text": "E-mail 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzJiNmI0YzA2MjdkN2ZlZDVmOWJjYjA2YzFkY2Q3OTY=",
+      "date": 1534377600000,
+      "text": "Subs | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzUzYTliZDcxYzRhMjAzODU0MDA3YTc4MmFmODg2YWY=",
+      "date": 1544400000000,
+      "text": "Conclusos os autos para julgamento (relatar) a SILVANE APARECIDA BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "MzQxYzk5NjMyZTFmYWU2YTQ4MThiZDNmZGY4OTBlYzA=",
+      "date": 1533600000000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDY5MTY2M2Q4NDI2NTI3ODkzOTQxOGI1ZWE0ZDRlM2Y=",
+      "date": 1541462400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

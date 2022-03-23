@@ -1,0 +1,1585 @@
+{
+  "lawsuit": {
+    "id": "MDYzMGUxYWUtYXV0b21hdGljOjAtMTAwMDYwNDU2MjAxNjUwMjAwNDgtbGF3c3VpdA==",
+    "activityCount": 203,
+    "number": "1000604-56.2016.5.02.0048",
+    "value": 57807.69,
+    "subject": "Aviso Pr\u00e9vio, Adicional de Hora Extra, D\u00e9cimo Terceiro Sal\u00e1rio Proporcional, Expurgos Inflacion\u00e1rios, F\u00e9rias Proporcionais, Hora Extra / Adicional, Indenizado - Efeitos, Multa de 40% do FGTS, Multa do Artigo 467 da CLT, Multa do Artigo 477 da CLT, Saldo de Sal\u00e1rio",
+    "kind": "Trabalhista",
+    "district": "48\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Antonio Sergio Gomes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Marta Maria Alves Vieira Carvalho",
+            "cpf": "414.549.283-87",
+            "lawyerId": "Yjg2M2UzYjUtYXV0b21hdGljOjAtNDc3YjMyODg1ZmQ2ODFlLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "FKM Promocao Transporte e Entregas LTDA - EPP",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Jailton Fernando Silva Pereira",
+            "cpf": "282.385.038-41",
+            "lawyerId": "OGNiNjAzYWUtYXV0b21hdGljOjAtYTkzYmI0OWFhNzJkZjI1LXVuaWZpZWQ="
+          },
+          {
+            "name": "Marcos Antonio Bruno",
+            "cpf": "013.108.028-82",
+            "lawyerId": "NGNkMjk4YTUtYXV0b21hdGljOjAtMzYzMmMwMmFjMjJlZTJhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Fred Shum",
+            "cpf": "129.979.918-38",
+            "lawyerId": "OWIyMjAwODMtYXV0b21hdGljOjAtZWM2YjJmMzRjY2JjOTkzLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1460137970000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 467 da CLT",
+                "code": 2210
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional",
+                "code": 2594
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Hora Extra",
+                "code": 6065
+              },
+              {
+                "level": 3,
+                "text": "Contribui\u00e7\u00f5es Previdenci\u00e1rias",
+                "code": 6048
+              },
+              {
+                "level": 2,
+                "text": "Contribui\u00e7\u00f5es",
+                "code": 6031
+              },
+              {
+                "level": 1,
+                "text": "DIREITO TRIBUT\u00c1RIO",
+                "code": 14
+              }
+            ],
+            "last_text": "DIREITO TRIBUT\u00c1RIO",
+            "last_id": 14
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "D\u00e9cimo Terceiro Sal\u00e1rio Proporcional",
+                "code": 8820
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "F\u00e9rias Proporcionais",
+                "code": 8821
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Saldo de Sal\u00e1rio",
+                "code": 8823
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Efeitos",
+                "code": 9047
+              },
+              {
+                "level": 2,
+                "text": "Recurso",
+                "code": 9045
+              },
+              {
+                "level": 1,
+                "text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+                "code": 8826
+              }
+            ],
+            "last_text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+            "last_id": 8826
+          }
+        ],
+        "id": "1998-2141-2210-2212-2594-2641-6065-8820-8821-8823-9047"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "48\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU0",
+      "date": 1559909207000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZh",
+      "date": 1558537956000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta (contraminuta aos Embargos a Execu\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ1",
+      "date": 1511799683000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNk",
+      "date": 1523691710000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRl",
+      "date": 1510939694000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg5",
+      "date": 1552577828000,
+      "text": "Mandado",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdm",
+      "date": 1556898209000,
+      "text": "pedido de execu\u00e7\u00e3o contra a segunda reclamada e libera\u00e7\u00e3o do dep\u00f3sito recursal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MTAz",
+      "date": 1460137970000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ4",
+      "date": 1566384050000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MTA0",
+      "date": 1460137908000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk5",
+      "date": 1540358066000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 23/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ5",
+      "date": 1511346502000,
+      "text": "Audi\u00eancia una realizada (21/11/2017 10:10 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ4",
+      "date": 1511346502000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVi",
+      "date": 1559367409000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJm",
+      "date": 1526364354000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 14/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVl",
+      "date": 1559227486000,
+      "text": "Manifesta\u00e7\u00e3o recupera\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhl",
+      "date": 1551978441000,
+      "text": "Registrada a inclus\u00e3o de dados de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP no BNDT sem garantia ou suspens\u00e3o da exigibilidade do d\u00e9bito",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVm",
+      "date": 1559227473000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o recupera\u00e7\u00e3o judicial)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNk",
+      "date": 1570764283000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY4",
+      "date": 1558633085000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRk",
+      "date": 1566239739000,
+      "text": "Pedido de expedi\u00e7\u00e3o de alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRk",
+      "date": 1510939745000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVh",
+      "date": 1559832245000,
+      "text": "pedido de expedi\u00e7\u00e3o de certid\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGYw",
+      "date": 1465575094000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk3",
+      "date": 1540573838000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY2",
+      "date": 1461172592000,
+      "text": "Cancelamento de notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ3",
+      "date": 1567205120000,
+      "text": "Certid\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDkz",
+      "date": 1551388141000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI1",
+      "date": 1537541443000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRj",
+      "date": 1510939975000,
+      "text": "Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ3",
+      "date": 1511462713000,
+      "text": "r\u00e9plica",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGUw",
+      "date": 1488993603000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDYw",
+      "date": 1559018581000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 27/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM2",
+      "date": 1524900515000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY4",
+      "date": 1460524607000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY0",
+      "date": 1461172839000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRm",
+      "date": 1560233215000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY1",
+      "date": 1461172839000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDcx",
+      "date": 1558021764000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVh",
+      "date": 1465922832000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDUy",
+      "date": 1559909226000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVk",
+      "date": 1465830917000,
+      "text": "apresenta\u00e7\u00e3o de endere\u00e7os",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDYx",
+      "date": 1559018581000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 27/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhj",
+      "date": 1552044456000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDUw",
+      "date": 1560225243000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 10/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE1",
+      "date": 1538753364000,
+      "text": "Juntada CTPS",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQx",
+      "date": 1568171557000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 10/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQw",
+      "date": 1523532879000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZj",
+      "date": 1460396597000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVm",
+      "date": 1465724685000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZm",
+      "date": 1460387888000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a ANTONIO SERGIO GOMES - CPF: 135.749.948-50",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGEy",
+      "date": 1538897061000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRh",
+      "date": 1511227350000,
+      "text": "Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdl",
+      "date": 1556898210000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (pedido de execu\u00e7\u00e3o contra a segunda reclamada e libera\u00e7\u00e3o do dep\u00f3sito recursal)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk4",
+      "date": 1540573835000,
+      "text": "Mandado",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGUz",
+      "date": 1488922975000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGUy",
+      "date": 1488932263000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU5",
+      "date": 1465922832000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZi",
+      "date": 1460396601000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDkx",
+      "date": 1551961310000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFm",
+      "date": 1538058579000,
+      "text": "APRESENTA\u00c7\u00c3O DE CTPS",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGMy",
+      "date": 1525438212000,
+      "text": "Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGMz",
+      "date": 1525327022000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 02/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQw",
+      "date": 1570641637000,
+      "text": "Certid\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU3",
+      "date": 1466569061000,
+      "text": "Decorrido o prazo de MARCOS ANTONIO BRUNO em 21/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdi",
+      "date": 1556902523000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ2",
+      "date": 1511799640000,
+      "text": "Audi\u00eancia julgamento designada (26/01/2018 17:04 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg2",
+      "date": 1552577832000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ2",
+      "date": 1567205120000,
+      "text": "Expedido(a) certid\u00e3o de cr\u00e9dito para habilita\u00e7\u00e3o no ju\u00edzo falimentar a(o) autor/null",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGIy",
+      "date": 1537601803000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDlj",
+      "date": 1539970830000,
+      "text": "pedido de libera\u00e7\u00e3o deposito recursal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVj",
+      "date": 1465922829000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MTAw",
+      "date": 1460387884000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVj",
+      "date": 1559367409000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI3",
+      "date": 1537541361000,
+      "text": "Transitado em julgado em 04/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDYz",
+      "date": 1558933119000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJi",
+      "date": 1534957424000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDgy",
+      "date": 1556556766000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNj",
+      "date": 1524657472000,
+      "text": "Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDUx",
+      "date": 1560114559000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDli",
+      "date": 1539970831000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU2",
+      "date": 1559879773000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 06/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU1",
+      "date": 1488308970000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNm",
+      "date": 1570641888000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNl",
+      "date": 1570764283000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg3",
+      "date": 1552577831000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY2",
+      "date": 1558633093000,
+      "text": "Extinto sem resolu\u00e7\u00e3o do m\u00e9rito o incidente Embargos \u00e0 Execu\u00e7\u00e3o de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNh",
+      "date": 1524777228000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZl",
+      "date": 1460396596000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU4",
+      "date": 1466569059000,
+      "text": "Decorrido o prazo de FRED SHUM em 21/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU5",
+      "date": 1559832251000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (pedido de expedi\u00e7\u00e3o de certid\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg4",
+      "date": 1552577831000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQy",
+      "date": 1567847021000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 28/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNi",
+      "date": 1571668561000,
+      "text": "certid\u00e3o de retirada de ctps",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRl",
+      "date": 1560233215000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZm",
+      "date": 1558069855000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 16/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJh",
+      "date": 1537367673000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDcy",
+      "date": 1558021761000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQx",
+      "date": 1523532879000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a ANTONIO SERGIO GOMES",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc2",
+      "date": 1557890888000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 14/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZl",
+      "date": 1558106337000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdj",
+      "date": 1556902506000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQz",
+      "date": 1567481693000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MTAx",
+      "date": 1460142867000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc1",
+      "date": 1557958144000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos \u00e0 Execu\u00e7\u00e3o (Embargos \u00e0 Execu\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhi",
+      "date": 1552576032000,
+      "text": "pedido de penhora e libera\u00e7\u00e3o do dep\u00f3sito recursal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGEw",
+      "date": 1538897123000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGIw",
+      "date": 1537601805000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE2",
+      "date": 1538724067000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 04/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI4",
+      "date": 1537539253000,
+      "text": "cumprimento de senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFl",
+      "date": 1538058579000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM4",
+      "date": 1524777230000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdh",
+      "date": 1556902532000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRh",
+      "date": 1566320111000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU3",
+      "date": 1559879773000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 06/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRj",
+      "date": 1566239740000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Pedido de expedi\u00e7\u00e3o de alvar\u00e1)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDcz",
+      "date": 1558019171000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg1",
+      "date": 1553321620000,
+      "text": "Decorrido o prazo de MARTA MARIA ALVES VIEIRA CARVALHO em 22/03/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhm",
+      "date": 1551961961000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY0",
+      "date": 1558933119000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDRi",
+      "date": 1566320035000,
+      "text": "Alvar\u00e1 n\u00ba 20190819164121043892",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJj",
+      "date": 1534957424000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDdk",
+      "date": 1556900844000,
+      "text": "Conclusos os autos para despacho  a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhk",
+      "date": 1552044456000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ0",
+      "date": 1567481693000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDUz",
+      "date": 1559909216000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY5",
+      "date": 1558613915000,
+      "text": "Conclusos os autos para julgamento dos Embargos \u00e0 Execu\u00e7\u00e3o a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDhh",
+      "date": 1552576033000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (pedido de penhora e libera\u00e7\u00e3o do dep\u00f3sito recursal)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDcw",
+      "date": 1558021766000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFk",
+      "date": 1538662299000,
+      "text": "Concordancia com os calculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDgx",
+      "date": 1556698754000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDYy",
+      "date": 1559018581000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 27/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDg0",
+      "date": 1555452156000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 07472c6",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI5",
+      "date": 1537539252000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk0",
+      "date": 1551388140000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID a384bef",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJk",
+      "date": 1534957423000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGIz",
+      "date": 1537601803000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGUx",
+      "date": 1488993603000,
+      "text": "Audi\u00eancia una realizada (08/03/2017 08:50 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDVk",
+      "date": 1559228084000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNl",
+      "date": 1523691710000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc3",
+      "date": 1557217230000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQ0",
+      "date": 1512074610000,
+      "text": "1\u00aa Reclamada",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRm",
+      "date": 1489010444000,
+      "text": "Audi\u00eancia una designada (21/11/2017 10:10 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZj",
+      "date": 1558165903000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDlh",
+      "date": 1539977799000,
+      "text": "Iniciada a execu\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGJl",
+      "date": 1534878030000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNm",
+      "date": 1523532879000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk1",
+      "date": 1540573838000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDll",
+      "date": 1539758811000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 16/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY3",
+      "date": 1558633088000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGMx",
+      "date": 1526360495000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 14/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZi",
+      "date": 1558537954000,
+      "text": "contraminuta aos Embargos a Execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU0",
+      "date": 1488922763000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY3",
+      "date": 1460524608000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDgw",
+      "date": 1556698755000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU4",
+      "date": 1559833080000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDlk",
+      "date": 1539758812000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 16/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc4",
+      "date": 1557217230000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI2",
+      "date": 1537541389000,
+      "text": "Iniciada a liquida\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc5",
+      "date": 1556927969000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGNi",
+      "date": 1524762219000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFi",
+      "date": 1538679446000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQz",
+      "date": 1523532878000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVi",
+      "date": 1465922829000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGRi",
+      "date": 1510940540000,
+      "text": "Juntada procura\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNh",
+      "date": 1585943581000,
+      "text": "Arquivados os autos provisoriamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE4",
+      "date": 1538687560000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDNj",
+      "date": 1571455528000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 18/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM5",
+      "date": 1524777228000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGYz",
+      "date": 1461172843000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDY1",
+      "date": 1558657714000,
+      "text": "Extinto sem resolu\u00e7\u00e3o do m\u00e9rito o incidente Embargos \u00e0 Execu\u00e7\u00e3o de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFh",
+      "date": 1538687557000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZh",
+      "date": 1460396603000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDZk",
+      "date": 1558165903000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGFj",
+      "date": 1538662300000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGZk",
+      "date": 1460396596000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDgz",
+      "date": 1555452163000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGIx",
+      "date": 1537601804000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDlm",
+      "date": 1539758811000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 16/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGEx",
+      "date": 1538897123000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ5",
+      "date": 1566384050000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGVl",
+      "date": 1465724685000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDkw",
+      "date": 1551961959000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDky",
+      "date": 1551961243000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGYy",
+      "date": 1461172843000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGI0",
+      "date": 1537541443000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE3",
+      "date": 1538724066000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 04/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGYx",
+      "date": 1465574504000,
+      "text": "Juntada",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGMw",
+      "date": 1526364353000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 14/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM1",
+      "date": 1525324962000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 02/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MTAy",
+      "date": 1460137976000,
+      "text": "Audi\u00eancia una designada (08/03/2017 08:50 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDQ1",
+      "date": 1567205375000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDc0",
+      "date": 1557958160000,
+      "text": "Embargos \u00e0 Execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM0",
+      "date": 1525327015000,
+      "text": "Decorrido o prazo de FKM PROMOCAO TRANSPORTE E ENTREGAS LTDA - EPP em 02/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDU1",
+      "date": 1559879774000,
+      "text": "Decorrido o prazo de ANTONIO SERGIO GOMES em 06/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MDk2",
+      "date": 1540573838000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGM3",
+      "date": 1524900515000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGEz",
+      "date": 1538897061000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGQy",
+      "date": 1523532878000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de ANTONIO SERGIO GOMES",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE0",
+      "date": 1538753659000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGU2",
+      "date": 1478787385000,
+      "text": "Juntada",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGE5",
+      "date": 1538687558000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZGU5ZWFkZGNkZjE1M2M0MTE5MGY5",
+      "date": 1460399949000,
+      "text": "Certid\u00e3o Rastreador Correios",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

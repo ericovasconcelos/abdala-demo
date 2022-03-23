@@ -1,0 +1,297 @@
+{
+  "lawsuit": {
+    "id": "YTgzMjA4N2YtYXV0b21hdGljOjAtMDAxMDA5Njg1MjAxNTUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 38,
+    "number": "0010096-85.2015.5.03.0084",
+    "value": 41587.0,
+    "subject": "Cart\u00e3o de Ponto, Intervalo Interjornadas",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. M. T. S.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leucio Honorio de Almeida Leonardo",
+            "cpf": "399.912.966-20",
+            "lawyerId": "YmQwN2NjZGMtYXV0b21hdGljOjAtMGVhZmM3ZmZkYWM4ZTIwLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1434544176000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVh",
+      "date": 1536252561000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA2",
+      "date": 1436325203000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 08/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZl",
+      "date": 1445093583000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Jos\u00e9 Murilo de Morais",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVk",
+      "date": 1449280901000,
+      "text": "Decorrido o prazo de ANTONIO MARCOS TAVARES DE SOUZA em 04/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY4",
+      "date": 1446170960000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 29/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGYx",
+      "date": 1448388189000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA3",
+      "date": 1436218883000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZj",
+      "date": 1445267716000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY3",
+      "date": 1446170963000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 29/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGYw",
+      "date": 1448511656000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA1",
+      "date": 1436981665000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY1",
+      "date": 1446170968000,
+      "text": "Decorrido o prazo de ANTONIO MARCOS TAVARES DE SOUZA em 29/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVl",
+      "date": 1449280901000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 04/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTAw",
+      "date": 1438139589000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 28/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY5",
+      "date": 1445394982000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA5",
+      "date": 1435427924000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY0",
+      "date": 1446170970000,
+      "text": "Decorrido o prazo de LEUCIO HONORIO DE ALMEIDA LEONARDO em 29/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGYy",
+      "date": 1448388188000,
+      "text": "Minutar Despacho AR",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZk",
+      "date": 1445267715000,
+      "text": "Minutar Decis\u00e3o de Admissibilidade",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVj",
+      "date": 1450110736000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para julgar Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBl",
+      "date": 1431554541000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZm",
+      "date": 1438139591000,
+      "text": "Decorrido o prazo de ANTONIO MARCOS TAVARES DE SOUZA em 28/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZh",
+      "date": 1445394981000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA4",
+      "date": 1436218881000,
+      "text": "Inclu\u00eddo o processo em pauta (14/07/2015, 13:55:00, Gab. Des. M\u00f4nica Sette Lopes)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVm",
+      "date": 1448511660000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTA0",
+      "date": 1437095271000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGVi",
+      "date": 1536192141000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTAy",
+      "date": 1437189459000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o DEJT no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTAz",
+      "date": 1437140597000,
+      "text": "Ac\u00f3rd\u00e3o DEJT",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGY2",
+      "date": 1446170965000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 29/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBh",
+      "date": 1434562605000,
+      "text": "Conclusos os autos para julgamento (relatar) a M\u00f4nica Sette Lopes",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTAx",
+      "date": 1437189459000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o DEJT em 20/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBj",
+      "date": 1433948173000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGZi",
+      "date": 1445267716000,
+      "text": "Admitido o Recurso de Revista de ANTONIO MARCOS TAVARES DE SOUZA - CPF: 001.820.116-40",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZGYz",
+      "date": 1448386530000,
+      "text": "Conclusos os autos para despacho  a Jos\u00e9 Murilo de Morais",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBi",
+      "date": 1434544177000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBm",
+      "date": 1423688810000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNGJmMTQ3OWVkOTU1NDM1MzIxZTBk",
+      "date": 1432583345000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

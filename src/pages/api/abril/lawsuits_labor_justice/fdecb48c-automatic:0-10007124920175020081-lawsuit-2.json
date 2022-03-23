@@ -1,0 +1,794 @@
+{
+  "lawsuit": {
+    "id": "ZmRlY2I0OGMtYXV0b21hdGljOjAtMTAwMDcxMjQ5MjAxNzUwMjAwODEtbGF3c3VpdA==",
+    "activityCount": 120,
+    "number": "1000712-49.2017.5.02.0081",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Abril Comunicacoes S.A. Em Recuperacao Judicial",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Arnaldo Castilho Cunha",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Mario Jorge Ferrareis",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Jorge Rodrigues Cruz",
+            "cpf": "107.432.958-97",
+            "lawyerId": "MDFiYmY3MjYtYXV0b21hdGljOjAtMmVkNGQ0NWQwZDc2ODBiLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "18\u00aa Turma - Cadeira 2",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZjFiYjkyYmRmZDA4MjE0MTA4MTJiZjJhY2I1Y2I5YTY=",
+      "date": 1527638400000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTA3YmRjMmVlNjIxNzNlMjZkZjI3OTgzZjhlZjFlMTk=",
+      "date": 1528416000000,
+      "text": "Ato 03.2018 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFmYWFlYmNlZmQzZjE0Y2Y2ODEyMGNmYzQ5MDMxYTY=",
+      "date": 1522627200000,
+      "text": "Prova Emprestada | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWYzZmMyYjc1ZTA5Yjk2OGRkNThlOGU1ZTM3MDU2YTY=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7ao Acidente ACA 05 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTAwYjBmNTIxYjEwNDIyYjUwNjE0N2FhMjUyOWMxYzA=",
+      "date": 1518048000000,
+      "text": "Holerites Emerson | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmNhOWRjMTgwNzBiNDJiZDBjZWI1YjAwZGM4MTUyZTk=",
+      "date": 1518048000000,
+      "text": "Anexo enviado no email 04 Relat\u00f3rio das Atividades | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmZiMTY3N2VkZGE5NTFlNmVmMWJiZTIwM2VmNTcxZGI=",
+      "date": 1539129600000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "OGIyODdhNzI4MWY4ZDY1NzJiZDc3MjZkMmI5NGFlNjg=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 7 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQxYjkwZTcxNzVlYzY4Y2M0NGJmNjI1MjdlYTYyNTE=",
+      "date": 1518048000000,
+      "text": "Comprovante de Pagamento do TRCT complementar | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWE4N2NhMTdlYjA3YzMxZjE3ZTFkOWM4YmI4Zjk2ZWE=",
+      "date": 1518048000000,
+      "text": "Holerites Alex Sandro | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjM4M2JlYzM2NTU5ZDA1Mzc4YjlkYjE3MzA0MDdmODI=",
+      "date": 1559865600000,
+      "text": "Inclu\u00eddo em pauta para 26/06/2019, 13:15:00, SALA 9",
+      "attachments": []
+    },
+    {
+      "id": "YzUzY2I5YzY1NzU5NWM3Yjg0YWUzYmE3NWU3ZDFiZGQ=",
+      "date": 1517961600000,
+      "text": "Carta preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmQxNDk3MjFmNTFiZjg1ZDc0NjBkNTFhY2ZiYjc0ZGI=",
+      "date": 1520812800000,
+      "text": "Parecer de Assistente T\u00e9cnico | Parecer de Assistente T\u00e9cnico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmQ5OTk3YmQ5ZDZiYWU3YjhlZDk0MjEyNTIxNmE1OTg=",
+      "date": 1518048000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NzlmNGY1NmE0NWQxZTk1MTA3ZWYzNDI5MDRjNTczNDI=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 2 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDUyOGVmZmFkODA0OTgyYjE4OTQ1OGY3M2M4YmY5Mzk=",
+      "date": 1531267200000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YmU0ZmNhOTc5OTFkNjlkOWEyZDIwZDA1ZDQzMDdlMDI=",
+      "date": 1532476800000,
+      "text": "Comprovante de Dep\u00f3sito Recursal e custas | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTAzM2IxYWFjZmFiNTg2NTY4MTU1M2IxYTIzYmIyYjc=",
+      "date": 1493251200000,
+      "text": "CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzVmMWRlZjNiY2UwYzM5MzEzZThjNmNlZmE1MmU5YmU=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente AMM 06 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjIzYjYzOWI0YWQyOGU2M2Q2OGM1YThkMTU3NTJkMzA=",
+      "date": 1518048000000,
+      "text": "EMAIL 2 prova das atividades do Reclamante | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU1YzNjY2E1ZjBkMjUyMTFiOGJkZTFhOWQ5OTljMzY=",
+      "date": 1518048000000,
+      "text": "Aviso Pr\u00e9vio | Aviso Pr\u00e9vio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWIyNzAyMDQzNDgzYTIwNzAyMTRjOTRkZjc3OTE3MGQ=",
+      "date": 1518048000000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFjNjg1NmExZmQ1MjAzNzNmNDQ5OWQ3NjE1Y2M4MTU=",
+      "date": 1570579200000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTYzZjI3ZjI0OWVmNjhlM2E4MzQ5ZDM3ZmZmNmY0MTM=",
+      "date": 1493251200000,
+      "text": "PROVA EMPRESTADA LAUDO 2 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTY0ZGNmYmYxZTk4NDc3OTcyOTMwNTgwOWJmYTZjOGM=",
+      "date": 1559001600000,
+      "text": "Conclusos os autos para julgamento (relatar) a LUIZ CARLOS NORBERTO",
+      "attachments": []
+    },
+    {
+      "id": "OGU5ODgzOWE1MGUxY2VmMzY0Y2UzZjJlODIwZjYyNmQ=",
+      "date": 1520467200000,
+      "text": "juntada de laudo assistente reclamante | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzA3NjA2N2JiOGQ5Yjc1ZmYwYTVjOTM2MDhhNzcwY2U=",
+      "date": 1518048000000,
+      "text": "FGTS referente ao TRCT complementar | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDdhNjE1NTRlY2EyZWQxOGJlN2VhMjc3ODI4NzcwYzg=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 6 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODIwNjdiMDNhNGE4ZTBhOGVlZDg2MTk3ZTkwZTg5ZGE=",
+      "date": 1493251200000,
+      "text": "Reclama\u00e7\u00e3o Trabalhista - MARIO JORGE FERRAREIS-otimizado 1 | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI4ZGIwYzgzYTk2ZjU4NDU5MDFkNTE4MTlmZjA5YzA=",
+      "date": 1518048000000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzVjNWU2ZTk1M2ZiMGM4NjA3ZTE3MTY5MDg0Y2I1M2U=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 5 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY3YTJmMWUzMzU3ZTZjN2UyNjk1Yjg2MGNmOWI2MDQ=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente ACA 02 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yzk3MGExZjY3NWJlZWU0MGQxYWQ1MjA2MjhkMzA4NDA=",
+      "date": 1517961600000,
+      "text": "Subs | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzQ0MzJhNjI1YzRlY2VjNzNiOWQ3ODM0ZjZjOGQ2MTU=",
+      "date": 1570579200000,
+      "text": "Conclusos os autos para julgamento (relatar) a SUELI TOME DA PONTE",
+      "attachments": []
+    },
+    {
+      "id": "ZDc5YWY5MjUzYzUxYmZmNDdhMDY1MDRmNDBlMGNiYTA=",
+      "date": 1493251200000,
+      "text": "DECLARA\u00c7\u00c3O | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDNlNmQzYzc1NWEyMTdkYmQ0ZDU5NTZkMDYxYTM4M2U=",
+      "date": 1518048000000,
+      "text": "PCMSO ABRIL GRAFICA 2014 parte 4 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDE4Y2E2Nzg2Y2IwMGI4MDU3NDZhZjhlYTc2M2ZhOWY=",
+      "date": 1526515200000,
+      "text": "Senten\u00e7a (paradigma) | Senten\u00e7a (paradigma) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQ0YjNhNzE5Y2NjMzJmODNjYzgyMzU3OTVlM2FlNTA=",
+      "date": 1493251200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGMzYzUwNGVkMWNiNzdkZTM1MmIwMWJkOGFlMzNiYTE=",
+      "date": 1518998400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjM4M2RhN2FiNmJhYjA5MDUxYzg2MThmOWE3YjY4MGE=",
+      "date": 1527638400000,
+      "text": "Juntada de Substabelecimento e carta de preposi\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWUwYTBhODg1ZmE1YjcyNWVmZjFkN2NjYWE2ZDdlMzg=",
+      "date": 1493251200000,
+      "text": "PROVA EMPRESTADA LAUDO 3 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDA3ZGRmYzNiYTllYmFmYmQ3M2QyNDM0M2VmZmI3NGY=",
+      "date": 1518048000000,
+      "text": "Termo de Rescis\u00e3o do Contrato de Trabalho | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTVjMmZkMDM0ODZjMzU4OGNlOGQwOGM1NWZlMTVkZDE=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente AMM 08 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZiMmZlMGM3ZGU5ODU5YmMzOTlkMDE2Mzc5YzVlMmQ=",
+      "date": 1518048000000,
+      "text": "Banco de Horas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNjMWJlNzVjM2MzZDQzNjRjYWFhYmIzYjA5NWNhOWM=",
+      "date": 1525392000000,
+      "text": "Impugna\u00e7\u00e3o | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjViZDgwMjhhOGY0YzQ3OGFlNTQwZWE2MGU3NDgwMDc=",
+      "date": 1518048000000,
+      "text": "Email 3 prova das atividades do Reclamante | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODE1MjczZmRkMzBiMTY4NzkwN2IyNGJiYzk3ZmRlNDA=",
+      "date": 1518048000000,
+      "text": "Contrato de Trabalho | Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTY3N2I0ODlhMzFlNWIwOWY4MTA1YzQzOGVlOTZiZjU=",
+      "date": 1561593600000,
+      "text": "Retirado de Pauta. Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjUzMjZmNTI1MDljNTc2M2ZjNjAxM2Y1MmY4ZDc0Y2E=",
+      "date": 1518048000000,
+      "text": "EMAIL 1 Assinatua SESMT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2NhN2RhODU1ZDExMGY5NTA1ZjM1ZmM4MTE4OTEwOWM=",
+      "date": 1518134400000,
+      "text": "Intima\u00e7\u00e3oPeritoArnaldo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzljODhjZDA2NGFhZmVjMDlkMmM5MDk3OTc3YTgzZWM=",
+      "date": 1518048000000,
+      "text": "PCMSO 2016 Junho 16 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2EzNTcyN2UxNzQ1M2E1YmFmNjQ3Mzc0NzA1MTg0NzY=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente ACA 04 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDI4MjhlZTVmMzczOTlkMDY2ZWFjNDM0YmMwMTZkNjE=",
+      "date": 1518134400000,
+      "text": "intima\u00e7\u00e3oPeritoArnaldo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDBlMjAwMjJkZTM4YTZmNGRkNjcyYzc0MDE3MDhkYWU=",
+      "date": 1493251200000,
+      "text": "PROVA EMPRESTADA LAUDO 1 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI3ZTZmZjU0NTJjNTg1ZjVlNTIzYjAzYzU0MzFhYzI=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 1 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJkNDg0MTc5N2NhODQ5MTU5NDA3Zjg0YTg1Y2JlNzk=",
+      "date": 1517961600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGUxZDg3NDU4OGM4NGY3Y2UxZDFiM2RmMzcyN2MxYTA=",
+      "date": 1518048000000,
+      "text": "Delimita\u00e7\u00e3o das \u00e1reas da Abril | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Y3MGIxZjFiYzNlOTUzZjJmMGMwNGYwY2VmYWQ4NWU=",
+      "date": 1520467200000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWY2YzdmOGVhYjY0NTI3NDQ5MWUwZDQxMWUzM2M1Njc=",
+      "date": 1493251200000,
+      "text": "PROVA EMPRESTADA LAUDO 5 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmJlZTEwZDlhZDMyMzI3Y2Y1MjZhYzlmNGRjMzU2YmQ=",
+      "date": 1528416000000,
+      "text": "Portaria 105.2017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY2M2UyYWNjNWFhMGI4ZTllYTViYWMyYzgyYTk3Mjg=",
+      "date": 1519171200000,
+      "text": "Indica\u00e7\u00e3o de Quesitos e Assistente T\u00e9cnico | Indica\u00e7\u00e3o de Assistente T\u00e9cnico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWQ4MWQyNzMyODEyY2M2ODQ4ZGYyMWU1MTViN2FiNTg=",
+      "date": 1518048000000,
+      "text": "PCMSO ABRIL GRAFICA 2014 parte 5 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQyNjM2YTk3ZmIyMTJhYmE2YWRlMzk0NWE2NWM0MDk=",
+      "date": 1561507200000,
+      "text": "Retirado de pauta o processo",
+      "attachments": []
+    },
+    {
+      "id": "YjE1YTgzMDIyZTVjOWE2ZTg2MDYwMTkzNmMyM2FmNDI=",
+      "date": 1528416000000,
+      "text": "Peti\u00e7\u00e3o PDF | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjJkODliYzVmMWUyYjUzMjVhMDg4ZGE1NTFlMjFjN2Q=",
+      "date": 1525996800000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTVjMTA1OWU5MjYyYjdkNWU0NGFiZmE4MWU5NTM3MWE=",
+      "date": 1518998400000,
+      "text": "manifesta\u00e7\u00e3o reclamante | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTJmNjQ2NzZlNjE1MThlNjViYzg5YmFkMDg2YTFhYjU=",
+      "date": 1493251200000,
+      "text": "TRCT | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBhNzA3MzgwNDkzZjJlZGEwMWIxNjRjM2IzODM1MGQ=",
+      "date": 1518048000000,
+      "text": "PCMSO ABRIL GRAFICA 2014 parte 2 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWJhN2E0NTI3MmQzNzY1ZWU5ZWMwZTdiNDY4M2IyNzc=",
+      "date": 1518048000000,
+      "text": "Comprovante de Pagamento das Verbas Rescis\u00f3rias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmEyMDQ3ZjRjNDdiMTJmZTcyMjZjMmY3NzFkYmU4NTc=",
+      "date": 1519084800000,
+      "text": "Manifesta\u00e7\u00e3o data da audi\u00eancia | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTcwZGY0MWM1OGRlZDY2NmY4Y2JmY2EyYzFiNGZhY2M=",
+      "date": 1528416000000,
+      "text": "Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjg5OTU1NDAxYWQwYWQ0N2Y3NjdlNTIxYzE5NjcyYjQ=",
+      "date": 1527638400000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mzc1MTI4NGYzNzA2ZjMxZGVmOTU0MmJmMzEyNTJmODQ=",
+      "date": 1559088000000,
+      "text": "Conclusos os autos para julgamento (revisar) a SERGIO PINTO MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "NTc3YWNiYjdhZWI3YmRlZjc0N2NlN2RiZTg4MjEwODY=",
+      "date": 1518998400000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2YzNDIzODdhN2FjM2I4ZTM4NThmY2E5N2JiY2IxY2I=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 3 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzUwMTQ5NWQ4ZWY1NzU2YmE5OGNjYzU2ZjYzOTgyNTI=",
+      "date": 1531267200000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQ2NzA4ZmMxN2Q5NjJlZjIzNDJmZmZjNTBkOGM0ZGI=",
+      "date": 1518048000000,
+      "text": "Atestado de Sa\u00fade Ocupacional (ASO) | Atestado de Sa\u00fade Ocupacional (ASO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNmMmUyODVjOGU5MTAwMmQwNzMzNzI3ZjUzZTM1YWE=",
+      "date": 1520035200000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDkxZTJiYjhkZDE3NjNjY2YyZWFjZmFmMzk5MzNkMjg=",
+      "date": 1518048000000,
+      "text": "PPRA 2015 ADM | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWE3Mzg4M2Q3YzhkYTNiM2Y3YzE0YmQ4Nzc1NWNmY2M=",
+      "date": 1518048000000,
+      "text": "Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) | Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjZkZTJlYzIyNzFlYzIwMjgyZTM5N2U1NGY4YzRhMjQ=",
+      "date": 1518048000000,
+      "text": "ermo de Homologa\u00e7\u00e3o da Rescis\u00e3o do Contrato de Trabalho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTk2Y2JiM2JiOTNkY2Y2ZDI3YmI4Y2QyMjliODA3NWE=",
+      "date": 1559865600000,
+      "text": "Disponibilizado (a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTA3OTU1ZGM3ZjcwNzY0ZmQxN2NiMGVhYjZmNDU0ZTA=",
+      "date": 1518048000000,
+      "text": "Certificados de Treinamentos de Seguran\u00e7a do Trabalho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA3YWU1YjQ1NzVmZWY1OGVhOGFkNWQ5NzRkOWZiODM=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente ACA 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODkzYTBiN2I5OGNlN2ZjYmNiNTMwZDlmNjliNmY4NjU=",
+      "date": 1493251200000,
+      "text": "EXTRATO FGTS | Extrato de Conta do FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWFkOGU2ZDk3NTA1Yzg2NmU0MWMwMTYzNTE1OGZkMjE=",
+      "date": 1527033600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZTE0NzdjNWRiZWE1ZTA1YTY5NjAxM2YyZTkzZmJjZjE=",
+      "date": 1532476800000,
+      "text": "Recurso Ordin\u00e1rio da reclamada | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg4NmM0N2Q0OTM0ZDNiYTA0ZTgxOWY5ZDNhOTI1ZWY=",
+      "date": 1518998400000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos | Apresenta\u00e7\u00e3o de Quesitos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ1Y2UzZjU2Yjc2ZDAyMTU3YTczZmZjYjE0Zjg0YmM=",
+      "date": 1535328000000,
+      "text": "Controle de prazo recursalMinutar decis\u00e3o - ARminutaEmElaboracao | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDM1YzkxZjZhNDcwMTc0YzdkZDgwZWZlY2Y2YmM1YjY=",
+      "date": 1520035200000,
+      "text": "cerceamento a defesa t\u00e9cncica reclamante | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWYyMTRkOTZhZThkMDQzMzY2ODY3ZTNlYzE1OTUzNmY=",
+      "date": 1493251200000,
+      "text": "PROVA EMPRESTADA LAUDO 4 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGUyOGZmZTRlNGMyMzcwZDE1Nzg3ZWFlN2E5MzY4M2E=",
+      "date": 1518048000000,
+      "text": "Fihca de Registro Emerson e Alex Sandro | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJjNzRjYWIyOTdhYmE3OGJlMTUwNmJkNGRjMmMxZGQ=",
+      "date": 1518048000000,
+      "text": "Contrato Ultragaz e Abril | Contrato (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU4NWI5NDVjOTZkYzRiNDJkYWUxNjdlNGEwNGFjNmE=",
+      "date": 1518048000000,
+      "text": "FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWFmODVkNWU0NmFlMDA2MmNjNmY0YjNkZjZlODZiZDQ=",
+      "date": 1524614400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFkZWZlNzM3MGI0MWFiNjhjMTJhZmIyNmZmYTE3NDA=",
+      "date": 1518048000000,
+      "text": "Termo de Rescis\u00e3o Complementar | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmM3YzllODI0MDQyYWRkNThlMzNkNzA0NmVjODFhNTI=",
+      "date": 1520812800000,
+      "text": "Juntada de Parecer de Assistente T\u00e9cnico da Reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2ExMWJlMDVlZjVkYzUzM2FlY2YzYTZiZDY0ODE2NDc=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente ACA 05 2016 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGVjMDUxNTM0OGI3YjRhZWU5NDJlMDc2Nzk1ZDRhMzQ=",
+      "date": 1520899200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2N2NlNTZlNjc1NmM4NjE0OGFkMDgyNWJlYzgxODY=",
+      "date": 1559260800000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NDI5N2MxZDZlOTAwNGMwYzA3NmI5MWZkMWZhM2VlNGM=",
+      "date": 1518048000000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzhiOGM0Nzk5NGMzMTEzY2Y5YTI4MDY3NmM4ZmFiMjE=",
+      "date": 1535328000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDA1MWE4ZDAxODU2ZGUzYmU0OWUyMDU2YzBmODQxY2Q=",
+      "date": 1526515200000,
+      "text": "pedido de juntada de senten\u00e7a paradigma | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDFlMGRlMTUwZGZhZTZlMDcyNTgwY2I5N2E3M2E0ZTg=",
+      "date": 1502668800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ0NDU1YWNlOTAxMDkzNzViYzg2MzY0NTBjYmQ1MDc=",
+      "date": 1518048000000,
+      "text": "EMAIL 4 enviado pelo reclamante descrevendo suas atividades | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTA1YmQxM2NmYmE5MTYyYjZhODI5ZjQ1YzAyNzQ3Njg=",
+      "date": 1518048000000,
+      "text": "Orienta\u00e7\u00f5es de Seguran\u00e7a do Trabalho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjEwNDM1MTM3ZWEyNGJkMjJmNGYyZTgzZTg5NDM5Yjk=",
+      "date": 1518048000000,
+      "text": "Holerites | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzcyNjM0ODZhZmVhYmVlOTJiODllNjZkOTZkOWNkMmE=",
+      "date": 1518048000000,
+      "text": "PCMSO ABRIL GRAFICA 2014 parte 3 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODc4ZmFkMDJkNTEyNzdjYWNmNDQ4YmVhY2Y0ZWNjNzg=",
+      "date": 1560211200000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 11/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "Mzc5ZTEyMGE5ZWI2N2E1NWVkNmUyYjBkMTgxNDhkZmY=",
+      "date": 1522627200000,
+      "text": "laudo paradigma pedido de juntada reclamante | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzBkYTg0OWIwMjA0ZjgzMGMwODViZjRlZGU5MjJmNWU=",
+      "date": 1518048000000,
+      "text": "PCMSO ABRIL GRAFICA 2014 parte 1 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmYwNmFkNDI0Y2ZkYTlkZDFlODNkNmM3ODNlZjE3MTc=",
+      "date": 1518048000000,
+      "text": "Investiga\u00e7\u00e3o Acidente ACA 05 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQxOWVjMzNkYWIzY2VhZjdhMGQ0ZmVkZTliMjg4NTU=",
+      "date": 1518048000000,
+      "text": "PPRA 2014 parte 4 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmNkM2IzMGViZTg2MTczZDIwMDcwN2Y2ODFlOWQzMzE=",
+      "date": 1518048000000,
+      "text": "PPRA Abril MGN 2016 | Programa de Preven\u00e7\u00e3o de Riscos Ambientais (PPRA) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg4ZTRmNjM0OTBlYTUxODM4ODg3NGI5MzQxNDljMjM=",
+      "date": 1499040000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWFkNTQ3ZDRlNjYxZGY5NjRhNjE0NTExNmJiZWZiNzE=",
+      "date": 1520985600000,
+      "text": "Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmM4ZDIxYzc3MzM2ODZhZGU4MDJhZjUwMmIwOGU4M2Y=",
+      "date": 1517961600000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWZiYzdhOTlkZDkxMGUyYjc2YmY4MGU2MWQzYzI5ZWY=",
+      "date": 1493251200000,
+      "text": "PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzQxNDI4ZDI2YTYwMDFjNTJiODIyMTc3YzJiZWY0YTg=",
+      "date": 1517961600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg0NzFlYWQ4N2JiNzk0NTFmNTRiZWNhNDI4YTBhODE=",
+      "date": 1518048000000,
+      "text": "PCMSO Abril Gr\u00e1fica 2015 | Programa de Controle M\u00e9dico de Sa\u00fade Ocupacional (PCMSO) (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

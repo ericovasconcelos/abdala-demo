@@ -1,0 +1,673 @@
+{
+  "lawsuit": {
+    "id": "NGZjMDIzNDctYXV0b21hdGljOjE2MDQyODI0LTAwMDA1NjU0NTIwMTk1MTAwMDE3LWxhd3N1aXQ=",
+    "activityCount": 99,
+    "number": "0000565-45.2019.5.10.0017",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Katia Maria Sousa Nery",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Juselia Nunes Ferreira",
+            "cpf": "011.465.091-89",
+            "lawyerId": "MTc5ZWI0YzctYXV0b21hdGljOjE2MDQyODI0LWJhNjA4OTc5MjlmMzJlYS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjcxODBlODYtYXV0b21hdGljOjE2MDQyODI0LWFiMmVlZjExY2JlY2UwYS1sYXd5ZXI="
+          },
+          {
+            "name": "Cristiano de Lima Barreto Dias",
+            "cpf": "017.952.377-59",
+            "lawyerId": "Zjg2OTE3YzctYXV0b21hdGljOjE2MDQyODI0LWI1MTUwMzk4NWFmODY3My1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Soler Representacao e Distribuicao de Jornais e Revistas LTDA - ME",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT10",
+    "courtSection": "17\u00aa Vara do Trabalho de Bras\u00edlia - DF",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "N2NlZjYwYWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jM2ZjZmMxMmI3YzFkNjgtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NTllNmNmYTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNjVmNGNmZjIwNGRlMDctMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdhNjZhMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YjNkNDMyMjIxNjQ0Y2UtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Audi\u00eancia inicial designada (22/07/2019 13:50 - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNiM2MyMTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZDZjMzhlM2VkNzFkOTktMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NTYyYjlhNTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01Y2NmYjljMTU5NjYxMGMtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Extrato Banc\u00e1rio | Extrato Banc\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjA3MjFhYjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYjdkMjg2ZDNlYTVkMWItMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Rel\u00e1torio de Vendas 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTgyNzdhMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMWIyYzFlYTAwYWE1NzQtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Comprovante de Dep\u00f3sito JudicialRel\u00e1torio de Vendas 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjc2NTg2M2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTAzZWI2YmY5MDRkNzgtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Rel\u00e1torio de Vendas 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWY1MzcxOWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMWM2NjM2ZDViZWI1YjEtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Crach\u00e1 funcional | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWE1NzM4YzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MjBjYTQ2MmIzYzJhNjctMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Comprovante residencia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTE0NWQxNWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNTNjYTBmNzM4ZGU1OWItMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Carteira de Identidade/Registro Geral (RG) | Carteira de Identidade/Registro Geral (RG) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDM2OGEwMzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YTVjY2E3ZTk4Y2ZlOTAtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTA1ZWM0NWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNTFiMjNlMTFhNmY2ODUtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmFjNzEzNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iM2IwNjAzNDZlNGI1YjgtMTU2MTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561345200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY4YWZmYjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMzVjY2QxZjUzMDcwMDEtMTU2MjEyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1562122800000,
+      "text": "AR NEGATIVO SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2FkZmJjYTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00M2QxZjUxZmJmMTc0ZDUtMTU2MjY0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1562641200000,
+      "text": "AR NEGATIVO ABRIL COMUNICACOES SA | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGJjOWMzNGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZThjMDkyNDA5ZGUzOWItMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Audi\u00eancia inicial designada (07/10/2019 13:43 - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzOWNkNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMGZhMDIxNTNkZDNlNjctMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Audi\u00eancia inicial realizada (22/07/2019 13:50 - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "OGIwM2ZkYWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZjI3ZjJiZjQxMTJkOWUtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MWFjYWZkYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YmI3MzQ1YTliMzcxNGUtMTU2NTc1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565751600000,
+      "text": "ENDERE\u00c7OS PARA NOTIFICA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZiNDcwNGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yY2VjMDY5MTVhODc1NzUtMTU2NTc1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565751600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (ENDERE\u00c7OS PARA NOTIFICA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "YzcxOTM2MGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jM2ZjZmMxMmI3YzFkNjgtMTU2NjM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566356400000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "YWVkNzExY2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNjVmNGNmZjIwNGRlMDctMTU2NjM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566356400000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWEzNWVkNTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYmExZjhkNWY0MTg4YjktMTU2NzA0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567047600000,
+      "text": "AR POSITIVO ABRIL COMUNICACOES SA | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNiNGM4OTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNDgyZTdmMTU3MjNmMTYtMTU2NzQ3OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567479600000,
+      "text": "AR POSITIVO SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTYxY2M5OTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZWVjMjBlYTdhMTE0MjMtMTU2NzY1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567652400000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjRkZGFhZDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lM2IzNDYxZmY3MzlmYzMtMTU2NzY1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567652400000,
+      "text": "DOCUMENTOS DE REPRESENTA\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzRiZjAzMTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNTFiMjNlMTFhNmY2ODUtMTU2NzY1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567652400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjcwZDU3ZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYjk2MTY1M2FjOGNkMGMtMTU2NzY1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567652400000,
+      "text": "HABILITA\u00c7\u00c3O | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmZhZmNiNGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMjAwMTI2ZWVlZjQ5M2MtMTU2NzY1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567652400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (HABILITA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "ZDI2MjMyYjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMGRjMzM3MTM3ODMyNzUtMTU2OTk4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1569985200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWJhNmRmZTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDFmNWQxNDE0ZDY5MDctMTU2OTk4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1569985200000,
+      "text": "AR negativo SOLER | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjY1YTQ5ZTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZTk1MzQyNDEwNmJiOTEtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Decreto deferindo pedido de suspens\u00e3o da AGC | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTY1YWZlNmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mY2Y5NjBjMTBiYWEzYTMtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Provimento 01.2012 da CGJT do TST | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkzNTQ2NjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xM2E3OWIxNzY5NGViNjItMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Terceira prorroga\u00e7\u00e3o de Assembleia Geral de Credores | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDYyMTBkNzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Y2NhNzM3ZjNjYjZjODYtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Primeira prorroga\u00e7\u00e3o de Assembleia Geral de Credores | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTVkYmRkOTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNWQ4NzFmM2Q1ZGMzMTMtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Segunda prorroga\u00e7\u00e3o de Assembleia Geral de Credores | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWU5OTRmODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZDJiZGE5NjRmMDFhNmMtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Decis\u00e3o deferindo Recupera\u00e7\u00e3o Judicial - Grupo Abril | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg5OGYwNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNjhlYzdiM2RkZGQ0YWItMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "CPS Soler x Abril | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGI0ODY0Y2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NDI4ODU5YWJiZjI3N2MtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Contesta\u00e7\u00e3o Abril | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTU2ODUxMzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTRmMmI4MWJlODc4N2MtMTU3MDE1ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570158000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o Abril)",
+      "attachments": []
+    },
+    {
+      "id": "NDMzYmY5MzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MTk5NmNkZmNjNzczODAtMTU3MDQxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570417200000,
+      "text": "Audi\u00eancia inicial realizada (07/10/2019 13:43 - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "M2QzMjJkNWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZjI3ZjJiZjQxMTJkOWUtMTU3MDQxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570417200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZmI1MTgyMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZTQ1NzU1MWI3MGUzYjItMTU3MDUwMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1570503600000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (10/08/2020 14:35:00 Sala Principal - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "NjZhMTU0NmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNjczYzJkNmFlNzZjMmMtMTU3MTAyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571022000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Subs e CP Abril)",
+      "attachments": []
+    },
+    {
+      "id": "OTMwNzEwY2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZTg3MTA1NjMzMjU3OWQtMTU3MTAyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571022000000,
+      "text": "Subs e CP Abril | Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGEyYTAxMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMGQ4MmFmNDI3OTVhODktMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Edital(RECDO SOLER) | Edital (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODI3YTczMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2MzNjVkYTRkMmE2NjQtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Expedido(a) edital a(o) SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME",
+      "attachments": []
+    },
+    {
+      "id": "NzU0ZDVjZWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGUxODg3MGEwMDNlYTQtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MTk1MWUzZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGVmNzI0ZjMzZTFmMGMtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) KATIA MARIA SOUSA NERY",
+      "attachments": []
+    },
+    {
+      "id": "YWQ2OWYyMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNmY4MWEyYTZkODMyODEtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjQzMDhiMDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYzMyMjVkZWVjOTNmMDgtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YWM0YWFmMzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDg4OTA2NjJmOWU4NTgtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MzI1MzlmZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMWRmNDBiNzI5ZjNiMmEtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a WANESSA MENDES DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "OWVmMjY1ZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMGJiM2E5MDBlY2Q3YmMtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (10/08/2020 14:35:00 Sala Principal - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "NTVmODY0MzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YTg3ODZmYTE3YTdjMWMtMTU5NDAwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594004400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (16/03/2021 14:05:00 Sala Principal - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "MDcwZDllN2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYzNhYmQ4YWI0OTJlM2YtMTU5NDA5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594090800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzNmOGYzOTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMzQxYTYyODMwM2JiYmEtMTU5NDA5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594090800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "MGQ4Y2NjMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYjQyYWE1YzdkNjI2ZDgtMTU5NDI2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594263600000,
+      "text": "Disponibilizado\n(a) o(a) Edital no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDY4ZjdiYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGRlMjkxZTRmZGIyNDEtMTU5NDI2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594263600000,
+      "text": "Publicado(a) o(a) Edital em 08/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "YTFjZGI4NzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMGY2NWE2MzEzY2QxN2MtMTU5NDY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594695600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O )",
+      "attachments": []
+    },
+    {
+      "id": "ODJmNmY0OWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjJkNmI0OTA0OGZiMTMtMTU5NDY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594695600000,
+      "text": "MANIFESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2I4OWU5YTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZjhmM2U0MTFlOWY2NDQtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME",
+      "attachments": []
+    },
+    {
+      "id": "NDY4ZjBjNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNmY4MWEyYTZkODMyODEtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQxYmNjOTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGUxODg3MGEwMDNlYTQtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "ZGU2YzYzNmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGVmNzI0ZjMzZTFmMGMtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) KATIA MARIA SOUSA NERY",
+      "attachments": []
+    },
+    {
+      "id": "N2FiOTYwNWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMGRjMzM3MTM3ODMyNzUtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg3NDM4ZDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTE3MWM1ZjM2OGJlMGYtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 14/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjgwYWEwOTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNTEyNmVmYTllOTJhNTMtMTU5NDc4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594782000000,
+      "text": "Decorrido o prazo de KATIA MARIA SOUSA NERY em 14/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NTc1ZDEzMTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYzNhYmQ4YWI0OTJlM2YtMTU5NDg2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594868400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzFmYjU2MWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZWNiNjVmZjA0MjhlZDYtMTU5NDg2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594868400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "Nzc3OTM1ZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZTQ3N2JhNjEzZWNkYzAtMTU5NDg2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594868400000,
+      "text": "Decorrido o prazo de SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME em 15/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NjY5MTEwMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wODg1NDYxY2Q4YzcwNWItMTU5NTU1OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1595559600000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 23/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZmU3OTA0YTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MTc0ODBhZjZhZGM3ODYtMTU5NTU1OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1595559600000,
+      "text": "Decorrido o prazo de KATIA MARIA SOUSA NERY em 23/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "M2E2MjQyNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MTBkODZhMzM4YjA1NzMtMTU5ODE1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598151600000,
+      "text": "Decorrido o prazo de SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME em 21/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjNkNDYyNmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNTFiMjNlMTFhNmY2ODUtMTYwMzI0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603249200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQ0MzE4YjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZWVjMjBlYTdhMTE0MjMtMTYwMzI0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603249200000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA4OGM4YTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZGYyNWE1ZGQ2MDI4NjgtMTYwMzI0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603249200000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQzNmEzNjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYjk2MTY1M2FjOGNkMGMtMTYwMzI0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603249200000,
+      "text": "Habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGE0MTVhOTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMjAwMTI2ZWVlZjQ5M2MtMTYwMzI0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603249200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YzdmMTBkNTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZjhmM2U0MTFlOWY2NDQtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME",
+      "attachments": []
+    },
+    {
+      "id": "ZDE2NTY5YTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MDNiNWIxYjZhZjEwNDUtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Intima\u00e7\u00e3o(RECDO SOLER REPRESENTACAO) | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njc2NjAyN2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGUxODg3MGEwMDNlYTQtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "OGMxNTk3MDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGVmNzI0ZjMzZTFmMGMtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) KATIA MARIA SOUSA NERY",
+      "attachments": []
+    },
+    {
+      "id": "NzQ3N2VjMWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNmY4MWEyYTZkODMyODEtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzcyZDU1NTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYzMyMjVkZWVjOTNmMDgtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGY4ZjNjNDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDg4OTA2NjJmOWU4NTgtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWRjZjkzMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMDc2ZWUyNTQ3NjE0MTQtMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANGELICA GOMES REZENDE",
+      "attachments": []
+    },
+    {
+      "id": "MWUwMDVlMDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNGE0YjlkZTk2ZmY1ZTktMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (16/03/2021 14:05 Sala Principal - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "MTI0YTZhMGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jODAzYWNjNjlhY2EzNDctMTYxNDY1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614654000000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (08/11/2021 14:05 Sala Principal - 17\u00aa Vara do Trabalho de Bras\u00edlia - DF)",
+      "attachments": []
+    },
+    {
+      "id": "MjljNWMyYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZGYxOTg1NjdjNzFhNzQtMTYxNDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614826800000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzdkYzg0M2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDIzOGY1YjdjYjdiZGUtMTYxNDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614826800000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 04/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "OTViNmViYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMjY0M2M2YTY2YTljN2EtMTYxNTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615345200000,
+      "text": "Manifesta\u00e7\u00e3o ABRIL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ0NmMzZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMGY2NWE2MzEzY2QxN2MtMTYxNTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615345200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NzczYzhmYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjJkNmI0OTA0OGZiMTMtMTYxNTM0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615345200000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWVjZDRhNmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YjFiODJmYmNkN2U4ODItMTYxNTUxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615518000000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 11/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "NDYwZjg1YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNjkzNzVlNzVlODYyYzUtMTYxNTUxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615518000000,
+      "text": "Decorrido o prazo de KATIA MARIA SOUSA NERY em 11/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZDVjZjYzMzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZmE3ZThmMjJkNjVlNTAtMTYxODM2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1618369200000,
+      "text": "Decorrido o prazo de SOLER REPRESENTACAO E DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME em 13/04/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZTgxYTNkZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01OGE5ODEzY2RlNmRjM2YtMTYyNTEwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1625108400000,
+      "text": "ATO ORDINAT\u00d3RIO | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

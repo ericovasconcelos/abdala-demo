@@ -1,0 +1,554 @@
+{
+  "lawsuit": {
+    "id": "MDExNzEzM2EtYXV0b21hdGljOjAtMTAwMDM3MTEwMjAxNjUwMjAwMzItbGF3c3VpdA==",
+    "activityCount": 72,
+    "number": "1000371-10.2016.5.02.0032",
+    "value": 52000.0,
+    "subject": "Adicional de Periculosidade, Hora Extra - Integra\u00e7\u00e3o",
+    "kind": "Trabalhista",
+    "district": "32\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Ariosvaldo Rodrigues da Cruz",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Jorge Rodrigues Cruz",
+            "cpf": "107.432.958-97",
+            "lawyerId": "MmE1ZDdmMDUtYXV0b21hdGljOjAtMmVkNGQ0NWQwZDc2ODBiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1457558490000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Hora Extra",
+                "code": 6065
+              },
+              {
+                "level": 3,
+                "text": "Contribui\u00e7\u00f5es Previdenci\u00e1rias",
+                "code": 6048
+              },
+              {
+                "level": 2,
+                "text": "Contribui\u00e7\u00f5es",
+                "code": 6031
+              },
+              {
+                "level": 1,
+                "text": "DIREITO TRIBUT\u00c1RIO",
+                "code": 14
+              }
+            ],
+            "last_text": "DIREITO TRIBUT\u00c1RIO",
+            "last_id": 14
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Periculosidade",
+                "code": 10292
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "6065-10292"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "32\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJi",
+      "date": 1519787393000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 27/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE4",
+      "date": 1525931688000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 09/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNk",
+      "date": 1502727166000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGUw",
+      "date": 1464873681000,
+      "text": "Audi\u00eancia una-rs ou justifica\u00e7\u00e3o pr\u00e9via redesignada (14/06/2016 09:00 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI3",
+      "date": 1522360488000,
+      "text": "JUNTADA DE SUBS E CARTA DE PREPOSI\u00c7\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGIy",
+      "date": 1522841767000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a MARA CARVALHO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFl",
+      "date": 1524486962000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 600.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE2",
+      "date": 1528721881000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRk",
+      "date": 1473183451000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGIw",
+      "date": 1524486961000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de ARIOSVALDO RODRIGUES DA CRUZ",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMDlk",
+      "date": 1535457201000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRh",
+      "date": 1474645167000,
+      "text": "Juntada Documentos Representa\u00e7\u00e3o Processual",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGEx",
+      "date": 1529710008000,
+      "text": "Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM4",
+      "date": 1507741819000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM3",
+      "date": 1507741819000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ0",
+      "date": 1477317663000,
+      "text": "Peti\u00e7\u00e3o apresentando quesitos e assiste t\u00e9cnico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM1",
+      "date": 1508172442000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (16/10/2017 12:20 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ3",
+      "date": 1474905978000,
+      "text": "Audi\u00eancia una realizada (26/09/2016 10:00 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGMw",
+      "date": 1518103118000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJm",
+      "date": 1518103119000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRl",
+      "date": 1464873977000,
+      "text": "Audi\u00eancia una designada (26/09/2016 10:00 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJl",
+      "date": 1518103120000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE0",
+      "date": 1528721882000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ2",
+      "date": 1474905978000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQy",
+      "date": 1485601775000,
+      "text": "juntada de parecer t\u00e9cnico reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGEz",
+      "date": 1528798301000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGUy",
+      "date": 1457558490000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMDlm",
+      "date": 1529821282000,
+      "text": "Decorrido o prazo de ARIOSVALDO RODRIGUES DA CRUZ em 22/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE5",
+      "date": 1525931687000,
+      "text": "Decorrido o prazo de ARIOSVALDO RODRIGUES DA CRUZ em 09/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGIx",
+      "date": 1524486961000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI0",
+      "date": 1522693316000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (02/04/2018 14:30 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFh",
+      "date": 1525454434000,
+      "text": "Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNm",
+      "date": 1502723552000,
+      "text": "Conclusos os autos para despacho  a MARA CARVALHO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ5",
+      "date": 1474664989000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI5",
+      "date": 1522260744000,
+      "text": "Esclarecimentos Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFk",
+      "date": 1524486962000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI4",
+      "date": 1522260893000,
+      "text": "Esclarecimento de Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGIz",
+      "date": 1522693317000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM5",
+      "date": 1507734083000,
+      "text": "Conclusos os autos para despacho  a EDUARDO RANULSSI",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNi",
+      "date": 1502911826000,
+      "text": "LAUDO PERICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGUz",
+      "date": 1457558336000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ1",
+      "date": 1475951556000,
+      "text": "manifesta\u00e7\u00e3o reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNj",
+      "date": 1502806906000,
+      "text": "e_mail perito",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE1",
+      "date": 1528721881000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGEw",
+      "date": 1529710008000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNh",
+      "date": 1507573030000,
+      "text": "Peti\u00e7\u00e3o requerendo a retirada da audi\u00eancia de pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGMx",
+      "date": 1518028868000,
+      "text": "Conclusos os autos para despacho  a MARA CARVALHO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGNl",
+      "date": 1502727166000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRi",
+      "date": 1474644868000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRm",
+      "date": 1464873706000,
+      "text": "Audi\u00eancia una-rs ou justifica\u00e7\u00e3o pr\u00e9via cancelada (14/06/2016 09:00 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMDlj",
+      "date": 1540237128000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGMz",
+      "date": 1508365005000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI1",
+      "date": 1522680394000,
+      "text": "manifesta\u00e7\u00e3o juntada de documento novo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGUx",
+      "date": 1457558497000,
+      "text": "Audi\u00eancia una designada (26/09/2016 10:00 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGE3",
+      "date": 1527599481000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a JULIANA VARELA DE ALBUQUERQUE DALPRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGEy",
+      "date": 1528798301000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJk",
+      "date": 1518238058000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFm",
+      "date": 1524486962000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a ARIOSVALDO RODRIGUES DA CRUZ",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJh",
+      "date": 1519787393000,
+      "text": "Decorrido o prazo de ARIOSVALDO RODRIGUES DA CRUZ em 27/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQx",
+      "date": 1486141249000,
+      "text": "Peti\u00e7\u00e3o requerendo a juntada do Parecer t\u00e9cnico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM2",
+      "date": 1508161720000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (02/04/2018 14:30 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGMy",
+      "date": 1510007227000,
+      "text": "Manifesta\u00e7\u00e3o do laudo pericial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGRj",
+      "date": 1473183464000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGJj",
+      "date": 1518238058000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQw",
+      "date": 1499457469000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/10/2017 11:20 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFj",
+      "date": 1524553421000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMDll",
+      "date": 1529821282000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 22/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGM0",
+      "date": 1508172442000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGFi",
+      "date": 1524553421000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGI2",
+      "date": 1522669470000,
+      "text": "esclarecimentos periciais",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQz",
+      "date": 1484144408000,
+      "text": "AGENDAMENTO DE PERICIA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2UxZjE1NTQ5YmZmMDBmNzFlMGQ4",
+      "date": 1474897751000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/10/2017 11:20 - 32\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

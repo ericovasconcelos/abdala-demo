@@ -1,0 +1,134 @@
+{
+  "lawsuit": {
+    "id": "MWVjNTkyOGEtYXV0b21hdGljOjE2MDQyODI0LTEwMDA4ODQ2MTIwMjA1MDIwMDU2LWxhd3N1aXQ=",
+    "activityCount": 10,
+    "number": "1000884-61.2020.5.02.0056",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Antonio Lisboa Andrade Lima",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ronaldo Domingos da Silva",
+            "cpf": "147.510.328-01",
+            "lawyerId": "N2JiMjNjMTEtYXV0b21hdGljOjE2MDQyODI0LTE2ZjE2MTgzYTM1ZWFhNy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Sergio Gonini Benicio",
+            "cpf": "177.915.568-98",
+            "lawyerId": "YzFiNmQ4N2QtYXV0b21hdGljOjE2MDQyODI0LTQ4OTU1MTA1MGJhMzk4Ni1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Rudd Stauffenegger",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1577890800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "56\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZTQ1Njg1YWQxOTFhMGQzMzZlYThjODhjNjc5YTI0YjU=",
+      "date": 1597449600000,
+      "text": "Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) | Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmUxNjY3YTc0NDI0YjRmNDQ5N2YzYWJlNzY2MDdjYTc=",
+      "date": 1597449600000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NmU2Yzg5MGQ0NDNmYTk2MDA1NzMyYjA3OThhNzdjODU=",
+      "date": 1597449600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcwMDk3NjJhOGQ0YjliZDkyZjVjMmZlYmNmNGZiN2Y=",
+      "date": 1597449600000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNiYzMwNWRhN2M1OTVlMWJhYjU4NjUyYTdlMTg2OGU=",
+      "date": 1597449600000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDRmMTdiNTMzMGYzMTQ0ZWMzMGIwZDQ1YjE1YzljYTg=",
+      "date": 1597449600000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFlYTg2NGMwMWZhM2I5NzY4ODE4OWExNjc5ZmM1NWQ=",
+      "date": 1597449600000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) (paradigma) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (paradigma) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI5YzViMGE5YjU2NDM0OGJjMmE4NzNlZDFhNTc4MDE=",
+      "date": 1597449600000,
+      "text": "Prova Emprestada | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM0OTZiNTRmMmJkNjZjNDM1ODEyYjUwMjMxMDk4Nzg=",
+      "date": 1597449600000,
+      "text": "Audi\u00eancia una designada (03/12/2020 14:30 - 56\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ODkwNjc3MWYyY2RiNWYzNDI2ZmI4YmNhZWJjYzcxZjU=",
+      "date": 1597449600000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

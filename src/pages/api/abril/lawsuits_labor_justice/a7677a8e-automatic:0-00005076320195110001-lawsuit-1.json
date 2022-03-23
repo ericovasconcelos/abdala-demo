@@ -1,0 +1,1071 @@
+{
+  "lawsuit": {
+    "id": "YTc2NzdhOGUtYXV0b21hdGljOjAtMDAwMDUwNzYzMjAxOTUxMTAwMDEtbGF3c3VpdA==",
+    "activityCount": 145,
+    "number": "0000507-63.2019.5.11.0001",
+    "value": 42617.6,
+    "subject": "Reconhecimento de Rela\u00e7\u00e3o de Emprego, Adicional de Horas Extras, Indeniza\u00e7\u00e3o por Dano Moral, Verbas Rescis\u00f3rias",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Manaus",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "R. S. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ademario do Rosario Azevedo",
+            "cpf": "039.482.425-34",
+            "lawyerId": "OGQ2YWRkZmYtYXV0b21hdGljOjAtNDhkMGJiYTgzMGI4ZGZiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "D. R. C.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "A. C. S. A. R. J.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "T. S. A. L. D. R. J.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "T. C. S. A. R. J.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1557925702000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Reconhecimento de Rela\u00e7\u00e3o de Emprego",
+                "code": 2554
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1855-2546-2554-10303"
+      }
+    ],
+    "court": "TRT11",
+    "courtSection": "1\u00aa Vara do Trabalho de Manaus",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRm",
+      "date": 1571106059000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 300.00",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg1",
+      "date": 1557925920000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE5",
+      "date": 1589943720000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA5",
+      "date": 1592535790000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 18/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFh",
+      "date": 1589943720000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBk",
+      "date": 1591672461000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBm",
+      "date": 1591209148000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDMx",
+      "date": 1583851074000,
+      "text": "Iniciada a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdk",
+      "date": 1558348490000,
+      "text": "Conclusos os autos para despacho  a JULIO BANDEIRA DE MELO ARCE",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRj",
+      "date": 1571454060000,
+      "text": "Disponibilizado\n(a) o(a) Edital no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDAy",
+      "date": 1593140501000,
+      "text": "Decorrido o prazo de DISTRIBUIDORA DE REVISTAS CUIABA LTDA                                                                                                                  em 25/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM2",
+      "date": 1574687221000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA3",
+      "date": 1592535790000,
+      "text": "Decorrido o prazo de TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL                                                                                        em 18/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFk",
+      "date": 1589943717000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNi",
+      "date": 1573182531000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ2",
+      "date": 1572577304000,
+      "text": "Decorrido o prazo de TEX COURIER S.A. EM RECUPERACAO JUDICIAL                                                                                                               em 31/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRk",
+      "date": 1571367994000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVi",
+      "date": 1565060653000,
+      "text": "Decorrido o prazo de TEX COURIER S.A. EM RECUPERACAO JUDICIAL                                                                                                               em 05/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE0",
+      "date": 1591187824000,
+      "text": "Conclusos os autos para decis\u00e3o (gen\u00e9rica) a JULIO BANDEIRA DE MELO ARCE",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc1",
+      "date": 1561644580000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE3",
+      "date": 1589943721000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc4",
+      "date": 1558839947000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI0",
+      "date": 1584846178000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVm",
+      "date": 1564840756000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7ao Cita\u00e7\u00e3o por edital)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNh",
+      "date": 1574451103000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg4",
+      "date": 1557925702000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQy",
+      "date": 1573136480000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZh",
+      "date": 1597810841000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 19/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZk",
+      "date": 1562939257000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZi",
+      "date": 1597810841000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc5",
+      "date": 1558839947000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA1",
+      "date": 1592578287000,
+      "text": "Expedido(a) edital  a(o) DISTRIBUIDORA DE REVISTAS CUIABA LTDA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDY4",
+      "date": 1563195744000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBh",
+      "date": 1591672461000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZl",
+      "date": 1562265801000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido parcialmente)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDEz",
+      "date": 1591209088000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA4",
+      "date": 1592535790000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL                                                                                                        em 18/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI1",
+      "date": 1584846178000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdj",
+      "date": 1558351855000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNj",
+      "date": 1573182531000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQx",
+      "date": 1573136481000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL - CNPJ: 44.597.052/0001-62 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDAw",
+      "date": 1597762688000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc3",
+      "date": 1559098921000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 28/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJk",
+      "date": 1583851424000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdi",
+      "date": 1558351856000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE2",
+      "date": 1591042545000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (Apresenta\u00e7\u00e3o de C\u00e1lculos)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFi",
+      "date": 1589943720000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJh",
+      "date": 1584370127000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRl",
+      "date": 1571367994000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI3",
+      "date": 1584370187000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDY5",
+      "date": 1563195744000,
+      "text": "Audi\u00eancia inicial realizada (15/07/2019 08:30 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU2",
+      "date": 1570111909000,
+      "text": "Audi\u00eancia inicial realizada (03/10/2019 08:45 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZi",
+      "date": 1563193757000,
+      "text": "Audi\u00eancia inicial redesignada (30/08/2019 08:05 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDcw",
+      "date": 1561644581000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdl",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRi",
+      "date": 1571454060000,
+      "text": "Publicado(a) o(a) Edital em 21/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZh",
+      "date": 1563195452000,
+      "text": "Expedido(a) documento diverso a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNl",
+      "date": 1573182530000,
+      "text": "Disponibilizado\n(a) o(a) Edital no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBl",
+      "date": 1591209148000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg2",
+      "date": 1557925920000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDUx",
+      "date": 1571106059000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBi",
+      "date": 1591672461000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNm",
+      "date": 1573136481000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de TEX COURIER S.A. EM RECUPERACAO JUDICIAL - CNPJ: 73.939.449/0001-93 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ3",
+      "date": 1572577304000,
+      "text": "Decorrido o prazo de TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL                                                                                        em 31/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDgy",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU4",
+      "date": 1567177235000,
+      "text": "Audi\u00eancia inicial realizada (30/08/2019 08:05 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDUy",
+      "date": 1571106057000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDcz",
+      "date": 1561644580000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM0",
+      "date": 1582025292000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ1",
+      "date": 1573095810000,
+      "text": "Decorrido o prazo de DISTRIBUIDORA DE REVISTAS CUIABA LTDA                                                                                                                  em 06/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZm",
+      "date": 1597762716000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a JULIO BANDEIRA DE MELO ARCE",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU0",
+      "date": 1570124984000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a CRISTIANO FRAGA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM5",
+      "date": 1574478242000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 22/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDcy",
+      "date": 1561644580000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZl",
+      "date": 1597770299000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ5",
+      "date": 1572577304000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 31/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdm",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE4",
+      "date": 1589943721000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg0",
+      "date": 1558348122000,
+      "text": "Audi\u00eancia inicial designada (15/07/2019 08:30 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJi",
+      "date": 1584370127000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg5",
+      "date": 1557925284000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDMz",
+      "date": 1583752962000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDMy",
+      "date": 1583851053000,
+      "text": "Transitado em julgado em 06/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDY2",
+      "date": 1563909143000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7\u00e3o informando endere\u00e7o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM1",
+      "date": 1580230080000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmY4",
+      "date": 1599015721000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 01/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDUz",
+      "date": 1570474805000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Carta de Preposi\u00e7\u00e3o )",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJj",
+      "date": 1584359407000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a DJALMA MONTEIRO DE ALMEIDA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVh",
+      "date": 1567164154000,
+      "text": "Audi\u00eancia inicial cancelada (30/08/2019 08:05:00 Sala Principal - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM4",
+      "date": 1574478245000,
+      "text": "Decorrido o prazo de DISTRIBUIDORA DE REVISTAS CUIABA LTDA                                                                                                                  em 22/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDYz",
+      "date": 1564147949000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQz",
+      "date": 1573126854000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a DJALMA MONTEIRO DE ALMEIDA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZk",
+      "date": 1597770299000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDYw",
+      "date": 1564284186000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDIy",
+      "date": 1589885677000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVk",
+      "date": 1565060652000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL                                                                                                        em 05/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJl",
+      "date": 1583851364000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDY3",
+      "date": 1563296809000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7\u00e3o de representa\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmY5",
+      "date": 1598445145000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU5",
+      "date": 1567164154000,
+      "text": "Audi\u00eancia inicial designada (03/10/2019 08:45:00 Sala Principal - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDEx",
+      "date": 1591209148000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDY0",
+      "date": 1564075567000,
+      "text": "Conclusos os autos para despacho  a DJALMA MONTEIRO DE ALMEIDA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI5",
+      "date": 1584370187000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU1",
+      "date": 1570111909000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDYx",
+      "date": 1564284186000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ0",
+      "date": 1573126822000,
+      "text": "Expedido(a) documento diverso a(o) destinat\u00e1rio/null",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDJm",
+      "date": 1583851364000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDAz",
+      "date": 1592961064000,
+      "text": "Publicado(a) o(a) Edital em 23/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDIz",
+      "date": 1588734087000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 05/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDMw",
+      "date": 1583851102000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a DJALMA MONTEIRO DE ALMEIDA",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDEy",
+      "date": 1591209088000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDdh",
+      "date": 1558357205000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDYy",
+      "date": 1564147949000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFl",
+      "date": 1589943717000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDg3",
+      "date": 1557925858000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a JULIO BANDEIRA DE MELO ARCE",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDUw",
+      "date": 1571106059000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQ4",
+      "date": 1572577304000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL                                                                                                        em 31/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI0ZmZj",
+      "date": 1597770360000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RODRIGO DE SOUZA SANTIAGO",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDcx",
+      "date": 1561644580000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDEw",
+      "date": 1591209148000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TEX COURIER S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFm",
+      "date": 1589885679000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TEX COURIER S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc0",
+      "date": 1561644580000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDgw",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDgz",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDRh",
+      "date": 1572292012000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDgx",
+      "date": 1558348416000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDc2",
+      "date": 1559136086000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (HABILITA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDU3",
+      "date": 1567177235000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDIx",
+      "date": 1589885678000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDAx",
+      "date": 1597762639000,
+      "text": "Conclusos os autos para decis\u00e3o (gen\u00e9rica) a JULIO BANDEIRA DE MELO ARCE",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZm",
+      "date": 1562265648000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido parcialmente)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI2",
+      "date": 1584370187000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA0",
+      "date": 1592961064000,
+      "text": "Disponibilizado\n(a) o(a) Edital no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDZj",
+      "date": 1563193754000,
+      "text": "Audi\u00eancia inicial redesignada (30/08/2019 08:05 - 1\u00aa Vara do Trabalho de Manaus)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDI4",
+      "date": 1584370187000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TEX COURIER S.A. EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDA2",
+      "date": 1592535790000,
+      "text": "Decorrido o prazo de TEX COURIER S.A. EM RECUPERACAO JUDICIAL                                                                                                               em 18/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDFj",
+      "date": 1589943720000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDM3",
+      "date": 1574687134000,
+      "text": "Expedido(a) documento diverso a(o) destinat\u00e1rio/null",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDE1",
+      "date": 1591059760000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVl",
+      "date": 1565060651000,
+      "text": "Decorrido o prazo de RODRIGO DE SOUZA SANTIAGO em 05/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDNk",
+      "date": 1573182530000,
+      "text": "Publicado(a) o(a) Edital em 08/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDVj",
+      "date": 1565060653000,
+      "text": "Decorrido o prazo de TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL                                                                                        em 05/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDBj",
+      "date": 1591672461000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDQw",
+      "date": 1573136481000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL - CNPJ: 61.438.248/0001-23 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWY1ZDA2ZTg0NmNmOWE2NDIwZTI1MDIw",
+      "date": 1589885678000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TREELOG S.A. - LOGISTICA E DISTRIBUICAO EM RECUPERACAO JUDICIAL",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

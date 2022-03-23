@@ -1,0 +1,1053 @@
+{
+  "lawsuit": {
+    "id": "MzE0ZjQ2NWYtYXV0b21hdGljOjY3ODI3MzktMTAwMDgxNTc3MjAyMDUwMjAwNDAtbGF3c3VpdA==",
+    "activityCount": 159,
+    "number": "1000815-77.2020.5.02.0040",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Dory Edson Gomes Damasceno",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ronaldo Domingos da Silva",
+            "cpf": "147.510.328-01",
+            "lawyerId": "ODI0MGQ2YWItYXV0b21hdGljOjY3ODI3MzktMTZmMTYxODNhMzVlYWE3LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Benedito Edson Antonio",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Laercio dos Santos Costa",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Ligia Celia Leme Forte Goncalves",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "MDQ0YjBmZmItYXV0b21hdGljOjY3ODI3MzktYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          },
+          {
+            "name": "Sergio Gonini Benicio",
+            "cpf": "177.915.568-98",
+            "lawyerId": "YTEzMTYyM2EtYXV0b21hdGljOjY3ODI3MzktNDg5NTUxMDUwYmEzOTg2LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1577890800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "40\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MjhjOGY0NTQ2ZDI0MTlhMTcyNzBmMzJmNmJmYzMzZDI=",
+      "date": 1597363200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzA4ODZiYTdjZjczMmQwZWUxMWM4YzAzNjAwYzcwNTg=",
+      "date": 1597449600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjY4NTA4YTk4ODViYmU5YmMzNmE4NDY0OTUyNDU2N2Q=",
+      "date": 1603756800000,
+      "text": "Intima\u00e7\u00e3o - Perito Benedito | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2JiMjcwN2I3OWU5ZTY2NjhkOTIxYjg2N2FjMjY0NzY=",
+      "date": 1609891200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "OGFjMTliMDEwYjM0ZDc4NGY4NTEwYTIzM2ZjOTMxZDY=",
+      "date": 1597276800000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzU3ZWZjMzg5YmMyNTU0Y2MwY2IwNDJhNjA5MTQ5ZmE=",
+      "date": 1611705600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDdhZTZlMDhmYjY5YmQ4ZmJiNGZkZGViMDY1Mjc1ZTI=",
+      "date": 1606176000000,
+      "text": "Parecer t\u00e9cnico m\u00e9dico | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQzODIzMTYxYTBjZjk1YTBmYzFkYzBmNmZiOGE0M2M=",
+      "date": 1603756800000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (20/04/2021 13:00 Sala Principal - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ZDlmODU1ODlmZWNjZmUwOTI1Y2Y5NjQ5OGFjOGRmZDg=",
+      "date": 1596153600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTZkMTlkZDdhOWZmNDUwYzA0ZDZjYjg2ODA4ZWI4ODI=",
+      "date": 1603843200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZmVhZTBkNTcwZmRlMjM0NjUzNzRjNjUwMjBiMWVlNzI=",
+      "date": 1603843200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWJkNTRiYzFkYzQ4ZTVmM2MxMmRkNTE4YTMzY2JjZjk=",
+      "date": 1606348800000,
+      "text": "Juntada de Parecer M\u00e9dico da Reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWEzYWRlZWUxNDFmNDE1YTAwZTcwYTVmMjEyZjQxN2Y=",
+      "date": 1607817600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a LORENA CORDEIRO DE VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "YTk2YzUzNDBhODBhYTc5NWYyMjZlM2U0MzdmZGE4MTY=",
+      "date": 1611100800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTAzNmE5NmZkODQ1ZDBjODVkYTUwZTIyMDIyODExZDE=",
+      "date": 1611100800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Man. Laudo Periculosidade Insalubridade)",
+      "attachments": []
+    },
+    {
+      "id": "ZjdiNWJkODMxYjc2ZGRmZjNjY2Y5MzAyY2UwNmI5MTE=",
+      "date": 1611705600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 28/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "NWIwODVmMjQxYzEyYjZlZTU2YzQ5YTdkZDliMmZlOGM=",
+      "date": 1597017600000,
+      "text": "End. e rol testemunhas | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdmNWJlYTA3NTAxNDQxZWRhYWE0MDQ1ZGVjYWE5MWQ=",
+      "date": 1607904000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjExYjQ1YmZjODhiMzllOTk5MjRkODIyNjY2OGQ2ZDU=",
+      "date": 1595894400000,
+      "text": "Exame M\u00e9dico | Exame M\u00e9dico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjUxNDUwZmE0MTNhZTBjNTY5ZTllNGY3OTVkMGRlYjE=",
+      "date": 1600646400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Indica email)",
+      "attachments": []
+    },
+    {
+      "id": "YzY5MzdiMDBjNjU4NTc0ODIxODQzZjFjYTM1NzEyZWI=",
+      "date": 1611100800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZWNjYzAyNjgyNjc2NjljNTBjMGFlMWUxMDEzNGYyOTk=",
+      "date": 1611619200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "YmEyMjE2YTkxZTEzZTUwZGZlODhhYmVhZTBlMmZmMjE=",
+      "date": 1609891200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTkzODYyMTNhYjcwMDYzNDNjMmJmYWU4YzUwNzVmM2U=",
+      "date": 1603843200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "Y2RhOTAzOWI5OTM1Mzc4Yjc0YWJjNjIxMWQ3MzkyZWM=",
+      "date": 1596153600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "YzExMWQ3MTZmYTM4OTY1ZjhiMWU5ZDc2YmQ3Yzg0YzQ=",
+      "date": 1607817600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcwOWM5ZDVjNmIzMWMwMzFjMTFmYWRkNjRkM2Q1MTM=",
+      "date": 1603756800000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) LIGIA CELIA LEME FORTE GONCALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZTcxZTMzZWQ1YmVlZmIxNWJhM2I0NjA1YWZkMzA4YzQ=",
+      "date": 1596153600000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NmE5MTM3ZmMyZWZmYzlhZDBiMDFkNmZiMmIwZDE2YTE=",
+      "date": 1611273600000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 22/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "M2E4ZjBjMDFhYzEyNDRkNjIxOTFjYjMyYjBmMjQ1N2E=",
+      "date": 1609632000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "ZTljZTA2ZWRmYWRkN2M5YzkyNjJkNWU4MDllYzIwZjk=",
+      "date": 1599696000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NTk5MDcyZjNiMDNkMmRlMDc3ZjNlMTAyYjE3ZWMwZWU=",
+      "date": 1597276800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "OThkOGNlOTZhYWY5NWRhMjQzOTJhOWUwN2Y4ZjRmMTI=",
+      "date": 1603756800000,
+      "text": "Audi\u00eancia inicial realizada (27/10/2020 10:40 Sala Principal - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTQ4MWVmNjJiOTY1YmU0ZTBkMzljZGZiMjNjZjVjYjg=",
+      "date": 1596240000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGQ4MTJhOTU0MGYyZjJhZjFlYjRmNWU4YmFkNjQ5NDc=",
+      "date": 1612483200000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 04/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "MGFhMTc3NjU2ZWQ5MDZiYTA5Yjc1MmMyODAyY2M3YjQ=",
+      "date": 1597363200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) LAERCIO DOS SANTOS COSTA",
+      "attachments": []
+    },
+    {
+      "id": "N2I3MTU1MmZhNDJhZWM0ZjcwNTA1MTY0NTQ3MmIxNTE=",
+      "date": 1603670400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YTA5YjRmYWViYzEyMGQ2YmM4MzU2Y2YwNTdlYjA3N2U=",
+      "date": 1611619200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "ZTc3MThkYjIzYjVhY2FiZGU2YmU3MGFiOTljNjQ4OTc=",
+      "date": 1604966400000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 10/11/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZmYwYTgzOGFkMWJjOWZmZGZhYmY0YmY1YWUyNDdmZGU=",
+      "date": 1603670400000,
+      "text": "COMPROVANTE VERBAS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWJhMmZjZjBkOWMwM2M1ZjliOWM2MTg0NTBkNDQzMTk=",
+      "date": 1611100800000,
+      "text": "Man. Laudo Periculosidade Insalubridade | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzNhNDc1MThiMTM5YWM2MzY5NWZmNGViOTkwOTFjYTg=",
+      "date": 1611619200000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDYzODdmZGU5MjBmNjk1Nzg0YjJjYmE5YzRjZjEzNDc=",
+      "date": 1609891200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "M2UyYjg0ZmNiZjk5NDk5ODgwZGI2NTc3MTE1ZjlkNDk=",
+      "date": 1600646400000,
+      "text": "Dados de contato | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzg1MzEwZjg3MmUxYmZmNmEwNDAwYzk3OTc1MWY1NWU=",
+      "date": 1603670400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGUwOWQ5OWQwNTdkNDFlMjc0MTRmNDM2NWNhYjU1ZTU=",
+      "date": 1611100800000,
+      "text": "Impugna\u00e7\u00e3o de Laudo | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjJkOTYyNzU2YWVjMzk3ZGExMDRiNTU4MzRhNTdiMmI=",
+      "date": 1596153600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzQ0YTk0N2Y4NDFkZTU3OGNlN2Q5YWEyYjhjNjI2NGI=",
+      "date": 1597190400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGI5MGJmMDgyZjMxMGFlMjc1NzE5N2JmNTY4YzhmMmY=",
+      "date": 1607904000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 15/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "MjVjMTgzMWNhY2IxZDBhY2I0MmQ3NTdkYjI1M2EzNWM=",
+      "date": 1595894400000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTZiZDQ4MzViMDE1YWI1OGM3MjU3ZTg0NzQ0MzA1YzM=",
+      "date": 1601510400000,
+      "text": "habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkwZmZkZmUxYTM1NWRhMDYyNzMyNDczNDJhNmI2NGM=",
+      "date": 1609977600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Yjk2Zjg3NWYyM2Q2ZDgxOWI0ZDA0NzVhYmNjYjRlZjA=",
+      "date": 1595894400000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTdmNjk2YmU0OTViMDU2YjlhYzA2MjBlN2ZlMDA4N2M=",
+      "date": 1611792000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o ao laudo m\u00e9dico)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc3ODhkZTY3YjE4YzY5YzFiOWVmNjM1OGNlOGY4Yzc=",
+      "date": 1603756800000,
+      "text": "Intima\u00e7\u00e3o Perita Ligia | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJhYTUxMzI3Zjg1MGYwN2YzZmUyNDhmMGVjMjVkMWM=",
+      "date": 1611792000000,
+      "text": "Impugna\u00e7\u00e3o ao laudo m\u00e9dico | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWE4ZDE0MzY4NDk2Y2IzZDZiNTU0MDM3OTVjOTQxNTg=",
+      "date": 1611619200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MGNlNDEwMGEyYmNiOTNkZjhjMTBjNjE5ZjZmZDc3NjU=",
+      "date": 1596067200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDYxYzBkZTg2NmM2NjczOTI1ZjUyYTI4ZTVhZTBjNDc=",
+      "date": 1607817600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (juntada parecer)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc3YzQxNDE5OTViMGYxNmE5OTE0NzlhYThmODI0MzU=",
+      "date": 1604016000000,
+      "text": "QUESITOS T\u00c9CNICOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDE1N2JlMmYwY2YyMTNhNDU1MTdkNTE4NmE2Y2QzYmY=",
+      "date": 1595894400000,
+      "text": "Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) | Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGU2MDY3MTdlMzliNDAwMTM1NDdjZjg3OGU0NjczMjE=",
+      "date": 1611100800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) BENEDITO EDSON ANTONIO",
+      "attachments": []
+    },
+    {
+      "id": "ZmY4MWYzYjc1Yjc2Y2VmM2U5YTE2MmI1ZjdhNWQ0N2U=",
+      "date": 1601510400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YTQ5ODA1NDI4MDIxM2VmNjZlZTA5YTE5OTEzZGEwNzA=",
+      "date": 1604361600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (R\u00e9plica Assistente Quesitos)",
+      "attachments": []
+    },
+    {
+      "id": "ZjRlN2JlOWI3Y2YyNzJjZWFjMWM4MDQ0NzQ3YzM4YzY=",
+      "date": 1604016000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWRiNGM5ZTFlNDJkYzEzNGU4YWEzNWY2NTM4MjE1NzA=",
+      "date": 1611878400000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 29/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "ODdmY2RiMDU5ZWY3NWM2NzZjNTBmYzJlYTQyMzQ4N2U=",
+      "date": 1603670400000,
+      "text": "ACORDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2NhYjVlZjE1ZmExZjc0YTEwZWRlMmQ0MTY4NTk3MmQ=",
+      "date": 1607817600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "N2EzOTFmZDgzNjAwM2UzYmEyZDMyYTFlZWJhYWVhMjU=",
+      "date": 1595894400000,
+      "text": "Audi\u00eancia una designada (27/10/2020 10:40 - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "M2Y3Mzk2ODFkNDU5MzViNTljM2M1MGU1MWFjNDk1YjI=",
+      "date": 1612310400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Man. sobre esclarecimentos Peric Insal)",
+      "attachments": []
+    },
+    {
+      "id": "M2Q4YzIxMWRlZmRjZmYwN2U4YTc0ZDRiYjc5MjBlMDI=",
+      "date": 1603756800000,
+      "text": "Audi\u00eancia inicial cancelada (27/10/2020 10:40 Sala Principal - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "YTQ3YzZiM2E4OThjMzA2YWYxYjRjYzI3N2Y1OWM0MTA=",
+      "date": 1604966400000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 10/11/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWI5YjUwZDFmM2I4MzRjMGI0NDVlY2MwZTc0MjcwZDI=",
+      "date": 1595894400000,
+      "text": "LTCAT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTU5N2RjMjRmMzMwMjI2YjI2MGQ5ODE0ZDRkYTBjYzM=",
+      "date": 1607817600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzczMDQ4ZWE5NjMxZTMxNmRmMzY1ZTlmMzBkOTY0Mzg=",
+      "date": 1596240000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 03/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "ODI0MDJlYmM1MjZjYmFhNjg0ZTY4NjVkODQ2Y2JkZTE=",
+      "date": 1604361600000,
+      "text": "R\u00e9plica Assistente Quesitos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjllOTZkMDQ1MmIxZTczZTJiYTgyMDZlY2ViZDkwZmU=",
+      "date": 1595894400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZhMTQwYjBjNWJmYjNhMDc4Yzg2NzkwZWQ3MzgwZjY=",
+      "date": 1603756800000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) BENEDITO EDSON ANTONIO",
+      "attachments": []
+    },
+    {
+      "id": "N2U1MzZiZjM4NjFlZTBkYzExZjY0NDBiNjRiOTVlYTA=",
+      "date": 1609891200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "ZmY0YjQ5Zjg2Zjk4MTU0MzFhOWQ1MjY3OGNkZWE4MWQ=",
+      "date": 1607817600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "OGFiMjk0OTMxOTJhMDg0ODgwMGY4NWZmN2E0Mjg5ZmY=",
+      "date": 1606694400000,
+      "text": "Laudo Assistente Recte Periculosidade | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjNlN2QyZjVhMzk4MzczZWVkZTNiYTRiNjE1MGQ5OTA=",
+      "date": 1612224000000,
+      "text": "MANIFESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzVhOWNiZjllNDRlMjZmYmFhMjM2N2VjNDJkOTdlNDk=",
+      "date": 1595894400000,
+      "text": "Comunica\u00e7\u00e3o de Acidente de Trabalho (CAT) | Comunica\u00e7\u00e3o de Acidente de Trabalho (CAT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjViZTU5YmExNzUxODc2MWUzZmNhOGFmZjZhOGFmYTQ=",
+      "date": 1603670400000,
+      "text": "EPIS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmRkMzUxNzBkMzQ2ZDIzNWU4ZWFhMTNmNTVhZjYyOWM=",
+      "date": 1599868800000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 14/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "NGM0NzBlOGI1Nzg3YjVjNWZkNzgxMTE0NjYxNTBjODQ=",
+      "date": 1607817600000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmE4NGFhZWU4ZjQ1YTlkYTExZjY2MmNmODM5NDgwMDY=",
+      "date": 1612915200000,
+      "text": "Decorrido o prazo de BENEDITO EDSON ANTONIO em 10/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "YzczMTliODc5ZDUzMThmNjRhMzYwOGZkNmZlNGFhMjU=",
+      "date": 1609632000000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjZkNWM2ZGEyYTZlZTU2MzdmYTA1NjdiNzg5YzU1NWQ=",
+      "date": 1604016000000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos M\u00c9DICOS | Apresenta\u00e7\u00e3o de Quesitos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmY3ZWQxMmQxYTM2ZDRjNGJlZjAyM2ExMzU5NzU2N2E=",
+      "date": 1611100800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "NDE5ZTNmYzdlNjRhNjM2OTQwOGZiZDNhMmNmMzNmNjQ=",
+      "date": 1599868800000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Mzg5ODhiMzE2MWQzYzE1MjE0NWEyMTMyNTFhY2E4OGI=",
+      "date": 1603670400000,
+      "text": "RELATORIO ACIDENTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTA1ZTdmZTM4OGJjZjVhNDVjZGEwYWUyNmFmN2VlMjQ=",
+      "date": 1600732800000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 21/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "MmJlYTYzNTkwMTgzYWRjOTM3NTM2NjMzOTE0MmQ2YjM=",
+      "date": 1611619200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ1MTBiOTkyYTM3YTc1ZWIxZGMzZTMyNjQyMGVmMzU=",
+      "date": 1595894400000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWIxNDg3ZWFlZTk3MWNlODZjOGNjN2YxOGVjNDJlYTI=",
+      "date": 1599696000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmFlZDFkNTE0ZDA3MWJmYTRiMjhjMmVmMGVkMDI4Mzg=",
+      "date": 1600646400000,
+      "text": "Indica email | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2QzZjJhZGZlMTgzY2I5ZjVmZGFjNTE5NTJiMGVlYTA=",
+      "date": 1599696000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "ZjlhZTkzYThiYzhmNWNiMjQ3ODIwYjUwNjg3MzU2ZTY=",
+      "date": 1603843200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWNjYTZjZDQzNGI0YThjMDRjMDE3OTUzMThkMjlkYTM=",
+      "date": 1603670400000,
+      "text": "DOCUMENTO MEDICO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWFhYTJmYjU5YmE0YzYxNGE0ZmI3YTNkYWYyNzhjZDY=",
+      "date": 1606348800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de Parecer M\u00e9dico da Reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "OGU0NTYwZGFjNWY3MDkxMmQ1MTYyZTY4NTY2YjFlZjY=",
+      "date": 1611619200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmJiNTg5ZDk1ZjM0NTgwOGJkZGIzNzVlMjQ0MTVjZjU=",
+      "date": 1603670400000,
+      "text": "RECUPERA\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY4Njg3YjdlNzA3M2E5ZDViYzc0MGNiZjBhYmM4M2Q=",
+      "date": 1606694400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Laudo Assistente Recte Periculosidade)",
+      "attachments": []
+    },
+    {
+      "id": "OGVlMTc1ZjI4NjAxYmU1YmQ1MWJjMzc2YzA2MGJmMTY=",
+      "date": 1597276800000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTQxYjM2MzI1ZjNhMzUxZGViN2UyYmMxY2JjNzgzY2E=",
+      "date": 1599696000000,
+      "text": "Audi\u00eancia inicial designada (27/10/2020 10:40 Sala Principal - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "MWI4NDgyNzZjZmI5Y2Y0NThlZmRlZTZjY2M3YWRmNGI=",
+      "date": 1612224000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "NjZjOWQ5MjQ1YjU1MTBlYzYyOWYxNGViOGNhZTA2ZmU=",
+      "date": 1612483200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 04/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "NDViOTg0ODU2YjQ2MDA3NGRjNmU2OTMwMTFjZjNmYmI=",
+      "date": 1599696000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "MTRhMDQwZWEzZDc3OGVkNDU3YTExMWZlYTBjMzE1MDE=",
+      "date": 1603670400000,
+      "text": "CONTRATO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTliMmNjNTNiZGQ4Y2QxMjM1NzAwZTQ3NDBiNWY5ZWM=",
+      "date": 1599696000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "M2ZiYTY5NmExMzZkYjFkNTUyYjcwMjBiNTU0ODcwMzQ=",
+      "date": 1604361600000,
+      "text": "Demonstrativo integra\u00e7\u00e3o HE Ad. noturno | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmIyMGRiNTcyMTAzYzFiYWU3MzEyODg3YTI3ZTc1ZjU=",
+      "date": 1604016000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos (Apresenta\u00e7\u00e3o de Quesitos M\u00c9DICOS)",
+      "attachments": []
+    },
+    {
+      "id": "ZGU4MmM3ZGQ2NTNiOWJjZDI3Yzc5MzkxODA0YWU0MjE=",
+      "date": 1611619200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Y2U1N2M1N2Q2YzIzNzNmMmU2MTk2YjgwZWIzMGVkYWM=",
+      "date": 1601510400000,
+      "text": "substabelecimento | Substabelecimento sem Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTMxOTFjZGQ2ODJiZTc4NDNkYzZkMjk0ZTg1MDVhZTY=",
+      "date": 1597190400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZGY3YjI0YzRjNzIyYmVkZjc1MDhlYzA5NGRmMmQ0MTc=",
+      "date": 1607817600000,
+      "text": "juntada parecer | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQ1MWYwMGE5Yjk5Y2ZhMzM4YTU5MWI3MzQwMjY0ZTE=",
+      "date": 1598313600000,
+      "text": "Decorrido o prazo de LAERCIO DOS SANTOS COSTA em 24/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "YTk2OTI5YTQzNjYwMjU1NjQ3ZmRlZGY0YmQzYWVjYzk=",
+      "date": 1596067200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "NTg4ZjRiZGMzN2ZjMmUwYmU3MjNiMzgzOGZlYmRlOWY=",
+      "date": 1596067200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmY2YmQ4MTE3MjNmYzNhZDU5MzNmM2Y5OGVhM2VkYWQ=",
+      "date": 1609891200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTBhZjI4ZWM5M2RhOTYwNTUyMmFjYzU5ODQxYzQzNmY=",
+      "date": 1603670400000,
+      "text": "TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWExZmQ4ZDMyZjMyZGU0YjQ0Y2M1MmYzMDA1MDQ5MGQ=",
+      "date": 1597449600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 17/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "MTdmNjVjY2Y0NThlMTFkYWYxZWE3OWY4OGM2ZTQ5MTE=",
+      "date": 1595894400000,
+      "text": "Fotografia | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWJkOGUwNzVkZjRmNWEyYzA3YTJlYTU0NzM3MzE0OTI=",
+      "date": 1603843200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "YWY5NjI1MmIzZjhkOGI2MDU0ODk0ODQxMjAwZjZmYTY=",
+      "date": 1603670400000,
+      "text": "FRE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWRkYTBiZTg5YzA3NGI4NDY1NWZhMmY5YTVlY2YxOGQ=",
+      "date": 1595894400000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3M2NlNDVhZTJmOWQyNjg5Y2FjNGM5YTNiYjcyZjY=",
+      "date": 1597276800000,
+      "text": "Habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWZiOTk3NDRmZGQ0YzZjNmI0YWUyNTlhNjUzMDA4Mzk=",
+      "date": 1611878400000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 29/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "N2ZkMjczNDY4OTc2NWI2MWI1OWY5Yzc3MjJjODM0NzU=",
+      "date": 1599696000000,
+      "text": "Audi\u00eancia una cancelada (27/10/2020 10:40 Sala Principal - 40\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "YmRhMWY4OGQ1MDM5YTc1M2VmYmJlYmEzYzI4NGY3ZTI=",
+      "date": 1603843200000,
+      "text": "AGENDAMENTO DE PER\u00cdCIA M\u00c9DICA | Indica\u00e7\u00e3o de Data de Realiza\u00e7\u00e3o de Dilig\u00eancia Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTllOTljYjcyZTRmNTJjM2VmNmEzNjJkZTFlYjQ1NTM=",
+      "date": 1606348800000,
+      "text": "Parecer de Assistente M\u00e9dico | Parecer de Assistente T\u00e9cnico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTcwYzQxOTRlYTM0ZWQ1N2JjYTcyZWM1ZWU0YjkxZGU=",
+      "date": 1607817600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MTZjNDJkOWY3N2ZjNGYxZTA4MTJhZDUwMDM1OTA4NDA=",
+      "date": 1600646400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Dados de contato)",
+      "attachments": []
+    },
+    {
+      "id": "ZWVhYjM5MGE2NTM1NjQ4ZjdhN2Q5YjU3NGNiOWQ1OGQ=",
+      "date": 1601510400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJlYzM1YTZhOThiMDMxY2M0ZGZlYTEzMzRkNjQ5ZTM=",
+      "date": 1603670400000,
+      "text": "PONTO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFlNjYzNGRkYTUzMDEzYjJjY2EyNmZjMDg4ZTdmZTg=",
+      "date": 1606176000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Parecer t\u00e9cnico m\u00e9dico)",
+      "attachments": []
+    },
+    {
+      "id": "MTVmOGJjNWEwNThhYzhlZjMxMjAzN2RhNDM3YjU4ZGM=",
+      "date": 1599696000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkzZDVhMzcwMTE4ZmUyMjA3MmQ2MWYwMmFkOWIzMTU=",
+      "date": 1595894400000,
+      "text": "Manuten\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmVjMmY5MDIxYmU2MDdmNmFlMDk2NzU3NzJkZDljODU=",
+      "date": 1598313600000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 24/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjMxNzFjNDFiYWY3NjFmNWM4NmJiMTZmZWQ5NjAxMzU=",
+      "date": 1600732800000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 21/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZDRiODkzMzY3YzdjZDY2M2EwODUwMTY4NTIwMjE5ZjI=",
+      "date": 1603670400000,
+      "text": "QUESITOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFhNjg0NmIwNjVkYzc2NjQ3ZWVkZDNjODVmMzE1N2U=",
+      "date": 1597017600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EUMARA NOGUEIRA BORGES LYRA PIMENTA",
+      "attachments": []
+    },
+    {
+      "id": "MjVmYzQ4YmVhMjU2YjdjYzUzMThjMDhlODVkNThkZDQ=",
+      "date": 1597276800000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFhOWE3NDI4ZDVkZjQwYzRjOWE1YWNhMmQ4ZjVmNTY=",
+      "date": 1611100800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o de Laudo)",
+      "attachments": []
+    },
+    {
+      "id": "NTFjOTVjZWU2ODk1N2JmYjkxZWE1NmM2NTU3ZTE3MzQ=",
+      "date": 1609977600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 21/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "NDU5OTNlZGRiNzI1Y2U0N2U5Yjc3ZDhiNGFkZjI4OGI=",
+      "date": 1612310400000,
+      "text": "Man. sobre esclarecimentos Peric Insal | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFmZjQxN2UxYzU1NGM4OGMzZWNkNjNhOTkxODdhZDc=",
+      "date": 1603670400000,
+      "text": "HOLERITES | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNjMWZmMmY1ZTlkMTY4MjZkMTZmYTM0Njk2ODRjZWU=",
+      "date": 1611273600000,
+      "text": "Decorrido o prazo de DORY EDSON GOMES DAMASCENO em 22/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "NDcwN2M5ZDA5ZGU0ODg4MTUwMjI5NmNlNTIwMjVjNDE=",
+      "date": 1611100800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmNkMzA4NTA0YmIyODM1NTMyZTc1Y2JjMzdkZWVmMTY=",
+      "date": 1603756800000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MDU3YmYyYjBkYjkyM2QyM2UzODgyOTY2YjQ2OTczZTY=",
+      "date": 1597017600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (End. e rol testemunhas)",
+      "attachments": []
+    },
+    {
+      "id": "OGMxM2M2OTg4MDhhZTUxMTg4N2JlMGQxNGI4NTY5MWU=",
+      "date": 1604016000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 03/11/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ1MTJlMjA5M2VkNzk4MzU1ZTU0ZTQyMWY2NWE3OTc=",
+      "date": 1595894400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NzY0MThkNWExM2EzZDViMDhmYjdkMTcxZmZjYTMyMmQ=",
+      "date": 1595894400000,
+      "text": "Prova Emprestada | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjQ5OGMwMGJmMTU4YTVlNWJhZmQwMTI0NzFkODQ5OTM=",
+      "date": 1597363200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DORY EDSON GOMES DAMASCENO",
+      "attachments": []
+    },
+    {
+      "id": "YTYyMTIzNDRlMTE3NDJkYzkwOTk0ZjczMTY2M2RlOWE=",
+      "date": 1603843200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjViODZiMWEzM2Y1NmQ1ZmQ1ZTMzODU3MjE3NDVhN2I=",
+      "date": 1595894400000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGRkODEyM2E5MDQyZmYwMDUwZjFhN2FhZWM4ZTkxODI=",
+      "date": 1604361600000,
+      "text": "Demonstrativo HE Ad. noturno | Documento Diverso (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

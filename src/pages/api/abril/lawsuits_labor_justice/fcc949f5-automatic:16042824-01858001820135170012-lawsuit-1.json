@@ -1,0 +1,380 @@
+{
+  "lawsuit": {
+    "id": "ZmNjOTQ5ZjUtYXV0b21hdGljOjE2MDQyODI0LTAxODU4MDAxODIwMTM1MTcwMDEyLWxhd3N1aXQ=",
+    "activityCount": 48,
+    "number": "0185800-18.2013.5.17.0012",
+    "value": 100000.0,
+    "subject": "Repouso Semanal Remunerado e Feriado",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Roberto Senne da Rosa",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Kennia Luppi Batista",
+            "cpf": "099.980.587-83",
+            "lawyerId": "ZWJhNDkyYWEtYXV0b21hdGljOjE2MDQyODI0LTQzMTRmMThkNWNiNjc1NC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Brasil Brokers Participacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Gabrielli Martinelli de Oliveira Silva",
+            "cpf": "054.143.967-79",
+            "lawyerId": "MTljN2U0ZDktYXV0b21hdGljOjE2MDQyODI0LTZhY2ExYWY1MzlmNDE5OS1sYXd5ZXI="
+          },
+          {
+            "name": "Alessandra Patricia de Souza Albuquerque",
+            "cpf": "042.446.797-66",
+            "lawyerId": "ZmRmMGM5MTUtYXV0b21hdGljOjE2MDQyODI0LTUwMmFlZjcyNTAzZWYzOS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [
+      {
+        "id": "2426",
+        "items": [
+          [
+            {
+              "code": 2426,
+              "text": "Repouso Semanal Remunerado e Feriado",
+              "level": 3
+            },
+            {
+              "code": 1658,
+              "text": "Dura\u00e7\u00e3o do Trabalho",
+              "level": 2
+            },
+            {
+              "code": 864,
+              "text": "DIREITO DO TRABALHO",
+              "level": 1
+            }
+          ]
+        ]
+      }
+    ],
+    "court": "TRT17",
+    "courtSection": "12\u00aa Vara do Trabalho de Vit\u00f3ria",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": "ATORD"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "M2ZhMWJkN2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNWY4Yjk1MWQ3NGI1MDAtMTUwNzY5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507690800000,
+      "text": "Termo de Abertura de Execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTU2MzNmNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNjljYmI4OTk4YTIyZmUtMTUwODIwNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508205600000,
+      "text": "Iniciada a execu\u00e7\u00e3o trabalhista definitiva",
+      "attachments": []
+    },
+    {
+      "id": "YTk2MGJmOTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMTViZDkxZDA4NDFhMzYtMTUwODI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508292000000,
+      "text": "Peti\u00e7\u00e3o comprovando pagamento",
+      "attachments": []
+    },
+    {
+      "id": "ZjNmN2IwNjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNzI4YWM5OTY3Njc2ODEtMTUwODM3ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508378400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) advogado do autor",
+      "attachments": []
+    },
+    {
+      "id": "MTNmZjU5NjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmExYjU3ZWFjOGFjNmEtMTUwODM3ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508378400000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "NTNiMGY3YjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmExYjU3ZWFjOGFjNmEtMTUwODQ2NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508464800000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "NWUyNTc1NjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZTllMWZlYmY2ZTY2NDgtMTUxMDE5MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510192800000,
+      "text": "CERTID\u00c3O COAP",
+      "attachments": []
+    },
+    {
+      "id": "YTVjNWQ4MTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YWI4ZTE3NTgyNjRjNjQtMTUxMDUzODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1510538400000,
+      "text": "Peti\u00e7\u00e3o de juntada",
+      "attachments": []
+    },
+    {
+      "id": "M2U1YTk2NTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNzI4YWM5OTY3Njc2ODEtMTUxMTQwMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511402400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) advogado do autor",
+      "attachments": []
+    },
+    {
+      "id": "M2FmYTNjNzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmExYjU3ZWFjOGFjNmEtMTUxMTQwMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511402400000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "YmVlY2ZmYmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMWY5Yjc2M2IzZGQ3NzQtMTUxMjUyNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1512525600000,
+      "text": "CERTID\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "MzVkNDJkNWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZTllMWZlYmY2ZTY2NDgtMTUxMzMwMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1513303200000,
+      "text": "CERTID\u00c3O COAP",
+      "attachments": []
+    },
+    {
+      "id": "YmM2M2ZjY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZTllMWZlYmY2ZTY2NDgtMTUxNjI0MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1516240800000,
+      "text": "CERTID\u00c3O COAP",
+      "attachments": []
+    },
+    {
+      "id": "YWFiMWU2NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNzI4YWM5OTY3Njc2ODEtMTUxNzE5MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517191200000,
+      "text": "Expedido(a) alvar\u00e1 a(o) advogado do autor",
+      "attachments": []
+    },
+    {
+      "id": "YTU2ODI3YTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmExYjU3ZWFjOGFjNmEtMTUxNzE5MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517191200000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "MDFhMzBjYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZDYwMTE1NzM3MGIxNjktMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Expedido(a) alvar\u00e1 a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZThlYmNiZTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmExYjU3ZWFjOGFjNmEtMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Alvar\u00e1",
+      "attachments": []
+    },
+    {
+      "id": "MTA4YzZhOWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NzA1NTljODE4YzYzZDUtMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Planilha de C\u00e1lculo Demonstrativa",
+      "attachments": []
+    },
+    {
+      "id": "ZjNhNDJhNDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDc4YzYyMmQyNjZjZTQtMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Alvar\u00e1s encaminhados ao banco",
+      "attachments": []
+    },
+    {
+      "id": "OTZjYWM2M2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YWViZDY1YjJiNmJmMDMtMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Alvar\u00e1s",
+      "attachments": []
+    },
+    {
+      "id": "Zjg3YmFlZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02M2E1NDk4Mzk2NGQwZTMtMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ZDc1NGY5NjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2IyMjU4YWNiM2IwY2UtMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "M2Q0YWM4YWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZjE4M2NlYzVkNWJlODItMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ROBERTO JOSE FERREIRA DE ALMADA",
+      "attachments": []
+    },
+    {
+      "id": "MDI3OWI3NTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjY4ZWE1NTkwY2ZjZDktMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Desarquivados os autos para prosseguir na fase de execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZjQ0NzU1ZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZGRiNWE0OTQ4NTMzOGMtMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "ODYwZDdjNmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMDgzMjk4NjQwYWM3YTUtMTUxNzM2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517364000000,
+      "text": "Alvar\u00e1 Encaminhado ao Banco",
+      "attachments": []
+    },
+    {
+      "id": "ZDNlMmFiMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZGRiNWE0OTQ4NTMzOGMtMTUxNzQ1MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517450400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "M2VkMDI0ODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NTUwM2M2M2MxMjU1Y2MtMTUxNzUzNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517536800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "MzBlZDFjMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNmRiZTk1YzQwNTg0ZDktMTUxNzUzNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517536800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2I5YTE4Y2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGVjZTdhYjYyZGFlY2MtMTUxNzc5NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517796000000,
+      "text": "SEAT1 CERTID\u00c3O DE JUNTADA",
+      "attachments": []
+    },
+    {
+      "id": "NzU0ZGQ3MWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iOTkwZDZiNjkxMGMzYWYtMTUxNzg4MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517882400000,
+      "text": "Decorrido o prazo de BRASIL BROKERS PARTICIPACOES S.A. em 05/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTJlZjBiYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTVjNWEyYWY5ZGFiOTMtMTUxNzg4MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517882400000,
+      "text": "Decorrido o prazo de ROBERTO SENNE DA ROSA em 05/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjkwZDlkNWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODM3MWU4MjA3NmM0YmMtMTUyMDMwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1520305200000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NDVhMTYyYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTRhZTE2MjU2MGEwZGEtMTU1Mjk2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552964400000,
+      "text": "BBR X ROBERTO",
+      "attachments": []
+    },
+    {
+      "id": "OTBlNTEzZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOWFkOTgyZDNhMWUxOGUtMTU1Mjk2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552964400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (BBR X ROBERTO)",
+      "attachments": []
+    },
+    {
+      "id": "N2VkNDg2NzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMzY1N2FlODFlNWM5MmUtMTU1Mjk2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552964400000,
+      "text": "Requer Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDRmMzgzZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NDM0ODk3YmM1Nzg3Y2MtMTU1Mjk2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552964400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Requer Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "MDU2Zjc1ZTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MzE1NzYwZjg3ZjhjYjMtMTU1MzEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553137200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTM1OWY4NTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNTM1OGU4Y2I0NmU2M2EtMTU1MzEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553137200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MjIwODVhY2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNmIxYmQ0NDIyMjJlZDEtMTU1MzEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553137200000,
+      "text": "Conclusos os autos para despacho a ROBERTO JOSE FERREIRA DE ALMADA",
+      "attachments": []
+    },
+    {
+      "id": "MWQ3ODNhMTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjYwMmIyM2RhYmYwYjYtMTU1MzEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553137200000,
+      "text": "Desarquivados os autos para iniciar a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2ZhZTkwYWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MzE1NzYwZjg3ZjhjYjMtMTU1MzIyMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553223600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Y2Y3MzU5MDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjM1MmQ4NzRhYzlkMTEtMTU1MzMxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553310000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDQxYzA0ZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNmRiZTk1YzQwNTg0ZDktMTU1MzMxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553310000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2RhNjFiZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zM2UwNGI4MWE0NGYzNzQtMTU1NDA4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1554087600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Pedido de desconsidera\u00e7\u00e3o de peti\u00e7\u00e3o anterior)",
+      "attachments": []
+    },
+    {
+      "id": "NTVkNmExZWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZTNiNGQ0OWJiZDAzYzgtMTU1NDA4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1554087600000,
+      "text": "Pedido de desconsidera\u00e7\u00e3o de peti\u00e7\u00e3o anterior",
+      "attachments": []
+    },
+    {
+      "id": "NjJiOGY3NWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mY2FlOWNkYzY3ZWViZDEtMTU1NDE3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1554174000000,
+      "text": "Decorrido o prazo de BRASIL BROKERS PARTICIPACOES S.A. em 01/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWYyNTg4OTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZGRiNWE0OTQ4NTMzOGMtMTU1NDM0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1554346800000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

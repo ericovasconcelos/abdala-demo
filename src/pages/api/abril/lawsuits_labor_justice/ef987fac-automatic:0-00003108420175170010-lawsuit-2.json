@@ -1,0 +1,575 @@
+{
+  "lawsuit": {
+    "id": "ZWY5ODdmYWMtYXV0b21hdGljOjAtMDAwMDMxMDg0MjAxNzUxNzAwMTAtbGF3c3VpdA==",
+    "activityCount": 45,
+    "number": "0000310-84.2017.5.17.0010",
+    "value": 50000.0,
+    "subject": "Verbas Rescis\u00f3rias, Assist\u00eancia Judici\u00e1ria Gratuita, Honor\u00e1rios Advocat\u00edcios, Horas Extras, Indeniza\u00e7\u00e3o por Dano Moral, Intervalo Intrajornada, Licitude / Ilicitude da Terceiriza\u00e7\u00e3o, Multa do Artigo 467 da CLT, Multa do Artigo 477 da CLT, Reconhecimento de Rela\u00e7\u00e3o de Emprego, Repouso Semanal Remunerado e Feriado, Seguro Desemprego",
+    "kind": "Trabalhista",
+    "district": "10\u00aa Vara do Trabalho de Vit\u00f3ria",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "A. C. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "L. S. N.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Gualter Loureiro Malacarne",
+            "cpf": "056.757.227-77",
+            "lawyerId": "ZTQ5MzYyMDctYXV0b21hdGljOjAtZGIzOWI3ODJhYTJmZDJhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "M. F. S. M. T. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1525882924000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 467 da CLT",
+                "code": 2210
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Repouso Semanal Remunerado e Feriado",
+                "code": 2426
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Seguro Desemprego",
+                "code": 2478
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Reconhecimento de Rela\u00e7\u00e3o de Emprego",
+                "code": 2554
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Assist\u00eancia Judici\u00e1ria Gratuita",
+                "code": 8843
+              },
+              {
+                "level": 2,
+                "text": "Partes e Procuradores",
+                "code": 8842
+              },
+              {
+                "level": 1,
+                "text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+                "code": 8826
+              }
+            ],
+            "last_text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+            "last_id": 8826
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Honor\u00e1rios Advocat\u00edcios",
+                "code": 10655
+              },
+              {
+                "level": 3,
+                "text": "Sucumb\u00eancia",
+                "code": 8874
+              },
+              {
+                "level": 2,
+                "text": "Partes e Procuradores",
+                "code": 8842
+              },
+              {
+                "level": 1,
+                "text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+                "code": 8826
+              }
+            ],
+            "last_text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+            "last_id": 8826
+          }
+        ],
+        "id": "1855-2086-2140-2210-2212-2426-2478-2554-8843-10655"
+      }
+    ],
+    "court": "TRT17",
+    "courtSection": "GABINETE DA PRESID\u00caNCIA",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFh",
+      "date": 1569446651000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQ3",
+      "date": 1509984502000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQ4",
+      "date": 1496853434000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM3",
+      "date": 1531796796000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 17/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWNm",
+      "date": 1529606482000,
+      "text": "Inclu\u00eddo o processo em pauta (09/07/2018, 13:30:00, SECT03-20\u00aa SO-09.07.18 NORMAL)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQ0",
+      "date": 1512582179000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFi",
+      "date": 1565014310000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWJl",
+      "date": 1550257742000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWIz",
+      "date": 1553616480000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de LUISA DA SILVA NOGUEIRA - CPF: 168.674.877-93 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI4",
+      "date": 1551363397000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recurso de Revista (Agravo de Instrumento_Reclamante)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWJj",
+      "date": 1550262431000,
+      "text": "N\u00e3o admitido o Recurso de Revista de LUISA DA SILVA NOGUEIRA - CPF: 168.674.877-93",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWMy",
+      "date": 1547142296000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM4",
+      "date": 1531796796000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFl",
+      "date": 1554865279000,
+      "text": "Decorrido o prazo de LUISA DA SILVA NOGUEIRA em 09/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM0",
+      "date": 1532746958000,
+      "text": "Decorrido o prazo de M. F. SOARES MAGALHAES TELEATENDIMENTO LTDA - ME em 27/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI2",
+      "date": 1551495847000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 01/03/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQw",
+      "date": 1529340002000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQy",
+      "date": 1525882924000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWJm",
+      "date": 1549980939000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a SONIA DAS DORES DIONISIO MENDES",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQz",
+      "date": 1519848888000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQ2",
+      "date": 1510678379000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWJk",
+      "date": 1550257743000,
+      "text": "N\u00e3o admitido o Recurso de Revista de LUISA DA SILVA NOGUEIRA - CPF: 168.674.877-93",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFk",
+      "date": 1554865280000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 09/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWMz",
+      "date": 1533754799000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a JOSE LUIZ SERAFINI",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM1",
+      "date": 1532746957000,
+      "text": "Decorrido o prazo de LUISA DA SILVA NOGUEIRA em 27/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI5",
+      "date": 1550545739000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 19/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWMw",
+      "date": 1549980930000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI0",
+      "date": 1553616479000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWE5",
+      "date": 1569513816000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM5",
+      "date": 1531336834000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWNk",
+      "date": 1529606557000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWMx",
+      "date": 1547142310000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a ANA PAULA TAUCEDA BRANCO",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI1",
+      "date": 1553193791000,
+      "text": "Conclusos os autos para decis\u00e3o do Agravo de Instrumento em Recurso de Revista a CLAUDIO ARMANDO COUCE DE MENEZES",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWIy",
+      "date": 1553742424000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWIw",
+      "date": 1554844508000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta (Contraminuta)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWM2",
+      "date": 1532746956000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 27/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFm",
+      "date": 1554845668000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es recurso de revista)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWNj",
+      "date": 1529982272000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 26/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWIx",
+      "date": 1553742424000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 28/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQx",
+      "date": 1528288175000,
+      "text": "Conclusos os autos para julgamento (relatar) a SONIA DAS DORES DIONISIO MENDES",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWNi",
+      "date": 1531334797000,
+      "text": "Conhecido o recurso de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62 e provido",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWJi",
+      "date": 1550545739000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWQ1",
+      "date": 1512473801000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWFj",
+      "date": 1555432348000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MmViNmI2ZTcxYzdhMTE1OWMyOWI3",
+      "date": 1551495847000,
+      "text": "Decorrido o prazo de LUISA DA SILVA NOGUEIRA em 01/03/2019 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,538 @@
+{
+  "lawsuit": {
+    "id": "MjU4N2U3ZDctYXV0b21hdGljOjAtMDAwMjg3OTM4MjAxMzUwMjAwMDMtbGF3c3VpdA==",
+    "activityCount": 79,
+    "number": "0002879-38.2013.5.02.0003",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": "3\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Aparecido Vanderlei Leonel VAZ",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Alair de Barros Machado",
+            "cpf": null,
+            "lawyerId": "NGE3M2U0MDMtYXV0b21hdGljOjAtZDllZjc4ZTFjN2QzNWJmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunica\u00e7\u00f5es S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": null,
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1382065200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT2",
+    "courtSection": "003",
+    "nature": {
+      "raw": null,
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmJi",
+      "date": 1383876000000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\nPara o(s) Autor(es) Ed.N\u00ba 2702 Sol.N\u00ba 5008",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjdl",
+      "date": 1455674400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Esclarecimentos do perito\nN\u00famero do Protocolo: 9805253",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI1",
+      "date": 1398654000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos\nN\u00famero do Protocolo: 6833747",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg2",
+      "date": 1444705200000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 06239/2015 Rel:00184/2015 N\u00baReg: JJ435489758BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjYx",
+      "date": 1570071600000,
+      "text": "Homologada a liquida\u00e7\u00e3o\n01/10/2019 Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjc4",
+      "date": 1463367600000,
+      "text": "Proced\u00eancia em parte de A\u00e7\u00e3o\nData Atualiza\u00e7\u00e3o: 16/05/16 Hora: 18:20:03",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmE5",
+      "date": 1402369200000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 04097/2014 Rel:00092/2014 N\u00baReg: JJ214869826BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjli",
+      "date": 1407294000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de isen\u00e7\u00e3o de custas\nN\u00famero do Protocolo: 7291425",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjY0",
+      "date": 1567566000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o C\u00e1lculos Liquid.\nN\u00famero do Protocolo: 12660950",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjk1",
+      "date": 1414980000000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2927 Sol.N\u00ba 3286",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjZj",
+      "date": 1549332000000,
+      "text": "Remessa para 2\u00aa Inst\u00e2ncia de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nEnviado para 2\u00aa Inst no Lote 2019/ 3",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg4",
+      "date": 1442545200000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3126 Sol.N\u00ba 1044",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI0",
+      "date": 1398654000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de isen\u00e7\u00e3o honor.peric.\nN\u00famero do Protocolo: 6833978",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmIx",
+      "date": 1398999600000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Indica\u00e7\u00e3o assistentes t\u00e9cnicos\nN\u00famero do Protocolo: 6850815",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjdk",
+      "date": 1456455600000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3219 Sol.N\u00ba 584",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjhj",
+      "date": 1437966000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de laudo pericial\nN\u00famero do Protocolo: 8943499",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmFk",
+      "date": 1401937200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Esclarecimentos do perito\nN\u00famero do Protocolo: 7018058",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg1",
+      "date": 1452477600000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Instru\u00e7\u00e3o\npara: 27/04/2016 / 11:40 - Instru\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjgy",
+      "date": 1453428000000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\nDoc : 00365/2016 Rel:00011/2016 N\u00baReg: JJ463557391BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjdm",
+      "date": 1455501600000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 00935/2016 Rel:00023/2016 N\u00baReg: JJ505999392BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjVm",
+      "date": 1571972400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Sol.N\u00ba 1111",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmJh",
+      "date": 1395889200000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Instru\u00e7\u00e3o\npara: 10/09/2014 / 14:30 - Instru\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmJj",
+      "date": 1383703200000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\nDoc : 09078/2013 Rel:00123/2013 N\u00baReg: JJ208424920BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI4",
+      "date": 1398222000000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nFABIO MAKOTO DATE-OAB 320281/D-SP-Autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjc3",
+      "date": 1463540400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Ci\u00eancia Senten\u00e7a\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3272 Sol.N\u00ba 6434",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjVl",
+      "date": 1574823600000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo\ndo meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmIz",
+      "date": 1398740400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjVj",
+      "date": 1574996400000,
+      "text": "Publica\u00e7\u00e3o de Edital\nEdital 638/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjgz",
+      "date": 1453428000000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\nDoc : 00364/2016 Rel:00011/2016 N\u00baReg: JJ463557388BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjYw",
+      "date": 1571886000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre despacho\nN\u00famero do Protocolo: 12719001",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI5",
+      "date": 1396926000000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 02601/2014 Rel:00052/2014 N\u00baReg: JJ213089903BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjc0",
+      "date": 1463972400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\nN\u00famero do Protocolo: 1024045",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmE1",
+      "date": 1403233200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre despacho\nN\u00famero do Protocolo: 7072557",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjc5",
+      "date": 1462158000000,
+      "text": "Conclusos os autos\npara julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI3",
+      "date": 1398654000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre a defesa\nN\u00famero do Protocolo: 6833344",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjgx",
+      "date": 1453860000000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3200 Sol.N\u00ba 1738",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmEw",
+      "date": 1406257200000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2858 Sol.N\u00ba 3012",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmEx",
+      "date": 1403751600000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Aviso de cr\u00e9dito\nOrigem do Cr\u00e9dito: 1/5905-6/1100122529855",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjdj",
+      "date": 1457060400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manif.sobre esclarec.periciais\nN\u00famero do Protocolo: 9891673",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmE4",
+      "date": 1402369200000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 04098/2014 Rel:00092/2014 N\u00baReg: JJ214870183BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjlh",
+      "date": 1407294000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Impugna\u00e7\u00e3o de laudo pericial\nN\u00famero do Protocolo: 7291809",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjZh",
+      "date": 1555383600000,
+      "text": "Tr\u00e2nsito em Julgado\nEm: 16/04/19",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjY4",
+      "date": 1566529200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Apresentar C\u00e1lculos\nPara o(s) R\u00e9u(s) Sol.N\u00ba 490",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmIw",
+      "date": 1398999600000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos\nN\u00famero do Protocolo: 6850815",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjY5",
+      "date": 1566356400000,
+      "text": "Recebimento do TRT de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\npara prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjkx",
+      "date": 1425610800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o laudo assistente\nN\u00famero do Protocolo: 8298852",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjhh",
+      "date": 1437966000000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmIy",
+      "date": 1398999600000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de Documentos\nN\u00famero do Protocolo: 6850815",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjhk",
+      "date": 1437706800000,
+      "text": "Conclusos os autos para despacho at\u00e9\n11/09/2015 / 18:00 - Concluso/Desp.",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjk3",
+      "date": 1413342000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Esclarecimentos do perito\nN\u00famero do Protocolo: 7651916",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjk4",
+      "date": 1410318000000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 06461/2014 Rel:00153/2014 N\u00baReg: JJ288667035BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmE3",
+      "date": 1402628400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2833 Sol.N\u00ba 409",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg3",
+      "date": 1443582000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo\nN\u00famero do Protocolo: 9205735",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjky",
+      "date": 1415325600000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nBRUNO LEVENHAGEM-Perito/Terceiro",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjk2",
+      "date": 1414634400000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 07938/2014 Rel:00192/2014 N\u00baReg: JJ290406815BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmFl",
+      "date": 1399431600000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Aviso de cr\u00e9dito\nOrigem do Cr\u00e9dito: 1/5905-6/4800133374095",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjhl",
+      "date": 1429153200000,
+      "text": "Conclusos os autos para despacho at\u00e9\n24/07/2015 / 18:15 - Concluso/Desp.",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjdh",
+      "date": 1461726000000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento\npara: 16/05/2016 / 8:04 - Julgamento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjhm",
+      "date": 1426474800000,
+      "text": "Conclusos os autos para despacho at\u00e9\n16/04/2015 / 19:20 - Concluso/Desp.",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjlk",
+      "date": 1407294000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre documentos\nN\u00famero do Protocolo: 7291413",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjlm",
+      "date": 1407294000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo\nN\u00famero do Protocolo: 7291398",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjVk",
+      "date": 1574823600000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nNro da Rela\u00e7\u00e3o: 1107/2019 Data:  Qtde vols.: 1",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjk5",
+      "date": 1410318000000,
+      "text": "Conclusos os autos para despacho at\u00e9\n16/03/2015 / 18:01 - Concluso/Desp.",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjgw",
+      "date": 1454292000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Devolu\u00e7\u00e3o de notifica\u00e7\u00e3o\nN\u00famero do Protocolo: 363",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjVi",
+      "date": 1574996400000,
+      "text": "Publica\u00e7\u00e3o de Convers\u00e3o para meio eletr\u00f4nico\nPara o(s) Autor(es) e R\u00e9u(s) Sol.N\u00ba 6655",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg0",
+      "date": 1453428000000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\nDoc : 00363/2016 Rel:00011/2016 N\u00baReg: JJ463556904BR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjcy",
+      "date": 1468983600000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contra-arrazoar R.O.\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3315 Sol.N\u00ba 2321",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjYz",
+      "date": 1568689200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre c\u00e1lculos\nN\u00famero do Protocolo: 12675292",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjcx",
+      "date": 1469156400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\nN\u00famero do Protocolo: 10474708",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjU5",
+      "date": 1576810800000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nPara o(s) Autor(es) e R\u00e9u(s) Sol.N\u00ba 6655",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjYy",
+      "date": 1568689200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contestar C\u00e1lculos\nPara o(s) Autor(es) Sol.N\u00ba 1802",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmI2",
+      "date": 1398654000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos\nN\u00famero do Protocolo: 6833722",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjg5",
+      "date": 1441940400000,
+      "text": "Conclusos os autos para despacho at\u00e9\n11/01/2016 / 18:10 - Concluso/Desp.",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjZi",
+      "date": 1549418400000,
+      "text": "Recebimento -2\u00aa Inst.(SRA/DF) A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\nEnviado para 2\u00aa Inst no Lote 2019/ 3",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjcw",
+      "date": 1469674800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\nN\u00famero do Protocolo: 10494724",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjcz",
+      "date": 1464577200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\nN\u00famero do Protocolo: 1026344",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjc2",
+      "date": 1463972400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substabelecimento\nN\u00famero do Protocolo: 1024038",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZjlj",
+      "date": 1407294000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de realiza\u00e7\u00e3o per\u00edcia\nN\u00famero do Protocolo: 7291425",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYzg4MmY4MDg1OTFmM2M1YzYzZmE2",
+      "date": 1403233200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de laudo pericial\nN\u00famero do Protocolo: 7070052",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

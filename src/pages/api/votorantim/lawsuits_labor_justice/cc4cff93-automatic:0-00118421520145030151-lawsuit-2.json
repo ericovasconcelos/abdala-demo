@@ -1,0 +1,614 @@
+{
+  "lawsuit": {
+    "id": "Y2M0Y2ZmOTMtYXV0b21hdGljOjAtMDAxMTg0MjE1MjAxNDUwMzAxNTEtbGF3c3VpdA==",
+    "activityCount": 75,
+    "number": "0011842-15.2014.5.03.0151",
+    "value": 60000.0,
+    "subject": "Horas Extras, Adicional Noturno, Multa do Artigo 477 da CLT, Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "S. C. O.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Danilo Franzoni Gurian",
+            "cpf": "749.584.376-49",
+            "lawyerId": "YTM1ZmNlNjMtYXV0b21hdGljOjAtZmI0ZjNmZGUwZGIzM2I0LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1537295910000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia",
+                "code": 2697
+              },
+              {
+                "level": 3,
+                "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+                "code": 2458
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1663-2086-2212-2697"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete de Desembargador n. 42",
+    "nature": {
+      "raw": "AP",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNj",
+      "date": 1540956850000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY2",
+      "date": 1477706653000,
+      "text": "Decorrido o prazo de SINALDO DA CRUZ OLIVEIRA em 28/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdk",
+      "date": 1456975826000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZj",
+      "date": 1475689236000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZl",
+      "date": 1463748267000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQx",
+      "date": 1539717024000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjgx",
+      "date": 1432342416000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjcy",
+      "date": 1462590829000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 09/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjgw",
+      "date": 1439591538000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdh",
+      "date": 1460395171000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jess\u00e9 Claudio Franco de Alencar",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ1",
+      "date": 1537295911000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY1",
+      "date": 1477706653000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 28/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNi",
+      "date": 1540956850000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 31/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc1",
+      "date": 1462299073000,
+      "text": "Conhecido o recurso de SINALDO DA CRUZ OLIVEIRA - CPF: 788.698.549-49 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQy",
+      "date": 1539716997000,
+      "text": "Inclu\u00eddo o processo em pauta (23/10/2018, 08:35:00, Dra. Maria Raquel Ferraz Zagari Valentim)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjUy",
+      "date": 1504753299000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 06/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjcw",
+      "date": 1463540737000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 17/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU1",
+      "date": 1503927735000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS S.A. - CNPJ: 18.499.616/0001-14 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjcx",
+      "date": 1463540737000,
+      "text": "Decorrido o prazo de SINALDO DA CRUZ OLIVEIRA em 17/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjcz",
+      "date": 1462590829000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjYx",
+      "date": 1487238416000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRk",
+      "date": 1524066697000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdl",
+      "date": 1456944584000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZk",
+      "date": 1475688860000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a Sebasti\u00e3o Geraldo de Oliveira",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjVj",
+      "date": 1487734409000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 22/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjVi",
+      "date": 1488512873000,
+      "text": "Decorrido o prazo de SINALDO DA CRUZ OLIVEIRA em 02/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjUz",
+      "date": 1503976476000,
+      "text": "Publicado(a) o(a) Despacho em 29/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY5",
+      "date": 1476813024000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjVl",
+      "date": 1487238416000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS S.A. - CNPJ: 18.499.616/0001-14",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc0",
+      "date": 1462464366000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ2",
+      "date": 1537287127000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRj",
+      "date": 1525368088000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRi",
+      "date": 1527711603000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU4",
+      "date": 1503690885000,
+      "text": "Conclusos os autos para despacho  a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU5",
+      "date": 1488512873000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 02/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ3",
+      "date": 1535119773000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRm",
+      "date": 1523926515000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdi",
+      "date": 1459947573000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdm",
+      "date": 1449075255000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNk",
+      "date": 1540846500000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjUw",
+      "date": 1505330936000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para julgar Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNm",
+      "date": 1540317527000,
+      "text": "Prejudicado(s) o(s) Agravo de Peti\u00e7\u00e3o de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZi",
+      "date": 1475693752000,
+      "text": "Inclu\u00eddo o processo em pauta (11/10/2016, 09:30:00, Dr. Sebasti\u00e3o Geraldo de Oliveira)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ0",
+      "date": 1537372745000,
+      "text": "Conclusos os autos para julgamento (relatar) a Maria Raquel Ferraz Zagari Valentim",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZm",
+      "date": 1463585986000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a Jess\u00e9 Claudio Franco de Alencar",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ5",
+      "date": 1529860495000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjYy",
+      "date": 1487183968000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a J\u00falio Bernardo do Carmo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc4",
+      "date": 1461691950000,
+      "text": "Inclu\u00eddo o processo em pauta (03/05/2016, 09:30:00, Dr. Jess\u00e9 Cl\u00e1udio Franco de Alencar)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc2",
+      "date": 1461726548000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 27/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjVm",
+      "date": 1487238416000,
+      "text": "N\u00e3o admitido o Recurso de Revista de SINALDO DA CRUZ OLIVEIRA - CPF: 788.698.549-49",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRl",
+      "date": 1523983086000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY4",
+      "date": 1476929349000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc3",
+      "date": 1461691955000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNh",
+      "date": 1542247599000,
+      "text": "Decorrido o prazo de SINALDO DA CRUZ OLIVEIRA em 14/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY0",
+      "date": 1485972284000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a J\u00falio Bernardo do Carmo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjNl",
+      "date": 1540317530000,
+      "text": "Conhecido o recurso de SINALDO DA CRUZ OLIVEIRA - CPF: 788.698.549-49 e provido",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjM3",
+      "date": 1542391273000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para novo julgamento (por anula\u00e7\u00e3o da decis\u00e3o da inst\u00e2ncia inferior)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjRh",
+      "date": 1528407015000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjg0",
+      "date": 1423764865000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU3",
+      "date": 1503927735000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjgz",
+      "date": 1428632099000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQz",
+      "date": 1539349134000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjUx",
+      "date": 1504753571000,
+      "text": "Decorrido o prazo de SINALDO DA CRUZ OLIVEIRA em 06/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjdj",
+      "date": 1459864681000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjVk",
+      "date": 1487734409000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjYz",
+      "date": 1487183914000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjgy",
+      "date": 1430333108000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjY3",
+      "date": 1476929349000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 20/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU2",
+      "date": 1503927735000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de SINALDO DA CRUZ OLIVEIRA - CPF: 788.698.549-49 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQw",
+      "date": 1539747008000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 17/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjZh",
+      "date": 1476276896000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de VOTORANTIM METAIS S.A. - CNPJ: 18.499.616/0001-14",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjQ4",
+      "date": 1532572703000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjc5",
+      "date": 1461326120000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjU0",
+      "date": 1503976476000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNzkwNzZlMWFiMmU5ODFlMGRkMjM4",
+      "date": 1542248281000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 14/11/2018 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

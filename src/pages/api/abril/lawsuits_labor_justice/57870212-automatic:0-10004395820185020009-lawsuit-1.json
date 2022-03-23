@@ -1,0 +1,494 @@
+{
+  "lawsuit": {
+    "id": "NTc4NzAyMTItYXV0b21hdGljOjAtMTAwMDQzOTU4MjAxODUwMjAwMDktbGF3c3VpdA==",
+    "activityCount": 70,
+    "number": "1000439-58.2018.5.02.0009",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Adeilson Fernando da Silva",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Jorge Rodrigues Cruz",
+            "cpf": "107.432.958-97",
+            "lawyerId": "MDFiYmY3MjYtYXV0b21hdGljOjAtMmVkNGQ0NWQwZDc2ODBiLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Dalton Edson Messa",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Editora Abril S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1514815200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "9\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NTUwYjhkZGZhMDFhMDYyNGI3YTg3NzBhNjNjNzcyMDE=",
+      "date": 1556668800000,
+      "text": "Decorrido o prazo de ADEILSON FERNANDO DA SILVA em 30/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWY3MjZmODk1NzMyZmZlZThhN2EzNTZhZWMzMjM4NjM=",
+      "date": 1547251200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzNmNDlmMzkyNzgwNTU0YTQzNmIxMTBlMDIxNTZjYWQ=",
+      "date": 1536019200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDU5YzExNjY1YWQ4MzIyODIxMzMzYjQ5NTZhNDdlZDc=",
+      "date": 1559865600000,
+      "text": "Decorrido o prazo de ADEILSON FERNANDO DA SILVA em 06/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWJkZmQ0ZTU3ZTQxZWEyNDQ3ZTIyNTdhOGUxOTVmNjQ=",
+      "date": 1535414400000,
+      "text": "Audi\u00eancia una realizada (28/08/2018 09:30 - 9\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NDVkNDgxOGYyMTljNGMzOTdhMmRiMzk2MWIyMDFmMjg=",
+      "date": 1543795200000,
+      "text": "LT 1000439 58 2018 5 02 0009 PERICULOSIDADE",
+      "attachments": []
+    },
+    {
+      "id": "YTNhZDM5MDEyZGM1YjlkZDQwZGY1YTdhN2M1MDFjN2U=",
+      "date": 1544659200000,
+      "text": "Impugna\u00e7\u00e3o ao laudo",
+      "attachments": []
+    },
+    {
+      "id": "NDc3ZDgwZmM3YjA2NGY5MjdmNGFjNWU0Mzg3NGU1ODI=",
+      "date": 1550102400000,
+      "text": "Audi\u00eancia julgamento redesignada (26/03/2019 17:09 - 9\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFiMWJjNmFkYzFkNTAyNzUwOWRmYjI3OTc3NWNkY2Q=",
+      "date": 1544659200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzY4YmQyZWJkM2FjOTcyMWM2YmI1NmVjZGRlYmNlODM=",
+      "date": 1555113600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "MGQzMTk0MGE1MjQxMThiNTA3ZDQ5YjQzZDBhNDQwNmU=",
+      "date": 1538092800000,
+      "text": "Parecer T\u00e9cnico reclamada",
+      "attachments": []
+    },
+    {
+      "id": "NzY1NTQzNzQ3MTMxZmM1NGJhMzIzM2FjOGI0ZjI2NDE=",
+      "date": 1550102400000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjEyZTFjYTQwYWVhNTUwZTI3ZWU0Mzc5YTk1YjhmZWI=",
+      "date": 1535414400000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "OGJhYzU2NzYwMzA0ZDg1MDM4ODljZjAxMWExMWY0NTM=",
+      "date": 1558569600000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VIVIAN PINAREL",
+      "attachments": []
+    },
+    {
+      "id": "MDljMjc3ZjhhYTdlYzMxNjZkOTYwODk2YzM4NDA5OGI=",
+      "date": 1543795200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "OTFmOThmZmVkMjIzYTBkOTdjYzk3OTJhNTYyMDY0ZTU=",
+      "date": 1553817600000,
+      "text": "Embargos de Declara\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjI5NGU5YmYzYWU0ODQzNTdjOTkzMTI2MzMxNGQ1OWM=",
+      "date": 1523836800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MzU5ODRlZTY5ZWY1MWYzYjE1MWUxZWVjYWU4YzU4ZTE=",
+      "date": 1549497600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes",
+      "attachments": []
+    },
+    {
+      "id": "YjBkZjU2ZDZmMzVkMjdhYzNhMTZmOWVhYTQxMGZmMzA=",
+      "date": 1536364800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Indica\u00e7\u00e3o de Data de Dilig\u00eancia Pericial",
+      "attachments": []
+    },
+    {
+      "id": "Mjg0MWYzNDJhYzZlNDVlMTY5NTVhZDliZWVmNWE3NzI=",
+      "date": 1537920000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTEzZTY3MGQ2OTllOTMzMTEzNmY2NzFiODRmNTY4NzM=",
+      "date": 1560211200000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NDZhMDU2NDhlM2UwNzk4ZTcwOTQ3OTdjNjJiOTg0ZWE=",
+      "date": 1547251200000,
+      "text": "LTCO 1000439 58 2018 5 02 0009 ESCLARECIMENTOS",
+      "attachments": []
+    },
+    {
+      "id": "MjhlYTBiZjdkZGVjOWU3MTAxNTU4MWNkOTQ2ODRmNmU=",
+      "date": 1547251200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "ODFiY2Y5MmFmNGNjMDlhYjRlNmNmODg5ZjAzMTBhZmY=",
+      "date": 1558915200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGNiZmM4NGY3OGIxNDRhMmQ4MTcyZWZlMjhlY2Y5YzI=",
+      "date": 1523836800000,
+      "text": "Audi\u00eancia una designada (28/08/2018 09:30 - 9\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTY1ODg0OTNmMzAwMTg4OTY4ZGZiNjIxZWMxYjYzNTE=",
+      "date": 1556496000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "MmNlOWM1ZTU1OTM5OWRhMTdmYWIzNTZjYTBlMTkxMDQ=",
+      "date": 1535328000000,
+      "text": "Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2Y4MTY3YzcxOWM0NDdhNDc4MTIwYjVlNjNkYWNiMzI=",
+      "date": 1536364800000,
+      "text": "AGENDAMENTO DE PER\u00cdCIA CONJUNTA DE PERICULOSIDADE",
+      "attachments": []
+    },
+    {
+      "id": "NWY5OTRlZDRmNTFjN2JlOTk1ZDE3ODMyZjkxM2QyYWQ=",
+      "date": 1558569600000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ADEILSON FERNANDO DA SILVA - CPF: 361.633.618-06 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "MDEwZDE2NTgzNTkxOTRiNzVlZDhkMjcyNTZiN2UxOGU=",
+      "date": 1554336000000,
+      "text": "Decorrido o prazo de EDITORA ABRIL S.A. em 03/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Njg4N2FmMDBiNzRhM2Q4N2YzYzEyMDcyYTZlYmVjMTg=",
+      "date": 1535328000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDg4MGEwZDZlZGE3NTM1OTg3MWJjMjZmNGY0NTI2OTQ=",
+      "date": 1538092800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDNhODlhM2I4Nzk3YjUzZWNiY2FjMjRmNjk0OWE4NDU=",
+      "date": 1543795200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2MwZDE1MDkzZTViMTA5NGIwYmViMmEwYWRhZjA3M2I=",
+      "date": 1553212800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTM2M2IzZTk4Yjk0MTI0MGNiZjlkODk0YmNhN2JlNGI=",
+      "date": 1528675200000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGIyYzU2OTU5MTU2N2UyMGI2NzUyZjZmYWFkNTBlZDA=",
+      "date": 1555113600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDhmZDNkY2YxNWQxMmVkYmQyMjg0NDdhY2M0YWM5NWU=",
+      "date": 1536537600000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos",
+      "attachments": []
+    },
+    {
+      "id": "NWE1OWViNDc0MWJjOTRiZWUzZTY3NDc2Zjc3ZTc2YzU=",
+      "date": 1531353600000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "ZTJjNjdiOGRjODk4ZTQyNzVmNjg4NTYwNWQ0NzMxNjk=",
+      "date": 1535414400000,
+      "text": "intima\u00e7\u00e3ao perito Dalton",
+      "attachments": []
+    },
+    {
+      "id": "MDllN2YwZjZlNjY1YmFmYjZjOTU2MDVhN2VhNzRjMzA=",
+      "date": 1555027200000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NTlkNmI3MGRjY2YyOGFmODg4NjQwYzRjZjkyZjgzNWU=",
+      "date": 1556496000000,
+      "text": "Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZWVkZTI2NjY5NGM2NDM4YmYyZmI5YTA4OWFlYzk1OTM=",
+      "date": 1559692800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "MjczYTVhZjk0MTE5ZjM2ZWJkYWVhYWEzNjVkZjU0OWI=",
+      "date": 1523836800000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "ZTdiOThmYTI4YjlmOWYyODFiYThiN2YwMDYyMGE2MmE=",
+      "date": 1535328000000,
+      "text": "Documentos que acompanham a defesa",
+      "attachments": []
+    },
+    {
+      "id": "YWY5NmVkYmY0NzU5YWIzZDIxZTIzMjBjN2QxNzYzOWY=",
+      "date": 1559692800000,
+      "text": "Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NjRmN2ZjOGZjNGNhNGFhM2I0M2ExYmQ4ZmQyZWUxOTA=",
+      "date": 1535328000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODVkM2U1NTIwYzJiNmQwNDA3ZTQ4N2ViYjE0Y2MzYTg=",
+      "date": 1553040000000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "N2Y1NTU1YWI1NDM2M2RjNWQ3NjljZTFlNjMwM2FiNDc=",
+      "date": 1558569600000,
+      "text": "Controle de prazo recursalMinutar decis\u00e3o - ARminutaEmElaboracao",
+      "attachments": []
+    },
+    {
+      "id": "ZTAwOTBhMjg0NWFhMGZiMmQ4ZGM2ODBlOGMwYTMwMTQ=",
+      "date": 1553040000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ADEILSON FERNANDO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "Njk5NjQ5YTU5NzNlZDczOWMwNGFlMTIzYjRlN2ViZGE=",
+      "date": 1554854400000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a TATIANE BOTURA SCARIOT",
+      "attachments": []
+    },
+    {
+      "id": "NDczMTg2ZTdhZjhkNjU2NTEwNTJmNDUwNDQ5NmNiZjU=",
+      "date": 1553817600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o (Embargos de Declara\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YWExN2E3YmI5ZmFkYTE3Yzc0MDgyNzBmNWQ0N2ZhZTQ=",
+      "date": 1550102400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a TATIANE BOTURA SCARIOT",
+      "attachments": []
+    },
+    {
+      "id": "YTBkM2VjYjk2MGZkYTIyOTk2NjI5MDgxOTYxMTI3Yjc=",
+      "date": 1556668800000,
+      "text": "Decorrido o prazo de EDITORA ABRIL S.A. em 30/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODM2MTFlNjA3ODUzM2ZiNDgyOWE3MTc4N2JkYWIxMmQ=",
+      "date": 1535328000000,
+      "text": "Documentos que acomapnham a defesa",
+      "attachments": []
+    },
+    {
+      "id": "NzE2ZmQxNWE0ODkwZGY2YTkwMjlkODZkOTRkNjQwMDQ=",
+      "date": 1547251200000,
+      "text": "COMPROVANTE DE EMAIL DE COMUNICA\u00c7\u00c3O DO PROTOCOLO DE ESCLARECIMENTOS",
+      "attachments": []
+    },
+    {
+      "id": "YmU4ZWZjODc0ZTcwMTdlMjBmODExNjBlZmIyNjEzNmE=",
+      "date": 1537920000000,
+      "text": "LAUDO ASSISTENTE RECLAMANTE",
+      "attachments": []
+    },
+    {
+      "id": "YzQxNTEwMGNmY2Q4MDA4ZjNhMTAzZGJhZWRmODY4NGI=",
+      "date": 1554336000000,
+      "text": "Decorrido o prazo de ADEILSON FERNANDO DA SILVA em 03/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDljMTRkNTFlYjlmZTczY2I2ODdjYTg0MzNhYWQyNzA=",
+      "date": 1553040000000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 500.00",
+      "attachments": []
+    },
+    {
+      "id": "MWE4ZmQ2YjE2ODVhNzIyMTUyNGYxMDM3MDYzOGIwMGM=",
+      "date": 1553212800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWFhY2Q3MmQ1YTJmMGVlYWZmYmM3YzZkOWEyMzhmOTY=",
+      "date": 1535414400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (14/02/2019 11:30 - 9\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "YmJhOWM1ZmVhMzI1YjVjM2VkZmVjNzM1YWY1NmNkNzY=",
+      "date": 1536537600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos",
+      "attachments": []
+    },
+    {
+      "id": "OTBjZjAzZmZhZjMxZWIzMDQxZGVhOTgxNjQzNGE4YzU=",
+      "date": 1553040000000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de ADEILSON FERNANDO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "OGNlZGI2OTg5M2Y4ZjU2M2E4MGM0MGY2ZDY1OTFhNzQ=",
+      "date": 1555027200000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de EDITORA ABRIL S.A. - CNPJ: 02.183.757/0001-93",
+      "attachments": []
+    },
+    {
+      "id": "OWRmYzMyMGE2M2JmMGVjYTliZGRmNmQ3NjFiM2FkY2U=",
+      "date": 1543795200000,
+      "text": "EMAIL \u00c0S PARTES DE COMUNICA\u00c7\u00c3O DE PROTOCOLO DE LAUDO PERICIAL",
+      "attachments": []
+    },
+    {
+      "id": "ODEyZGYzZDhjZWZkNjRhOTA2ODRiZGMwYjExYTU5ZmQ=",
+      "date": 1558569600000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWFiN2NhMmQxYmEwMjMwM2Y0Y2JiNTY1ZmU3Mjg2Yzc=",
+      "date": 1549497600000,
+      "text": "Juntada de substabelecimento e carta de preposi\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZjAxOGFlNWM1N2ZlYjc1MmI1NjU1ZjFjYmFjMWZlN2Y=",
+      "date": 1550102400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (14/02/2019 12:30 - 9\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "MjEwMWY2NjkyMDEyNDZjNTU1OTdmN2UyN2RkMjIwYTk=",
+      "date": 1531353600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzA2YTc1MzA1NDdjMjkxYzAwMjVlMDQ4YWU5OTU2ODk=",
+      "date": 1536019200000,
+      "text": "manifesta\u00e7\u00e3o sobre defesa",
+      "attachments": []
+    },
+    {
+      "id": "ZTMyYmIzNDVmMjE0ODNkZGI0OGY5ZDEwZTVkNmJmODg=",
+      "date": 1558915200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/05/2019",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

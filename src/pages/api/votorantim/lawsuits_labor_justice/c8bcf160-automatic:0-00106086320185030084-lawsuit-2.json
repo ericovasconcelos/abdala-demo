@@ -1,0 +1,415 @@
+{
+  "lawsuit": {
+    "id": "YzhiY2YxNjAtYXV0b21hdGljOjAtMDAxMDYwODYzMjAxODUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 41,
+    "number": "0010608-63.2018.5.03.0084",
+    "value": 113575.0,
+    "subject": "Adicional de Horas Extras, Acidente de Trabalho, Acidente de Trabalho, Contagem de Minutos Residuais, Horas in Itinere, Intervalo Intrajornada",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "A. H. R. B.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Savio Henrique Santos Santiago",
+            "cpf": "100.136.176-80",
+            "lawyerId": "OTRjZmRlNGQtYXV0b21hdGljOjAtNzc2ZDIzM2EyNzJkNzNkLXVuaWZpZWQ="
+          },
+          {
+            "name": "Stenio Santos Santiago",
+            "cpf": "060.609.696-58",
+            "lawyerId": "Nzg3Nzg4NTItYXV0b21hdGljOjAtMzA0MWZjNGNjMjdjNGNmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1542883982000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas In Itinere",
+                "code": 1661
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Acidente de Trabalho",
+                "code": 10571
+              },
+              {
+                "level": 2,
+                "text": "Prescri\u00e7\u00e3o",
+                "code": 10568
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1661-2140-10303-10571"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZl",
+      "date": 1548354065000,
+      "text": "Inclu\u00eddo o processo em pauta (05/02/2019, 09:10:00, Ta\u00edsa M\u00aa Macena de Lima)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVj",
+      "date": 1563477690000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recurso de Revista (AGRAVO DE INSTRUMENTO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVi",
+      "date": 1564110111000,
+      "text": "Decorrido o prazo de ANTONIO HENRIQUE RODRIGUES BORGES                            em 25/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc0",
+      "date": 1539294115000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU1",
+      "date": 1566357180000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 21/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc4",
+      "date": 1535129772000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZk",
+      "date": 1548354091000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTcz",
+      "date": 1539888735000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZm",
+      "date": 1547469054000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTdh",
+      "date": 1531170471000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc3",
+      "date": 1535394222000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZh",
+      "date": 1549554112000,
+      "text": "Conhecido o recurso de ANTONIO HENRIQUE RODRIGUES BORGES - CPF: 067.270.336-09 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVl",
+      "date": 1562555135000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVk",
+      "date": 1562555135000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 08/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc2",
+      "date": 1537796484000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY0",
+      "date": 1550806069000,
+      "text": "Decorrido o prazo de ANTONIO HENRIQUE RODRIGUES BORGES                            em 21/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTYw",
+      "date": 1560788587000,
+      "text": "N\u00e3o admitido o Recurso de Revista de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU0",
+      "date": 1567479796000,
+      "text": "Decorrido o prazo de ANTONIO HENRIQUE RODRIGUES BORGES                            em 02/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVm",
+      "date": 1562323110000,
+      "text": "N\u00e3o admitido o Recurso de Revista de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc5",
+      "date": 1532464469000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTVh",
+      "date": 1564110111000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 25/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZi",
+      "date": 1549553491000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY4",
+      "date": 1549679959000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTcx",
+      "date": 1542883983000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTUz",
+      "date": 1567479798000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 02/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTYy",
+      "date": 1559335355000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTcy",
+      "date": 1540587178000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTYz",
+      "date": 1550806070000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 21/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY3",
+      "date": 1549679960000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 11/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU4",
+      "date": 1565989247000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU3",
+      "date": 1565989250000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY5",
+      "date": 1549554114000,
+      "text": "Conhecido o recurso de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTZj",
+      "date": 1548385068000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 25/01/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU5",
+      "date": 1565980413000,
+      "text": "Conclusos os autos para decis\u00e3o do Agravo de Instrumento em Recurso de Revista a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY2",
+      "date": 1550510962000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (JUNTADA DOCUMENTACAO REPRESENTACAO PROCESSUAL NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTUy",
+      "date": 1567702791000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTcw",
+      "date": 1547135354000,
+      "text": "Conclusos os autos para julgamento (relatar) a Taisa Maria Macena de Lima",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTYx",
+      "date": 1560788582000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTU2",
+      "date": 1566357180000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTc1",
+      "date": 1538488421000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxODFlYzhjNDVmMzNmZjZjZGQ1OTY1",
+      "date": 1550760513000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso de Revista (RECURSO DE REVISTA NEXA)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

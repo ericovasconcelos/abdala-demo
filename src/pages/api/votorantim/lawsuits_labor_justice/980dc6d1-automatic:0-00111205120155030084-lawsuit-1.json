@@ -1,0 +1,632 @@
+{
+  "lawsuit": {
+    "id": "OTgwZGM2ZDEtYXV0b21hdGljOjAtMDAxMTEyMDUxMjAxNTUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 93,
+    "number": "0011120-51.2015.5.03.0084",
+    "value": 65590.92,
+    "subject": "Reflexos",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "V. R. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Dalila Rocha Santos",
+            "cpf": "079.022.846-70",
+            "lawyerId": "NzQ2MDIzMjgtYXV0b21hdGljOjAtMmU4ZTE4YWZhODQyY2E4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Divino Vilela Junior",
+            "cpf": "028.280.606-75",
+            "lawyerId": "NmE5MjY5NWItYXV0b21hdGljOjAtOGNkZTM4MTU1MWI0OGFjLXVuaWZpZWQ="
+          },
+          {
+            "name": "Flavia Caroline Cunha Moises Guirra",
+            "cpf": "087.390.326-98",
+            "lawyerId": "YTc4MGJlODEtYXV0b21hdGljOjAtMGE2ZWM4NmIwZGFlYzdjLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1437133359000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI4",
+      "date": 1505226925000,
+      "text": "Iniciada a liquida\u00e7\u00e3o por c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjkx",
+      "date": 1521608953000,
+      "text": "Decorrido o prazo de VAINER RIBEIRO DOS SANTOS em 20/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE3",
+      "date": 1507204151000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE4",
+      "date": 1507204151000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjlm",
+      "date": 1508178101000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFh",
+      "date": 1507117907000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmMw",
+      "date": 1460605124000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjll",
+      "date": 1508178101000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk4",
+      "date": 1516725868000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmMy",
+      "date": 1460508561000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjky",
+      "date": 1521443849000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNi",
+      "date": 1458297208000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1000.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI1",
+      "date": 1505235725000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjlk",
+      "date": 1508813239000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 23/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM2",
+      "date": 1459395361000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 31/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNl",
+      "date": 1458297207000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmEx",
+      "date": 1507954777000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ4",
+      "date": 1441059389000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ0",
+      "date": 1455917649000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (08/03/2016 15:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRi",
+      "date": 1440651465000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 18/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmIy",
+      "date": 1506400339000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 25/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRj",
+      "date": 1440618984000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ2",
+      "date": 1455917559000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o cancelada (08/03/2016 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFk",
+      "date": 1506570978000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjhm",
+      "date": 1523898501000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU1",
+      "date": 1438784457000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE2",
+      "date": 1507692135000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 10/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmEz",
+      "date": 1507767308000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk3",
+      "date": 1519082461000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE0",
+      "date": 1507767308000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmIw",
+      "date": 1506446034000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQx",
+      "date": 1457475297000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (08/03/2016 15:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRl",
+      "date": 1439479815000,
+      "text": "Audi\u00eancia inicial designada (31/08/2015 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFj",
+      "date": 1507003530000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 02/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmUz",
+      "date": 1438784458000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU2",
+      "date": 1437485873000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmVi",
+      "date": 1437133359000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjkz",
+      "date": 1521443849000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmUw",
+      "date": 1438950862000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 06/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjli",
+      "date": 1509498178000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk2",
+      "date": 1521048520000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI2",
+      "date": 1505235725000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ1",
+      "date": 1455917560000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o cancelada (08/03/2016 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJk",
+      "date": 1473706490000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJm",
+      "date": 1460642814000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJl",
+      "date": 1465576405000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRh",
+      "date": 1441041553000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (08/03/2016 11:50 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk0",
+      "date": 1521074682000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI0",
+      "date": 1505363858000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM1",
+      "date": 1460171830000,
+      "text": "Decorrido o prazo de VAINER RIBEIRO DOS SANTOS em 08/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM4",
+      "date": 1459296526000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJi",
+      "date": 1497631226000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmIz",
+      "date": 1505363858000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk5",
+      "date": 1516725867000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmUx",
+      "date": 1438950856000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE5",
+      "date": 1507117907000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI5",
+      "date": 1505226634000,
+      "text": "Transitado em julgado em 17/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFl",
+      "date": 1506570978000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjlj",
+      "date": 1508813239000,
+      "text": "Decorrido o prazo de VAINER RIBEIRO DOS SANTOS em 23/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmMx",
+      "date": 1460605124000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRm",
+      "date": 1439479446000,
+      "text": "Audi\u00eancia inicial cancelada (31/08/2015 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ3",
+      "date": 1455303522000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (08/03/2016 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmMz",
+      "date": 1460508561000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmUy",
+      "date": 1438872675000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM0",
+      "date": 1460505180000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjkw",
+      "date": 1521609116000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 20/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmIx",
+      "date": 1506439280000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQy",
+      "date": 1456370515000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFi",
+      "date": 1507062457000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU5",
+      "date": 1437420341000,
+      "text": "Audi\u00eancia inicial redesignada (31/08/2015 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQz",
+      "date": 1456370515000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJj",
+      "date": 1488998838000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmI3",
+      "date": 1505226956000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjk1",
+      "date": 1521074681000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU4",
+      "date": 1437485873000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNk",
+      "date": 1458297208000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de VAINER RIBEIRO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU3",
+      "date": 1437485873000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmVh",
+      "date": 1437133364000,
+      "text": "Audi\u00eancia inicial designada (19/08/2015 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNm",
+      "date": 1457551223000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmEy",
+      "date": 1507954777000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmFm",
+      "date": 1506446034000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQw",
+      "date": 1457475297000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM3",
+      "date": 1459395361000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmEw",
+      "date": 1508171739000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmJh",
+      "date": 1503513908000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmRk",
+      "date": 1439522714000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 13/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNh",
+      "date": 1459285026000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmNj",
+      "date": 1458297208000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a VAINER RIBEIRO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4Zjlh",
+      "date": 1516724396000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmE1",
+      "date": 1507738803000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmQ5",
+      "date": 1441059389000,
+      "text": "Audi\u00eancia inicial realizada (31/08/2015 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmM5",
+      "date": 1459296525000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWE5NTFjNDVmMzNmZjZjNGY4ZmU0",
+      "date": 1438784457000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

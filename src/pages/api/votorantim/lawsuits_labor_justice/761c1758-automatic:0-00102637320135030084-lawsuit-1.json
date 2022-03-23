@@ -1,0 +1,805 @@
+{
+  "lawsuit": {
+    "id": "NzYxYzE3NTgtYXV0b21hdGljOjAtMDAxMDI2MzczMjAxMzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 119,
+    "number": "0010263-73.2013.5.03.0084",
+    "value": 27072.0,
+    "subject": "Horas Extras",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "C. A. S. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1380825296000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2086"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWJi",
+      "date": 1380884569000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE2",
+      "date": 1463458306000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 16/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWE2",
+      "date": 1392026933000,
+      "text": "Conclusos os autos para julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTgx",
+      "date": 1404778469000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 31/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFh",
+      "date": 1383614965000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWE5",
+      "date": 1383827463000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFk",
+      "date": 1383157652000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE4",
+      "date": 1462594173000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWI2",
+      "date": 1382643657000,
+      "text": "Audi\u00eancia una realizada (24/10/2013 13:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWIw",
+      "date": 1383056473000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTJi",
+      "date": 1461703709000,
+      "text": "Expedido(a) alvar\u00e1 a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTgw",
+      "date": 1404805297000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 31/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTJm",
+      "date": 1450227755000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNThh",
+      "date": 1404174184000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 10/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTU4",
+      "date": 1445962576000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNThi",
+      "date": 1404174179000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTVl",
+      "date": 1442069177000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 09/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTk0",
+      "date": 1396540224000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de CARLOS ANTONIO SANTANA DE SOUSA - CPF: 477.730.816-20 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTkw",
+      "date": 1403988891000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 25/02/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNj",
+      "date": 1448939589000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/12/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTkz",
+      "date": 1396540224000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg2",
+      "date": 1404309669000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 18/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNWE1",
+      "date": 1392679049000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNh",
+      "date": 1449246163000,
+      "text": "Conclusos os autos para despacho  a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWE3",
+      "date": 1391789052000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (06/02/2014 10:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTcz",
+      "date": 1406228463000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWI4",
+      "date": 1380884569000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTlm",
+      "date": 1393442800000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTcw",
+      "date": 1440610750000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE0",
+      "date": 1515497511000,
+      "text": "Desarquivados os autos para prosseguir na fase de liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTQ3",
+      "date": 1448545648000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE3",
+      "date": 1462594173000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTYy",
+      "date": 1441889376000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWI3",
+      "date": 1382643656000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTYz",
+      "date": 1441889375000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTgz",
+      "date": 1404498153000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 21/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZm",
+      "date": 1440615374000,
+      "text": "Transitado em julgado em 14/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFi",
+      "date": 1383614965000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg0",
+      "date": 1404498149000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTJk",
+      "date": 1450491031000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 18/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNWEy",
+      "date": 1392679051000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a CARLOS ANTONIO SANTANA DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTU3",
+      "date": 1445962643000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTM0",
+      "date": 1449278501000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTQ1",
+      "date": 1448766114000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTY0",
+      "date": 1441888563000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTFh",
+      "date": 1462482083000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg5",
+      "date": 1404294016000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 18/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTJj",
+      "date": 1454682376000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTVk",
+      "date": 1442325593000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTUy",
+      "date": 1445965967000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFj",
+      "date": 1383504591000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTYx",
+      "date": 1442008353000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 09/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTMw",
+      "date": 1450181233000,
+      "text": "Conclusos os autos para despacho  a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZk",
+      "date": 1440615465000,
+      "text": "Conclusos os autos para despacho  a FLAVIA FONSECA PARREIRA STORTI",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNWEx",
+      "date": 1392679051000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE5",
+      "date": 1462482084000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFl",
+      "date": 1383157652000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTgy",
+      "date": 1404767358000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 31/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTUz",
+      "date": 1445965967000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTdj",
+      "date": 1404826075000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 04/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWIz",
+      "date": 1382871963000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNThj",
+      "date": 1404174168000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 10/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNl",
+      "date": 1448880749000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTEx",
+      "date": 1515497798000,
+      "text": "Desarquivados os autos para prosseguir na fase de liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTUw",
+      "date": 1446125907000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTMx",
+      "date": 1449801252000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/12/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTVj",
+      "date": 1442953624000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNm",
+      "date": 1448880749000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTcx",
+      "date": 1417367963000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTdl",
+      "date": 1404825981000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 04/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTcy",
+      "date": 1408566478000,
+      "text": "Minutar Despacho AR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTkx",
+      "date": 1403988877000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZj",
+      "date": 1440629083000,
+      "text": "Minutar despacho - Liq",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWFm",
+      "date": 1383056473000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWJm",
+      "date": 1380825296000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWI1",
+      "date": 1382716865000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (06/02/2014 10:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTJl",
+      "date": 1450227755000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTQ2",
+      "date": 1448766114000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTEz",
+      "date": 1515497538000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZi",
+      "date": 1440629083000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTMy",
+      "date": 1449801252000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTU5",
+      "date": 1443814202000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTMz",
+      "date": 1449278502000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTQ5",
+      "date": 1448545602000,
+      "text": "Conclusos os autos para despacho  a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTRj",
+      "date": 1446141128000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNi",
+      "date": 1449195076000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 03/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTE1",
+      "date": 1463503727000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTQ4",
+      "date": 1448545626000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZl",
+      "date": 1440615397000,
+      "text": "Iniciada a liquida\u00e7\u00e3o por c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTVm",
+      "date": 1442069135000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 09/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTQw",
+      "date": 1448825063000,
+      "text": "Decorrido o prazo de CARLOS ANTONIO SANTANA DE SOUSA em 16/11/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNWE0",
+      "date": 1392679051000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / \n #N\u00e3o preenchido#) de CARLOS ANTONIO SANTANA DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTRi",
+      "date": 1446141129000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTY1",
+      "date": 1441005729000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 28/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTYw",
+      "date": 1442008377000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 09/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTFi",
+      "date": 1462473416000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTU2",
+      "date": 1445962662000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg3",
+      "date": 1404309648000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 18/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTlk",
+      "date": 1393442802000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / \n #N\u00e3o preenchido#) de CARLOS ANTONIO SANTANA DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTNk",
+      "date": 1448939589000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg1",
+      "date": 1404328899000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTky",
+      "date": 1398688084000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTdm",
+      "date": 1404825972000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNThk",
+      "date": 1404174162000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWIy",
+      "date": 1382998383000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTg4",
+      "date": 1404294058000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 18/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTc0",
+      "date": 1404826101000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 04/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTZh",
+      "date": 1441005726000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNWEw",
+      "date": 1393348518000,
+      "text": "Conclusos os autos para julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTc1",
+      "date": 1404826092000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTlj",
+      "date": 1393442802000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a CARLOS ANTONIO SANTANA DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTk1",
+      "date": 1396540222000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTk2",
+      "date": 1396489429000,
+      "text": "Conclusos os autos para decis\u00e3o (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNThl",
+      "date": 1404037181000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 06/03/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzhkOGM1NGRjNTJmZDliNTA1",
+      "date": 1515497892000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTli",
+      "date": 1393442802000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 0.01",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWE4",
+      "date": 1391789052000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiN2FkOGM1NGRjNTJmZDliNWJj",
+      "date": 1380825297000,
+      "text": "Audi\u00eancia una designada (24/10/2013 13:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNzhiNzlkOGM1NGRjNTJmZDliNTdk",
+      "date": 1404826068000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

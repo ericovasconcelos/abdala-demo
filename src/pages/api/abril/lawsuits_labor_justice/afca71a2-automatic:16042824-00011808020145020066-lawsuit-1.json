@@ -1,0 +1,466 @@
+{
+  "lawsuit": {
+    "id": "YWZjYTcxYTItYXV0b21hdGljOjE2MDQyODI0LTAwMDExODA4MDIwMTQ1MDIwMDY2LWxhd3N1aXQ=",
+    "activityCount": 67,
+    "number": "0001180-80.2014.5.02.0066",
+    "value": "",
+    "subject": "A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)",
+    "kind": "",
+    "district": "S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Josivaldo Reis de Moraes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Marcelo Leite dos Santos",
+            "cpf": "",
+            "lawyerId": "ZmQ5ZjI4MDUtYXV0b21hdGljOjE2MDQyODI0LThiN2I4NmYzNjMwODg1Mi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Graber Sistemas de Seguran\u00e7a LTDA + 1",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Bernardo Augusto Bassi",
+            "cpf": "",
+            "lawyerId": "MzQyNTljN2YtYXV0b21hdGljOjE2MDQyODI0LWQ2OWI2NTU1ZTU1MzA3My1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 1401418800000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NzBjMzBhNzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MzdlYmUzMGI4NzJiOGYtMTQwMTQxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401418800000,
+      "text": "Distribu\u00eddo s/hor\u00e1rio p/marca\u00e7\u00e3o de audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "OTQ5Njg0ZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MDMyMjM4MWZiNjg3ZWMtMTQwNDc4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1404788400000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Inicial\r\n\r\npara: 23/09/2014 / 11:50 - Inicial",
+      "attachments": []
+    },
+    {
+      "id": "ZjBjZTYyZDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMjY3MjBhMjU0MmU1ZGQtMTQwNDk2MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1404961200000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 05019/2014 Rel:00111/2014 N\u00baReg: JJ215676455BR\r\n\r\nNome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "NTE2YTIxYzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Y2U5ZjY1NzU0ZTYyYzEtMTQwNDk2MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1404961200000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 05018/2014 Rel:00111/2014 N\u00baReg: JJ215676447BR\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "NTAzZmUxOTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNDNmNjRlMzcxOWVmM2MtMTQwNTMwNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1405306800000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 2849 Sol.N\u00ba 1687\r\n\r\nAudi\u00eancia Inicial 23/09/2014 \u00e0s 11:50 hs.",
+      "attachments": []
+    },
+    {
+      "id": "ZTc4YjhiMjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NWI4YmI5OWJlYzQxMmItMTQwNzg5ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1407898800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de procura\u00e7\u00e3o\r\n\r\nN\u00famero do Protocolo: 102176\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "NzA0NDYyMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYTY4Mzc3NGEwYjY5MmItMTQwODMzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1408330800000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista\r\n\r\nPrevista: 18/08/2014 - BRUNO GARCIA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "ZTEyMDUyMjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTk0YzcxMjM5ZjEzYmItMTQwODMzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1408330800000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nBRUNO GARCIA DA SILVA-OAB 336221/D-SP-R\u00e9u\r\n\r\ne (0011 )31206159, SAO PAULO-SP",
+      "attachments": []
+    },
+    {
+      "id": "NjIyMjUwOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZTE2NDc4NzU0NDJiZGQtMTQxMDQ5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1410490800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de procura\u00e7\u00e3o\r\n\r\nN\u00famero do Protocolo: 115229\r\n\r\nNome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "N2RmYTg5NjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNzBiZTgzOWU2ZGEzYjItMTQxMTQ0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1411441200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de rol de testemunhas\r\n\r\nN\u00famero do Protocolo: 7533362\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "MmEyOGRiOGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGMyOTdiNmNjZWY2NzMtMTQxMTQ0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1411441200000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Instru\u00e7\u00e3o\r\n\r\npara: 02/12/2015 / 9:00 - Instru\u00e7\u00e3o\r\n\r\nJuiz(a) LUCIANA SIQUEIRA ALVES GARCIA",
+      "attachments": []
+    },
+    {
+      "id": "ZGIxN2ZjOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NjA2NTk2ODhjYjEzMjUtMTQxMjA0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1412046000000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nMARCELO LEITE DOS SANTOS-OAB 152226/D-SP-Autor\r\n\r\ne (0011 )32581470, S\u00e3o Paulo-SP",
+      "attachments": []
+    },
+    {
+      "id": "OGNlZTI2MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNmE2ZTU3NTliMmQ3NDQtMTQxMjEzMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1412132400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre a defesa\r\n\r\nN\u00famero do Protocolo: 73841\r\n\r\nNome: Josivaldo Reis de Moraes",
+      "attachments": []
+    },
+    {
+      "id": "MGU2YTQwOTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNzMzMTE1MjJhMWUyYjQtMTQxMjEzMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1412132400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista\r\n\r\nPrevista: 06/10/2014 - MARCELO LEITE DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NDNkYzFkZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MzIzYWJhYjlkMjMzYTEtMTQ0OTAyMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1449021600000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento\r\n\r\npara: 29/02/2016 / 18:07 - Julgamento\r\n\r\nJuiz(a) ANA MARIA LOUZADA DE CASTRO BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "N2NiNTJiZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWE2ZTE4ZWNlMmNlYzItMTQ1NjcxNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1456714800000,
+      "text": "Aguardando Reda\u00e7\u00e3o Senten\u00e7a Audi\u00eancia de Julgamento\r\n\r\nAudi\u00eancia de Julgamento em 29/02/2016\r\n\r\nJuiz(a) : ANA MARIA LOUZADA DE CASTRO BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "NmRmNDgyMjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNGEyMDMzZTMwZDVlMjItMTQ1OTIyMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459220400000,
+      "text": "Proced\u00eancia em parte de A\u00e7\u00e3o\r\n\r\nData Atualiza\u00e7\u00e3o: 29/03/16 Hora: 14:46:47\r\n\r\nJuiz(a) : ANA MARIA LOUZADA DE CASTRO BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "ZWYxMTVjZDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iN2I2NGFiOTVjZmIzNmYtMTQ1OTczODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459738800000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Ci\u00eancia Senten\u00e7a\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3242 Sol.N\u00ba 3510",
+      "attachments": []
+    },
+    {
+      "id": "MzAzOWVhZjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOTZmMDM5MTZlZmU3MmYtMTQ1OTgyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459825200000,
+      "text": "Recebimento de Recurso Ordin\u00e1rio\r\n\r\nPetic. : Josivaldo Reis de Moraes\r\n\r\nJuiz(a): VALERIA NICOLAU SANCHEZ",
+      "attachments": []
+    },
+    {
+      "id": "YTgzOWViODItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDI4Mzc4NjUzNDkzOTctMTQ1OTgyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459825200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\r\n\r\nN\u00famero do Protocolo: 24277 Vencimento: 12/04/2016\r\n\r\nNome: Josivaldo Reis de Moraes",
+      "attachments": []
+    },
+    {
+      "id": "NWEzZTcwMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZjJiOGI4YzlhODdiNWMtMTQ2MDQzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460430000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\r\n\r\nN\u00famero do Protocolo: 71023\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "N2EyMDY3N2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMjI4ZTNmN2RjMTgyMDktMTQ2MDQzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460430000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\r\n\r\nN\u00famero do Protocolo: 69961\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "ZWM0MTNlZWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NjRhNWIyN2ZhZGQ2N2YtMTQ2MDUxNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460516400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contra-arrazoar R.O.\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 3249 Sol.N\u00ba 6945",
+      "attachments": []
+    },
+    {
+      "id": "OTE4M2ZkMWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZWYyMjFjNGEwYjI0NzItMTQ2MDk0ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460948400000,
+      "text": "Recebimento de Recurso Ordin\u00e1rio\r\n\r\nPetic. : USUARIO - DEFAULT\r\n\r\nJuiz(a): VALERIA NICOLAU SANCHEZ",
+      "attachments": []
+    },
+    {
+      "id": "NmEwNjc2MDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTk0YzcxMjM5ZjEzYmItMTQ2MTAzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461034800000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nBRUNO GARCIA DA SILVA-OAB 336221/D-SP-R\u00e9u\r\n\r\ne (0011 )31206159, SAO PAULO-SP",
+      "attachments": []
+    },
+    {
+      "id": "NTYyNjQzMGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmJkMzQ3YjRjOTg4MGUtMTQ2MTU1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461553200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de devolu\u00e7\u00e3o de prazo\r\n\r\nN\u00famero do Protocolo: 123819\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "NTEyZDFjZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNTJjNmY3ZmZhMzYyZDEtMTQ2MTU1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461553200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\r\n\r\nN\u00famero do Protocolo: 121503\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "ZWI0OWRjYjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YWJmNTRjZjgxNDdlYzMtMTQ2MTU1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461553200000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista\r\n\r\nPrevista: 25/04/2016 - BRUNO GARCIA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "MTRjYjI3ODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ODMxZDFlY2ZiZWIxYjMtMTQ2MTU1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461553200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contra-arrazoar R.O.\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3255 Sol.N\u00ba 323",
+      "attachments": []
+    },
+    {
+      "id": "MTA2NjUyMzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMzdlZjdkYTRkODQ5MTAtMTQ2MTU1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461553200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\r\n\r\nN\u00famero do Protocolo: 28569 Vencimento: 03/05/2016\r\n\r\nNome: Josivaldo Reis de Moraes",
+      "attachments": []
+    },
+    {
+      "id": "ZTAyYjRiMmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNzQ1NjFiMDFhNDkzOGQtMTQ2MTg5ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461898800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 3259 Sol.N\u00ba 7649",
+      "attachments": []
+    },
+    {
+      "id": "ZDNhYTJkYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OTIwMzZlOWZmNjlkYWMtMTQ2MjI0NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462244400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\r\n\r\nN\u00famero do Protocolo: 158074\r\n\r\nNome: REVANE VALENTIM",
+      "attachments": []
+    },
+    {
+      "id": "MWQ1MGQwZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMzczZDFmYmNmOTE2NDAtMTQ2MjI0NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462244400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\r\n\r\nN\u00famero do Protocolo: 158047\r\n\r\nNome: REVANE VALENTIM",
+      "attachments": []
+    },
+    {
+      "id": "ZjRiNWQ3YTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OGYxMmI4ZmYwODg3MTItMTQ2MjQxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462417200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substabelecimento\r\n\r\nN\u00famero do Protocolo: 171912\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "ZTg1ZmI0ZTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNDI4NGZmMjQ4YTlmMWYtMTQ3ODgyOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1478829600000,
+      "text": "Remessa para 2\u00aa Inst\u00e2ncia de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nEnviado para 2\u00aa Inst no Lote 2016/ 159",
+      "attachments": []
+    },
+    {
+      "id": "MDAxZmU5NjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YjI3ZjI3ZTY0NThlZWYtMTQ3OTc4MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1479780000000,
+      "text": "Recebimento -2\u00aa Inst.(SRA/DF) A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nEnviado para 2\u00aa Inst no Lote 2016/ 159",
+      "attachments": []
+    },
+    {
+      "id": "YTY1MDNjYzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MjJhNzhhMWRhMDE5YTctMTUxMTc0ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511748000000,
+      "text": "Tr\u00e2nsito em Julgado\r\n\r\nEm: 27/11/17",
+      "attachments": []
+    },
+    {
+      "id": "NWEwZjJhNGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jODg4ZjFkMGNiODc3YjItMTUxMzY0ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1513648800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substab.SEM reserva\r\n\r\nN\u00famero do Protocolo: 11701631\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "MGE3YjdhNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYzMzNWViNTAyZjYzY2UtMTUzMzYxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533610800000,
+      "text": "Recebimento do TRT de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nsenten\u00e7a reformada pela 2\u00aa Inst\u00e2ncia",
+      "attachments": []
+    },
+    {
+      "id": "MGY3OWIyMWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmE1ZWZiODE3NGNhNTItMTUzMzYxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533610800000,
+      "text": "Proced\u00eancia em parte de A\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjIwMTM5ZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOGQ4OTgwYWFhNjUxYWUtMTUzMzg3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533870000000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 3782 Sol.N\u00ba 1137",
+      "attachments": []
+    },
+    {
+      "id": "MzBlZWExNjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNzhiZjMwYmE1OTc3ODQtMTUzNDEyOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534129200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o C\u00e1lculos Liquid.\r\n\r\nN\u00famero do Protocolo: 12120171\r\n\r\nNome: Josivaldo Reis de Moraes",
+      "attachments": []
+    },
+    {
+      "id": "ODQ0M2RjZjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MGI1NzVkMWE0M2JmODYtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contestar C\u00e1lculos\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 3786 Sol.N\u00ba 157\r\n\r\nPrazo Judicial 8 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "NDVjYjcyMTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYzczZjg5NTY0ZmZiMDgtMTUzNTQyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1535425200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre c\u00e1lculos\r\n\r\nN\u00famero do Protocolo: 12149008\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "OGZlNWU1OGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05OTc0NGZjOGNlNTBlZmEtMTUzNTQyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1535425200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contesta\u00e7\u00e3o C\u00e1lculos Liquid.\r\n\r\nN\u00famero do Protocolo: 12148912\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "M2VhMjM1MWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05OWZjNTJiZTAzYmUyYTctMTUzNjU0ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1536548400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Impugna\u00e7\u00e3o de laudo pericial\r\n\r\nN\u00famero do Protocolo: 12170550\r\n\r\nNome: Josivaldo Reis de Moraes",
+      "attachments": []
+    },
+    {
+      "id": "MDlhMDIwMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjNjNGVhMTVlMWY3MmUtMTUzNjU0ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1536548400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 3802 Sol.N\u00ba 2163",
+      "attachments": []
+    },
+    {
+      "id": "YWMxYjFkMmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjM4OWFiMjQ0OTRmZjctMTUzNzIzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1537239600000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\r\n\r\nDoc : 00599/2018 Rel:00111/2018 N\u00baReg: JJ891514455BR\r\n\r\nNome: ADILSON JOSE DE LIMA",
+      "attachments": []
+    },
+    {
+      "id": "MTNlMDM5YTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNmE0MmIwM2ZlMmZiMzktMTUzNzMyNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1537326000000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nADILSON JOS\u00c9 DELIMA-Perito/Terceiro\r\n\r\ne (1111 )11111111, S\u00c3O PAULO-SP",
+      "attachments": []
+    },
+    {
+      "id": "N2UwMjM5NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2JkOTJiMjdlNWNkNzAtMTUzNzQxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1537412400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2564 Sol.N\u00ba 2023",
+      "attachments": []
+    },
+    {
+      "id": "YTQ5MjA3NmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOTAxMDMxNDgxNWJmYWQtMTUzODAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1538017200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos\r\n\r\nN\u00famero do Protocolo: 12203049\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "YWQxNDQ4NDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjVkNzg1NDFkZGMzMmMtMTU0MjE2MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1542160800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de laudo pericial\r\n\r\nN\u00famero do Protocolo: 12281532\r\n\r\nNome: ADILSON JOSE DE LIMA",
+      "attachments": []
+    },
+    {
+      "id": "MWNmNTA4YWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2VlMjczMmM2MjM3NTktMTU0Mjg1MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1542852000000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nPor devolu\u00e7\u00e3o em raz\u00e3o de carga/vista\r\n\r\nPrevista: 24/09/2018 - ADILSON JOS\u00c9 DELIMA",
+      "attachments": []
+    },
+    {
+      "id": "ZGRhOTQxNjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZTkwNzVlZTZmMjdlZTgtMTU0Mjg1MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1542852000000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YmIxODQ4NjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDg3MmI5MGQxOTNjZDUtMTU0MzM3MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1543370400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2609 Sol.N\u00ba 659",
+      "attachments": []
+    },
+    {
+      "id": "OTQzYWNkZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iY2IxMTBjNjdjZTlkZWEtMTU0NTA5ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1545098400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de acordo\r\n\r\nN\u00famero do Protocolo: 12330501\r\n\r\nNome: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "YmE4Njc4ZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZjIzNDIzYmQzMGY0MDAtMTU0ODY0MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548640800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Sol.N\u00ba 1657",
+      "attachments": []
+    },
+    {
+      "id": "NjEwZmU3M2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYTAyNjQ2YjUzZmMzNTQtMTU0ODkwMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1548900000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre despacho\r\n\r\nN\u00famero do Protocolo: 12367224\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "YjAxNDk2MmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZDQzMzRiODIyMmM2NzUtMTU0OTMzMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549332000000,
+      "text": "Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal\r\n\r\nDoc. : 00075/2019 Envio: Em m\u00e3os\r\n\r\nFavorec: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "NjBjMjMxOGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MjkwOGFiZjMxMmMxYjMtMTU0OTMzMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549332000000,
+      "text": "Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal\r\n\r\nDoc. : 00074/2019 Envio: Em m\u00e3os\r\n\r\nFavorec: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "OWU2OTk4MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MDVmMTg4ODQ5YTIwMDktMTU0OTMzMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549332000000,
+      "text": "Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal\r\n\r\nDoc. : 00073/2019 Envio: Em m\u00e3os\r\n\r\nFavorec: Graber Sistemas de Seguran\u00e7a LTDA",
+      "attachments": []
+    },
+    {
+      "id": "Y2VmMmVjZGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzRhZmI1OWYzNTNhMTItMTU0OTU5MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549591200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Comparecer Secret.\r\n\r\nPara o(s) R\u00e9u(s) Sol.N\u00ba 2409\r\n\r\nPrazo Judicial 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "Y2RlMzlmNDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYzdmNWY2MjNkYWYxNmQtMTU0OTU5MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1549591200000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Sol.N\u00ba 2396",
+      "attachments": []
+    },
+    {
+      "id": "MDc3YjM2ODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjU0ZjhlNGY0NzVlYjctMTU1MDcxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550718000000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Comparecer Secret.\r\n\r\nPara o(s) R\u00e9u(s) Sol.N\u00ba 3151\r\n\r\nPrazo Judicial 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "NzlmODEzYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NDNlZTJlZjM0OWY5YzktMTU1MDcxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550718000000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Sol.N\u00ba 3124",
+      "attachments": []
+    },
+    {
+      "id": "NzYxMDYzMmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZDllMGYxN2JiMTUzYmEtMTU1MTMyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1551322800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substabelecimento\r\n\r\nN\u00famero do Protocolo: 12413971\r\n\r\nNome: Abril Comunica\u00e7\u00f5es sa",
+      "attachments": []
+    },
+    {
+      "id": "M2Y3MWIzNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZGYwYjNlZmYwMWQ2YjAtMTU3NDk5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1574996400000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nNro da Rela\u00e7\u00e3o: 1482/2019 Data: 29/11/2019 Qtde vols.: 2",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

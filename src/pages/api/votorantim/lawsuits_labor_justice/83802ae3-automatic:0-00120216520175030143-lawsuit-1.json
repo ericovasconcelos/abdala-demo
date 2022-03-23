@@ -1,0 +1,371 @@
+{
+  "lawsuit": {
+    "id": "ODM4MDJhZTMtYXV0b21hdGljOjAtMDAxMjAyMTY1MjAxNzUwMzAxNDMtbGF3c3VpdA==",
+    "activityCount": 45,
+    "number": "0012021-65.2017.5.03.0143",
+    "value": 250000.0,
+    "subject": "Adicional de Horas Extras",
+    "kind": "Trabalhista",
+    "district": "5\u00aa Vara do Trabalho de Juiz de Fora",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "R. K. L.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Carlos Luiz Machado Gomes",
+            "cpf": "579.539.296-00",
+            "lawyerId": "MmM3NjBhMjItYXV0b21hdGljOjAtYmM5NDc3ZDcxYWFiZGI2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Fabio de Souza Lima",
+            "cpf": "058.645.646-56",
+            "lawyerId": "Mjc0MzhjOWUtYXV0b21hdGljOjAtMmJlMWM4NDNiYjcwNDNmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Fl\u00e1vio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "YTc3MDUwOGMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1510341556000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "5\u00aa Vara do Trabalho de Juiz de Fora",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI3",
+      "date": 1531548908000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI2",
+      "date": 1532409047000,
+      "text": "Decorrido o prazo de RAFAEL KARAFIOL LOUREIRO em 23/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmIy",
+      "date": 1556036814000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJm",
+      "date": 1522992956000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmMw",
+      "date": 1522992956000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmMz",
+      "date": 1522850555000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE5",
+      "date": 1558331443000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmEy",
+      "date": 1560323143000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmNh",
+      "date": 1520250919000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE4",
+      "date": 1559152015000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio pela reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmM2",
+      "date": 1520365072000,
+      "text": "Audi\u00eancia inicial realizada (06/03/2018 10:55 - 5\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmFm",
+      "date": 1558055498000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de RAFAEL KARAFIOL LOUREIRO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJh",
+      "date": 1531484375000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmM1",
+      "date": 1520365072000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmEz",
+      "date": 1560192525000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE1",
+      "date": 1560174631000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a THIAGO SACO FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmMy",
+      "date": 1522868690000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmIw",
+      "date": 1558055497000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE0",
+      "date": 1560192523000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmEw",
+      "date": 1561580777000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE3",
+      "date": 1559273863000,
+      "text": "Decorrido o prazo de RAFAEL KARAFIOL LOUREIRO em 30/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmE2",
+      "date": 1559273864000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 30/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI4",
+      "date": 1531548908000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJj",
+      "date": 1531409895000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (23/04/2019 10:00 - 5\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmFi",
+      "date": 1558055498000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1600.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmFl",
+      "date": 1558055498000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a RAFAEL KARAFIOL LOUREIRO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI0",
+      "date": 1556031729000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (23/04/2019 10:00 - 5\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJi",
+      "date": 1531483081000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmNk",
+      "date": 1510341556000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJk",
+      "date": 1523680237000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 13/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmM5",
+      "date": 1520273164000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZjlm",
+      "date": 1561605879000,
+      "text": "Decorrido o prazo de RAFAEL KARAFIOL LOUREIRO em 26/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmFh",
+      "date": 1558331443000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmJl",
+      "date": 1523627850000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmIz",
+      "date": 1556031729000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmM0",
+      "date": 1522800229000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmMx",
+      "date": 1522868691000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmIx",
+      "date": 1556651952000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de carta de preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZjll",
+      "date": 1562066230000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI1",
+      "date": 1532409372000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 23/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmNi",
+      "date": 1520023143000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmEx",
+      "date": 1560323143000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmM4",
+      "date": 1520346900000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (05/09/2018 14:50 - 5\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmI5",
+      "date": 1531484375000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZiNWJlMWFiMmU5ODFlOTkzZmNj",
+      "date": 1510341557000,
+      "text": "Audi\u00eancia inicial designada (06/03/2018 10:55 - 5\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

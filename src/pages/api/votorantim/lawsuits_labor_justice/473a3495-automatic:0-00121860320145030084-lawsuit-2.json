@@ -1,0 +1,396 @@
+{
+  "lawsuit": {
+    "id": "NDczYTM0OTUtYXV0b21hdGljOjAtMDAxMjE4NjAzMjAxNDUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 50,
+    "number": "0012186-03.2014.5.03.0084",
+    "value": 28768.0,
+    "subject": "Intervalo Interjornadas, Controle de Jornada, Intervalo Intrajornada",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. O. S.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leucio Honorio de Almeida Leonardo",
+            "cpf": "399.912.966-20",
+            "lawyerId": "YmQwN2NjZGMtYXV0b21hdGljOjAtMGVhZmM3ZmZkYWM4ZTIwLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1425510500000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2140"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "RORSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzYx",
+      "date": 1425763590000,
+      "text": "Conclusos os autos para julgamento (relatar)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzMx",
+      "date": 1436410969000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 08/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVk",
+      "date": 1426647900000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 18/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ2",
+      "date": 1432145725000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzNm",
+      "date": 1435182890000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Jos\u00e9 Murilo de Morais",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzI4",
+      "date": 1438709016000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para julgar Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzU3",
+      "date": 1429207981000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJi",
+      "date": 1437016812000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 16/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ1",
+      "date": 1432227891000,
+      "text": "Ac\u00f3rd\u00e3o DEJT",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzU5",
+      "date": 1428432516000,
+      "text": "Recebidos os autos para lavrar ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJl",
+      "date": 1436545982000,
+      "text": "Minutar Despacho AR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzUy",
+      "date": 1429561439000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o DEJT em 20/04/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzM5",
+      "date": 1436410966000,
+      "text": "Decorrido o prazo de LEUCIO HONORIO DE ALMEIDA LEONARDO em 08/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzMw",
+      "date": 1436410970000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 08/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQw",
+      "date": 1433301338000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 14/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzYw",
+      "date": 1426451242000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVi",
+      "date": 1427316507000,
+      "text": "Inclu\u00eddo o processo em pauta (07/04/2015, 13:30:00, Plen\u00e1rio 2, 8o. andar, Av. Get\u00falio Vargas, 225)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzNk",
+      "date": 1435253768000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzI5",
+      "date": 1437793378000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 24/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ0",
+      "date": 1432263984000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o DEJT no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzMy",
+      "date": 1436410968000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 08/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQz",
+      "date": 1432263984000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o DEJT em 22/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQy",
+      "date": 1433214207000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 01/06/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJk",
+      "date": 1436545982000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzNh",
+      "date": 1435633749000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 30/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzNl",
+      "date": 1435253768000,
+      "text": "Minutar Decis\u00e3o de Admissibilidade",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzU4",
+      "date": 1428434082000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzRh",
+      "date": 1430858401000,
+      "text": "Conclusos os autos para julgamento (relatar) a Ricardo Marcelo Silva",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzc0",
+      "date": 1422365551000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVj",
+      "date": 1427228917000,
+      "text": "Deliberado em sess\u00e3o (adiado o julgamento)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzM0",
+      "date": 1436410967000,
+      "text": "Decorrido o prazo de NITOCARLOS OLIMPIO DOS SANTOS em 08/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzcx",
+      "date": 1423260013000,
+      "text": "Minutar senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzI3",
+      "date": 1474995588000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzZm",
+      "date": 1425510500000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzUw",
+      "date": 1430362932000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 29/04/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzNj",
+      "date": 1435633749000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ3",
+      "date": 1432066770000,
+      "text": "Acolhidos os Embargos de Declara\u00e7\u00e3o de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVh",
+      "date": 1427425604000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 27/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzRj",
+      "date": 1430362933000,
+      "text": "Decorrido o prazo de NITOCARLOS OLIMPIO DOS SANTOS em 29/04/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJh",
+      "date": 1437793377000,
+      "text": "Decorrido o prazo de NITOCARLOS OLIMPIO DOS SANTOS em 24/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ5",
+      "date": 1431974383000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzU2",
+      "date": 1429208537000,
+      "text": "Ac\u00f3rd\u00e3o DEJT",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJm",
+      "date": 1436545136000,
+      "text": "Conclusos os autos para despacho  a Jos\u00e9 Murilo de Morais",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzcw",
+      "date": 1424968832000,
+      "text": "Minutar decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVl",
+      "date": 1426540216000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzVm",
+      "date": 1426540211000,
+      "text": "Inclu\u00eddo o processo em pauta (24/03/2015, 13:30:00, Plen\u00e1rio 2, 8o. andar, Av. Get\u00falio Vargas, 225)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzJj",
+      "date": 1437016811000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQx",
+      "date": 1433214233000,
+      "text": "Decorrido o prazo de NITOCARLOS OLIMPIO DOS SANTOS em 01/06/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzQ4",
+      "date": 1432039767000,
+      "text": "Inclu\u00eddo o processo em pauta (19/05/2015, 13:30:00, Gab. Des. Ricardo Ant\u00f4nio Mohallem)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmNjZjM2ViZWI5NDk0M2VjYjQzMzUz",
+      "date": 1429561437000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o DEJT no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

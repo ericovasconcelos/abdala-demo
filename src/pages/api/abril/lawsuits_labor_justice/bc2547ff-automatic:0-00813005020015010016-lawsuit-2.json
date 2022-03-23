@@ -1,0 +1,248 @@
+{
+  "lawsuit": {
+    "id": "YmMyNTQ3ZmYtYXV0b21hdGljOjAtMDA4MTMwMDUwMjAwMTUwMTAwMTYtbGF3c3VpdA==",
+    "activityCount": 29,
+    "number": "0081300-50.2001.5.01.0016",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": "16\u00aa Vara do Trabalho do Rio de Janeiro",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Daberson Lopes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Arnaldo Gil de Assis Dias",
+            "cpf": null,
+            "lawyerId": "MmNjZDNlNDktYXV0b21hdGljOjAtOGIxZGU5YzMwYmIwZDQzLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunica\u00e7\u00f5es S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Arnaldo Gil de Assis Dias",
+            "cpf": null,
+            "lawyerId": "MmNjZDNlNDktYXV0b21hdGljOjAtOGIxZGU5YzMwYmIwZDQzLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 978357600000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT1",
+    "courtSection": "5a Turma",
+    "nature": {
+      "raw": null,
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGJk",
+      "date": 1069725600000,
+      "text": "REC DO TRT",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM1",
+      "date": 1059706800000,
+      "text": "Publ Acordao dos Embargos Declaratorios",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ5",
+      "date": 1007517600000,
+      "text": "Autuado RO 026426/01",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNi",
+      "date": 1047956400000,
+      "text": "A Turma c/ pet prot em 060303 seq 10,15",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM5",
+      "date": 1050980400000,
+      "text": "Ao Relator J ACA",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNm",
+      "date": 1042682400000,
+      "text": "Ao Relator para redigir Acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNj",
+      "date": 1046919600000,
+      "text": "Pet c/ Embargos de Declaracao DE EDITORA",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGJm",
+      "date": 1064804400000,
+      "text": "Autos devolvidos a Turma c/ despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQy",
+      "date": 1034823600000,
+      "text": "Visto do Revisor",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGMw",
+      "date": 1063940400000,
+      "text": "Ao Relator c/ pet.",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGMx",
+      "date": 1063681200000,
+      "text": "Autos na Turma",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM0",
+      "date": 1059966000000,
+      "text": "Pet c/ substabelecimento DE EDITORA",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQx",
+      "date": 1039053600000,
+      "text": "Pauta 11/12/02 as 13:30 hs - Plen. Delio Maranhao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNk",
+      "date": 1046919600000,
+      "text": "Pet c/ Embargos de Declaracao DE DABERSON",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM4",
+      "date": 1052276400000,
+      "text": "Resultado:  rejeitar  embargos  de  declaracao por unanimidade",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNl",
+      "date": 1046314800000,
+      "text": "Publ Acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM2",
+      "date": 1058497200000,
+      "text": "Acordao sera republicado .",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGNh",
+      "date": 1049338800000,
+      "text": "Autos recebidos NATURMA C/ED",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQw",
+      "date": 1039572000000,
+      "text": "Resultado:  dar provimento parcial por unanimidade ambos",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGMy",
+      "date": 1061780400000,
+      "text": "A Turma c/ pet prot 040803",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGJj",
+      "date": 1069725600000,
+      "text": "Baixa a Vara do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ2",
+      "date": 1011146400000,
+      "text": "Recebido do Ministerio Publico do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQz",
+      "date": 1034823600000,
+      "text": "Aguardando Pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ3",
+      "date": 1007604000000,
+      "text": "Ao Ministerio Publico do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGM3",
+      "date": 1052708400000,
+      "text": "Ao Relator para redigir Acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ0",
+      "date": 1031108400000,
+      "text": "Rev JOAO MARIO DE MEDEIROS",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ1",
+      "date": 1012528800000,
+      "text": "Dist p/ Juiz ANTONIO CARLOS AREAL",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGJl",
+      "date": 1064890800000,
+      "text": "A SEATE",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGJhMjc3ZTVmMWIyMzlhMThlNGQ4",
+      "date": 1007517600000,
+      "text": "Autuacao",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

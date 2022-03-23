@@ -1,0 +1,528 @@
+{
+  "lawsuit": {
+    "id": "OTZmOTg2NDgtYXV0b21hdGljOjAtMTAwMTA1MzUzMjAxODUwMjAwNzctbGF3c3VpdA==",
+    "activityCount": 72,
+    "number": "1001053-53.2018.5.02.0077",
+    "value": 144891.91,
+    "subject": "Estabilidade Acident\u00e1ria",
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Edesio Antonio Catanzariti de Souza",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Gustavo Henrique Vieira dos Santos Fraga",
+            "cpf": "332.127.938-05",
+            "lawyerId": "M2RkZDEyMGUtYXV0b21hdGljOjAtMzZlYzYxZjBiY2NmNzRhLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1541469600000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Estabilidade Acident\u00e1ria",
+                "code": 2661
+              },
+              {
+                "level": 3,
+                "text": "Reintegra\u00e7\u00e3o / Readmiss\u00e3o ou Indeniza\u00e7\u00e3o",
+                "code": 2656
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2661"
+      }
+    ],
+    "court": "TRT02",
+    "courtSection": "77\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZTZjZDliNjhjODhhZDRlOGZhNTE3NzY5YzYzMjJiZTU=",
+      "date": 1557705600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTQzZGUzMjJjMTQ1OWY5NGJlY2MzY2Y3YzllYzg4NWY=",
+      "date": 1546992000000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NzQ5ZmY2YTk2ZTVmZWVlMTdlZjI2MmFkZGRjMTE0MzE=",
+      "date": 1546992000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MmIxYTE3NWQ5Mjk3NzQ5MTUyN2Y1NmRjNDNhZTYyN2Y=",
+      "date": 1578873600000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OWVmNmNlMzAyNDQ0MDc4OGYxNjQzNTA0YjI0ZDJiYjM=",
+      "date": 1578960000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u/",
+      "attachments": []
+    },
+    {
+      "id": "M2M4ZmVmYWY5NDgxYjU0MWRmZGRmZDc5NWNkMmNhZmQ=",
+      "date": 1589241600000,
+      "text": "Decorrido o prazo de EDESIO ANTONIO CATANZARITI DE SOUZA em 11/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NDNlZjUyNmJjMjlmYTFmYmQ4ZWQ3MzY1NjRjZWUyMjQ=",
+      "date": 1574035200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (12/03/2020 15:40:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTdlNzZjNjdiM2MwZjAxODM1NDQ5ODg5MDk0Nzg0Njg=",
+      "date": 1568246400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o ao laudo m\u00e9dico pericial)",
+      "attachments": []
+    },
+    {
+      "id": "NGFhYWJiMzg4MDFkMTJkMjE0ZWEzMzQyNzVmYzIxNjk=",
+      "date": 1567468800000,
+      "text": "solicita\u00e7\u00e3o de honorarios periciais",
+      "attachments": []
+    },
+    {
+      "id": "NGE2NDFmZmYyYmE5Y2NkN2I0NGU3NmJlYTM5YjBiY2E=",
+      "date": 1543190400000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZGYwNGE0M2FjZmFlODIyYjU1MTJmNDJhOWMxM2YwOWE=",
+      "date": 1552867200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZkMThlODBhMzJmYzFhNDY0YTk3OGM0ZTdhOTY2OWQ=",
+      "date": 1585267200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANGELA FAVARO RIBAS",
+      "attachments": []
+    },
+    {
+      "id": "MzJjNzMxMTI2ZDFhODczNGNjYTJjZGRiNzQ0NWI3OWM=",
+      "date": 1552953600000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/05/2019 14:20 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "M2Q2MGI5MDlkOTIzMzZlZTFiZTc2ZWZkOWYwZDYyMDQ=",
+      "date": 1557705600000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDkxMDA3MzIzYWNiNTI5NTk5YzE4MzcwZDgyOTRjNzU=",
+      "date": 1578787200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (28/04/2020 14:35:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTI1OWRmYmUxNWFmNmUyNDE0N2FjODU3MmZhMTY5YTE=",
+      "date": 1565740800000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGRmODg5ODQwM2ZlNGM4NzZmZDE4NmJmMjUwZWUwMzA=",
+      "date": 1565740800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "YWIzNGM5Mjg0ZTU3NmJhOWFiNjg4YjA4OTFlZjM5MjQ=",
+      "date": 1567468800000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "YTVjNjRmM2U2MzJlODhiMjBkY2I5MDQ5YmJkNzEyMDg=",
+      "date": 1567728000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "MmEwYWU5YzlmZDFhOWM2OGQ4Y2QwYzg1ODQ4YmQ5NDY=",
+      "date": 1565654400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTIxMjIzZmQxNDAxOGJhMDY2MGY2NGEyNDNjNDI4OTk=",
+      "date": 1543190400000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YzU4YzEyMGUxM2M3YTY0MDc2MzQ1MzNjOWZhYWIzZTQ=",
+      "date": 1585267200000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWEwNWZlZDNlNDU0ZjdkODE2NzA2NGYxYjM5NWM5Yjk=",
+      "date": 1565654400000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWZiYTg4NzFkMDcyZTQyNmFmNzc2ZGI0YTJmNDJkYWY=",
+      "date": 1579046400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDkwNzgzZGIxOGM5ZTg3NjMwYjhmODU5NTNhN2FmNTQ=",
+      "date": 1585267200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) EDESIO ANTONIO CATANZARITI DE SOUZA",
+      "attachments": []
+    },
+    {
+      "id": "NTZjNmI5NDg1ZTc1YmE5ODQyNTZlYmE3ZGMzYWFjN2U=",
+      "date": 1566950400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Inclus\u00e3o Assistente)",
+      "attachments": []
+    },
+    {
+      "id": "ZTgxMDY2ODAwODg5OGQ4MjRkODc4NTc0YjdhNDU2YjA=",
+      "date": 1567728000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjA1YWUzZDJkOTZmNGViY2I4NDMwMTE1NjI4MzkzYmE=",
+      "date": 1585612800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTM5MzJjMWNiOTVkMmYxN2FiZWEwMDFmZTg3ZjY0YmU=",
+      "date": 1568246400000,
+      "text": "Manifesta\u00e7\u00e3o ao laudo m\u00e9dico pericial",
+      "attachments": []
+    },
+    {
+      "id": "YTE3MzFhYWRmNzQ5YjMxODJiODc3ZGY3YjRiZWUyNjg=",
+      "date": 1565740800000,
+      "text": "Email destitui\u00e7\u00e3o perita ELAINE",
+      "attachments": []
+    },
+    {
+      "id": "MTA2MDhhMTM5MDFkODdmYzNlZTYxNDk4Yzg4NzM2ODc=",
+      "date": 1542844800000,
+      "text": "Audi\u00eancia una redesignada (19/03/2019 13:50 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWIxNTI0YTk4ZmQ5ZTY3M2FmM2MwZWY3YTgzNzBiMjM=",
+      "date": 1552953600000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MjJiMjIyNmZiNWMwNmYwMGNiNDgxOWUyN2QwYzNkNTc=",
+      "date": 1568419200000,
+      "text": "Decorrido o prazo de EDESIO ANTONIO CATANZARITI DE SOUZA em 13/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "YjBlNWI1YmRkY2U5MzE0MjkxMGQyOTM2Nzg1MDMzNjQ=",
+      "date": 1578960000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) autor/",
+      "attachments": []
+    },
+    {
+      "id": "YzhkZDcwMjViNmZjZWI2N2Q3N2UzYzNmOWRlMzE5ZDQ=",
+      "date": 1552867200000,
+      "text": "Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZWQyN2MyNDg5MDM2Yzc3MWNmMGY0MWFiMDhkNDhmMWU=",
+      "date": 1553040000000,
+      "text": "Email nomea\u00e7\u00e3o perita ELAINE",
+      "attachments": []
+    },
+    {
+      "id": "Zjc2YzhlMDIyNjNlMzI3YjE3MTU0ZTBiZTdjZDljM2Q=",
+      "date": 1585612800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZDY5MTY2M2Q4NDI2NTI3ODkzOTQxOGI1ZWE0ZDRlM2Y=",
+      "date": 1541462400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NDEwOTEyZjEwYTU1YWQ1ODRiY2FiMGMzNGY0ZTAwMDc=",
+      "date": 1589241600000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 11/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZTE3NmJiNDBlMzBiNGJkNzU5OGU0NDc1NThhNjgyNDc=",
+      "date": 1585094400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (27/08/2020 15:00:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ODI5ODc1YzE0NGIzMDk0NDAyMjMxOGUzZWJiZmZlOWI=",
+      "date": 1555459200000,
+      "text": "Juntada de Parecer T\u00e9cnico",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ2ODYwZjhhMGMxOGM3MmE4OWFhMDQ5YWE5MDQyMGY=",
+      "date": 1585094400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (28/04/2020 14:35:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "OWU3OGFjYTljN2I4NjQ0ZmY2ODhkZTZmZDM2NzU3NzA=",
+      "date": 1574035200000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (19/11/2019 15:40 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NDViMmQwMGNlNjM4MGI4YTFiZjhmMTk0MjlhNzdiOGQ=",
+      "date": 1565568000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (19/11/2019 15:40 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ZjYwNDkzMDQwMDQyNTIwMzhiZTI1Nzk5YWIyNzI3NGE=",
+      "date": 1565740800000,
+      "text": "Email nomea\u00e7\u00e3o perito GODOY",
+      "attachments": []
+    },
+    {
+      "id": "MzM5ZTJkMDRjMDRmMjdhYjEyNTk4MTAzZTQ2ODE0NTc=",
+      "date": 1574035200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (19/11/2019 15:40:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc1NTYxZWMwYzdiYzE5Nzk3NDA4YzgwOGIxMWYwMDU=",
+      "date": 1565740800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "OGY1MWVjMzEyZDM4ZDEzZjBmMTkwMjI3OGVlYzgxZjU=",
+      "date": 1567641600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7\u00e3o de juntada de parecer M\u00e9dico)",
+      "attachments": []
+    },
+    {
+      "id": "NTc4YWNkYzJmZDRhOTZlMmZjYjhlNDM2ODg0MzBkYWI=",
+      "date": 1566950400000,
+      "text": "Inclus\u00e3o Assistente",
+      "attachments": []
+    },
+    {
+      "id": "MGQ0MjJiNzNkZGE1ODZkYmZjZGNjMGEwYzgxYjEzM2Q=",
+      "date": 1585267200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MmI2NTA3MTFlNjJhMmNkYmJmNjAzYjNkODZhMDVjZDU=",
+      "date": 1574035200000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MzBlMjZjNGFjMTA3ZDg5NjNlMGNlMWJkNTgwZDBiY2Y=",
+      "date": 1557446400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (20/08/2019 14:20 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "OTM5M2Q4MjE2MDhkNDJlYzU2Y2UxOTQyYTczNTkzYTc=",
+      "date": 1553558400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos (Apresenta\u00e7\u00e3o de Quesitos)",
+      "attachments": []
+    },
+    {
+      "id": "NDU1MzIxNGY5NzExOWUxN2MxMTZjOWVjZDk3MjVmYzg=",
+      "date": 1578787200000,
+      "text": "Conclusos os autos para despacho a BRUNO JOSE PERUSSO",
+      "attachments": []
+    },
+    {
+      "id": "ZmZjY2Q5ZWFhYWY2NzU4MmRmNDFmZmViOTRlZGQ3M2M=",
+      "date": 1552953600000,
+      "text": "Audi\u00eancia una realizada (19/03/2019 13:50 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NzA0NzllOWFhOGMxMjYyYzlkMzQ1YzI1ZTVjYzkxODA=",
+      "date": 1541462400000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NGMzOWU3Y2NmYTgxM2Y5YjM3MmMwMmFmZTIxMjk1OGQ=",
+      "date": 1565568000000,
+      "text": "Conclusos os autos para despacho a BRUNO JOSE PERUSSO",
+      "attachments": []
+    },
+    {
+      "id": "NDBhNjYxM2I1NWViMDg3MzNiNjY1ZTRjYzliNjI1NDA=",
+      "date": 1557446400000,
+      "text": "Conclusos os autos para despacho a BRUNO JOSE PERUSSO",
+      "attachments": []
+    },
+    {
+      "id": "NmU5OWYzYWJlMTU1ZDBkMTg2NzhkODAxMTMyNDcwNTY=",
+      "date": 1585267200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTU0ZDM0NzgxY2QyN2MyYTU1MjBhMDM4YWI4MzgyZGM=",
+      "date": 1578787200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (12/03/2020 15:40:00 Sala Substituto - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ODExOGQyOTE2NDliMmE5MDMzMTg4NzhiZDc2MWUxOWE=",
+      "date": 1567987200000,
+      "text": "Certid\u00e3o DEV DE NOT_Abril",
+      "attachments": []
+    },
+    {
+      "id": "ZTJmZmMyZWY0N2RlOGRkZTQxMTk1YTg2MGViZTFmZTY=",
+      "date": 1553558400000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos",
+      "attachments": []
+    },
+    {
+      "id": "N2I0MDRiZmFmYmU1OTZhZWQ0ZTM2MDY1NWFjMjcyZDY=",
+      "date": 1585267200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzIwOGZhOGY3YTg0Mzg0MzY1NjYzMDM4NjQ5N2U2Y2I=",
+      "date": 1568419200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 13/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "MmM2OThlNGUxNTBhMTk3NmU0N2IwODg3ZWQ0ZTYxZmM=",
+      "date": 1578873600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "M2ZkZmFiMDRjNWEzOTgwMzdmY2Y3YTNjMmRlOGZmZjg=",
+      "date": 1578960000000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDUzODU1MGMzZDJlYjNlYzAwMTY2OTU3NzY1NzM2ZDM=",
+      "date": 1567641600000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWRmYjhkMDdlNGUyZjU4YzQ0NjM0Y2NmMzljMzAyYmM=",
+      "date": 1543190400000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YzZjNjFmMjRhODJkODI4YzNhYTJiMzRjMTQ0NDEyMDE=",
+      "date": 1567641600000,
+      "text": "Peti\u00e7\u00e3o de juntada de parecer M\u00e9dico",
+      "attachments": []
+    },
+    {
+      "id": "ZDE0YTRmMWU4NjczZTQ4ODNmOTIzZTkwZDdhNTFkZGY=",
+      "date": 1579046400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NzNkNWEwYmExMTdkNjlmODhjYmZhODI5MTFlMmE5M2M=",
+      "date": 1555459200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de Parecer T\u00e9cnico)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIxZTI2MWI4NGNhMDA1NTdmNzFkMmRjNDJhYjViMWQ=",
+      "date": 1541462400000,
+      "text": "Audi\u00eancia una designada (19/03/2019 08:50 - 77\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

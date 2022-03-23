@@ -1,0 +1,318 @@
+{
+  "lawsuit": {
+    "id": "MjQ0MTY2NjEtYXV0b21hdGljOjAtMDAxMDgxNzY2MjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 37,
+    "number": "0010817-66.2017.5.03.0084",
+    "value": 37405.0,
+    "subject": "Intervalo Intrajornada",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. O. P.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1501623142000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2140"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "RORSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA5",
+      "date": 1529380424000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFh",
+      "date": 1502915102000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFj",
+      "date": 1501875247000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjAw",
+      "date": 1536256595000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjIy",
+      "date": 1500497768000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjEw",
+      "date": 1519875132000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 01/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBm",
+      "date": 1520966740000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjIx",
+      "date": 1501027658000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjAx",
+      "date": 1536202940000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBi",
+      "date": 1529324949000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE1",
+      "date": 1504148522000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 30/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE0",
+      "date": 1517853257000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjEy",
+      "date": 1519060288000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFl",
+      "date": 1501872603000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBh",
+      "date": 1529324950000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjEz",
+      "date": 1519060288000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE5",
+      "date": 1503080466000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE2",
+      "date": 1504148521000,
+      "text": "Decorrido o prazo de ANTONIO DE OLIVEIRA PAES em 30/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE3",
+      "date": 1503371213000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 22/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFk",
+      "date": 1501875244000,
+      "text": "Inclu\u00eddo o processo em pauta (16/08/2017, 13:10:00, Relatora: Desa. Paula Oliveira Cantelli)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA1",
+      "date": 1530069067000,
+      "text": "Decorrido o prazo de ANTONIO DE OLIVEIRA PAES em 26/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjEx",
+      "date": 1519875132000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA0",
+      "date": 1530069126000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 26/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjAy",
+      "date": 1533732072000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjE4",
+      "date": 1503371213000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFm",
+      "date": 1501687555000,
+      "text": "Conclusos os autos para julgamento (relatar) a Paula Oliveira Cantelli",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjAz",
+      "date": 1530537836000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBj",
+      "date": 1529084357000,
+      "text": "Conclusos os autos para despacho  a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA4",
+      "date": 1529380424000,
+      "text": "Publicado(a) o(a) Despacho em 19/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjI0",
+      "date": 1498504752000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA2",
+      "date": 1529517859000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBl",
+      "date": 1520996447000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 13/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjBk",
+      "date": 1520996817000,
+      "text": "Decorrido o prazo de ANTONIO DE OLIVEIRA PAES em 13/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjA3",
+      "date": 1529517737000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjIw",
+      "date": 1501623143000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjFi",
+      "date": 1502161973000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 08/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYjVkM2NiZWI5NDk0M2VjMjI4MjIz",
+      "date": 1499361683000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

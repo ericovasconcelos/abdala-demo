@@ -1,0 +1,344 @@
+{
+  "lawsuit": {
+    "id": "OWRiNzBhNjItYXV0b21hdGljOjAtMTAwMDQ4NDM4MjAxNjUwMjAwNzItbGF3c3VpdA==",
+    "activityCount": 37,
+    "number": "1000484-38.2016.5.02.0072",
+    "value": 35214.4,
+    "subject": "Aviso Pr\u00e9vio",
+    "kind": "Trabalhista",
+    "district": "72\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Amilson Santos de Oliveira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Marcel de Lacerda B\u00f4rro",
+            "cpf": "285.018.138-26",
+            "lawyerId": "ZGI3MDI5NjctYXV0b21hdGljOjAtZTBhZmUyNTIwMWZmYTk2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Gocil Servicos de Vigilancia e Seguranca LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Stelamar Medeiros da Silva Martins",
+            "cpf": "288.340.206-00",
+            "lawyerId": "ZDkzNzlhYmQtYXV0b21hdGljOjAtMTI1M2E5NjcwMjU4ZmNiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Arthur Lundgren Tecidos S a Casas Pernambucanas",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "ED Nogueira de Azevedo Junior",
+            "cpf": "641.703.819-04",
+            "lawyerId": "YmQ3NjBlMzItYXV0b21hdGljOjAtOWNlZjJkMWYxNmI3NDJlLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1458582163000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2641"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "72\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFk",
+      "date": 1459881385000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a AMILSON SANTOS DE OLIVEIRA - CPF: 352.438.068-97",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTIx",
+      "date": 1458582163000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTIw",
+      "date": 1458582171000,
+      "text": "Audi\u00eancia una designada (15/08/2016 14:20 - 72\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE2",
+      "date": 1459892641000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBm",
+      "date": 1467924652000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTAz",
+      "date": 1471290672000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 70.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBl",
+      "date": 1467924656000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBk",
+      "date": 1467924656000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA5",
+      "date": 1470753100000,
+      "text": "defesa",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA4",
+      "date": 1471025421000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFm",
+      "date": 1459808034000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a MARIA CRISTINA CHRISTIANINI TRENTINI",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA0",
+      "date": 1471290669000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a AMILSON SANTOS DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE4",
+      "date": 1459892640000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA3",
+      "date": 1471025536000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFi",
+      "date": 1459892636000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE0",
+      "date": 1460008124000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE1",
+      "date": 1460008124000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTEz",
+      "date": 1460783721000,
+      "text": "Decorrido o prazo de AMILSON SANTOS DE OLIVEIRA em 15/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFl",
+      "date": 1459881384000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBh",
+      "date": 1470752599000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOGZl",
+      "date": 1510453284000,
+      "text": "Decorrido o prazo de GOCIL SERVICOS DE VIGILANCIA E SEGURANCA LTDA em 11/12/2016 00:00:00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFj",
+      "date": 1459881386000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOGZm",
+      "date": 1485965365000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTEw",
+      "date": 1467924652000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTAx",
+      "date": 1471297856000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE5",
+      "date": 1459892637000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA1",
+      "date": 1471290665000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBi",
+      "date": 1469735678000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTEy",
+      "date": 1467923047000,
+      "text": "Certid\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTE3",
+      "date": 1459892641000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTEx",
+      "date": 1467923860000,
+      "text": "Certid\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTA2",
+      "date": 1471290660000,
+      "text": "Audi\u00eancia una realizada (15/08/2016 14:20 - 72\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTIy",
+      "date": 1458582042000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTFh",
+      "date": 1459892636000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTBj",
+      "date": 1469726297000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTAy",
+      "date": 1471290676000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyY2VkMjU3ZTVmMWIyMzlhMmEwOTAw",
+      "date": 1471297861000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

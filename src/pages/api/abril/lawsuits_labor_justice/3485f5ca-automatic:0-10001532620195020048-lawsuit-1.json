@@ -1,0 +1,470 @@
+{
+  "lawsuit": {
+    "id": "MzQ4NWY1Y2EtYXV0b21hdGljOjAtMTAwMDE1MzI2MjAxOTUwMjAwNDgtbGF3c3VpdA==",
+    "activityCount": 53,
+    "number": "1000153-26.2019.5.02.0048",
+    "value": 50000.0,
+    "subject": "Multa do Artigo 477 da CLT, Substituto Processual",
+    "kind": "Trabalhista",
+    "district": "48\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "S. J. P. N. E. S. P.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Danubia Oliveira Almeida",
+            "cpf": "405.806.188-03",
+            "lawyerId": "NTBkMmQ5YWEtYXV0b21hdGljOjAtZmJiMGZkMjY4MDQxMGFhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Fabio Augusto Rocha Velho Lins Franco",
+            "cpf": "329.945.528-17",
+            "lawyerId": "ZjBiODdjYjYtYXV0b21hdGljOjAtZDI0NjZmNjRkOTUyYTc3LXVuaWZpZWQ="
+          },
+          {
+            "name": "Thiago dos Santos Barolli",
+            "cpf": "327.681.918-09",
+            "lawyerId": "OWNlMTlkYjctYXV0b21hdGljOjAtYjlmZWRhZjY2ZGUwNzk3LXVuaWZpZWQ="
+          },
+          {
+            "name": "Raphael da Silva Maia",
+            "cpf": "138.213.488-60",
+            "lawyerId": "NGRkOTZlNzAtYXV0b21hdGljOjAtMDkxOTBkZGVlMjhhNDE4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "S. T. N. I. G. C. S. G. S. P. R.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Augusto Rocha Velho Lins Franco",
+            "cpf": "329.945.528-17",
+            "lawyerId": "ZjBiODdjYjYtYXV0b21hdGljOjAtZDI0NjZmNjRkOTUyYTc3LXVuaWZpZWQ="
+          },
+          {
+            "name": "Thiago dos Santos Barolli",
+            "cpf": "327.681.918-09",
+            "lawyerId": "OWNlMTlkYjctYXV0b21hdGljOjAtYjlmZWRhZjY2ZGUwNzk3LXVuaWZpZWQ="
+          },
+          {
+            "name": "Raphael da Silva Maia",
+            "cpf": "138.213.488-60",
+            "lawyerId": "NGRkOTZlNzAtYXV0b21hdGljOjAtMDkxOTBkZGVlMjhhNDE4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "S. E. A. E. P. J. R. S. P.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Maria Catarina Benetti",
+            "cpf": "603.907.518-04",
+            "lawyerId": "NWRjNTc0NDItYXV0b21hdGljOjAtOWI5YzcyY2RkY2FiMWUxLXVuaWZpZWQ="
+          },
+          {
+            "name": "Raphael da Silva Maia",
+            "cpf": "138.213.488-60",
+            "lawyerId": "NGRkOTZlNzAtYXV0b21hdGljOjAtMDkxOTBkZGVlMjhhNDE4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1549993319000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2212"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "48\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ACC",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFl",
+      "date": 1559188233000,
+      "text": "Decorrido o prazo de SINDICATO DOS TRABALHADORES NAS INDUSTRIAS GRAFICAS COMUNICACAO E SERVICOS GRAFICOS DE SAO PAULO E REGIAO em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Zl",
+      "date": 1571762596000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE4",
+      "date": 1559309956000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBl",
+      "date": 1560373898000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de SINDICATO DOS JORNALISTAS PROFISSIONAIS NO EST DE SAO PAULO - CNPJ: 62.584.230/0001-00, SINDICATO DOS TRABALHADORES NAS INDUSTRIAS GRAFICAS COMUNICACAO E SERVICOS GRAFICOS DE SAO PAULO E REGIAO - CNPJ: 60.983.442/0001-27 e SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO - CNPJ: 60.976.644/0001-41 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Zi",
+      "date": 1572497808000,
+      "text": "Decorrido o prazo de SINDICATO DOS JORNALISTAS PROFISSIONAIS NO EST DE SAO PAULO em 30/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Zj",
+      "date": 1571801660000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA1",
+      "date": 1570042533000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFj",
+      "date": 1559240270000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODEx",
+      "date": 1560359261000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a HELDER CAMPOS DE CASTRO",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODJh",
+      "date": 1554906618000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODJi",
+      "date": 1554906617000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFh",
+      "date": 1559244614000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODEy",
+      "date": 1560346763000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI2",
+      "date": 1555439382000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI1",
+      "date": 1556564797000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Y2",
+      "date": 1574702492000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE0",
+      "date": 1559367383000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBh",
+      "date": 1560484965000,
+      "text": "Decorrido o prazo de SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO em 13/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA3",
+      "date": 1561605894000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 26/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBm",
+      "date": 1560360822000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de SINDICATO DOS JORNALISTAS PROFISSIONAIS NO EST DE SAO PAULO - CNPJ: 62.584.230/0001-00, SINDICATO DOS TRABALHADORES NAS INDUSTRIAS GRAFICAS COMUNICACAO E SERVICOS GRAFICOS DE SAO PAULO E REGIAO - CNPJ: 60.983.442/0001-27 e SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO - CNPJ: 60.976.644/0001-41 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODIz",
+      "date": 1556584868000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFi",
+      "date": 1559244565000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Zk",
+      "date": 1571801660000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODEz",
+      "date": 1559367383000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBi",
+      "date": 1560484965000,
+      "text": "Decorrido o prazo de SINDICATO DOS TRABALHADORES NAS INDUSTRIAS GRAFICAS COMUNICACAO E SERVICOS GRAFICOS DE SAO PAULO E REGIAO em 13/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFm",
+      "date": 1559188233000,
+      "text": "Decorrido o prazo de SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA4",
+      "date": 1560493754000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODIw",
+      "date": 1556910983000,
+      "text": "Expedido(a) of\u00edcio a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA2",
+      "date": 1561661117000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODEw",
+      "date": 1560360786000,
+      "text": "Controle de prazo recursalMinutar decis\u00e3o - ARminutaEmElaboracao",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODJj",
+      "date": 1554842663000,
+      "text": "Audi\u00eancia una designada (16/07/2019 09:20 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Y4",
+      "date": 1574384521000,
+      "text": "Expedido(a) of\u00edcio a(o) Caixa Econ\u00f4mica Federal/null",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBj",
+      "date": 1560484965000,
+      "text": "Decorrido o prazo de SINDICATO DOS JORNALISTAS PROFISSIONAIS NO EST DE SAO PAULO em 13/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE2",
+      "date": 1559309959000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI5",
+      "date": 1554961412000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODFk",
+      "date": 1559188233000,
+      "text": "Decorrido o prazo de SINDICATO DOS JORNALISTAS PROFISSIONAIS NO EST DE SAO PAULO em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODJk",
+      "date": 1554839422000,
+      "text": "Conclusos os autos para despacho  a CHRISTINA DE ALMEIDA PEDREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Zh",
+      "date": 1572497809000,
+      "text": "Decorrido o prazo de SINDICATO DOS TRABALHADORES NAS INDUSTRIAS GRAFICAS COMUNICACAO E SERVICOS GRAFICOS DE SAO PAULO E REGIAO em 30/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1N2Y5",
+      "date": 1572497809000,
+      "text": "Decorrido o prazo de SIND EMPREG ADM EMPRESAS PROPR JORNAIS REVISTAS S PAULO em 30/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA0",
+      "date": 1571334659000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODBk",
+      "date": 1560429084000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODAw",
+      "date": 1571708059000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI4",
+      "date": 1554961412000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODAx",
+      "date": 1571708058000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI0",
+      "date": 1556564806000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE3",
+      "date": 1559309958000,
+      "text": "Extinto o processo por abandono da causa pelo autor",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODA5",
+      "date": 1560493754000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE1",
+      "date": 1559309959000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1000.00",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODJl",
+      "date": 1549993321000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODE5",
+      "date": 1559245489000,
+      "text": "Audi\u00eancia una cancelada (16/07/2019 09:20 - 48\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODAz",
+      "date": 1571689386000,
+      "text": "Transitado em julgado em 04/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODAy",
+      "date": 1571689395000,
+      "text": "Conclusos os autos para despacho  a IVANA MELLER SANTANA",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTM2N2JjMjBkNDI2ZTEyNjM1ODI3",
+      "date": 1555438373000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Correi\u00e7\u00e3o Parcial)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

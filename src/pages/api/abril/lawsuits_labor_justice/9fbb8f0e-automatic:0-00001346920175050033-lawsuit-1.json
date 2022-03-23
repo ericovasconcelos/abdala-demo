@@ -1,0 +1,810 @@
+{
+  "lawsuit": {
+    "id": "OWZiYjhmMGUtYXV0b21hdGljOjAtMDAwMDEzNDY5MjAxNzUwNTAwMzMtbGF3c3VpdA==",
+    "activityCount": 81,
+    "number": "0000134-69.2017.5.05.0033",
+    "value": 45000.0,
+    "subject": "Adicional de Horas Extras, Aviso Pr\u00e9vio, D\u00e9cimo Terceiro Sal\u00e1rio, D\u00e9cimo Terceiro Sal\u00e1rio Proporcional, FGTS, Indeniza\u00e7\u00e3o, Multa de 40% do FGTS, Multa do Artigo 467 da CLT, Multa do Artigo 477 da CLT",
+    "kind": "Trabalhista",
+    "district": "33\u00aa Vara do Trabalho de Salvador",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "R. P. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Humberto de Almeida Torreao Neto",
+            "cpf": "785.332.285-20",
+            "lawyerId": "NDIxYmRhYTItYXV0b21hdGljOjAtNTU0ZGFmOTZlNzg3N2Y5LXVuaWZpZWQ="
+          },
+          {
+            "name": "Roberto Francisco Musiello",
+            "cpf": "761.615.017-91",
+            "lawyerId": "Y2Q4YzQwMzUtYXV0b21hdGljOjAtMmY5OTVhYWE0ODM3OTU1LXVuaWZpZWQ="
+          },
+          {
+            "name": "Elmar Caetano de Souza Lima",
+            "cpf": "005.960.315-13",
+            "lawyerId": "MTNhNmVhYTEtYXV0b21hdGljOjAtNzVlOWY1N2ViZTBkYWM5LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "L. E. C. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "A. A. C. R. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1487012855000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 467 da CLT",
+                "code": 2210
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Indeniza\u00e7\u00e3o",
+                "code": 2479
+              },
+              {
+                "level": 3,
+                "text": "Seguro Desemprego",
+                "code": 2478
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "D\u00e9cimo Terceiro Sal\u00e1rio",
+                "code": 2666
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "D\u00e9cimo Terceiro Sal\u00e1rio Proporcional",
+                "code": 8820
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "FGTS",
+                "code": 10570
+              },
+              {
+                "level": 2,
+                "text": "Prescri\u00e7\u00e3o",
+                "code": 10568
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1998-2210-2212-2479-2641-2666-8820-10303-10570"
+      }
+    ],
+    "court": "TRT5",
+    "courtSection": "33\u00aa Vara do Trabalho de Salvador",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFj",
+      "date": 1489201740000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjlm",
+      "date": 1499969188000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhl",
+      "date": 1564168909000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de carta de preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY2",
+      "date": 1570158102000,
+      "text": "Decorrido o prazo de LIBRA EWP COMERCIO LTDA - ME em 03/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjkw",
+      "date": 1556203866000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjkz",
+      "date": 1541602133000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (07/11/2018 10:15 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjkx",
+      "date": 1556203865000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (25/04/2019 10:00 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhm",
+      "date": 1556215059000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (31/07/2019 10:30 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhk",
+      "date": 1564417139000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdk",
+      "date": 1567455599000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (RECURSO ORDIN\u00c1RIO)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjgz",
+      "date": 1566840355000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjky",
+      "date": 1541602133000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjcx",
+      "date": 1568172162000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFh",
+      "date": 1491275010000,
+      "text": "Decorrido o prazo de ABRILY ASSINATURAS COMERCIO E REPRESENTACOES LTDA  - ME em 03/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjlh",
+      "date": 1505842794000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFl",
+      "date": 1487079980000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmEy",
+      "date": 1496240383000,
+      "text": "Audi\u00eancia inicial realizada (31/05/2017 08:30 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjlj",
+      "date": 1505825086000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (21/05/2018 10:15 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY3",
+      "date": 1570158102000,
+      "text": "Decorrido o prazo de ABRILY ASSINATURAS COMERCIO E REPRESENTACOES LTDA  - ME em 03/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE1",
+      "date": 1493039828000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc3",
+      "date": 1568122687000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio/",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjcy",
+      "date": 1568122687000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdl",
+      "date": 1566877020000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE2",
+      "date": 1493039828000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjYx",
+      "date": 1571847124000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk5",
+      "date": 1526675208000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE4",
+      "date": 1491275167000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 03/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc5",
+      "date": 1568086040000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjcw",
+      "date": 1568172162000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg5",
+      "date": 1565010277000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE5",
+      "date": 1491275167000,
+      "text": "Decorrido o prazo de LIBRA EWP COMERCIO LTDA - ME em 03/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc0",
+      "date": 1568122687000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio/",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk1",
+      "date": 1526921513000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjgw",
+      "date": 1566840356000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjcz",
+      "date": 1568122687000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc1",
+      "date": 1568122687000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZh",
+      "date": 1569328091000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdm",
+      "date": 1566877020000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZl",
+      "date": 1569294193000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 23/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc2",
+      "date": 1568122687000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjll",
+      "date": 1500394576000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjc4",
+      "date": 1568086042000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de RAFAEL PEREIRA DA SILVA - CPF: 646.904.826-91 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmIx",
+      "date": 1487012858000,
+      "text": "Audi\u00eancia inicial designada (31/05/2017 08:30 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhh",
+      "date": 1564582775000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a SILVIA ISABELLE RIBEIRO TEIXEIRA DO VALE",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhi",
+      "date": 1564581405000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmIw",
+      "date": 1487079980000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjli",
+      "date": 1505842794000,
+      "text": "Audi\u00eancia inicial realizada (19/09/2017 09:05 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFm",
+      "date": 1487079980000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg0",
+      "date": 1566840355000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk0",
+      "date": 1541595298000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (25/04/2019 10:00 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg1",
+      "date": 1566840355000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio/",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFi",
+      "date": 1490324716000,
+      "text": "Decorrido o prazo de RAFAEL PEREIRA DA SILVA em 23/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmEz",
+      "date": 1496231467000,
+      "text": "Audi\u00eancia inicial redesignada (19/09/2017 09:05 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjgx",
+      "date": 1566840355000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk3",
+      "date": 1526910774000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjYz",
+      "date": 1571834736000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY1",
+      "date": 1571681912000,
+      "text": "Conclusos os autos para despacho  a SILVIA ISABELLE RIBEIRO TEIXEIRA DO VALE",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjhj",
+      "date": 1564581405000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (31/07/2019 10:30 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdh",
+      "date": 1568047448000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a SILVIA ISABELLE RIBEIRO TEIXEIRA DO VALE",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdi",
+      "date": 1567825894000,
+      "text": "Decorrido o prazo de RAFAEL PEREIRA DA SILVA em 06/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZi",
+      "date": 1569327296000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY4",
+      "date": 1569898906000,
+      "text": "Decorrido o prazo de LIBRA EWP COMERCIO LTDA - ME em 30/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE3",
+      "date": 1492822845000,
+      "text": "Conclusos os autos para despacho  a MURILO CARVALHO SAMPAIO OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg2",
+      "date": 1565010278000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 900.00",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmEx",
+      "date": 1496240383000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk4",
+      "date": 1526909886000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (07/11/2018 10:15 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZm",
+      "date": 1569283576000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjlk",
+      "date": 1500394576000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmE0",
+      "date": 1493734335000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY0",
+      "date": 1571834735000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg3",
+      "date": 1565010278000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a RAFAEL PEREIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjdj",
+      "date": 1567825894000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 06/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZk",
+      "date": 1569326534000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjg4",
+      "date": 1565010278000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) /  ) de RAFAEL PEREIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmFk",
+      "date": 1489201740000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjY5",
+      "date": 1569898906000,
+      "text": "Decorrido o prazo de ABRILY ASSINATURAS COMERCIO E REPRESENTACOES LTDA  - ME em 30/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmIy",
+      "date": 1487012855000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YjZj",
+      "date": 1569327093000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjgy",
+      "date": 1566840355000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio/",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4Yjk2",
+      "date": 1526921502000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (21/05/2018 10:15 - 33\u00aa Vara do Trabalho de Salvador)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwZGJmMGZhYzY3NzhkOTdiNTg4YmEw",
+      "date": 1499969146000,
+      "text": "Conclusos os autos para despacho  a ALICE MARIA SANTOS BRAGA",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

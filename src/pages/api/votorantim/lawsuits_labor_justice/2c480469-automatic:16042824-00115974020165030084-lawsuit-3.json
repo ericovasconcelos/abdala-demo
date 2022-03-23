@@ -1,0 +1,230 @@
+{
+  "lawsuit": {
+    "id": "MmM0ODA0NjktYXV0b21hdGljOjE2MDQyODI0LTAwMTE1OTc0MDIwMTY1MDMwMDg0LWxhd3N1aXQ=",
+    "activityCount": 26,
+    "number": "0011597-40.2016.5.03.0084",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "Nexa Recursos Minerais S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Gustavo Magalh\u00e3es Assis",
+            "cpf": "",
+            "lawyerId": "YTA2MzFmYmEtYXV0b21hdGljOjE2MDQyODI0LThhNWU5ZGUwMDdlMTEzNC1sYXd5ZXI="
+          },
+          {
+            "name": "Dra. Leila Azevedo Sette",
+            "cpf": "",
+            "lawyerId": "NDk3ZDNjMjktYXV0b21hdGljOjE2MDQyODI0LTc1OTk4MzUzODJmNjFjNi1sYXd5ZXI="
+          },
+          {
+            "name": "DR. Rafael Tadeu Santos de Souza",
+            "cpf": "",
+            "lawyerId": "YzM1YjNmMzItYXV0b21hdGljOjE2MDQyODI0LTBhOTMyODI4M2JlNWVhZS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "La\u00e9rcio Pacheco da Costa",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Ricardo Jos\u00e9 Rodrigues",
+            "cpf": "",
+            "lawyerId": "ZTRkMWE1ZTAtYXV0b21hdGljOjE2MDQyODI0LTE0MGI0OGIyMjFhODAyOC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YmJiZWQ3YmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOWU5ZDU0OTAxZjY2ZWItMTU1MDAyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550023200000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZmYmYzNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjkzN2ViM2FhZjRkMGUtMTU1MDAyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550023200000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "MTIwYTI0OWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMjAzMjdiMWQ5NmM1MDQtMTU1MDAyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550023200000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzgxODA1YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MDNjZTBmZDEwOWM0OGMtMTU1MDEwOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550109600000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "Y2RjZjMzMmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYTgxZGUwM2VmNzRmYjktMTU1MTA2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1551063600000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "NzdkZTExMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMzAyZmJkOWY4MDdmMzItMTU1MTA2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1551063600000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTYyNWRiNTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZWM2MjE3NmI5YTJkMTMtMTU1MjM1OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552359600000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro MGD - T3 em 12/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "OTExZmI5YTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZGQ5M2IxN2JjNTBkY2YtMTU1MjM1OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552359600000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "OGMwMTZhNWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjdhYzVmYWZlYzY0MDQtMTU1MjQ0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552446000000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Maur\u00edcio Godinho Delgado)",
+      "attachments": []
+    },
+    {
+      "id": "MGUwMGU0NjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNGI3OWI0ZTlkNDU4ZDItMTU1OTA5ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559098800000,
+      "text": "Remetidos os Autos para Secretaria da 3\u00aa Turma para publicar decis\u00e3o monocr\u00e1tica",
+      "attachments": []
+    },
+    {
+      "id": "ZGU0MDBmNDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNGZiY2Y1Mzg1ODNmMWMtMTU1OTUzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559530800000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "NDYwMmE1NDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YTE0MGZhYTg0N2NkNjktMTU1OTYxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1559617200000,
+      "text": "Publicado despacho em 04/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "MDM5Y2MwZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZGY5OGU1YWRjZjNmOWEtMTU2MTY5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561690800000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "ZTM5ZGMwOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mM2NhYmUyOWFjZGRlNGYtMTU2MTY5MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1561690800000,
+      "text": "Transitado em Julgado em 26/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjVlYzg3NjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMTk1NWIzMWU0ODY4YTMtMTYwMTUyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601521200000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos ( retorno do TRT com novo recurso )",
+      "attachments": []
+    },
+    {
+      "id": "MWNjMGEwNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOWU5ZDU0OTAxZjY2ZWItMTYwMTUyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601521200000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZTgyMTFhNjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04Y2NlYjlmODY5YTQ2ZDAtMTYwMTUyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601521200000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "OTc2NmU0NTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NmQ2ZWM5NDI0ZDAwMzktMTYxMjMyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1612321200000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos ( retorno do TRT com novo recurso )",
+      "attachments": []
+    },
+    {
+      "id": "ZjcxODRiNDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjdhYzVmYWZlYzY0MDQtMTYxNTk1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615950000000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Maur\u00edcio Godinho Delgado)",
+      "attachments": []
+    },
+    {
+      "id": "ODEzYmRmNzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02OGY4MTEzZmYxYmVjMzAtMTYxNTk1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615950000000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro MGD - T3 em 17/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "OGNjOTQ1MmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZGQ5M2IxN2JjNTBkY2YtMTYxNTk1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615950000000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "MTcxM2U0MjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNGI3OWI0ZTlkNDU4ZDItMTYxNjk4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616986800000,
+      "text": "Remetidos os Autos para Secretaria da 3\u00aa Turma para publicar decis\u00e3o monocr\u00e1tica",
+      "attachments": []
+    },
+    {
+      "id": "MDc3ZjIwNzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNGZiY2Y1Mzg1ODNmMWMtMTYxNzU5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617591600000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "ZWVlNzhhMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NWUyNWQwZWI0NjJjNTYtMTYxNzY3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617678000000,
+      "text": "Publicado despacho em 06/04/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZDc4ZTVkZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZGY5OGU1YWRjZjNmOWEtMTYxOTc1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1619751600000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "MzEzZDY3MmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MTdjMjljMWY4NDczZjUtMTYxOTc1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1619751600000,
+      "text": "Transitado em Julgado em 29/04/2021",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

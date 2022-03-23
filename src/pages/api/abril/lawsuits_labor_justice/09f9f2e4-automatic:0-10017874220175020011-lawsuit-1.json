@@ -1,0 +1,628 @@
+{
+  "lawsuit": {
+    "id": "MDlmOWYyZTQtYXV0b21hdGljOjAtMTAwMTc4NzQyMjAxNzUwMjAwMTEtbGF3c3VpdA==",
+    "activityCount": 94,
+    "number": "1001787-42.2017.5.02.0011",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": null,
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Cosme Acioli Vanderlei",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Bruna Queila da Silva Gomes",
+            "cpf": null,
+            "lawyerId": "NjY4OWM0OGUtYXV0b21hdGljOjAtYWZhOWRmNjFlMTU4NTFkLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": null,
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ODVkZmZkZjNkYTI4OTQ2YjNkNWQ2ODY2ZjQ4MmQ1NTY=",
+      "date": 1531958400000,
+      "text": "Conclusos os autos para despacho a CARLOS EDUARDO MARCON",
+      "attachments": []
+    },
+    {
+      "id": "NGRjOWU2MGU0Y2M5YjliMTI4NmQxODg2NzdkM2FhMTc=",
+      "date": 1508284800000,
+      "text": "15 CCT 2014-2015 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNiNDk1OWEwMjE4ODI2MWQzOTUwMzE0NDI1NTFiYmI=",
+      "date": 1508284800000,
+      "text": "20 CCT 2016-2017-parte -3 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFkMjY0ZDNmY2MyYmZhY2E3NzA1NzhjYzA2ZTM2ZDQ=",
+      "date": 1517875200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OGIxNjdkMzZhY2RlYTUzZjAxNTRjM2IzYWVlNTcwMjA=",
+      "date": 1508284800000,
+      "text": "Inicial - Cosme | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjMyMDI4M2YxMGQ1NzAwOGNkZmUzMDBjNmJlNGEzNWY=",
+      "date": 1508284800000,
+      "text": "12 Recibos de Pagamento 2012 a 2016 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDI4M2RmMDgwOTM3MDRiNDkxZDBiOGRlODM3OWY0M2Y=",
+      "date": 1535328000000,
+      "text": "redesigna\u00e7\u00e3o de audi\u00eancia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGQxMGY3NjI1YTQzOTQxNjdjY2ZkMzgyZjA1NmE1ZTA=",
+      "date": 1508284800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NDAxOWE2NTdhNmZmODg2ODJjZmRlZDVlZDJlYTUwZDc=",
+      "date": 1525478400000,
+      "text": "Decorrido o prazo de COSME ACIOLI VANDERLEI em 04/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTYxODk4YTBkYTFkNTJiNGE4OWZiNmM1OGQxNzgwZjQ=",
+      "date": 1508284800000,
+      "text": "4 P R O C U R A \u00c7 \u00c3 O - Cosme | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQyZjI5N2NmZDAxYjdlNzIwMTQ3MDQ0MWE5OTYwOWI=",
+      "date": 1529539200000,
+      "text": "Andamentos a\u00e7\u00e3o diversa | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTI4MjhjYTg0NjNkODFkZjYzY2IxNWNiYjY3MjMwMDY=",
+      "date": 1524355200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGYyMDlkMmE0ODIyYThmZGFjZjVkY2Y3MzI1YWI5OTk=",
+      "date": 1508284800000,
+      "text": "10 Ficha de Registro | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzMxZWE4NjQxMWM4YjMwY2RmYWM5Y2ZjNThiOGY2YzI=",
+      "date": 1532044800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OWZiNGIwOWNjMjY2YzY3ZDk2ZWMwOTg2OTk1NGI0OTk=",
+      "date": 1524441600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDE5NDFhNWJlZWFmNzMyN2FlM2E1ZmVlODBkNWQ4NjY=",
+      "date": 1524355200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YmNlNzNjYjk4ZmY5Y2U5MTY1NTU1NWFiN2I5ZDQ4NTc=",
+      "date": 1529625600000,
+      "text": "Audi\u00eancia una realizada (22/06/2018 15:50 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTY4YjMyNzVhZmI2NjBmMTU2ZWNmYmM4NDU5MTgwYjE=",
+      "date": 1535673600000,
+      "text": "Pedido de Intima\u00e7\u00e3o das Testemunhas | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzNjYzk0MDFkNWUxZjQzYzcwYjFiNzc5NWQ4YjJlMDQ=",
+      "date": 1508284800000,
+      "text": "14 CCT 2012-2013 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGE5MTNiODFhYjdkYTFjZmZlNGYwYjJlMDQ3NzA4ZjY=",
+      "date": 1539043200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 08/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDY0OTc3ZDFhODlkZDIwZjBmMGQxODY3MmRjY2NjMzU=",
+      "date": 1527811200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDBiOTc4ZmM4YzQ3ODk0NWIwMmY3MDZjZDQ0NWVmNTc=",
+      "date": 1508284800000,
+      "text": "Audi\u00eancia una designada (14/02/2018 14:30 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ZWVjYzIwZDc5NTIyZTM3ZGVjZjY5N2JiZThiNjg5MTU=",
+      "date": 1529625600000,
+      "text": "Audi\u00eancia una designada (25/07/2018 15:50 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ODk4YzI4NzVhMGRjNWFhMjM4NWY1ZmEzNTlhZjQ4ZWI=",
+      "date": 1529539200000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDJjYjgxMmRlNGY2OWM4NDg0OTY0MmFmN2UzNWNlNTU=",
+      "date": 1535328000000,
+      "text": "redesigna\u00e7\u00e3o de audi\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQyYTc0NGE0OGFlNzkwZTcyOGM0MGFkZTlhODZkYTk=",
+      "date": 1537920000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MDg3MDgyNWE2NjUxOWFiYjNlYTI3ZmU0OTM2OWY1MWM=",
+      "date": 1517788800000,
+      "text": "Audi\u00eancia una redesignada (09/05/2018 14:30 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NjJmNDY2ODNlMTcxYWJhOGE4YmUwM2NlOTZlODJmN2Q=",
+      "date": 1518048000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTY4ZWNjMjdjNDZkNGI0MTU5ODYwNzE5OWI3OTMwMGE=",
+      "date": 1529539200000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTNhMWY1MjdiOTdhM2M1OWM3NmFjMDVmODRiYTY5YTM=",
+      "date": 1508284800000,
+      "text": "13 CCT 2013-2014 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGMxZmVmMDhhODFjY2RjMjdhYWU0NzgxMDJmODY3MjA=",
+      "date": 1524355200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NDZmNmRmNDllNGU4ZWY1OTYxY2JjYTJiMTY5YzkzZDE=",
+      "date": 1535328000000,
+      "text": "Audi\u00eancia una redesignada (26/09/2018 14:50 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "MzdkNWE1OWQ0MWNkZDhmYTVjNTgxOWUyMDhmMzY1NjQ=",
+      "date": 1535328000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThmN2RlMDA0ODFlM2U2NGQzNGNiMTlhYzRjOWIyNGU=",
+      "date": 1508284800000,
+      "text": "18 CCT 2016-2017-parte -1 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGZiYTRiNjZmOWQzMGVlMzhhZTNiZTQwOWVkOTJkYWY=",
+      "date": 1529539200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZGU1ZDdmMjViZDJlZWJlNmFkYjlmZjljZmJkNTkzODQ=",
+      "date": 1529539200000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcxZjZlOWYyMjNhMTYwYzU0OTNlYmJkYjJkNTc3YzI=",
+      "date": 1508284800000,
+      "text": "7 Contrato de Trabalho | Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTMzYmQxZTUyOTZhZjI1MDkyMmZiOGE3NDgzNzVkNmU=",
+      "date": 1529625600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjJiODllNDFjNjY5YzgxODVjY2UxMzdhNzUzNjZlYzU=",
+      "date": 1535328000000,
+      "text": "Despacho Recupera\u00e7\u00e3o Judicial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRjM2Y3ZmQxYjExMThiYjFmZDQ1NWQ2MDdkNzQ0OTM=",
+      "date": 1535328000000,
+      "text": "Ratifica\u00e7\u00e3o e Recupera\u00e7\u00e3o Judicial | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjU3M2ZhZTBlM2FhYjgyOGIwOTIxMWJiYWE0NTk3NjY=",
+      "date": 1535328000000,
+      "text": "Provimento Recupera\u00e7\u00e3o Judicial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzZhMGJhMGE4ZWNhOGRhMDQ1NzVjNGMyZjczZWQ5YzQ=",
+      "date": 1508284800000,
+      "text": "6 Declara\u00e7\u00e3o de Probreza | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTUwZDhkMjA3OTlkYzU1ZWM3MGVjMzk1NTJiYWZiNzc=",
+      "date": 1517875200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmFhMTM5NzlmMGQ5YjNkOTIxMmU2MGZmNDBlZWU0Y2U=",
+      "date": 1508284800000,
+      "text": "3 Situa\u00e7\u00e3o Cadastral | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU4MDY5NWMxMjA5ZWJkNWRkYWQ2ZWEzMWRiY2NiMjk=",
+      "date": 1524182400000,
+      "text": "Audi\u00eancia una redesignada (22/06/2018 15:50 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NGZlMmM0ODkyYmMyM2VjNmRhMTc0MDg4YzU3N2U0ZmU=",
+      "date": 1508284800000,
+      "text": "19 CCT 2016-2017-parte -2 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzBkZTI5YzIxZmZlMWIwNWJlMTBkNmE2ZDc1NzQxNjQ=",
+      "date": 1508284800000,
+      "text": "17 CCT 2015-2016-parte -2 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWMzYWRhZmU5NTBjZGFkNTg4OWIzZjI1YTY4MzAyZTU=",
+      "date": 1537920000000,
+      "text": "Audi\u00eancia una realizada (26/09/2018 14:50 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQwZTQ3OGMxYjA5YWZhOTI4YzI0YmMxZmRiOTVmMmY=",
+      "date": 1529539200000,
+      "text": "C\u00f3pia da segunda a\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQ1ZDMwMmJjMWU1ZDhiZTc5ZDAwNDY0MmJkZTg5ZDc=",
+      "date": 1529539200000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmFmMTVkMDhhMmE3OTRiYjFjY2I3ZTYzYTdjYjIwYWM=",
+      "date": 1524441600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWRjMWIzMmE3OTVhMDZlNDc3ZjY2NTNmNTQ1MTI0YmY=",
+      "date": 1537920000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a COSME ACIOLI VANDERLEI",
+      "attachments": []
+    },
+    {
+      "id": "NzcyOWM4YjQ3YmU5NzIzMThjYzBmMWQ2YTEyODQ1MjI=",
+      "date": 1508284800000,
+      "text": "11 TRCT - Termo de Rescis\u00e3o do Contrato de Trabalho | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmY5MDVkNzY2ZGEyNzVkODM3ODM5MTdhY2VlNGMwYmY=",
+      "date": 1524182400000,
+      "text": "Conclusos os autos para despacho a THIAGO BARLETTA CANICOBA",
+      "attachments": []
+    },
+    {
+      "id": "ZjJhNzc2ODlhNDE3YTI5NTcyODViNDVhMGRjOGI4MmU=",
+      "date": 1539043200000,
+      "text": "Decorrido o prazo de COSME ACIOLI VANDERLEI em 08/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjBkNzY3ZWVmYTYwMjQwNGM5MTQ4ZDlhMDY3NTNlNTY=",
+      "date": 1517875200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWFhMzA2YjYwNzg1OWIxY2ViNmNjZTNmZGI5NTIzYzU=",
+      "date": 1527811200000,
+      "text": "Subs | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdmOGMxNjc4YzkwYWRmZTM0MjUwZTQ0NDk2ZjMwNDM=",
+      "date": 1529625600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjdlZDQzNjdhOWE2NDg1OTE0NTliODcyNTMyZTE5Yzg=",
+      "date": 1532044800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Mjg2N2ZmZWJjNjNmZjQwYjRhNGUzOGY5ZjhjNTY2ZTE=",
+      "date": 1508284800000,
+      "text": "2 Ficha Cadastral Simplificada - parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDZjMDQ3ODQ1MGIyNTkxMWU1NDc0ZGFmNWQ2NTg0NjY=",
+      "date": 1531958400000,
+      "text": "Audi\u00eancia una redesignada (27/08/2018 14:41 - 11\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NTNlMWE5ZWFjMjQ2MTVmYTAzMGRjYmE1OWMwYTA4ZWE=",
+      "date": 1532995200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 30/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWY2YWZiNGMzMjdmMGY5ZDllYmU2MzQzZmM3NzNhZDc=",
+      "date": 1508284800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA1MDAzMDMzZWJiOTk1MTJiODE2M2U4MjM0MDMzMDU=",
+      "date": 1559088000000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "YzZiYTRlZWM1OWNlOWNjZmRmYzY0NTliZTI1ZDcxNDI=",
+      "date": 1529539200000,
+      "text": "Extrato de FGTS | Extrato de FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTYxZmRhMWVkODU3YjZlNGI5NDAzYTVkN2ZkYTA1MmQ=",
+      "date": 1508284800000,
+      "text": "8 CTPS 1 | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQ2ZjIwMzVkZGU4MGU0MWIxYjA1ZWY4NWI0YjkyNDU=",
+      "date": 1532044800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTkxYTY2YWQwMzVjMmVmZmRjOTA0Y2E2YmNhNTEwNzg=",
+      "date": 1517788800000,
+      "text": "Conclusos os autos para despacho a MARA REGINA BERTINI",
+      "attachments": []
+    },
+    {
+      "id": "YTg0MzQwZWRlNTFhMzk0ZWJhNTBhZDRiMGMyZjNmODE=",
+      "date": 1519171200000,
+      "text": "Decorrido o prazo de COSME ACIOLI VANDERLEI em 20/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjIzMDY1MzNiOTQyOWNhYjFjNWI4N2NhMzYyNTZlNjQ=",
+      "date": 1532044800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTEzNGFhYmYxMWE4YWI2YzhjNTFjOWZmMzI5ODZiMmE=",
+      "date": 1508284800000,
+      "text": "9 CTPS 2 | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZThiNmMzOWMwODkwMWZiNjE3YTI0YzAwNzg5MTM3MzU=",
+      "date": 1529539200000,
+      "text": "Contrato de Trabalho | Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWExNzRjNGZhZjRjMzBkNzkzYzAzYWEwNzZiOGIyMDE=",
+      "date": 1508284800000,
+      "text": "5 CNH | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjRmN2ZjOGZjNGNhNGFhM2I0M2ExYmQ4ZmQyZWUxOTA=",
+      "date": 1535328000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzkwM2I2OGI4ODMwYmNiNjhlNmM3MTI5MzQ2YmZjOTI=",
+      "date": 1537920000000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MGFmMGEzMTYyNTQzMTM3MzNhZTU0Y2FmMjM2MTAzMzE=",
+      "date": 1532995200000,
+      "text": "Decorrido o prazo de COSME ACIOLI VANDERLEI em 30/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDFkZTU0ODMwYjNkMzA4NzNkZjA1OTU4NGQ5Yjc5NDA=",
+      "date": 1508284800000,
+      "text": "1 Ficha Cadastral Simplificada -parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRkNGY5NjY3MWZlZmY5MDUyMjUwYzAyNzg0MGI0NTc=",
+      "date": 1529539200000,
+      "text": "Ficha de Registro de Empregado (paradigma) | Ficha de Registro de Empregado (paradigma) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjIwODlmZTQ2OGFhZjM3OTNlNWI0ZGZkYzZhNGQ5YzI=",
+      "date": 1535673600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MmMwNDBjZjFhZGMwMWRjMDM2YmI0ZGNlYmRhNDFlYWM=",
+      "date": 1518048000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "OWNhOGRhMWI1NjE3M2U3MzUzMTViNGE0ZmNiZDY2MGM=",
+      "date": 1529539200000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNmZmNmNjc0NDZlNTQ0NjFlMWQ1ZjBjYWVkYTViZmQ=",
+      "date": 1532131200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "YzY1Nzk5NzgwNTZkNDgwNDAyMDQwMGUzODE1MjllMDc=",
+      "date": 1529539200000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzA2ZmUzZDIwMDdjMjJkYWU1NjQxMDFjMmNiMWFmZDI=",
+      "date": 1527811200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRlM2NjNDA4OTZjMmZjYTQ2NjYyYWMzZjA1YTQ0M2E=",
+      "date": 1527811200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTgyNTVkMTIwY2RhYjk3NTMxZGUzYTc3MWY5MjJmNDY=",
+      "date": 1508284800000,
+      "text": "16 CCT 2015-2016- parte -1 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWY4MjI4ZGU1M2I0ODIwNTIyNzhjYTNkN2JlNTllNGY=",
+      "date": 1532131200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDA0NTRkYTUyNjU5OTUyMWQ3N2UxNTc1NTc3NjZkNDc=",
+      "date": 1537920000000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 360.00",
+      "attachments": []
+    },
+    {
+      "id": "MjIxZTFhZjcyNWFjNDM2NjBlOGY1NjYyNDJmMzM5ZTA=",
+      "date": 1524528000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZjhjOWEzZTQ0MTNkYWQ0YWZjYmYyMDk5NzY5NWJjMWM=",
+      "date": 1529539200000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTZiYzc0NDc1ZjAyYWRlODI3MDJiNTRhMDBmNDRmYTQ=",
+      "date": 1524528000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjY0NmUwMzY1ZjhiNjQ0NDI1MjQxNDI0OWI5YjZmNGM=",
+      "date": 1529971200000,
+      "text": "solicita\u00e7\u00e3o de autos | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODdjNzQ3NWMyY2FiZTU1NGRiNjVjMmY1MTNjZjg3NjM=",
+      "date": 1529625600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU2ZjNlMGQ4ZmEyM2QwYjY5NTY0Y2QxZTczZjc4Yjg=",
+      "date": 1527811200000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

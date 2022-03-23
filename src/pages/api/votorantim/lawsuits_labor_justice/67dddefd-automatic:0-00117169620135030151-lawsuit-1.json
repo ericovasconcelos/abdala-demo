@@ -1,0 +1,1222 @@
+{
+  "lawsuit": {
+    "id": "NjdkZGRlZmQtYXV0b21hdGljOjAtMDAxMTcxNjk2MjAxMzUwMzAxNTEtbGF3c3VpdA==",
+    "activityCount": 185,
+    "number": "0011716-96.2013.5.03.0151",
+    "value": 60000.0,
+    "subject": "Horas Extras, Adicional Noturno",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "W. E. J.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Danilo Franzoni Gurian",
+            "cpf": "749.584.376-49",
+            "lawyerId": "YTM1ZmNlNjMtYXV0b21hdGljOjAtZmI0ZjNmZGUwZGIzM2I0LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "V. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1384286113000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1663-2086"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVl",
+      "date": 1450180362000,
+      "text": "Julgado(s) procedente(s) o(s) pedido(s) (/ Embargos \u00e0 Execu\u00e7\u00e3o) de WILLIAM EURIPEDES DE JESUS - CPF: 858.644.126-00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZk",
+      "date": 1385578117000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJk",
+      "date": 1479822916000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM3",
+      "date": 1468943490000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJl",
+      "date": 1474939284000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU1",
+      "date": 1404794958000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 17/02/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM0",
+      "date": 1435084141000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVh",
+      "date": 1403911486000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 22/11/2013",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNm",
+      "date": 1464664700000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 30/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDcy",
+      "date": 1384286114000,
+      "text": "Audi\u00eancia inicial designada (27/11/2013 13:50 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY4",
+      "date": 1449022289000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 01/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM3",
+      "date": 1434770674000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 19/06/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmI4",
+      "date": 1480128422000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZj",
+      "date": 1448772678000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJi",
+      "date": 1480078572000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI5",
+      "date": 1436960921000,
+      "text": "Conclusos os autos para despacho  a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY2",
+      "date": 1449147961000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM1",
+      "date": 1435084136000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDIy",
+      "date": 1438284802000,
+      "text": "Julgado(s) procedente(s) o(s) pedido(s) (/ Impugna\u00e7\u00e3o \u00e0 Senten\u00e7a de Liquida\u00e7\u00e3o) de WILLIAM EURIPEDES DE JESUS - CPF: 858.644.126-00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ2",
+      "date": 1462477988000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmYx",
+      "date": 1450122155000,
+      "text": "Conclusos os autos para julgamento dos Embargos \u00e0 Execu\u00e7\u00e3o a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY5",
+      "date": 1448793113000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU3",
+      "date": 1404716893000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBk",
+      "date": 1443731460000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDEy",
+      "date": 1441106194000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRk",
+      "date": 1428427617000,
+      "text": "Minutar Decis\u00e3o de Admissibilidade",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZh",
+      "date": 1386766572000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDEw",
+      "date": 1441307969000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDEz",
+      "date": 1440746570000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 26/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDYw",
+      "date": 1403294255000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n #N\u00e3o preenchido#) de WILLIAM EURIPEDES DE JESUS",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFj",
+      "date": 1439461072000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 12/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNj",
+      "date": 1467075900000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQx",
+      "date": 1433387517000,
+      "text": "Minutar decis\u00e3o - Liq",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZm",
+      "date": 1384370116000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a WILLIAM EURIPEDES DE JESUS - CPF: 858.644.126-00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ0",
+      "date": 1432797490000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 27/05/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI4",
+      "date": 1436964313000,
+      "text": "Minutar despacho - Exec",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmMy",
+      "date": 1474477744000,
+      "text": "Conclusos os autos para despacho  a LUCIANO JOSE DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDMx",
+      "date": 1435773300000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmUw",
+      "date": 1458184264000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 16/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU4",
+      "date": 1456515668000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDMz",
+      "date": 1435216387000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ3",
+      "date": 1431450318000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZh",
+      "date": 1448793113000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVh",
+      "date": 1456283897000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 23/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNm",
+      "date": 1433897466000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDA1",
+      "date": 1446425369000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDIz",
+      "date": 1438284802000,
+      "text": "Minutar senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDcz",
+      "date": 1384286113000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE5",
+      "date": 1440422152000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY1",
+      "date": 1449680525000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDYy",
+      "date": 1402510994000,
+      "text": "Conclusos os autos para julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI3",
+      "date": 1436964313000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU5",
+      "date": 1456323516000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a THIAGO SACO FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVk",
+      "date": 1403911452000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFk",
+      "date": 1439461059000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 12/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY1",
+      "date": 1391967918000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmMx",
+      "date": 1474478535000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY3",
+      "date": 1449022289000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 01/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRm",
+      "date": 1458184265000,
+      "text": "Decorrido o prazo de WILLIAM EURIPEDES DE JESUS em 16/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ1",
+      "date": 1431669709000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 15/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJm",
+      "date": 1436115314000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ5",
+      "date": 1431367155000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVm",
+      "date": 1403294256000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a WILLIAM EURIPEDES DE JESUS",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRh",
+      "date": 1461988746000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM4",
+      "date": 1468939839000,
+      "text": "Conclusos os autos para despacho  a LUCIANO JOSE DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNk",
+      "date": 1434111697000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJh",
+      "date": 1480128422000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDIx",
+      "date": 1438767486000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNh",
+      "date": 1467693799000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmUx",
+      "date": 1457062324000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVi",
+      "date": 1403911472000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFi",
+      "date": 1439463759000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDAz",
+      "date": 1446474345000,
+      "text": "Decorrido o prazo de WILLIAM EURIPEDES DE JESUS em 15/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI2",
+      "date": 1437057258000,
+      "text": "Conclusos os autos para despacho  a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI0",
+      "date": 1438272319000,
+      "text": "Conclusos os autos para julgamento dos Embargos \u00e0 Execu\u00e7\u00e3o a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJm",
+      "date": 1474939284000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDA4",
+      "date": 1445278173000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNi",
+      "date": 1467693799000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVk",
+      "date": 1455762029000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDMy",
+      "date": 1435216390000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 25/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE4",
+      "date": 1440456569000,
+      "text": "Minutar despacho - Exec",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRj",
+      "date": 1431109353000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJl",
+      "date": 1436263279000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 06/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNi",
+      "date": 1434378623000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY0",
+      "date": 1402507140000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU0",
+      "date": 1457021535000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ4",
+      "date": 1462470515000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNl",
+      "date": 1466520424000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE1",
+      "date": 1440746533000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 26/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDIw",
+      "date": 1438767495000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 04/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU4",
+      "date": 1403911520000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 22/11/2013",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDI1",
+      "date": 1437145066000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDMw",
+      "date": 1436115312000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDUx",
+      "date": 1410955871000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ2",
+      "date": 1431669706000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDA3",
+      "date": 1445604408000,
+      "text": "Conclusos os autos para despacho  a HELENA HONDA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDcx",
+      "date": 1384369320000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmNk",
+      "date": 1467075900000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ5",
+      "date": 1462418345000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 04/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ1",
+      "date": 1462822772000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ3",
+      "date": 1462477987000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRi",
+      "date": 1461988746000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmYy",
+      "date": 1449687380000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBi",
+      "date": 1445273539000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZk",
+      "date": 1447961972000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 03/11/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQz",
+      "date": 1463094359000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDA5",
+      "date": 1445278172000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJk",
+      "date": 1436423553000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE3",
+      "date": 1440456569000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVm",
+      "date": 1450180362000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU1",
+      "date": 1457012146000,
+      "text": "Conclusos os autos para despacho  a THIAGO SACO FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVl",
+      "date": 1403294256000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDUw",
+      "date": 1416409749000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQz",
+      "date": 1432797500000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 27/05/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZi",
+      "date": 1448772678000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDAx",
+      "date": 1446591558000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM2",
+      "date": 1434789268000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 19/06/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmUy",
+      "date": 1457062324000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQ4",
+      "date": 1431450318000,
+      "text": "Minutar despacho - Liq",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZl",
+      "date": 1385032502000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmY0",
+      "date": 1449680552000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDUz",
+      "date": 1407180130000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFm",
+      "date": 1438767509000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJh",
+      "date": 1436960887000,
+      "text": "Iniciada a execu\u00e7\u00e3o trabalhista definitiva",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU2",
+      "date": 1404716898000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 12/02/2014",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRl",
+      "date": 1458674675000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJj",
+      "date": 1436423556000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 09/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRm",
+      "date": 1418666285000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM0",
+      "date": 1469075070000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRk",
+      "date": 1461876198000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQw",
+      "date": 1433387517000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDAw",
+      "date": 1446591558000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBl",
+      "date": 1443731457000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBj",
+      "date": 1444933474000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a HELENA HONDA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDEx",
+      "date": 1441108071000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 31/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZl",
+      "date": 1447926247000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDUy",
+      "date": 1407180130000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU3",
+      "date": 1456515686000,
+      "text": "Conclusos os autos para despacho  a THIAGO SACO FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY3",
+      "date": 1389957539000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmYz",
+      "date": 1449687380000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY4",
+      "date": 1386766572000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (11/06/2014 10:30 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmMw",
+      "date": 1474478721000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a LUCIANO JOSE DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM5",
+      "date": 1434590457000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 17/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmMz",
+      "date": 1471371257000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQx",
+      "date": 1463545587000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBm",
+      "date": 1441307983000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmZm",
+      "date": 1447926238000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmRj",
+      "date": 1461876198000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDVj",
+      "date": 1403911459000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 22/11/2013",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM1",
+      "date": 1469075070000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVj",
+      "date": 1455762029000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM5",
+      "date": 1468639798000,
+      "text": "Decorrido o prazo de DANILO FRANZONI GURIAN em 15/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDBh",
+      "date": 1445273599000,
+      "text": "Conclusos os autos para despacho  a HELENA HONDA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE2",
+      "date": 1440746518000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNh",
+      "date": 1434590456000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFl",
+      "date": 1438767513000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 04/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQy",
+      "date": 1463492857000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDJi",
+      "date": 1436932901000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 14/07/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY5",
+      "date": 1386766572000,
+      "text": "Audi\u00eancia inicial realizada (11/12/2013 08:30 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQ0",
+      "date": 1463094359000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZj",
+      "date": 1385578117000,
+      "text": "Audi\u00eancia inicial realizada (27/11/2013 13:50 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRi",
+      "date": 1431366857000,
+      "text": "Transitado em julgado em 17/04/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDYx",
+      "date": 1403294253000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDZi",
+      "date": 1385637353000,
+      "text": "Audi\u00eancia inicial designada (11/12/2013 08:30 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU0",
+      "date": 1407173818000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDYz",
+      "date": 1402507141000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (11/06/2014 10:30 - Vara do Trabalho de S\u00e3o Sebasti\u00e3o do Para\u00edso)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDE0",
+      "date": 1440746557000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDQy",
+      "date": 1432814641000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDA2",
+      "date": 1446425362000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNj",
+      "date": 1434378621000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmUz",
+      "date": 1457021535000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRl",
+      "date": 1423676996000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDRh",
+      "date": 1431367018000,
+      "text": "Iniciada a liquida\u00e7\u00e3o por c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDFh",
+      "date": 1440422133000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmU2",
+      "date": 1456778285000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDM4",
+      "date": 1434737685000,
+      "text": "Conclusos os autos para despacho  a ADRIANA FARNESI E SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDAy",
+      "date": 1446474358000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS S.A. em 15/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmJj",
+      "date": 1480077675000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDY2",
+      "date": 1391967918000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmM2",
+      "date": 1468943490000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDcw",
+      "date": 1384370113000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmQw",
+      "date": 1463545587000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDU5",
+      "date": 1403911506000,
+      "text": "Disponibilizado\n(a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2M0MDNl",
+      "date": 1433897474000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 09/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjE1MzliZWI5NDk0M2VjM2MzZmVi",
+      "date": 1456283896000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 23/02/2016 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

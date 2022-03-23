@@ -1,0 +1,244 @@
+{
+  "lawsuit": {
+    "id": "NmQzZDMzNDktYXV0b21hdGljOjAtMDM0MjAwMDgwMjAwMDUwMTAyNjItbGF3c3VpdA==",
+    "activityCount": 18,
+    "number": "0342000-80.2000.5.01.0262",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": "2a Vara do Trabalho de S\u00e3o Gon\u00e7alo",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Joao Carlos Lopes Ribeiro",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Leandro Dias Monteiro",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunica\u00e7\u00f5es S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Antonio Alexandre Mello Ticom",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "Outros",
+          "normalized": null
+        },
+        "lawyers": [
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Eduardo Jordy",
+            "cpf": null,
+            "lawyerId": "MDI0N2FkMTMtYXV0b21hdGljOjAtNzQxNzUyYzUyOGI0MzhhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": null,
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 946735200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT1",
+    "courtSection": "3a Turma",
+    "nature": {
+      "raw": null,
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNm",
+      "date": 1055214000000,
+      "text": "Ao Ministerio Publico do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNj",
+      "date": 1067220000000,
+      "text": "Enc.autos a Turma pelo Gab.J.JFGF c/ desp. e visto",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM1",
+      "date": 1071194400000,
+      "text": "Resultado: negar provimento a ambos os recursos",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWQx",
+      "date": 1054782000000,
+      "text": "Autuado 03420-2000-262-01-00-3 <RO>",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM5",
+      "date": 1068775200000,
+      "text": "A Turma",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNi",
+      "date": 1067479200000,
+      "text": "A SEAUT",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWMx",
+      "date": 1080615600000,
+      "text": "SPI: Pet rdo c/ substabelecimento",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM4",
+      "date": 1068775200000,
+      "text": "Retificada a Autuacao ambas as partes recorreram e inclusao adv rda",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWQw",
+      "date": 1054782000000,
+      "text": "Autuacao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWMw",
+      "date": 1084158000000,
+      "text": "Baixa a Vara do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM0",
+      "date": 1071453600000,
+      "text": "Autos no Gab.J.JFGF p/lavrar acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM2",
+      "date": 1071021600000,
+      "text": "Pauta 121203, 8h",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWM3",
+      "date": 1069984800000,
+      "text": "Autos na Turma",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWMy",
+      "date": 1078110000000,
+      "text": "Publ Acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNk",
+      "date": 1064977200000,
+      "text": "Dist p/ Juiz JORGE FERNANDO GONCALVES DA FONTE",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWMz",
+      "date": 1071540000000,
+      "text": "Ao Relator para redigir Acordao",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNl",
+      "date": 1064890800000,
+      "text": "Recebido do MPT",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NGY1ODBmNjhkMWRiMjdkZWMzYWNh",
+      "date": 1067479200000,
+      "text": "Visto do Relator",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

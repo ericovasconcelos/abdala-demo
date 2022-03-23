@@ -1,0 +1,208 @@
+{
+  "lawsuit": {
+    "id": "ZTdjNjRmOGUtYXV0b21hdGljOjAtMTAwMDY3OTc1MjAxODUwMjAwMzItbGF3c3VpdA==",
+    "activityCount": 25,
+    "number": "1000679-75.2018.5.02.0032",
+    "value": 67876.54,
+    "subject": "Processo do Trabalho",
+    "kind": "Trabalhista",
+    "district": "32\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Ariosvaldo Rodrigues da Cruz",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "SUSCITANTE",
+          "normalized": "Suscitante"
+        },
+        "lawyers": [
+          {
+            "name": "Jorge Rodrigues Cruz",
+            "cpf": "107.432.958-97",
+            "lawyerId": "MmE1ZDdmMDUtYXV0b21hdGljOjAtMmVkNGQ0NWQwZDc2ODBiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "SUSCITADO",
+          "normalized": "Suscitado (a)"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1527856475000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT2",
+    "courtSection": "32\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "IDPJ",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk0",
+      "date": 1529710684000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg2",
+      "date": 1537949037000,
+      "text": "Decorrido o prazo de ARIOSVALDO RODRIGUES DA CRUZ em 24/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThl",
+      "date": 1536666720000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg0",
+      "date": 1559172534000,
+      "text": "Transitado em julgado em 01/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTky",
+      "date": 1533553484000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTkz",
+      "date": 1533509618000,
+      "text": "Conclusos os autos para despacho  a EDUARDO RANULSSI",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk1",
+      "date": 1529710684000,
+      "text": "pedido reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThi",
+      "date": 1536666721000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 100.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg5",
+      "date": 1536768261000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg1",
+      "date": 1538193150000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 28/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk2",
+      "date": 1528898954000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk3",
+      "date": 1528898952000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTkx",
+      "date": 1533553484000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThk",
+      "date": 1536666721000,
+      "text": "Extinto o processo por aus\u00eancia de pressupostos processuais",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTgz",
+      "date": 1559172541000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTli",
+      "date": 1527856408000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk4",
+      "date": 1528898952000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTlh",
+      "date": 1527856475000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg4",
+      "date": 1536768261000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThj",
+      "date": 1536666721000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a ARIOSVALDO RODRIGUES DA CRUZ",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTkw",
+      "date": 1533553484000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTg3",
+      "date": 1537141183000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThm",
+      "date": 1536621335000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a EDUARDO RANULSSI",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OThh",
+      "date": 1536666721000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjQyZTdkNWE5NDE4MjNmNzA3OTk5",
+      "date": 1528224333000,
+      "text": "Conclusos os autos para despacho  a JULIANA VARELA DE ALBUQUERQUE DALPRA",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

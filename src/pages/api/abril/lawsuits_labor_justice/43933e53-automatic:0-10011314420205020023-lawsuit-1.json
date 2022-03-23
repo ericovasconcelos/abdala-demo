@@ -1,0 +1,202 @@
+{
+  "lawsuit": {
+    "id": "NDM5MzNlNTMtYXV0b21hdGljOjAtMTAwMTEzMTQ0MjAyMDUwMjAwMjMtbGF3c3VpdA==",
+    "activityCount": 15,
+    "number": "1001131-44.2020.5.02.0023",
+    "value": 18137.75,
+    "subject": "Anula\u00e7\u00e3o / Nulidade de Ato ou Neg\u00f3cio Jur\u00eddicoMulta do Artigo 467 da CLTReajuste Salarial",
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Sergio Gonini Benicio",
+            "cpf": null,
+            "lawyerId": "Y2ZjNDgzMGItYXV0b21hdGljOjAtNDg5NTUxMDUwYmEzOTg2LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Julio Cesar Roder",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Carolina Tieppo Pugliese Ribeiro",
+            "cpf": null,
+            "lawyerId": "MjRlNmVhZGMtYXV0b21hdGljOjAtMzNhYzNhZWU3YzMzZjMxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1603346400000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Anula\u00e7\u00e3o",
+                "code": 4438
+              },
+              {
+                "level": 2,
+                "text": "Acordo e Conven\u00e7\u00e3o Coletivos de Trabalho",
+                "code": 1695
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Nulidade",
+                "code": 8919
+              },
+              {
+                "level": 2,
+                "text": "Atos Processuais",
+                "code": 8893
+              },
+              {
+                "level": 1,
+                "text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+                "code": 8826
+              }
+            ],
+            "last_text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+            "last_id": 8826
+          }
+        ],
+        "id": "4438-8919"
+      }
+    ],
+    "court": "TRT02",
+    "courtSection": "23\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YWZiYmFlNjFlODM3ZGEzYWYyOWUyMDVjMDQwNThjMTg=",
+      "date": 1606953600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 04/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "YmZjNGQwMDcxZjAyNGJiZWI2ZjU4ZjIyODZlOWNlZDk=",
+      "date": 1606780800000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (25/02/2021 13:20 Ju\u00edzo auxiliar - \u00cdmpar I - 23\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "MWIwNTY1ZmUyNTgzMGIwNzBmNDQxODcyMWU4MDI1MjI=",
+      "date": 1603324800000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (10/12/2020 13:10 - 23\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "Y2QxNzJjMzE5N2IxMDMwNmMzNjFmMDM1N2Y2Mzg4NmY=",
+      "date": 1606780800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JULIO CESAR RODER",
+      "attachments": []
+    },
+    {
+      "id": "OTE5ODhhNzYzMDBkZjU5ZjE0MDU1MTM5MTIzODE2ZmU=",
+      "date": 1606780800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTMzNDUzZTQ5MmU0ZmY4NTg4NGY5NWVhYzdkNDIzNTU=",
+      "date": 1606780800000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTY0ZTBiY2FjZjA5OTA2MGFmNDUzY2RmZTBlNjA0MmE=",
+      "date": 1606780800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NGQwZjBlNmZhMTlmNjA2MTkxNjE3ZTQ2ZGM4MTU0NzU=",
+      "date": 1606953600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODUxNzk2NmNhMTFlOGI1MGVlZWZmZDE4NjVhYjMxZTg=",
+      "date": 1603324800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MjU1ZmJkMTAxNDhkZWY1NmRiMjgzNzQzYzA1NmZhYjI=",
+      "date": 1607904000000,
+      "text": "Decorrido o prazo de JULIO CESAR RODER em 14/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWZhYTEzOWFkZThmZGZiMWE0YjAwODYxMDNkNzAxNjk=",
+      "date": 1606780800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a LUCY GUIDOLIN BRISOLLA",
+      "attachments": []
+    },
+    {
+      "id": "YjIzZWM4ZmEwNGJlZjJjYzNhNDZmZWMxODM4ZTFhMjE=",
+      "date": 1606780800000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) cancelada (10/12/2020 13:10 Ju\u00edzo auxiliar - \u00cdmpar I - 23\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NGU2ZWZlYjRjYTg4NDZhMGFjYjBlMjkwMWEwMzM4NmQ=",
+      "date": 1607904000000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 14/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "NzlmYzJiNzc5YmFkMDdlOThiZjQyMmI3MWI4OGE5NGU=",
+      "date": 1605139200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (HABILITA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "MWJmZjAzMjNjOGFlNzNjMTZjMTE5MGJjN2NlZTJiMTY=",
+      "date": 1603411200000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,413 @@
+{
+  "lawsuit": {
+    "id": "NjQ0NWUyOTAtYXV0b21hdGljOjAtMDAxMDczMjgwMjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 45,
+    "number": "0010732-80.2017.5.03.0084",
+    "value": 271255.16,
+    "subject": "Adicional de Horas Extras, Adicional Noturno, Adicional de Hora Extra",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "C. L. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Savio Henrique Santos Santiago",
+            "cpf": "100.136.176-80",
+            "lawyerId": "OTRjZmRlNGQtYXV0b21hdGljOjAtNzc2ZDIzM2EyNzJkNzNkLXVuaWZpZWQ="
+          },
+          {
+            "name": "Stenio Santos Santiago",
+            "cpf": "060.609.696-58",
+            "lawyerId": "Nzg3Nzg4NTItYXV0b21hdGljOjAtMzA0MWZjNGNjMjdjNGNmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1519391529000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1663-2141-10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "RORSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWMx",
+      "date": 1535995929000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 31/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWI5",
+      "date": 1538191537000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 28/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWNm",
+      "date": 1523988745000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWI2",
+      "date": 1538191539000,
+      "text": "Decorrido o prazo de CELIO LOPES ARAGAO em 28/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJi",
+      "date": 1537502163000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJm",
+      "date": 1535995930000,
+      "text": "Decorrido o prazo de CELIO LOPES ARAGAO em 31/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWI1",
+      "date": 1539197704000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRh",
+      "date": 1519929285000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jo\u00e3o Bosco Pinto Lara",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM1",
+      "date": 1534823837000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM5",
+      "date": 1533150000000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWNi",
+      "date": 1524021039000,
+      "text": "Decorrido o prazo de CELIO LOPES ARAGAO em 17/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRk",
+      "date": 1517484108000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWUw",
+      "date": 1512510278000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRm",
+      "date": 1513687541000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM2",
+      "date": 1534270474000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ4",
+      "date": 1521483274000,
+      "text": "Inclu\u00eddo o processo em pauta (26/03/2018, 13:50:00, Des. Jo\u00e3o Bosco Pinto Lara)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM3",
+      "date": 1534270472000,
+      "text": "N\u00e3o admitido o Recurso de Revista de CELIO LOPES ARAGAO - CPF: 044.552.796-01",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWNh",
+      "date": 1524021039000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 17/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWI4",
+      "date": 1538191538000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 28/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ0",
+      "date": 1522161383000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQz",
+      "date": 1522786640000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRi",
+      "date": 1519391529000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM0",
+      "date": 1534823838000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 21/08/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWU1",
+      "date": 1499869237000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWM4",
+      "date": 1534270471000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWU0",
+      "date": 1501191069000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJj",
+      "date": 1537449807000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJh",
+      "date": 1537502164000,
+      "text": "Publicado(a) o(a) Despacho em 21/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWMy",
+      "date": 1535995568000,
+      "text": "Decorrido o prazo de CELIO LOPES ARAGAO em 31/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ5",
+      "date": 1520974969000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWUz",
+      "date": 1502486756000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWI3",
+      "date": 1538191538000,
+      "text": "Decorrido o prazo de CELIO LOPES ARAGAO em 28/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ1",
+      "date": 1522161381000,
+      "text": "Conhecido o recurso de CELIO LOPES ARAGAO - CPF: 044.552.796-01 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQy",
+      "date": 1522898427000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWMw",
+      "date": 1535995930000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 31/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRj",
+      "date": 1518206196000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ3",
+      "date": 1521483308000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWMz",
+      "date": 1535651804000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWRl",
+      "date": 1516993080000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJl",
+      "date": 1537383149000,
+      "text": "Conclusos os autos para despacho  a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQ2",
+      "date": 1521516773000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 20/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQw",
+      "date": 1523973640000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWJk",
+      "date": 1537449806000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWUy",
+      "date": 1506646207000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxMjVlYWNjNDVmMzNmZjZjMGU2YWQx",
+      "date": 1522898428000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 05/04/2018",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

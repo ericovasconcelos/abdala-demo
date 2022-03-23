@@ -1,0 +1,277 @@
+{
+  "lawsuit": {
+    "id": "ZmM5YjZhOGEtYXV0b21hdGljOjE2MDQyODI0LTAwMzU1MDAwNjIwMDY1MDMwMDM2LWxhd3N1aXQ=",
+    "activityCount": 32,
+    "number": "0035500-06.2006.5.03.0036",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "Votorantim Metais Zinco S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. M\u00e1rcia Aparecida Sodr\u00e9 Rogel",
+            "cpf": "",
+            "lawyerId": "YTAxMmZhZGQtYXV0b21hdGljOjE2MDQyODI0LTZiYzUwZmQ1ZTRjODgxNS1sYXd5ZXI="
+          },
+          {
+            "name": "DR. Rog\u00e9rio de Oliveira Salles Figueiredo",
+            "cpf": "",
+            "lawyerId": "ZWQzZjZmNzQtYXV0b21hdGljOjE2MDQyODI0LTZjOGVmY2Y2OTQ0MmNlYS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Sebasti\u00e3o Domingos de Souza",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Embargado",
+          "normalized": "Embargado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Leonardo Oliveira Mokdeci",
+            "cpf": "",
+            "lawyerId": "YzBjZWFhMjUtYXV0b21hdGljOjE2MDQyODI0LWU0Yzk1N2IzMDRjM2FiOC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Oliveira e Gontijo LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Embargado",
+          "normalized": "Embargado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Neowander de Paula Lima",
+            "cpf": "",
+            "lawyerId": "ZTJkNzkzNzQtYXV0b21hdGljOjE2MDQyODI0LTc3YWJmZDg1ZjYyODY0Ni1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YTAzNTM0N2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjQ1NDE4MjlkNDFhNGYtMTI5NjQzOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1296439200000,
+      "text": "Movimenta\u00e7\u00e3o: Andamento inicial\r\nLocal: Coordenadoria de Cadastramento Processual",
+      "attachments": []
+    },
+    {
+      "id": "Y2IzNTcyNGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYzVmNDQ0YWY0MjBjODAtMTI5NjQzOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1296439200000,
+      "text": "Movimenta\u00e7\u00e3o: Cadastro pr\u00e9-autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MmY3NjQ3NzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjkzYmQyZjg0YjE1NmEtMTI5NjUyNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1296525600000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos \u00e0 CPE para identifica\u00e7\u00e3o de pe\u00e7as\r\nLocal: Coordenadoria de Processos Eletr\u00f4nicos",
+      "attachments": []
+    },
+    {
+      "id": "OWNhOTdmMDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZjEyYTk1YWIyZWUwN2EtMTI5Njc4NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1296784800000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos para a CRCP para triagem\r\nLocal: Coordenadoria de Registro de Conte\u00fado Processual",
+      "attachments": []
+    },
+    {
+      "id": "NjExMGU5NGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNjYzMjBhNTBhNTExN2ItMTI5NzMwMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1297303200000,
+      "text": "Movimenta\u00e7\u00e3o: Distribu\u00eddo ordinariamente ao Exm\u00ba Ministro RLP - T2 em 10/02/2011",
+      "attachments": []
+    },
+    {
+      "id": "NmIxZTdhODUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01N2MzMzViMmI2MjM4NzAtMTI5NzMwMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1297303200000,
+      "text": "Movimenta\u00e7\u00e3o: Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ZDU3MGFhMGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYTBlZGIyYmViYjUxMTYtMTI5NzMwMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1297303200000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos para a CCADP para autuar e distribuir\r\nLocal: Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos",
+      "attachments": []
+    },
+    {
+      "id": "OGQwZTY1MDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NzkyNTIwODc4MTlhOTYtMTI5ODQzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1298430000000,
+      "text": "Movimenta\u00e7\u00e3o: Concluso ao Relator\r\nLocal: Gabinete do Ministro Renato de Lacerda Paiva",
+      "attachments": []
+    },
+    {
+      "id": "ZDRkM2NlNDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZDYyNDVhYmU5N2VhNTktMTMzMzA3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1333076400000,
+      "text": "Movimenta\u00e7\u00e3o: Instrumento de Mandato\r\nPeti\u00e7\u00e3o: 25329/2012",
+      "attachments": []
+    },
+    {
+      "id": "NTMwYzIwYWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMmEyODhlYTliMzYxYzQtMTM2Njk0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366945200000,
+      "text": "Remetidos os Autos para Secretaria da 2\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "ZTdkMDI5Y2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYmJmNDkwYTdjZGQ5MjItMTM2Nzk4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1367982000000,
+      "text": "Disponibilizado(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjcxYjk0OTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZDY3NGM4YTY4ZTAzYzctMTM2ODA2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1368068400000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 15/05/2013 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "OThiNWM0NGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MGVmYjM1ZTJkYWVlMzYtMTM2ODU4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1368586800000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "MTEzMzBjZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZWI4ZDcwODRlZTA3MjgtMTM2OTI3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1369278000000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmIwODBjMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMDMwZDc5YzY2ZDMxYmItMTM2OTM2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1369364400000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 24/05/2013",
+      "attachments": []
+    },
+    {
+      "id": "NWNlNDZhYTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YTUwZGJiODIzYmM0MTUtMTM2OTk2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1369969200000,
+      "text": "Peti\u00e7\u00e3o: 82575/2013 - Embargos Declarat\u00f3rios",
+      "attachments": []
+    },
+    {
+      "id": "MzViYjY0ZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDkyZGNhODM5NGIwYzgtMTM3MDIyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1370228400000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Renato de Lacerda Paiva)",
+      "attachments": []
+    },
+    {
+      "id": "NjE0MDk0NDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNTZlM2RjMmQyNTBlMjUtMTM3MDIyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1370228400000,
+      "text": "Classe Processual alterada para Embargos de Declara\u00e7\u00e3o - (reautuado)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc3ZDQ1MWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNWFlZjBjMTVkNGI4ZGYtMTM3NTE1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375153200000,
+      "text": "Em Mesa",
+      "attachments": []
+    },
+    {
+      "id": "ZjhkNDg0OGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNmM3ODJkMDYwMWFmNzYtMTM3NTE1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375153200000,
+      "text": "Remetidos os Autos para Secretaria da 2\u00aa Turma para julgamento",
+      "attachments": []
+    },
+    {
+      "id": "YzNhMzM1ZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NGU0N2Q4NzAxZTAzYWMtMTM3NTg0NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1375844400000,
+      "text": "Acolhidos os Embargos Declarat\u00f3rios para prestar os esclarecimentos constantes do voto do Relator",
+      "attachments": []
+    },
+    {
+      "id": "MThhMmM0NzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZWI4ZDcwODRlZTA3MjgtMTM3NjUzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376535600000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGE4Y2VhYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZTVkZjY4MjE0OTc1NWYtMTM3NjYyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1376622000000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 16/08/2013",
+      "attachments": []
+    },
+    {
+      "id": "ZGRhY2NhZjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWRiZTYzYjI2Yzk2MmMtMTM3NzQ4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1377486000000,
+      "text": "Peti\u00e7\u00e3o: 127286/2013 - Embargos",
+      "attachments": []
+    },
+    {
+      "id": "MTM0NTFhOTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YTBjNTY4NmFiNGQ5YmUtMTM3Nzc0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1377745200000,
+      "text": "Classe Processual alterada para Embargos - (reautuado)",
+      "attachments": []
+    },
+    {
+      "id": "MDg5NjNlMWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZTBmNjY3OTU4NjI1Y2ItMTM3ODY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1378695600000,
+      "text": "Conclusos para despacho ( art. 81, IX, do RITST) (Gabinete do Ministro Renato de Lacerda Paiva)",
+      "attachments": []
+    },
+    {
+      "id": "NDUxNmZlMzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMWJlZDU5Nzg1MjNjM2MtMTM3OTMwMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379300400000,
+      "text": "Remetidos os Autos para Secretaria da 2\u00aa Turma publicar despacho (art.81, IX, do RITST)",
+      "attachments": []
+    },
+    {
+      "id": "NzkzY2JkYzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMjc4YmYxZTJlN2U1NTUtMTM3OTQ3MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379473200000,
+      "text": "N\u00e3o admitidos os Embargos",
+      "attachments": []
+    },
+    {
+      "id": "Y2M1N2RlMGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGYyNWI1YTkxMGQwNzYtMTM3OTU1OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1379559600000,
+      "text": "Publicado despacho em 19/09/2013",
+      "attachments": []
+    },
+    {
+      "id": "YmJmZjVhYmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMGMzN2QwNDIyNWI4MDYtMTM4MTM3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381374000000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o para encaminhar \u00e0 origem",
+      "attachments": []
+    },
+    {
+      "id": "ZDkwMTIxNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMWEyNmFlOWY5MGQ5NWMtMTM4MTM3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381374000000,
+      "text": "Transitado em Julgado em 04/10/13",
+      "attachments": []
+    },
+    {
+      "id": "NmRlMWY3YTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjQ3NWY4ZjM4OGE4ZjgtMTM4MTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1381719600000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

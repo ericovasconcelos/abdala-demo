@@ -1,0 +1,415 @@
+{
+  "lawsuit": {
+    "id": "ZGM4ODQ2ZTAtYXV0b21hdGljOjAtMDAxMTIxNDQ3MjAxNzUwMzAwMTMtbGF3c3VpdA==",
+    "activityCount": 54,
+    "number": "0011214-47.2017.5.03.0013",
+    "value": 20633.83,
+    "subject": "Rescis\u00e3o Indireta",
+    "kind": "Trabalhista",
+    "district": "13\u00aa Vara do Trabalho de Belo Horizonte",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "P. R. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Paula Duarte Faria",
+            "cpf": "052.151.056-26",
+            "lawyerId": "OTkxMmUxOGMtYXV0b21hdGljOjAtZGEzY2JiYWU3ZjI5YmJmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "P. T. E. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Denis Florencio Teixeira",
+            "cpf": "058.825.866-07",
+            "lawyerId": "MGFiOTY5NTMtYXV0b21hdGljOjAtNzJjY2QyMGNkMmE1MGQwLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1503063442000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Rescis\u00e3o Indireta",
+                "code": 2435
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2435"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "13\u00aa VARA DO TRABALHO DE BELO HORIZONTE",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Ew",
+      "date": 1520510910000,
+      "text": "Remetidos os autos para Contadoria para elaborar c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk5",
+      "date": 1521660192000,
+      "text": "Conclusos os autos para despacho  a HAYDEE PRISCILA PINTO COELHO DE SANT ANA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg3",
+      "date": 1526398840000,
+      "text": "Conclusos os autos para despacho  a LUIZ FERNANDO GONCALVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Ez",
+      "date": 1520445471000,
+      "text": "Conclusos os autos para despacho  a JANE DIAS DO AMARAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E4",
+      "date": 1519047985000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg5",
+      "date": 1524632299000,
+      "text": "Publicado(a) o(a) Despacho em 25/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhj",
+      "date": 1524572206000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I0",
+      "date": 1504279014000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk2",
+      "date": 1521805640000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fh",
+      "date": 1519047637000,
+      "text": "Conclusos os autos para despacho  a JANE DIAS DO AMARAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg1",
+      "date": 1526484280000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fk",
+      "date": 1518874545000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I5",
+      "date": 1503063444000,
+      "text": "Audi\u00eancia una designada (01/09/2017 09:10 - 13\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk4",
+      "date": 1521716390000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk3",
+      "date": 1521805639000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhl",
+      "date": 1524549099000,
+      "text": "Decorrido o prazo de PAULA DUARTE FARIA em 23/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhh",
+      "date": 1524632298000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzll",
+      "date": 1521461168000,
+      "text": "Conclusos os autos para despacho  a HAYDEE PRISCILA PINTO COELHO DE SANT ANA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E5",
+      "date": 1519047985000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I1",
+      "date": 1504279014000,
+      "text": "Audi\u00eancia una realizada (01/09/2017 09:10 - 13\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fj",
+      "date": 1518874545000,
+      "text": "Publicado(a) o(a) Despacho em 08/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E3",
+      "date": 1519048806000,
+      "text": "Iniciada a liquida\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fl",
+      "date": 1518010474000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Jh",
+      "date": 1503063442000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzky",
+      "date": 1522964592000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzlj",
+      "date": 1521461337000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E0",
+      "date": 1520445453000,
+      "text": "Iniciada a execu\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhi",
+      "date": 1524572207000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk1",
+      "date": 1521805640000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Ey",
+      "date": 1520464824000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhm",
+      "date": 1524529992000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I2",
+      "date": 1503064539000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzhk",
+      "date": 1524571218000,
+      "text": "Conclusos os autos para despacho  a MANUELA DUARTE BOSON SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I3",
+      "date": 1503064539000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzkx",
+      "date": 1523077513000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2I4",
+      "date": 1503064539000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E2",
+      "date": 1519048821000,
+      "text": "Remetidos os autos para Contadoria para elaborar c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzlh",
+      "date": 1521467439000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzli",
+      "date": 1521461351000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a HAYDEE PRISCILA PINTO COELHO DE SANT ANA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Ix",
+      "date": 1504279014000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Iw",
+      "date": 1518006637000,
+      "text": "Conclusos os autos para despacho  a ALEXANDRE GONCALVES DE TOLEDO",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg2",
+      "date": 1526484279000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Ex",
+      "date": 1520464824000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzkz",
+      "date": 1522950535000,
+      "text": "Conclusos os autos para despacho  a MANUELA DUARTE BOSON SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg0",
+      "date": 1526487478000,
+      "text": "Arquivados os autos provisoriamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzlm",
+      "date": 1521461157000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzkw",
+      "date": 1523077513000,
+      "text": "Publicado(a) o(a) Despacho em 09/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2E1",
+      "date": 1520445433000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fm",
+      "date": 1518010474000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzk0",
+      "date": 1522894587000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Iy",
+      "date": 1504279014000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 140.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Fi",
+      "date": 1518924621000,
+      "text": "Decorrido o prazo de DENIS FLORENCIO TEIXEIRA em 09/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhYzg4",
+      "date": 1526021093000,
+      "text": "Decorrido o prazo de PAULA DUARTE FARIA em 10/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjQ5OTZlMWFiMmU5ODFlMjlhY2Iz",
+      "date": 1504279014000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a PAMELA RODRIGUES AMARAL",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

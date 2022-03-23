@@ -1,0 +1,468 @@
+{
+  "lawsuit": {
+    "id": "ZWU0NDUzODUtYXV0b21hdGljOjE2MDQyODI0LTEwMDA5MTY3MDIwMTk1MDIwMDY2LWxhd3N1aXQ=",
+    "activityCount": 62,
+    "number": "1000916-70.2019.5.02.0066",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Fernanda Costa da Palma",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Paulo Henrique Santos",
+            "cpf": "370.627.068-41",
+            "lawyerId": "YzliODY5NGItYXV0b21hdGljOjE2MDQyODI0LTA3YTIzODJjNjE0ZDljZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjcxODBlODYtYXV0b21hdGljOjE2MDQyODI0LWFiMmVlZjExY2JlY2UwYS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Brasilvox Call Center LTDA - EPP",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Patricia Avila Simoes Bezerra",
+            "cpf": "277.356.318-20",
+            "lawyerId": "MGVmNDQyYjMtYXV0b21hdGljOjE2MDQyODI0LWUwOWVmYTk4OGEyZWRjMi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Renato de Avila Simoes - ME",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Patricia Avila Simoes Bezerra",
+            "cpf": "277.356.318-20",
+            "lawyerId": "MGVmNDQyYjMtYXV0b21hdGljOjE2MDQyODI0LWUwOWVmYTk4OGEyZWRjMi1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "66\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Sumar\u00edssimo",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YmQxY2NkZTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTJmOTFhNDVjODE0MWYtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (03/10/2019 10:10 - 66\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "YTBlNmMxOWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZGNkOGY3NWU0OWRhYzUtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MjRkNzc2Y2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYTc2ZGZlMDQyMWU1YjQtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) | Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODUzZmFmN2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iN2NhZTBkOTQ3MjkzMGUtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWRmNDBkNTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNWM4ZGNlZTU5NjhiMWItMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Notifica\u00e7\u00e3o Extrajudicial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzVhZjZkNTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDYwNzRmYzg4MzIzODItMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Planilha de C\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGJmNDA3NDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMDAyM2JiZTYzNGJmYjEtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2Q5ZTkyOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yY2QyNzgxYjUzYzAxMmItMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Tela de trabalho demonstrando Editora Abril | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2MyZjZkYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OGYzY2UyNjJmYjZiM2QtMTU2MzUwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563505200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTExZTVjOGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MTk0ZTg4ZDA0OWQwZGEtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Recebidos os autos para tentativa de concilia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDVjNTJhMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03M2QwOWY1ZWVkNDY1YzgtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Remetidos os autos para Centro Judici\u00e1rio de M\u00e9todos Consensuais de Solu\u00e7\u00e3o de Disputas - CEJUSC - JT para tentativa de concilia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzFkOWY5NGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMzY4YWM0NjhjOThjYmItMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) cancelada (03/10/2019 10:10 - 66\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWI1OWVlOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOWU0N2M4ZDNkYjliM2ItMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzEyZjYyZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Y2FlMTYwZWFmMWE5OWEtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2VlODQwM2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYzc3NzdmMTA3ZDUyNTQtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a FERNANDA COSTA DA PALMA - CPF: 366.159.548-26",
+      "attachments": []
+    },
+    {
+      "id": "YzA5ZTJlM2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjdjNTIyNjhiZTQxZTQtMTU2Mzc2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563764400000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a VALERIA NICOLAU SANCHEZ",
+      "attachments": []
+    },
+    {
+      "id": "YzNmNjk5MjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTNjYzBhZjM0YjdmZjktMTU2Mzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563850800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2FkZDJjZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYmZkODhkYmI0NWY1MjUtMTU2Mzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1563850800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZTdlYjUxMWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MmViNTE1ZTNlOGQ1Y2EtMTU2NDExMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564110000000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento designada (29/08/2019 13:20 - CEJUSC Sede)",
+      "attachments": []
+    },
+    {
+      "id": "OTc0OTU2ODYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMmI1NDQ0NWM4OTlhNjUtMTU2NDM2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564369200000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "N2JkN2IxNTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOGU4MTRhMjBiMTE4YzYtMTU2NDM2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564369200000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZmJjNzhlM2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NTljODQ4MjE2MThmZTAtMTU2NDM2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564369200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjIzOGJkN2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTNjYzBhZjM0YjdmZjktMTU2NDQ1NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564455600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YmEwNDNjMjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYjkwODJhMjRjMGUyMTUtMTU2NDQ1NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564455600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "ODY3MzMzOTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjBiMjQzYTk1Y2E0OWUtMTU2NDgwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1564801200000,
+      "text": "Decorrido o prazo de FERNANDA COSTA DA PALMA em 02/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjVkNjQ1MWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZTlkZGJmZTk1ZDc5MTYtMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzlmMGZjMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMDAyM2JiZTYzNGJmYjEtMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzIwMThhNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NDlmZGJhZWQwYzBjYjktMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "DOCUMENTOS DE REPRESENTA\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNhMTAxODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2I4OWEzOWI0NjRkMjEtMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "HABILITA\u00c7\u00c3O | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTkwNjU1YWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzBkYWIwNmIyZTE3NzItMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (HABILITA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "Y2QwNjY1NDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMmI5ZmE2ZGI3NDBlZDctMTU2NTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565146800000,
+      "text": "Decorrido o prazo de FERNANDA COSTA DA PALMA em 06/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZGFiNGU3MmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNTQxOWQ2OTBiMGRmYTMtMTU2NTIzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565233200000,
+      "text": "Decorrido o prazo de FERNANDA COSTA DA PALMA em 07/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjYxZjkxMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMzdiYmI2OWUxMTliZWYtMTU2NTIzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565233200000,
+      "text": "Decorrido o prazo de BRASILVOX CALL CENTER LTDA - EPP em 07/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZGE2YzNlMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOTZjMmY0Y2U2ZjU4ODctMTU2NTIzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565233200000,
+      "text": "Decorrido o prazo de RENATO DE AVILA SIMOES - ME em 07/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTk1NmYyNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZDdkYjY1NjZkZTFlMDgtMTU2NTIzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1565233200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 07/08/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDdlNWJmYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MTdjMGQxMGI4ODQzM2UtMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Carta de Preposi\u00e7\u00e3o BrasilVox | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGIxNTcxMjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZmZiYmU5MWVhMDk3ZmQtMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Carta de Preposi\u00e7\u00e3o Metavox | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTRmOTM4YTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NDkwN2MyYmUzZTg4MjAtMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Procura\u00e7\u00e3o BrasilVox | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJjNWQwNGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYmExNTkwMTg5ZTJmYzItMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Procura\u00e7\u00e3o Metavox | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWExNzM3MWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOGZkZTgyNGM2M2I0YWItMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Contrato Social BrasilVox | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRjYjIwZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYTBlZGJlMWNjMjFiYzktMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Contrato Social Metavox | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDdiMGM2OGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OTljOTFkNDRmN2FiY2QtMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Apresenta\u00e7\u00e3o de procura\u00e7\u00e3o, contrato social e preposi\u00e7\u00e3o | Apresenta\u00e7\u00e3o de Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODBhYjY2YWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNzMzMDA3ZWQ5OGE2OTAtMTU2NjI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1566270000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Procura\u00e7\u00e3o (Apresenta\u00e7\u00e3o de procura\u00e7\u00e3o, contrato social e preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "MTY2MDI5ZDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZTVjNTk2NmNlZDhiMTEtMTU2NzEzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567134000000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 170.00",
+      "attachments": []
+    },
+    {
+      "id": "Yzc5YzI2OWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNTdjYWE1ZGY4NWRiZjEtMTU2NzEzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567134000000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento realizada (29/08/2019 13:20 - CEJUSC Sede)",
+      "attachments": []
+    },
+    {
+      "id": "MDAxMTExNTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jY2E2MjFhYmU4NzZhZTMtMTU2NzEzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567134000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a FERNANDA COSTA DA PALMA",
+      "attachments": []
+    },
+    {
+      "id": "YTI2ZDk5MWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTlhMThhZDY2MDk4NGEtMTU2NzEzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567134000000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmUzYjQxNzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OTRmZWRlYmNiYjc5YTgtMTU2NzEzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567134000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWUyOGM1NDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGU3OGZiMDM4ZDQ0YWQtMTU2NzM5MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567393200000,
+      "text": "Remetidos os autos para Vara do Trabalho para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZGI4NjUzMjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NGI1NzgzMTYwNjA0NGMtMTU2NzU2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567566000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Subs e CP Abril)",
+      "attachments": []
+    },
+    {
+      "id": "YzgyYmZkZjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNmI4ODBlZWZmYjVjYWYtMTU2NzU2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1567566000000,
+      "text": "Subs e CP Abril | Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTQyYTgxNzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOTQzY2Q1YjU4NjEwNjQtMTU2ODI1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1568257200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "MjZkM2MzZmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZDZmNmE2YzM3MDIyZWEtMTU2ODI1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1568257200000,
+      "text": "Decorrido o prazo de BRASILVOX CALL CENTER LTDA - EPP em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "MzBlZDcyMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MzU3MDlkZDFkMTMzMWItMTU2ODI1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1568257200000,
+      "text": "Decorrido o prazo de FERNANDA COSTA DA PALMA em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "OGI4ZWI2YjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mOTk0NmIwNzRlMzQ2MzktMTU2ODI1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1568257200000,
+      "text": "Decorrido o prazo de RENATO DE AVILA SIMOES - ME em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDA1YmFkNTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNjhjN2FkYjZhODJhNjEtMTU4MjA4MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1582081200000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "MWQzYTdiNzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZTVjNTk2NmNlZDhiMTEtMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 170,00",
+      "attachments": []
+    },
+    {
+      "id": "MmE3NTQwYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTlhMThhZDY2MDk4NGEtMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDM2NjJiZGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZmZmZjljYzViNTI3ZjktMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "Mjk3YzAyNWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NjMzODIwMzExZDc1MzktMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VALERIA NICOLAU SANCHEZ",
+      "attachments": []
+    },
+    {
+      "id": "MmZmMzY1NzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MmFiN2UxYTE4NjgyMTctMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Desarquivados os autos",
+      "attachments": []
+    },
+    {
+      "id": "OTllYzdkOGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNjhjN2FkYjZhODJhNjEtMTU5MTE1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591153200000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,1355 @@
+{
+  "lawsuit": {
+    "id": "OTMxYTViZjctYXV0b21hdGljOjAtMDAxMDU1NzQ0MjAxNTUwMzAwNTYtbGF3c3VpdA==",
+    "activityCount": 182,
+    "number": "0010557-44.2015.5.03.0056",
+    "value": 96000.0,
+    "subject": "Adicional de Insalubridade, Acidente de Trabalho, Contratuais, Honor\u00e1rios Profissionais, Indeniza\u00e7\u00e3o por Dano Material, Indeniza\u00e7\u00e3o por Dano Material, Indeniza\u00e7\u00e3o por Dano Moral, Reclassifica\u00e7\u00e3o",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Curvelo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "E. C. S. F.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Vitor Lucio Ferreira",
+            "cpf": "193.453.726-87",
+            "lawyerId": "OWZlMjVlOTQtYXV0b21hdGljOjAtMmI5NTRmY2VkNjZjM2YxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1448040854000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Honor\u00e1rios Profissionais",
+                "code": 7631
+              },
+              {
+                "level": 2,
+                "text": "Outras Rela\u00e7\u00f5es de Trabalho",
+                "code": 7628
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Acidente de Trabalho",
+                "code": 8809
+              },
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7\u00e3o por Dano Material",
+                "code": 8808
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Insalubridade",
+                "code": 10291
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1855-7631-8809-10291"
+      },
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Acidente de Trabalho",
+                "code": 2569
+              },
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Honor\u00e1rios Profissionais",
+                "code": 7631
+              },
+              {
+                "level": 2,
+                "text": "Outras Rela\u00e7\u00f5es de Trabalho",
+                "code": 7628
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7\u00e3o por Dano Material",
+                "code": 8808
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Insalubridade",
+                "code": 10291
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "2569-7631-8808-10291"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Curvelo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODBj",
+      "date": 1524840594000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODdk",
+      "date": 1472569540000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODJh",
+      "date": 1523280968000,
+      "text": "Transitado em julgado em 09/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhl",
+      "date": 1468605174000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Ji",
+      "date": 1530650635000,
+      "text": "Expedido(a) alvar\u00e1 a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Iy",
+      "date": 1587732252000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a por satisfa\u00e7\u00e3o da obriga\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Q0",
+      "date": 1527064962000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc0",
+      "date": 1473794609000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2M1",
+      "date": 1530084749000,
+      "text": "Publicado(a) o(a) Despacho em 27/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODkw",
+      "date": 1467863411000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Zh",
+      "date": 1525370209000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQz",
+      "date": 1480558545000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 30/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODRk",
+      "date": 1479408476000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODRm",
+      "date": 1479408383000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODkz",
+      "date": 1467633074000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY4",
+      "date": 1474382270000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODdh",
+      "date": 1472702107000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 31/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE2",
+      "date": 1458530286000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 18/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Rj",
+      "date": 1526564240000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2M4",
+      "date": 1530021583000,
+      "text": "Expedido(a) alvar\u00e1 a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2U4",
+      "date": 1525879590000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Q3",
+      "date": 1526904522000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODcx",
+      "date": 1473794758000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (19/10/2016 14:30 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2U0",
+      "date": 1525885013000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc5",
+      "date": 1473136847000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODIy",
+      "date": 1523343613000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODZh",
+      "date": 1474341825000,
+      "text": "Decorrido o prazo de VITOR LUCIO FERREIRA em 19/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQ5",
+      "date": 1480508129000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGJh",
+      "date": 1448044008000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODlk",
+      "date": 1461036088000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 18/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGFl",
+      "date": 1457534883000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODk5",
+      "date": 1467139164000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (28/06/2016 13:00 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGIw",
+      "date": 1457534669000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGJk",
+      "date": 1448040854000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQx",
+      "date": 1480612112000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Qw",
+      "date": 1528395551000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODcy",
+      "date": 1473794611000,
+      "text": "Conclusos os autos para despacho  a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Y4",
+      "date": 1525455889000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGEz",
+      "date": 1459359261000,
+      "text": "Conclusos os autos para despacho  a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGEx",
+      "date": 1459373605000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Q5",
+      "date": 1526904521000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGEy",
+      "date": 1459373605000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Vl",
+      "date": 1525511855000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Jh",
+      "date": 1530767669000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 04/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODk3",
+      "date": 1467139402000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Mx",
+      "date": 1530211227000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQ2",
+      "date": 1480510540000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Nl",
+      "date": 1528403481000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODYw",
+      "date": 1475592417000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODgx",
+      "date": 1472242538000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Iw",
+      "date": 1587732252000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODlh",
+      "date": 1461095824000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Q2",
+      "date": 1526928455000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODdl",
+      "date": 1472242538000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Uy",
+      "date": 1525935410000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 09/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODVh",
+      "date": 1478185776000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de ERNESTO CORREIA DA SILVA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE1",
+      "date": 1459359163000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY2",
+      "date": 1474602076000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Vj",
+      "date": 1525802101000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODgz",
+      "date": 1469675879000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 27/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGFh",
+      "date": 1458082211000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODgy",
+      "date": 1472241810000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Yx",
+      "date": 1525455889000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGIz",
+      "date": 1456925148000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGIy",
+      "date": 1456925148000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Rl",
+      "date": 1526029381000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODlm",
+      "date": 1460086287000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Y1",
+      "date": 1525455889000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODRi",
+      "date": 1479782949000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhm",
+      "date": 1467863411000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODU4",
+      "date": 1478185776000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODI3",
+      "date": 1523280982000,
+      "text": "Iniciada a liquida\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY0",
+      "date": 1475528225000,
+      "text": "Conclusos os autos para despacho  a VERENA SAPUCAIA SILVEIRA GONZALEZ",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODNi",
+      "date": 1494944685000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY5",
+      "date": 1474379080000,
+      "text": "Conclusos os autos para despacho  a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODU5",
+      "date": 1478185776000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ERNESTO CORREIA DA SILVA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Fj",
+      "date": 1587732479000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODky",
+      "date": 1467633075000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODNl",
+      "date": 1485988018000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODlj",
+      "date": 1461090568000,
+      "text": "Conclusos os autos para despacho  a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODRj",
+      "date": 1479782949000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Uw",
+      "date": 1526029380000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQ3",
+      "date": 1480508207000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODUy",
+      "date": 1479326329000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODg5",
+      "date": 1468904485000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODRl",
+      "date": 1479408476000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODk0",
+      "date": 1467396794000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODA5",
+      "date": 1524840667000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODMy",
+      "date": 1523277813000,
+      "text": "Transitado em julgado em 09/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Vh",
+      "date": 1525879495000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODJj",
+      "date": 1523277943000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhi",
+      "date": 1468899748000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 18/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODM0",
+      "date": 1522941496000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2I0",
+      "date": 1587731218000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODU1",
+      "date": 1478313411000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODFm",
+      "date": 1524489405000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODg2",
+      "date": 1469188599000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhk",
+      "date": 1468605332000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODUw",
+      "date": 1479349294000,
+      "text": "Decorrido o prazo de VITOR LUCIO FERREIRA em 16/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODk2",
+      "date": 1467396793000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODYx",
+      "date": 1475592417000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODli",
+      "date": 1461095824000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODZj",
+      "date": 1474083443000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc2",
+      "date": 1473391449000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 08/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODdj",
+      "date": 1472569564000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGIx",
+      "date": 1457534573000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODVi",
+      "date": 1478185776000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGJj",
+      "date": 1448040859000,
+      "text": "Audi\u00eancia inicial designada (11/12/2015 08:30 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE5",
+      "date": 1458140369000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODU0",
+      "date": 1479326238000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODk4",
+      "date": 1467139164000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhj",
+      "date": 1468605332000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI1",
+      "date": 1449846958000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY3",
+      "date": 1474382271000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODY1",
+      "date": 1474602076000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODhh",
+      "date": 1468904485000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGFk",
+      "date": 1457580397000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Jm",
+      "date": 1530293221000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQ4",
+      "date": 1480508191000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Rk",
+      "date": 1526106444000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 11/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODVm",
+      "date": 1476902235000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (19/10/2016 15:30 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODZl",
+      "date": 1474083442000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc3",
+      "date": 1473391449000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 08/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODcw",
+      "date": 1473795717000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGFm",
+      "date": 1457534883000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODll",
+      "date": 1461036088000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 18/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODFi",
+      "date": 1524626717000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 24/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE4",
+      "date": 1458140369000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODEz",
+      "date": 1524763434000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODUx",
+      "date": 1479349294000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 16/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Nj",
+      "date": 1528526095000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 04/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODZm",
+      "date": 1473795717000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc4",
+      "date": 1473136847000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODg4",
+      "date": 1469125481000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODdi",
+      "date": 1472702107000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2U2",
+      "date": 1525879591000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Nk",
+      "date": 1528403482000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI5",
+      "date": 1448044009000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGEw",
+      "date": 1460086287000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2M3",
+      "date": 1530084749000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODE4",
+      "date": 1524763343000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODZi",
+      "date": 1474341825000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 19/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Jk",
+      "date": 1530293221000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI2",
+      "date": 1449846958000,
+      "text": "Audi\u00eancia inicial realizada (11/12/2015 08:30 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Rh",
+      "date": 1526665808000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE3",
+      "date": 1458529892000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 18/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODM5",
+      "date": 1510692809000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI3",
+      "date": 1449831840000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (28/06/2016 13:00 - Vara do Trabalho de Curvelo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODYy",
+      "date": 1475552279000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 03/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI4",
+      "date": 1448557706000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODVj",
+      "date": 1476902643000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODEw",
+      "date": 1524828681000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGFi",
+      "date": 1457580397000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Zm",
+      "date": 1525370086000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Nh",
+      "date": 1529701666000,
+      "text": "Iniciada a execu\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGJi",
+      "date": 1448044008000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODAy",
+      "date": 1525071352000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGI0",
+      "date": 1456924967000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODUz",
+      "date": 1479326329000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODA0",
+      "date": 1525071352000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODJl",
+      "date": 1523277943000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODYz",
+      "date": 1475552279000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 03/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODA2",
+      "date": 1524840667000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODE2",
+      "date": 1524763434000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Qz",
+      "date": 1527064962000,
+      "text": "Publicado(a) o(a) Despacho em 23/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODU3",
+      "date": 1478313411000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Zk",
+      "date": 1525370209000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODBl",
+      "date": 1524828685000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Mz",
+      "date": 1530210026000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODQ1",
+      "date": 1480510541000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODM2",
+      "date": 1519240112000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODFk",
+      "date": 1524626630000,
+      "text": "Decorrido o prazo de ERNESTO CORREIA DA SILVA FILHO em 24/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODc1",
+      "date": 1473789922000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ANDRE VITOR ARAUJO CHAVES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViOGE0",
+      "date": 1459359231000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODI1",
+      "date": 1523343613000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Vm",
+      "date": 1525511854000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODMx",
+      "date": 1523277826000,
+      "text": "Conclusos os autos para despacho  a VANDA LUCIA HORTA MOREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2I2",
+      "date": 1587731203000,
+      "text": "Desarquivados os autos",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODVk",
+      "date": 1476902235000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2I4",
+      "date": 1532617114000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViN2Qx",
+      "date": 1527314184000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 25/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYWRkOTZjNDVmMzNmZjZjYzViODg3",
+      "date": 1469188599000,
+      "text": "Despacho",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

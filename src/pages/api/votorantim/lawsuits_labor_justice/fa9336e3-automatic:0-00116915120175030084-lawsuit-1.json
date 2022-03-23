@@ -1,0 +1,532 @@
+{
+  "lawsuit": {
+    "id": "ZmE5MzM2ZTMtYXV0b21hdGljOjAtMDAxMTY5MTUxMjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 71,
+    "number": "0011691-51.2017.5.03.0084",
+    "value": 4121.42,
+    "subject": "Abono",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "I. M. C.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Dalila Rocha Santos",
+            "cpf": "079.022.846-70",
+            "lawyerId": "NzQ2MDIzMjgtYXV0b21hdGljOjAtMmU4ZTE4YWZhODQyY2E4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Divino Vilela Junior",
+            "cpf": "028.280.606-75",
+            "lawyerId": "NmE5MjY5NWItYXV0b21hdGljOjAtOGNkZTM4MTU1MWI0OGFjLXVuaWZpZWQ="
+          },
+          {
+            "name": "Flavia Caroline Cunha Moises Guirra",
+            "cpf": "087.390.326-98",
+            "lawyerId": "YTc4MGJlODEtYXV0b21hdGljOjAtMGE2ZWM4NmIwZGFlYzdjLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1510334398000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Abono",
+                "code": 2583
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2583"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk3",
+      "date": 1525072024000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTll",
+      "date": 1524684043000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE3",
+      "date": 1516658616000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg2",
+      "date": 1528401761000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk4",
+      "date": 1525072024000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWEx",
+      "date": 1519360079000,
+      "text": "Decorrido o prazo de IVAN MOREIRA DA CRUZ em 22/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTlh",
+      "date": 1524786667000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFh",
+      "date": 1513003880000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 92.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTgw",
+      "date": 1528693055000,
+      "text": "Decorrido o prazo de LUANNA VIEIRA DE LIMA COSTA em 08/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThk",
+      "date": 1527242203000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE0",
+      "date": 1519063432000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThj",
+      "date": 1527242810000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWIy",
+      "date": 1510334399000,
+      "text": "Audi\u00eancia una designada (28/11/2017 14:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk5",
+      "date": 1524786668000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTZl",
+      "date": 1531366677000,
+      "text": "Decorrido o prazo de DALILA ROCHA SANTOS em 11/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc0",
+      "date": 1530778318000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTcw",
+      "date": 1531230563000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg4",
+      "date": 1527276901000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc4",
+      "date": 1530626540000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdl",
+      "date": 1528877671000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdk",
+      "date": 1528877671000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThm",
+      "date": 1526719997000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg3",
+      "date": 1527276902000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc1",
+      "date": 1530709225000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWEw",
+      "date": 1520967430000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWEz",
+      "date": 1519194501000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdm",
+      "date": 1528693056000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 08/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTgx",
+      "date": 1528540118000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTky",
+      "date": 1526600165000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThh",
+      "date": 1527242991000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk2",
+      "date": 1526307046000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFj",
+      "date": 1513003880000,
+      "text": "Julgado(s) procedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125)/ ) de IVAN MOREIRA DA CRUZ",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc2",
+      "date": 1530628607000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTkx",
+      "date": 1526600166000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg5",
+      "date": 1527243028000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFi",
+      "date": 1513003880000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a IVAN MOREIRA DA CRUZ",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk1",
+      "date": 1526449273000,
+      "text": "Decorrido o prazo de IVAN MOREIRA DA CRUZ em 15/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTlk",
+      "date": 1524763835000,
+      "text": "Transitado em julgado em 09/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTcy",
+      "date": 1531108629000,
+      "text": "Decorrido o prazo de IVAN MOREIRA DA CRUZ em 06/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTlm",
+      "date": 1523391510000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThi",
+      "date": 1527242936000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWIz",
+      "date": 1510334399000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTcz",
+      "date": 1530778319000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg0",
+      "date": 1528540117000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTlj",
+      "date": 1524763847000,
+      "text": "Iniciada a liquida\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWEy",
+      "date": 1519194501000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTZk",
+      "date": 1531366678000,
+      "text": "Decorrido o prazo de DIVINO VILELA JUNIOR em 11/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE4",
+      "date": 1516658616000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE1",
+      "date": 1519063432000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTg1",
+      "date": 1528518178000,
+      "text": "Decorrido o prazo de IVAN MOREIRA DA CRUZ em 05/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFk",
+      "date": 1513003879000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTgy",
+      "date": 1528540118000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTgz",
+      "date": 1528540117000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc3",
+      "date": 1530628605000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWIx",
+      "date": 1510340486000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTc5",
+      "date": 1528877676000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdi",
+      "date": 1528877675000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE5",
+      "date": 1516637097000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTk0",
+      "date": 1526451421000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 15/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWIw",
+      "date": 1511907393000,
+      "text": "Audi\u00eancia una realizada (28/11/2017 15:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTkw",
+      "date": 1526719997000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTli",
+      "date": 1524763906000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZThl",
+      "date": 1527097989000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWE2",
+      "date": 1519062221000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFm",
+      "date": 1511907393000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTcx",
+      "date": 1531116672000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 06/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdh",
+      "date": 1528877675000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZWFl",
+      "date": 1511983596000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTkz",
+      "date": 1526479400000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTZm",
+      "date": 1531366677000,
+      "text": "Decorrido o prazo de FLAVIA CAROLINE CUNHA MOISES GUIRRA em 11/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOGQxMWU2MDY3OGVmNDBkMDVlZTdj",
+      "date": 1528877674000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

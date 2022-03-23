@@ -1,0 +1,366 @@
+{
+  "lawsuit": {
+    "id": "MDgyMTFkYWEtYXV0b21hdGljOjE2MDQyODI0LTEwMDM5ODY2NTIwMjA1MDIwMDAwLWxhd3N1aXQ=",
+    "activityCount": 48,
+    "number": "1003986-65.2020.5.02.0000",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjcxODBlODYtYXV0b21hdGljOjE2MDQyODI0LWFiMmVlZjExY2JlY2UwYS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Edesio Antonio Catanzariti de Souza",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": ""
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Minist\u00e9rio P\u00fablico do Trabalho",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": ""
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Juizo da 77\u00aa Vara do Trabalho de S\u00e3o Paulo",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "SDI-5 - Cadeira 6",
+    "nature": {
+      "raw": "Mandado de Seguran\u00e7a C\u00edvel",
+      "normalized": "MANDADO DE SEGURAN\u00c7A C\u00cdVEL"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MmVkNjg1OGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NmY4NWQ4NmZiYTFlMTctMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Redistribu\u00eddo por sorteio por ter sido declarada a incompet\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MTU2ODZiOWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNWE3ODFmYzUzZDE4NTUtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZGU1ZDBiZDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDJhYTc4ZWQyMGJmMjQtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YjliMDdhZjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMjhiZDZiZWE2MjM3YmYtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Declarada a incompet\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MGMyYjEwMjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MTA3NGE0ODcwOWFlMmYtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a SONIA APARECIDA COSTA MASCARO NASCIMENTO",
+      "attachments": []
+    },
+    {
+      "id": "YjFjNzU1YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NWIxMmIyZGMxNjE3Y2UtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDgyYzI4ZjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYjRhNTI3NGM4NDQ3ZTQtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Conclusos os autos para despacho a SONIA APARECIDA COSTA MASCARO NASCIMENTO",
+      "attachments": []
+    },
+    {
+      "id": "YTJlMzIxMmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNmJiMDllMGM5YzI0ZWItMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MWUxMjQyMGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzA2ZmZhNWM1MmYyMGUtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "ATO 314 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjU5ZmYxOGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YmZiY2ViNDYwNmEzZWItMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Decis\u00e3o PP TRT-15 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDkxMWRjM2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZmNkZGYyYmIyZmE2N2ItMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Decis\u00e3o TRT 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDA1ZmJkZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzIwMzJmMzQwMDRkNTgtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Decis\u00e3o liminar MS cancelamento aud virtual | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc5N2UzYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNjZkMjhkMzkxNWY3MTktMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "PP TRT-15 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTcwNzM1MGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZDA0NDAwOGFhMGZlNTYtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Despacho 161371f | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNiNzc0NWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZjNmMjNjMWQyMjk0ZDUtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Despacho fb27618 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWNkMzdmYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZTk1MGMzNDIwYWU5ZjYtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Peti\u00e7\u00e3o inicial RT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRiYjY3M2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDgwNmEwNDc3OTEwMzEtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTFiMGM3YTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MjQyZThiNjJlNGVjMjktMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Substabelecimento sem Reserva de Poderes | Substabelecimento sem Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yzg4YmI3M2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Y2ZjNzYyYTZhMDhjZWQtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "manif discordando aud virtual | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTg1YmRkY2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOWFlYTZjOTU3N2RiYmQtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM5NWI3YjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mOTdmMjg0MzI1NjkxN2UtMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWFlZjlhZjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZmExZjI5NTdhMWE5NDktMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MjAwODBmYjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYWE0ZTFkMjkwYWQ0ZmEtMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTkwYTY3YzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDJhYTc4ZWQyMGJmMjQtMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjA4ZWI0ZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjU4NGQyN2ZjNWM1OTAtMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "N\u00e3o concedida a medida liminar a ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NTY0OTk2ZWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MTk3Mjc4NDVhY2Q1ZGYtMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "Conclusos os autos para decis\u00e3o da Liminar a WALDIR DOS SANTOS FERRO",
+      "attachments": []
+    },
+    {
+      "id": "YWRjODFkNTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NWIxMmIyZGMxNjE3Y2UtMTU5ODQxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598410800000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZWZmZWEwZDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYzQwMmQ3OTg4OTQ2ZGItMTU5ODU4MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598583600000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NmM2NWNkZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZDg0MWRiM2U1ODA5ZWQtMTU5ODU4MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598583600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 28/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "YTgzZGMxNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNmZmMmJjYjBmNTAxMGEtMTU5OTc5MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1599793200000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 10/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "NDM3MzgxNmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZDI2ZWU3YWJiMzlhODMtMTYwMDM5ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600398000000,
+      "text": "Tr\u00e2nsito em Julgado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGRlNTk4ZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNDEwODI0NTUzNDYzZDktMTYwMTAwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601002800000,
+      "text": "GRU | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGNlMzI1YmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZGUxMmIxNWY3MDliMGUtMTYwMTAwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601002800000,
+      "text": "Comprovante pagto GRU | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTEwYTNiZjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYTdmNThhZGIzNjhhOGEtMTYwMTAwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601002800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (juntada comprovante pagto GRU)",
+      "attachments": []
+    },
+    {
+      "id": "OWFlYzZkNmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YTgxZmM4NTEyNTgxZWItMTYwMTAwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601002800000,
+      "text": "juntada comprovante pagto GRU | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGIyNDRlZTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZmExZjI5NTdhMWE5NDktMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "MmE4OTYxYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYWE0ZTFkMjkwYWQ0ZmEtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWRhMWNjYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDJhYTc4ZWQyMGJmMjQtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZjU1ZTNmMDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMmJmMDUwZmUxZTY1MzEtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Extinto o processo por aus\u00eancia de pressupostos processuais",
+      "attachments": []
+    },
+    {
+      "id": "ZTgyMGIzMDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NDE5NzMxNzBkYzUyMDUtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a WALDIR DOS SANTOS FERRO",
+      "attachments": []
+    },
+    {
+      "id": "NWQ1OGVhNDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NWIxMmIyZGMxNjE3Y2UtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "M2M0ODY3YzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTAwZDRiZTM1N2U0YjQtMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a DONIZETE VIEIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "YTg4MjA5N2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MjQ0ZDIwN2E0Mzk1NjItMTYwMTQzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601434800000,
+      "text": "Conclusos os autos para despacho a WALDIR DOS SANTOS FERRO",
+      "attachments": []
+    },
+    {
+      "id": "OTllODYyMmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYzQwMmQ3OTg4OTQ2ZGItMTYwMTUyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601521200000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjBiNWViYjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZWJiYWU1ZDA0Yzk4NTctMTYwMTUyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601521200000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 01/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWQ2NGNlYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOWQ1YTE4OWU1YTMxMjEtMTYwMjczMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1602730800000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 14/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "ODBiMWMzZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01Y2RhNTA0N2M1NDc4NTktMTYwMzA3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603076400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "YTY4ZTFiMTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGVjMTZkYzFkMjE0M2QtMTYwMzA3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1603076400000,
+      "text": "Transitado em julgado em 10/09/2020",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

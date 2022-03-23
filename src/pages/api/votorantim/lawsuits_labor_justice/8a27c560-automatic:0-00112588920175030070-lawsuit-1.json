@@ -1,0 +1,768 @@
+{
+  "lawsuit": {
+    "id": "OGEyN2M1NjAtYXV0b21hdGljOjAtMDAxMTI1ODg5MjAxNzUwMzAwNzAtbGF3c3VpdA==",
+    "activityCount": 106,
+    "number": "0011258-89.2017.5.03.0070",
+    "value": 50000.0,
+    "subject": "Adicional de Horas Extras, Aviso Pr\u00e9vio",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Passos",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "P. H. O. F.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Thiago Halley Barbosa",
+            "cpf": "073.372.496-59",
+            "lawyerId": "OThiMGJhN2UtYXV0b21hdGljOjAtNTJkM2YwNzI1N2VlMWFkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "C. M. F. M. I. E.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Fl\u00e1vio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "YTc3MDUwOGMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1505399976000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "2641-10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "1\u00aa Vara do Trabalho de Passos",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBi",
+      "date": 1519966339000,
+      "text": "Decorrido o prazo de CAMMIND MONTAGEM, FABRICACAO E MANUTENCAO INDUSTRIAL LTDA - EPP em 01/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY4",
+      "date": 1556809135000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE4",
+      "date": 1518892390000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI3",
+      "date": 1513175441000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE5",
+      "date": 1518892389000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjM0",
+      "date": 1512009282000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 29/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFi",
+      "date": 1518464334000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a PAULO HENRIQUE DE OLIVEIRA FILHO                            ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNj",
+      "date": 1511318062000,
+      "text": "Publicado(a) o(a) Despacho em 22/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFl",
+      "date": 1518000421000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY0",
+      "date": 1557212363000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 06/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFm",
+      "date": 1517940687000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA5",
+      "date": 1519966942000,
+      "text": "Publicado(a) o(a) Despacho em 02/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJh",
+      "date": 1512983096000,
+      "text": "Publicado(a) o(a) Despacho em 11/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjUw",
+      "date": 1508985218000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjUy",
+      "date": 1508925932000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVi",
+      "date": 1505410621000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU3",
+      "date": 1507054889000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQ1",
+      "date": 1511064691000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY2",
+      "date": 1556864963000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU0",
+      "date": 1508769099000,
+      "text": "Audi\u00eancia inicial realizada (23/10/2017 09:30 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI0",
+      "date": 1516626746000,
+      "text": "Conclusos os autos para despacho  a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQ5",
+      "date": 1510920961000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQz",
+      "date": 1511174913000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (12/12/2017 10:20 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY3",
+      "date": 1556864962000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE2",
+      "date": 1518892410000,
+      "text": "Publicado(a) o(a) Senten\u00e7a em 16/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZm",
+      "date": 1539809170000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjMx",
+      "date": 1512095094000,
+      "text": "Decorrido o prazo de CAMMIND MONTAGEM, FABRICACAO E MANUTENCAO INDUSTRIAL LTDA - EPP em 30/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE0",
+      "date": 1518892411000,
+      "text": "Publicado(a) o(a) Senten\u00e7a em 16/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjM3",
+      "date": 1511939259000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 27/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjM5",
+      "date": 1511522791000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRm",
+      "date": 1510569783000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (13/12/2017 14:30 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWYy",
+      "date": 1557212364000,
+      "text": "Decorrido o prazo de PAULO HENRIQUE DE OLIVEIRA FILHO                             em 06/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjIw",
+      "date": 1517940687000,
+      "text": "Audi\u00eancia inicial realizada (06/02/2018 14:35 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjAz",
+      "date": 1521203917000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjIz",
+      "date": 1516626794000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBj",
+      "date": 1519927422000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRh",
+      "date": 1510837246000,
+      "text": "Conclusos os autos para despacho  a SAMANTHA DA SILVA HASSEN BORGES                             ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRi",
+      "date": 1510825437000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA0",
+      "date": 1521203915000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU5",
+      "date": 1507047227000,
+      "text": "Audi\u00eancia inicial redesignada (23/10/2017 08:30 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBl",
+      "date": 1519922929000,
+      "text": "Conclusos os autos para despacho  a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFk",
+      "date": 1518464322000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjUz",
+      "date": 1508769099000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY1",
+      "date": 1556877825000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU4",
+      "date": 1507054889000,
+      "text": "Audi\u00eancia inicial realizada (03/10/2017 13:05 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZi",
+      "date": 1556800359000,
+      "text": "Transitado em julgado em 23/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVk",
+      "date": 1505404660000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA4",
+      "date": 1521059326000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjYw",
+      "date": 1505399976000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFh",
+      "date": 1518464337000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 2300.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA3",
+      "date": 1521089819000,
+      "text": "Decorrido o prazo de THIAGO HALLEY BARBOSA em 14/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjFj",
+      "date": 1518464331000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de PAULO HENRIQUE DE OLIVEIRA FILHO                            ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjMy",
+      "date": 1512042836000,
+      "text": "Conclusos os autos para despacho  a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI5",
+      "date": 1513160640000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (12/12/2017 11:20 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI2",
+      "date": 1513737786000,
+      "text": "Decorrido o prazo de THIAGO HALLEY BARBOSA em 18/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRj",
+      "date": 1510825424000,
+      "text": "Conclusos os autos para despacho  a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU1",
+      "date": 1508755695000,
+      "text": "Audi\u00eancia inicial redesignada (13/11/2017 08:30 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVl",
+      "date": 1505404660000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNh",
+      "date": 1511318062000,
+      "text": "Publicado(a) o(a) Despacho em 22/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBk",
+      "date": 1519927421000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjUx",
+      "date": 1508985218000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE1",
+      "date": 1518892411000,
+      "text": "Disponibilizado\n(a) o(a) Senten\u00e7a no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA1",
+      "date": 1521202622000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJk",
+      "date": 1512447879000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJl",
+      "date": 1512447879000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQ0",
+      "date": 1511064691000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjA2",
+      "date": 1521171667000,
+      "text": "Decorrido o prazo de CAMMIND MONTAGEM, FABRICACAO E MANUTENCAO INDUSTRIAL LTDA - EPP em 15/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI4",
+      "date": 1513160640000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjEx",
+      "date": 1519875473000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 28/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRl",
+      "date": 1510590900000,
+      "text": "Audi\u00eancia inicial realizada (13/11/2017 09:30 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJm",
+      "date": 1512147269000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjEz",
+      "date": 1519828493000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjMw",
+      "date": 1512147269000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjM4",
+      "date": 1511522791000,
+      "text": "Concedida a antecipa\u00e7\u00e3o de tutela a PAULO HENRIQUE DE OLIVEIRA FILHO - CPF: 070.103.736-98",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNk",
+      "date": 1511318062000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZk",
+      "date": 1555097977000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNl",
+      "date": 1511298202000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjAw",
+      "date": 1526921962000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZj",
+      "date": 1556652178000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjU2",
+      "date": 1507058820000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBh",
+      "date": 1519966942000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjAy",
+      "date": 1521205639000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNi",
+      "date": 1511318062000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjEw",
+      "date": 1519878084000,
+      "text": "Decorrido o prazo de THIAGO HALLEY BARBOSA em 28/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjIy",
+      "date": 1516626794000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjIx",
+      "date": 1516628647000,
+      "text": "Audi\u00eancia inicial designada (06/02/2018 13:35 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjEy",
+      "date": 1519875473000,
+      "text": "Decorrido o prazo de PAULO HENRIQUE DE OLIVEIRA FILHO                             em 28/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVh",
+      "date": 1505904597000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJj",
+      "date": 1512573244000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVj",
+      "date": 1505404661000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjI1",
+      "date": 1516626746000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQ2",
+      "date": 1510920961000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjVm",
+      "date": 1505399977000,
+      "text": "Audi\u00eancia inicial designada (03/10/2017 13:05 - 1\u00aa Vara do Trabalho de Passos)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjMz",
+      "date": 1512012404000,
+      "text": "Decorrido o prazo de PAULO HENRIQUE DE OLIVEIRA FILHO                             em 29/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjBm",
+      "date": 1519879578000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 28/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQx",
+      "date": 1511185063000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjM2",
+      "date": 1511984263000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjRk",
+      "date": 1510590901000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWY5",
+      "date": 1556809134000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjNm",
+      "date": 1511185063000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZl",
+      "date": 1542658046000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYWZh",
+      "date": 1556800371000,
+      "text": "Conclusos os autos para despacho  a VICTOR LUIZ BERTO SALOME DUTRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjQy",
+      "date": 1511179396000,
+      "text": "Conclusos os autos para despacho  a GERALDO HELIO LEAL",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjAx",
+      "date": 1524496156000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjE3",
+      "date": 1518892410000,
+      "text": "Disponibilizado\n(a) o(a) Senten\u00e7a no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMGE0NTI4MDg1OTFmM2M1YzhjYjJi",
+      "date": 1512983096000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

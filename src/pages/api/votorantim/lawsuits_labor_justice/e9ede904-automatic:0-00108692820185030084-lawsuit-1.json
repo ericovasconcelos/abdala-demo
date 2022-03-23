@@ -1,0 +1,985 @@
+{
+  "lawsuit": {
+    "id": "ZTllZGU5MDQtYXV0b21hdGljOjAtMDAxMDg2OTI4MjAxODUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 151,
+    "number": "0010869-28.2018.5.03.0084",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Sergio Pereira de Oliveira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Dalila Rocha Santos",
+            "cpf": null,
+            "lawyerId": "NjA4MDUyM2YtYXV0b21hdGljOjAtMmU4ZTE4YWZhODQyY2E4LWxhd3llcg=="
+          },
+          {
+            "name": "Flavia Caroline Cunha Moises Guirra",
+            "cpf": null,
+            "lawyerId": "OGU3MjBhMjctYXV0b21hdGljOjAtMGE2ZWM4NmIwZGFlYzdjLWxhd3llcg=="
+          },
+          {
+            "name": "Divino Vilela Junior",
+            "cpf": null,
+            "lawyerId": "OTdiZDkwY2YtYXV0b21hdGljOjAtOGNkZTM4MTU1MWI0OGFjLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Nexa Recursos Minerais S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": null,
+            "lawyerId": "MjAwNmZiMDQtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LWxhd3llcg=="
+          },
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": null,
+            "lawyerId": "NmZmODk2NjUtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1514815200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": null,
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Sumar\u00edssimo",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MzNkYTllZDFkZTA0MzY2MmVjNDFmODAzMTgxYzkzYTU=",
+      "date": 1543536000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzgyMDAyOTBjNmZlYTkzZGNiN2IzZjA2YTA0YzhmNWY=",
+      "date": 1537747200000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZjI4MTVjMGI2ZjFmODMxYTk1YzM1MTdlMGE5ZDdlOGY=",
+      "date": 1537401600000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzkzMGFhMGNhZjg1NjhlMTRmYTFmMzhkYmFjMzMxODc=",
+      "date": 1538352000000,
+      "text": "Acuso de Recebimento de Notifica\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzRiY2Q0M2ZhNGNmYzkyNzc1NGJjMjUxZTNhYzIzN2U=",
+      "date": 1550188800000,
+      "text": "RECURSO DE REVISTA NEXA | Recurso de Revista (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTg2YTlhYjgwODc4ZDBjNzNjNGViOGY0MjQ0NzQ1ZGQ=",
+      "date": 1540339200000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 23/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTBkZWMwODIxNjYwZWYxMzUyMzhlYzExYTAyMGI4YWI=",
+      "date": 1571270400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (JUNTADA COMPROVANTE DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "YTBmMzMxMDk5ZGVmMWNlM2M4ZTRhNTdlZTM4YjAyYTM=",
+      "date": 1568678400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDNlNTA1M2JjOWYyZWE4NTNjZjgyYzJmOGRkOTBlZjU=",
+      "date": 1542931200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTFhYjM3MDQyODM3NzkxZjYwZDZmMDc2ZDg5ZWJhZTc=",
+      "date": 1537747200000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDIxMDA4YmNmZjBjMmQ4Y2Y4ZWQ1NGIxOTFlNzc5NGM=",
+      "date": 1558310400000,
+      "text": "TST - Termo de Distribui\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJjZGQwOGZhYmYyNjcwN2EwNWFjYWVjNDgxNzQ4MGQ=",
+      "date": 1571788800000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A. em 22/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzczZWExYjhiN2Y2ZDc1MTRmZjExOGI3OTFlMjc2Y2Q=",
+      "date": 1570665600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "ZjZkYjA2ZGM4MTAzMTJjYTJkOTAyNWJhMTEzNzdiZWY=",
+      "date": 1558137600000,
+      "text": "TST - Termo de Autua\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ3ZGQ5NzU1ZmRjNWRiY2IwZjVkNDdhZGM5MDhkZmU=",
+      "date": 1568678400000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 16/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZjY4ODI3ODEyNTg1N2QxZDgzM2YwNjA0NThhNTc0ZGM=",
+      "date": 1566950400000,
+      "text": "Conclusos os autos para despacho a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "MDI5OWJkOTE4MmRiOTRiYWEwNGIwNTIwMjQ3ZjQxYmY=",
+      "date": 1567123200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NGI5YWMyNjA5ZmEzMTkwNmM4Yjg5MjJlZmM2YjZhYjA=",
+      "date": 1540339200000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 23/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2RjZGZhOTdmYzE2NDQ4Njk1MzViZjgzYTRlYTE0YzA=",
+      "date": 1569888000000,
+      "text": "Desist\u00eancia de impugna\u00e7\u00e3o e concord\u00e2ncia com c\u00e1lculos da reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWZmNjdkNGE1ZWU2NDY5N2E0MjUwMGY1MTM3MzE1MWM=",
+      "date": 1543536000000,
+      "text": "04. Procura\u00e7\u00e3o Nexa - 11.2018 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTFhNTgyZTg3YjBhMGNhMDkwMzU1MDQ0MmY1YzQ2NWM=",
+      "date": 1569974400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZmNDA0MTAwYzI5NjU5OTU2MmFiNjQyZjMwMGZhNDA=",
+      "date": 1568678400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWE1Y2IwODM0NzQ1YmZiZWQ4NDAzZjA1MGE4NzFkZjk=",
+      "date": 1539043200000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 300.00",
+      "attachments": []
+    },
+    {
+      "id": "ZjU2NDM3MGE2ZWE2NDM0Y2ZiNDI1YmIwMjg5YmJkZmE=",
+      "date": 1541462400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NGUzNjY3N2M1N2VkODFlNGRjNmVkZWI1OGNkYWIyMGQ=",
+      "date": 1538352000000,
+      "text": "Contesta\u00e7\u00e3o Votorantim | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI4YTZjNjg5MDBlZDUyNTdlMjdjYzczNTEyNzY0NTE=",
+      "date": 1537401600000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDQ3YmQ5ZmZkZTQ0M2NhOTg1MzdkMjFlYWU1NGY2YzE=",
+      "date": 1564704000000,
+      "text": "TST - Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NDM5MjhmMjliZGM0YmU1NDhjZTNiNDhmZGE2MDU4ZWM=",
+      "date": 1565740800000,
+      "text": "TST - Termo de Remessa ao TRT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2QzYWIzMjQ0OGMyNTQ0NTY5YmQ3YzA0ZjY2OWQ1ZWM=",
+      "date": 1541376000000,
+      "text": "Conclusos os autos para despacho a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "YTdiOTBlMjczOWMxZTlmNzEwMzZmY2E5ZWM1YmQ2ZDM=",
+      "date": 1571011200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OWFiMjM5NDExYTVhODBhM2Y5NmYzZDRlNDE5Zjk5NjA=",
+      "date": 1571875200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YzMxMzUxMGE5MThhMTRhZGNlNWU5YzJkMDQzMzU1OWY=",
+      "date": 1569974400000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 01/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWM2YjIzMmYzZTBhNTdkNWQ4MDZmMmQwYzI0MGQ1Nzg=",
+      "date": 1557100800000,
+      "text": "Certid\u00e3o de Remessa | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDEyNDRjNTNhNWI2MmNjZjExZDQ2OWUwY2IxNDNiMGI=",
+      "date": 1539043200000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a SERGIO PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "MjY3Zjc1MjYxNmI4OGMyODI1ZDc5ZDZmYjYwMTA3MmM=",
+      "date": 1538092800000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY4MTQ5YWQ3NTM1OGY5NWMyZGIwZjk1MTM0NGY2NTg=",
+      "date": 1564704000000,
+      "text": "TST - Certid\u00e3o de Divulga\u00e7\u00e3o/Publica\u00e7\u00e3o de Despacho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU2ODQxNzdiY2I0ZjBhN2E1ODI5MmI4MDczZDAxNjk=",
+      "date": 1538092800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzVjNGE1MTc0ZTI1OGY5NGYxZWI1OTNkMjJjZmI5MDk=",
+      "date": 1569888000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Desist\u00eancia de impugna\u00e7\u00e3o e concord\u00e2ncia com c\u00e1lculos da reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "NTMxMTY2MWZiZjI2NGI1OGQ5NzQ2ZDJhZDgwYTFhM2I=",
+      "date": 1537401600000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjRhOTcyZTYzYzA3ZmJiMGNlNDVjNTZhMzc5MjY4OTc=",
+      "date": 1543276800000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 26/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDUxYzI3YzEyMGFiZWY2MGRjOWVjY2YzMWU5YjMyMjQ=",
+      "date": 1542672000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "OWRjYzBmNGExZTg3OWMyNDg3Y2Y0M2Y4N2JmMDJjMDE=",
+      "date": 1542844800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM1MGQ3OGQwNzhhOTRhZTM5OTI0NjRlZjE2MTI4ZTM=",
+      "date": 1540425600000,
+      "text": "Dep\u00f3sito Judicial Trabalhista | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjAzODEyZGZjMzAxYTFhYjJkYzAzY2NmZDFiMmVhYWI=",
+      "date": 1538092800000,
+      "text": "01. Atos constitutivos e procura\u00e7\u00e3o - Votorantim | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzljYTkzZTQ4ZDlhMGY3MWMwMGMyYTU0NWQxZTJmNWQ=",
+      "date": 1543536000000,
+      "text": "03. AGE - Altera\u00e7\u00e3o do Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTFkYjQyMzM5NzViNTcwNGQ2NzIwZDJkNjg5ODliM2E=",
+      "date": 1568678400000,
+      "text": "Conclusos os autos para despacho a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "MDNiOGU4NWQ5MmNlZjEzNzVmNjdlODJjZWNhZWVlYzI=",
+      "date": 1537401600000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWJmNjYwNmZlZjM0N2EwM2FjODEzNGIyZDFhOWQzZjQ=",
+      "date": 1569888000000,
+      "text": "Planilha de C\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjRjMWY4Mjc3MzRjMTJjNDNjNzU1YWE1YTVlMzcxNzE=",
+      "date": 1542758400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "ZjJiNDg4NWNlNjExNTE5YzcwNDhkOGRlNGM0MzdjNjg=",
+      "date": 1537401600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmY1ZTBhYjIyOTkyNjUxY2ViYmEwNTI3NWVjYmRmZWM=",
+      "date": 1567209600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZTFhMmVlZTU4MjIxMDkzYzJlNmNiZTE5ZmZlZDBhNDE=",
+      "date": 1570492800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZmE0NTMwOTI5YmIxMjk2ZGJmMDNlNjVjYjFmM2EzOWQ=",
+      "date": 1539216000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWUyZGViNjdmMTliY2VkYTZlZjA2ZmU0MGUyZjdmNTQ=",
+      "date": 1542844800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTJkMzBlYWM3Y2Y3ZDVmZWFkNzk5MmVmNDAxYTkyMDk=",
+      "date": 1571097600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTdmMGY5NDk0MGU4MmVmNmQ1MjZlNjkwOGZkYWNjMTU=",
+      "date": 1538352000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTY0ODgzN2I5ZDQzMTc3NzNiMjZkOTA0MjFjOWVjMzY=",
+      "date": 1566950400000,
+      "text": "Iniciada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YmE2MDBjZGFiN2E3ZDlkZDFhOWQ3Y2M4ZTFhNTdlMDg=",
+      "date": 1568592000000,
+      "text": "01. C\u00e1lculos - Sergio | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2NiNTdhNjRmMGZkZTZmYTI1MGFjOWY4MzNkMTBhODE=",
+      "date": 1566864000000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NzYxYTQwNjFlZTM2YjVhZGQxNTE5NzllODJmYzllODY=",
+      "date": 1538352000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzYzYTYxMTkxNGUyNGI1M2YxZjVmZTQyODNmZDI3MWY=",
+      "date": 1542758400000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODU3ZjIxODMyY2ZkNjNkNGU4ZDdlNWIzNzRmNmU5YjA=",
+      "date": 1571875200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODQ4MTg0ZDQ4ZTNhYmQ1ZjM5ODQxMzQzYTJlNTMxNWU=",
+      "date": 1541548800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZThiMmQzYzUwODhkYWJlZjY1NDAwOWI2ZDUxZGY3ZTg=",
+      "date": 1558310400000,
+      "text": "Capa de Processo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZmZDFmYWEyNWQ3MmFlYmNlNjkyYjc1ZDk2MDRlMzI=",
+      "date": 1570665600000,
+      "text": "MANIFESTA\u00c7\u00c3O DEP\u00d3SITO NEXA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDYwNDYwYjU4NjZiODg4ZDg3Mzk0NzY3YjZmZWRjMDE=",
+      "date": 1539043200000,
+      "text": "Julgado(s) procedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125)/ ) de SERGIO PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "ODZmNGJlMTE4ZGFlYjE3ZjQ1ZWY5ODE4NzMwMDEyOWY=",
+      "date": 1567123200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY5ODI3ZjliNjdjMTFjYzZlYTJjYWExMzU2ZjdhMzA=",
+      "date": 1538352000000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmJiODRkNGJiYTgyYjRiMzYwMGY1YzZjNWI3OTkyYTM=",
+      "date": 1538352000000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjU2ZGUxYTcwZjkwMGE0ZjczYjE1OWVhMWE1ZWIxNTI=",
+      "date": 1569888000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o aos da reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "ODgwMDZkZDBjYWUzNTFiN2UwZTI3MDcyMWM5MTVmZDM=",
+      "date": 1541376000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MWVlODc0NjIwYWQ3ZjFjMDllOTc0ZjU0M2M3ODlhNDM=",
+      "date": 1539043200000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDk2MTRiMGUwZDY3NWE2MWJjNWE0ODUzM2UwMThjYzE=",
+      "date": 1571270400000,
+      "text": "01. Guia e comprovante de pgto - Sergio | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDZkOWI3Mzg3MzMzYzdlY2EwMDg1ZGUwMTY0OTNhMzA=",
+      "date": 1537401600000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (02/10/2018 10:30 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "YjZmMGRiOTM0NDY1ZmM5YWIzNjJmODc1ODU3ODYxNzA=",
+      "date": 1542844800000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NTNhOTYwZWM4NWMyYjRjNzVjYThiNzI2NzhmNTMxMTI=",
+      "date": 1542931200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "Y2RjZmMyMmYyYTRkMTkzZDJlNzVhNDY2OWE3NDRkMmQ=",
+      "date": 1538092800000,
+      "text": "02. Substabelecimentos - Votorantim | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDE3N2RmZDhiYjNkOGEyZGU2NjVkZTEzMTI3MDZlMjU=",
+      "date": 1567209600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDI5NjViNTRjODViMTExNjQ3ZDZjNzFhODczY2VhY2M=",
+      "date": 1537747200000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjE5MjJjMWM4M2UxNmY0NzU2NDAxZmNiODBkYzA1YTQ=",
+      "date": 1566950400000,
+      "text": "Transitado em julgado em 16/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWZiY2MwZGE0YTlmMGE2OWE3MjhlNjM3MTVkNzIwMWQ=",
+      "date": 1540252800000,
+      "text": "RECURSO ORDINARIO VOTORANTIM | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc1Njg4M2E5ZmNlNjNkYzllM2M4MzY0MjFiYzcwMjg=",
+      "date": 1569974400000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODZiZWEzMTY2NzAwZGQ0N2EwOWQxYzhlNjg1OWFjY2I=",
+      "date": 1571011200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzY4MDkwZDJhMWFmNWU0NzVhOGE2OGQzOGY5ZmQ2ZTI=",
+      "date": 1571875200000,
+      "text": "Conclusos os autos para despacho a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "MjdlODliZDNiNThmZjE4NmE0NzQ2ODFjZjRjM2Y1ZTM=",
+      "date": 1568592000000,
+      "text": "APRESENTA\u00c7\u00c3O C\u00c1LCULOS NEXA | Apresenta\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBkZTVkNjI1NTdmYzBlMzhkOGU5YTEzZjVjYjNkOWU=",
+      "date": 1538352000000,
+      "text": "Habilita\u00e7\u00e3o em processo Votorantim | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGNlMjMxMzIwMGQ3YmI5ODFmNWNjMzM3YWRiMzA2MjI=",
+      "date": 1555027200000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ1Yzg5ZDUzNmNlODczYWUzMzNhN2VmNWYwODhiOTY=",
+      "date": 1572912000000,
+      "text": "Comprovante de Dep\u00f3sito Judicial | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjVlMTkzNWM1NmZmMGI5ZjZhNWJkMDdhY2M5NTk0Mjg=",
+      "date": 1541376000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjUzYjk3NWRiMGUwYTJiYjQxOTk2YjRmNjY5MjZkODk=",
+      "date": 1570492800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTQ2OWM5OGQyOWU5MGM2MDQ2YzQxYmQ5NjE3ZGJjOWI=",
+      "date": 1538438400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "OGU4ZDdjZTgxYTdkMTY2ODU2NmFjMzAyYTYwYTJiZGM=",
+      "date": 1538352000000,
+      "text": "Acordo Coletivo de Trabalho (ACT) | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhhYTk2YTVkYWQ4Yzk5ZWY4MmY2YjM1NDE3NWQ0YmE=",
+      "date": 1541548800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "YmRhZWZkN2M0NmQ4ZjU3ODdiYmMyMGJiODNhMDg3NDc=",
+      "date": 1548979200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmE5OWRmNDk2ZWVjNDdhNTllNzdiNjI5YWRmMWFmMmQ=",
+      "date": 1538352000000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg2NDg0ZDdmODU5MzYzMzkyODNhMWVjZjEyY2QwNGM=",
+      "date": 1537401600000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZjZjQ3MjViNzVmYjRhN2VlOTI3ZGZkNWQyY2M3YTM=",
+      "date": 1553212800000,
+      "text": "AGRAVO DE INSTRUMENTO NEXA | Agravo de Instrumento em Recurso de Revista (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU0MTdmMDM0ZWE3YTE4MTlkMzI0MWMzNTFmMzU5NTQ=",
+      "date": 1570752000000,
+      "text": "Conclusos os autos para despacho a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "ZDA5Nzg2NTMyZTgyZjkwNWMwY2E3MzJmMDRkNTYzY2Y=",
+      "date": 1551139200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZTc5Mzc0NmE1OGVhODk1ZWUyZTY3NThiOWFkNDVmOWE=",
+      "date": 1550188800000,
+      "text": "GUIA DEP\u00d3SITO RECURSAL RR - SERGIO PEREIRA DE OLIVEIRA X NEXA | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQxMWNjZjI4NDk5MzEyNTk4MmFjMmNjNTk1MjdkYTA=",
+      "date": 1565740800000,
+      "text": "TST - Certid\u00e3o de Origem de Documento Eletr\u00f4nico | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjEwNDU5YjI4YTYzYzllY2MxMjAyNDYxMjgwODQ3Mjk=",
+      "date": 1570752000000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 10/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzM5ZTY1OWMxN2M5NTkwYTBiYzA1ZTQyNzVkYjRjNDY=",
+      "date": 1540425600000,
+      "text": "Comprovante de Dep\u00f3sito Judicial | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTM1YzgzZDRmMWY5NTMzOGE5Y2ZkNWU1MTVkMzRlYjU=",
+      "date": 1542672000000,
+      "text": "Resolu\u00e7\u00e3o Administrativo n 131 de 08-06-2017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njc5M2JhMWE1NGRhMWQxZDEwYmYzMzg1ZTA5NWRlMjU=",
+      "date": 1538438400000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) realizada (02/10/2018 10:30 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "YmRiNTljMGYyNWE1ZmZkMTJkOGUxYWQ4NDdhOGU2MDc=",
+      "date": 1569974400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzViZmM3MjAxNTk5MTdjYjIyYTdmMDI2NWRkNWViZTQ=",
+      "date": 1543536000000,
+      "text": "01. ELEI\u00c7\u00c3O DIRETORIA - VMZ | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjFlY2YyZWZmZDQwMmFjNjY3MjliZmM3MDAzMWY3ZTQ=",
+      "date": 1568678400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTAyMWI0YTAwZWY4MmIyOTI0ZjY5MmJhOWIxNjE0ZGY=",
+      "date": 1569888000000,
+      "text": "Impugna\u00e7\u00e3o aos da reclamada | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjI4YWFjYTlkZTlhMmNkNWQ4MGUxNTU1NGE1ZmRkMTg=",
+      "date": 1537401600000,
+      "text": "CNH | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzkyZDJjODk5MTAyYTdmMTBjNTgzYjcwMjM2MTUzOWI=",
+      "date": 1556841600000,
+      "text": "CONTRARRAZ\u00d5ES AO RECURSO DE REVISTA | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTgyNWMyMjU0NzhiYTg5NWU5ZjZmMjEzZWExZDlmYTA=",
+      "date": 1567123200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NDc0ZWU0ZjJlZTI2ZjM5MjczNzcyODFkOTAwM2IzMmI=",
+      "date": 1538352000000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID fa1f813 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmRkOGJkYTk5OTI2YWY0Mzg2MmFjMzE3NThhNDhmMjU=",
+      "date": 1571788800000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 22/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjM0OTUyYWZlMTIxN2QwMzA5MjA0Zjc4NmJjNDgwM2Q=",
+      "date": 1555027200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzRlYTNmMzk1ODQ1MTI2MzJlNmEzMWI1NDAxOTBjZjQ=",
+      "date": 1556841600000,
+      "text": "CONTRAMINUTA DE AGRAVO DE INSTRUMENTO | Contraminuta (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBkYzZiNjljZjBjMGNmMjlkNDNlOGVjZGI2ZjFmNTY=",
+      "date": 1542758400000,
+      "text": "Decorrido o prazo de SERGIO PEREIRA DE OLIVEIRA em 20/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTE2YmZjZjMzNWI3NTFiNTY3N2M5YWE0MDFlNzY1NzA=",
+      "date": 1543536000000,
+      "text": "05. Substabelecimento ASABHT. | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmE2NDUzYjJiNmNhNThjOGQ1YmJjZmVhNzc2ZjE3Nzg=",
+      "date": 1538352000000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzIwZmUyODIzZWNjNTk5ZTZhOGViY2RlN2JjOWQ4ZTU=",
+      "date": 1571270400000,
+      "text": "JUNTADA COMPROVANTE DEP\u00d3SITO NEXA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTdiNzAyOGNjODliNTVhMDE0ZGJmZmRmMjQ3MTA2Mjk=",
+      "date": 1537747200000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZTdjMDAwODMxYjAwNTc0NWM1Y2I2NGNjYjY0ZjQ4ZTI=",
+      "date": 1537747200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MWFjZWFlYTgzNjY2NWFhMDVjZWI3NTZjNjQwZWUwMzU=",
+      "date": 1569888000000,
+      "text": "Ac\u00f3rd\u00e3o Agravo de Peti\u00e7\u00e3o - Processo 0011548-96.2016.5.03.0084 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDY5YzhlY2Q4MTQ4YTFjMzdhMGQ3ZGM0MDkzYzQyNzU=",
+      "date": 1548892800000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MmQ2MmNjYTUyMmVjYzY5Y2IyNmRkMjAxYWI0YjdmYTA=",
+      "date": 1539043200000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NmExOTU3Nzg5YWIwZTlhYmMwNjhkOTcyMmNmMzNjMzY=",
+      "date": 1542672000000,
+      "text": "Calend\u00e1rio TRT3 - 2018 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZkNDNmNjQ5N2NiNjI4YTUzOGI4Y2E1Mzc2ZjJjMzU=",
+      "date": 1542758400000,
+      "text": "Conclusos os autos para despacho a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "NDQwNDYyZGE4MTdjNGVhYjY4OGE2MzVmZTE5Y2Y5Yzg=",
+      "date": 1543276800000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 26/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWNhYmQ5M2FjYzlkYzU2NTQyOTRmZTI3Y2RiZGM3Mzg=",
+      "date": 1540252800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZjAwZjU3NjI1Yjk1NmE3NmU1NzI3ZWNlNDczNzBjNDk=",
+      "date": 1543536000000,
+      "text": "JUNTADA DOCUMENTOS REPRESENTACAO PROCESSUAL NEXA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MThkNjEwZjNlNjE2MjkxZjRmZTYwZmMyNGUxYzdiNTM=",
+      "date": 1542672000000,
+      "text": "Contrarraz\u00f5es ao Recurso Ordin\u00e1rio | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ4NzEyODA0NGU3NWYzZWZhNDU4MTFjNzEzOTFiYWQ=",
+      "date": 1543536000000,
+      "text": "02. AGE - Altera\u00e7\u00e3o denomina\u00e7\u00e3o para NEXA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTg4YTVhNWJkZjJhOTc0MDVmYjBjMmU5MjY1NGRiZmE=",
+      "date": 1569974400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NTJmZWZlNDg3MDNiMjkyOGRkYmQxZDA0ZWIwZWFmOGQ=",
+      "date": 1552262400000,
+      "text": "Certid\u00e3o de publica\u00e7\u00e3o RR | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDc3OGUwZGRjYjc2OGRlOTM5ODkyYzkxMzMyNzg2OGY=",
+      "date": 1568851200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTYxZjIyMDJiYWM5NWJmM2Q3YzBhNGZjMmM4ODU2Y2M=",
+      "date": 1551139200000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU4Yjg4OGYzY2E5OWNlYjNmMTAyMTlmOTA0NTY3OTY=",
+      "date": 1571011200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDVkNjYyOWE5MzI4ZGQ3MTc0OGUyN2UzZDZlMTg4ZDc=",
+      "date": 1539216000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZDUxY2U0N2Q0ZGYzYzUxMDM4YTg1NWI5OGY1NWU5Nzc=",
+      "date": 1568678400000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A. em 16/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDBlNGMyNTJlNDgzMGI3NjUxZDYwMWZiNWJiYWY2YzE=",
+      "date": 1568592000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (APRESENTA\u00c7\u00c3O C\u00c1LCULOS NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NmE2NTdiMmNiNDIyMWM0MjNiMjRhMzk5MTQ5MGU1NGM=",
+      "date": 1572912000000,
+      "text": "Dep\u00f3sito Judicial Trabalhista | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTZiM2I3MjZkMGY2ZGU4ZjgxOGRhOGQ0OWE2MzZhODk=",
+      "date": 1540252800000,
+      "text": "Comprovante de Dep\u00f3sito RecursalGUIA DEP\u00d3SITO RECURSAL RO E GRU - SERGIO PEREIRA DE OLIVEIRA X VMZ | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTE3NmY3NWQ0MWYzZmMwNWRlMDMzYzA5Y2ZkNWZjMjk=",
+      "date": 1571097600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzgyNzVkNGRlNWQxZTAzMTBmMDYyM2Q0NmJlZjdkMTE=",
+      "date": 1538092800000,
+      "text": "03. carta de preposi\u00e7\u00e3o - Votorantim | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM0ZjdjZjUwMDdmNjYzMjliNjJlMGM1ZTBiZGU1MGE=",
+      "date": 1538438400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "N2ZiMGVmMzNmZTUwOTI5ZGVkYWVhYWQyODViMzVlZTY=",
+      "date": 1541376000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGQxOWQ2OTI0NmY4YTA4N2RkNDZmYWZiMTJkOTU2ODA=",
+      "date": 1568851200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NTQwNGUxNDBhNDMxZGM3ODE1YjI5MzcxNmZiYThhMjg=",
+      "date": 1537401600000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "ZTVhMGRmNTQ1NDU3YjU3NDk3MTk3MGNjOTYyY2JlMmU=",
+      "date": 1544572800000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "OTQ3NTZiNGU5YjEyOTc0ZmIzNmMxZTA1NDFiZTUxM2M=",
+      "date": 1538352000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MGQxNGIwOWJkZjA4YThjOTQ1MWQ2MTY4MGQxZGIyMjk=",
+      "date": 1570752000000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A. em 10/10/2019",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

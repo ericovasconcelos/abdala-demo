@@ -1,0 +1,187 @@
+{
+  "lawsuit": {
+    "id": "YmJmZjFkNjctYXV0b21hdGljOjE2MDQyODI0LTAwMTA5ODc1NzIwMTk1MDMwMDU1LWxhd3N1aXQ=",
+    "activityCount": 17,
+    "number": "0010987-57.2019.5.03.0055",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "Everton Cardoso Gomes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Fernanda Sali de Andrade Armond",
+            "cpf": "",
+            "lawyerId": "NTU3YTk1ZmYtYXV0b21hdGljOjE2MDQyODI0LTUwMzA4Y2JhMjA4NWU2OS1sYXd5ZXI="
+          },
+          {
+            "name": "Dra. Lilian da Silva",
+            "cpf": "",
+            "lawyerId": "ZWY2ZGE0OGYtYXV0b21hdGljOjE2MDQyODI0LThhOTk0ODQ3MDI5OGMzZS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "R 2 L Locacao e Comercio de Maquinas e Equipamentos Ltda. - ME",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Jo\u00e3o Batista Don\u00e9 Gomes",
+            "cpf": "",
+            "lawyerId": "MWZkYjE1MjUtYXV0b21hdGljOjE2MDQyODI0LWU2M2Y2MmRjZTVlN2EyMS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Gerdau A\u00e7ominas S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Leila Azevedo Sette",
+            "cpf": "",
+            "lawyerId": "NDk3ZDNjMjktYXV0b21hdGljOjE2MDQyODI0LTc1OTk4MzUzODJmNjFjNi1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MWQwN2Q2NGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jY2ZlM2NhN2Y1ZmMzNzktMTU5NDk1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594954800000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "ZTM1ZjdjYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNDE3ZmY0NWM2ZTZhNzUtMTU5NDk1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594954800000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjQwMzZkMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jM2MwN2IzMzNkNjA1YjEtMTU5NDk1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594954800000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "YTgyZWIzY2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNWYyN2Q1Njk2MjQxZWQtMTU5NDk1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594954800000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YWZlZjcyYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNTQ0N2YzYmQ3NGNkM2ItMTU5ODMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598324400000,
+      "text": "Peti\u00e7\u00e3o: 205102/2020 - Instrumento de Mandato",
+      "attachments": []
+    },
+    {
+      "id": "NWFhYjIxMTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNTQ0M2NjNDRmMDU1MzYtMTYwMjgxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1602817200000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "YjRhYzFiMDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDIwMGJlNDExZDg3NzctMTYwMjgxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1602817200000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTJkMmVjNDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01Yzg1YzQwNTgzNjVlYTctMTYwNDU0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1604545200000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Walmir Oliveira da Costa)",
+      "attachments": []
+    },
+    {
+      "id": "ODI3MDM3MWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MzI1YzZjMGFiYmE3ZGEtMTYwNDU0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1604545200000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro WOC - T1 em 05/11/2020",
+      "attachments": []
+    },
+    {
+      "id": "Y2RlODFlMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGQxMDYwNzQ4OWIyNjYtMTYwNDU0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1604545200000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ZjIwMTZkMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YzNhYmVkZmJiMGU1MmUtMTYwNjEwMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1606100400000,
+      "text": "Remetidos os Autos para Secretaria da 1\u00aa Turma por solicita\u00e7ao",
+      "attachments": []
+    },
+    {
+      "id": "MjA3YzA4OTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01Yzg1YzQwNTgzNjVlYTctMTYwNjE4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1606186800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Walmir Oliveira da Costa)",
+      "attachments": []
+    },
+    {
+      "id": "MjUyNTEwNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNGY0MDQyMDA5Y2EzNzgtMTYxMjQwNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1612407600000,
+      "text": "Remetidos os Autos para Secretaria da 1\u00aa Turma para publicar decis\u00e3o monocr\u00e1tica",
+      "attachments": []
+    },
+    {
+      "id": "N2QzMWQ2NzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTBmNDE3MDIzZjY3YTItMTYxMjc1MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1612753200000,
+      "text": "Negado seguimento ao recurso, por aus\u00eancia de transcend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZWQxMGQ4MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzNjMzNiYzE0ZmQ0YmEtMTYxMjgzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1612839600000,
+      "text": "Publicado despacho em 09/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZTUyZTZmM2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MDQ5OGViOTY5YjdkZjQtMTYxNTI1ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615258800000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "MDA4YTYwNTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODQ2Zjc0ZDI0MDI0NWEtMTYxNTI1ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615258800000,
+      "text": "Transitado em Julgado em 04/03/2021",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

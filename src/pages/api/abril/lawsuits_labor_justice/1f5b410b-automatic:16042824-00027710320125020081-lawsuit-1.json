@@ -1,0 +1,906 @@
+{
+  "lawsuit": {
+    "id": "MWY1YjQxMGItYXV0b21hdGljOjE2MDQyODI0LTAwMDI3NzEwMzIwMTI1MDIwMDgxLWxhd3N1aXQ=",
+    "activityCount": 131,
+    "number": "0002771-03.2012.5.02.0081",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Wesley Thiago Ceola",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Adilson Guerche",
+            "cpf": "212.775.588-09",
+            "lawyerId": "NWMwMmU0ZTItYXV0b21hdGljOjE2MDQyODI0LTBiMTYxZmJhNGQxZTk1ZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "BV Incorporacoes S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Bvpar - Administracao e Participacoes LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Residencial Bem Viver III - Biguacu SPE LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leandro da Silva Costa",
+            "cpf": "019.814.159-98",
+            "lawyerId": "YmNkYjdmMzYtYXV0b21hdGljOjE2MDQyODI0LWVhZDYzYjY5NDQzMzI5Zi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "TRB Comunicacao Integrada Ltda. - ME",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Viawork Servicos Temporarios LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Vidax Teleservicos S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Rafael Antonio da Silva",
+            "cpf": "217.459.548-64",
+            "lawyerId": "NWRmZWM2ZTUtYXV0b21hdGljOjE2MDQyODI0LTcxZjljZjM0NmZhNTQzOC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "81\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NDE5NjlkYjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNzM3ZjJhMGExZDhlOWYtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGVkMDg0MDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOTYxZDQ4YTMyMTVjZTAtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_001.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzdkZDU4OTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjkzMmU1YmUzNGRlMzItMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_002.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTJhOTJjZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YmI3YmQ3MmQwZTU5MjctMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_003.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDBiMGQxMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZTI4MmNkZDQyZGYyMjQtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_004.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGUzOGQzYTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYWUyYzE0YTQ3MmQ0Y2EtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_005.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDFkNTliZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZTNiOTNlNDg0ZGZkYWUtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_006.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmI5MTdmZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZjAzNTdmYzgyYjZlZjItMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_007.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY1NTY2NGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNzk2OGFhOTRhYmY1MTYtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "00027710320125020081_008.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjhiZWYxYTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOTEwMzM4OTAzOGQxOTgtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Ata_1854052.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI5MjEwZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZmZmMWQzNTdjYzgxZDItMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Ata_804435.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjk2NThlMzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOWMyZjAxYjc0OTlkNzEtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Senten\u00e7a_2306078.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGRjZGRiNGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNmIxNDE1NzdlMWQyMTAtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Senten\u00e7a_2496400.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY3MDZmNmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lODVmNTRmMGM3MDdmYjgtMTU3NTA4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575082800000,
+      "text": "Termo de Abertura de Execu\u00e7\u00e3o | Termo de Abertura de Execu\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTg0MGRkYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YjAzMmQwODNlZDMwYzgtMTU3NTUxNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575514800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Pedido de prosseguimento)",
+      "attachments": []
+    },
+    {
+      "id": "OWJkOTA1OWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMGYzMjU3YzM5Zjg2YjctMTU3NTUxNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575514800000,
+      "text": "Pedido de prosseguimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzg5NDliNGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jODRjOThmZDAyN2Q5MDctMTU3OTY2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579662000000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTk1ZWE3MTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNjFjZWUwZWRmNGYyYmUtMTU3OTY2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579662000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTkyM2ZjZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YzAzMmVjMjg3ODc0N2UtMTU3OTY2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579662000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDRhNzNkYTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMGZkNTUwNjI5NjJkMDAtMTU3OTY2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579662000000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a MARCELO DONIZETI BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "MzJiMDVmMGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzNhZjJlNGQzZDYwZjUtMTU3OTc0ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579748400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjNhM2E2ZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YzExNTMxYzFhYWYzMTMtMTU3OTc0ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579748400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "MmVkODM5ZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMWQwMjcxNDNkZWVjMWYtMTU4MDg3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580871600000,
+      "text": "Decorrido o prazo de VIDAX TELESERVICOS S.A. em 04/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZGZlYzFmNTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNGM3MGZjYTczZTc3OTctMTU4MDg3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580871600000,
+      "text": "Decorrido o prazo de WESLEY THIAGO CEOLA em 04/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "MDE1NzBiOGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDdjYTQ0N2Q3ZjIwNGMtMTU5MDk4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1590980400000,
+      "text": "Pesquisa CCS | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODEyYzdhYzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWI0YjkxODNhOGY4MDQtMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) WESLEY THIAGO CEOLA",
+      "attachments": []
+    },
+    {
+      "id": "MGFhNTdmNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODMyODE1Zjk4ZjJmYzctMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjZlMmU4MWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGFkMjIxMWQ2NzMwMzctMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OGNmMWNmNzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGY3OTM3NmIyOWRhMTgtMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTUyYzI4NzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MmU0N2I1YTJmMWQ5NGEtMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EDITE ALMEIDA VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "MGQ4ZWQwNjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYzY3YTc0ZTZiNDcyYjctMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "CCS 00027710320125020081 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjNmMWFhNTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MTY1NzNmODlhYjE0ZDUtMTU5MTY3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591671600000,
+      "text": "Resposta CCS | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWFkMmVlZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzNhZjJlNGQzZDYwZjUtMTU5MTg0NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591844400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGJhNWVhYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNGI0OTc2YWMxZDNmNjAtMTU5MTg0NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1591844400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NjNmZTIyNjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NmRiOWEyZTY2MTM4ZmItMTU5MjQ0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592449200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Pedido de retirada de sigilo de documento)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM5MjZlZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMDFlNWFjNjIxOWNhZDktMTU5MjQ0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592449200000,
+      "text": "Pedido de retirada de sigilo de documento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTVjMWI4N2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOGYxNDYyODc1ZmQ1YmUtMTU5MjUzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592535600000,
+      "text": "Decorrido o prazo de WESLEY THIAGO CEOLA em 18/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "MGMxMGRkNTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMmE3YWRiZTk5NjEyZDgtMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) VIDAX TELESERVICOS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NDQxNDBkMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWI0YjkxODNhOGY4MDQtMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) WESLEY THIAGO CEOLA",
+      "attachments": []
+    },
+    {
+      "id": "NmVmMjBlYjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODMyODE1Zjk4ZjJmYzctMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2NkOWNhNDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGFkMjIxMWQ2NzMwMzctMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjFkYzEzYjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGY3OTM3NmIyOWRhMTgtMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTY3MjRkMzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MmU0N2I1YTJmMWQ5NGEtMTU5NDM1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594350000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EDITE ALMEIDA VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "YWY2MDhlMWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzNhZjJlNGQzZDYwZjUtMTU5NDY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594695600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTNlMTlkMjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZmU2YmMwYWI5ODFiN2ItMTU5NDY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594695600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NjAwYTdhODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZmE0ZjFhMTM1ZDI4YjktMTU5NTIxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1595214000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ2OTljMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02N2IzMzljNmRlYzJmOTgtMTU5NTIxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1595214000000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZmNWYxZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YmNlYWNmOTk0NjRmZmItMTU5ODQ5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598497200000,
+      "text": "Decorrido o prazo de VIDAX TELESERVICOS S.A. em 26/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "NjU5MGQ4ODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjFjYTNmMTA3YzU2NWUtMTU5ODQ5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1598497200000,
+      "text": "Decorrido o prazo de WESLEY THIAGO CEOLA em 26/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "MmUxYjIzNTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWI0YjkxODNhOGY4MDQtMTYwMDEzODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600138800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) WESLEY THIAGO CEOLA",
+      "attachments": []
+    },
+    {
+      "id": "NzBkODk0ZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODMyODE1Zjk4ZjJmYzctMTYwMDEzODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600138800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjE0ZTk3ODItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGFkMjIxMWQ2NzMwMzctMTYwMDEzODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600138800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTA1N2ZjY2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGY3OTM3NmIyOWRhMTgtMTYwMDEzODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600138800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTRjZjQwMTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MmU0N2I1YTJmMWQ5NGEtMTYwMDEzODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600138800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EDITE ALMEIDA VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "MWIzZDJiYTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjhiODMzOGQ2NTk0YmEtMTYwMDMxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600311600000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MjM0MDMyZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjcwNDEwYzM1Y2M1YjQtMTYwMDMxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1600311600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 17/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "NzI0NTI2NDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNmY3YjIyYjgyZDY4N2ItMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Boavista - Aline de Mello | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZkYWM3NzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYjk1NTNiYzRlZTIxNzUtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Boavista - Andre de Mello | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWFhMmQ1ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NzZiOGU0MDZmMTBhZWEtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - BVpar | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGExNWM3ZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMjc3MDU5MjU0N2YxMmQtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - Bem viver incorpora\u00e7\u00f5es | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzkxMjJlNjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YjY1YzgyMTRhMTVjNDQtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - Bv Incorpora\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM1YzgyMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOGM4ZjE4YTU2NzJjNDMtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - Palmarium | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTFhMmI2MGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWI4ZDVlZDRiZGI1YmMtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "CCS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjBmNWZjZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZDI4M2I3ZDQzMGFjOTEtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - Bem Viver | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA2ZTIzNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZDMwZGM2M2NmMjU5MzYtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - SOS Sales | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY0MTVjYWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZmVkMWVjYmI4YWQ4ZDMtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - Viatelemarketing | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGJlYTdmZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MjZiNTZiNWY0MjAyOTctMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Jucesp - vendafone | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2Q0ZGJiZDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02N2IzMzljNmRlYzJmOTgtMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDBjNThmY2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZmE0ZjFhMTM1ZDI4YjktMTYwMTI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1601262000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "M2U3MDRmMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDgyNWQ2YmUxYjA4YjctMTYwMjIxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1602212400000,
+      "text": "Decorrido o prazo de WESLEY THIAGO CEOLA em 08/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "OTVkNmI0MDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MmU0N2I1YTJmMWQ5NGEtMTYxMzk2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1613962800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EDITE ALMEIDA VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "NTRmY2ZlZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMmE3YWRiZTk5NjEyZDgtMTYxNDA0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614049200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) VIDAX TELESERVICOS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "ODBiZTJmNzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWI0YjkxODNhOGY4MDQtMTYxNDA0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614049200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) WESLEY THIAGO CEOLA",
+      "attachments": []
+    },
+    {
+      "id": "ZTZmZGVkOTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODMyODE1Zjk4ZjJmYzctMTYxNDA0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614049200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYxZTI0YmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGFkMjIxMWQ2NzMwMzctMTYxNDA0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614049200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTc5NzhhZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGY3OTM3NmIyOWRhMTgtMTYxNDA0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614049200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MWUwN2NlMWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjhiODMzOGQ2NTk0YmEtMTYxNDEzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614135600000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmNkMjZjOGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMzgwOWFkYjAwOWJjMjctMTYxNDEzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614135600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 24/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ0ZDg0NGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjI5NGUwMDc2ZmU2M2ItMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "N2E1YmNmY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTFkMzRlMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MGNjNWI2MGFhY2RjNTYtMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NTAwOTI5ZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNmE0Zjg3YjIxZjE5OWQtMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Mandado | Mandado",
+      "attachments": []
+    },
+    {
+      "id": "MGZmOTIzODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MzRlMzI5MjlmZWM3MTEtMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Expedido(a) mandado a(o) TRB COMUNICACAO INTEGRADA LTDA. - ME",
+      "attachments": []
+    },
+    {
+      "id": "NmZkZDEyYTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yM2FjYzAyNTI0MDY5MmQtMTYxNTc3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615777200000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhjZGM4N2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODNhMjQ4NDA0ZTllOTQtMTYxNTg2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615863600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NDM0NmVkMTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNTg2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615863600000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZThlNTliNzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjU4MTYxOTE0ZmMyZGItMTYxNTg2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615863600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "ZmViYjEwMTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjI5NGUwMDc2ZmU2M2ItMTYxNTk1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615950000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "NjExZjhkMzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNTk1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1615950000000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2ZmOGQzMmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGRiNmJiODJmNTQ0ZjMtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Expedido(a) Carta Precat\u00f3ria Execut\u00f3ria a(o) RESIDENCIAL BEM VIVER III - BIGUACU SPE LTDA",
+      "attachments": []
+    },
+    {
+      "id": "MTc1YzY4YTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YmUzNWZhNDk4ODE2OWQtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Mandado | Carta Precat\u00f3ria Execut\u00f3ria (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRmYzhiNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODNhMjQ4NDA0ZTllOTQtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MmQxYzk3YjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFiMThiY2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MGNjNWI2MGFhY2RjNTYtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NmIwNGFmZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNmE0Zjg3YjIxZjE5OWQtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Mandado | Mandado",
+      "attachments": []
+    },
+    {
+      "id": "MjAyNTMyMjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYjdmMTc5OTU4NDUzNjAtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Expedido(a) mandado a(o) VIAWORK SERVICOS TEMPORARIOS LTDA.",
+      "attachments": []
+    },
+    {
+      "id": "MDhiMDBiZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yM2FjYzAyNTI0MDY5MmQtMTYxNjQ2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616468400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDcxYmUwOGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODNhMjQ4NDA0ZTllOTQtMTYxNjU1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616554800000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ3OGM3NzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNjU1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616554800000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWExYzc4MWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMWJkN2NkN2QxZTIxMGItMTYxNjcyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616727600000,
+      "text": "remessacpflorianopolis | Correspond\u00eancia Eletr\u00f4nica/E-mail (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDcxMTRmMjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjY5YzQzMDU3MWE5NDktMTYxNjk4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616986800000,
+      "text": "malote: informa\u00e7\u00e3o de cp distribu\u00edda | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTU5ODVhMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjI5NGUwMDc2ZmU2M2ItMTYxNzI0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617246000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "OTg2M2ZiMTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYxNzI0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617246000000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGIxNzIzMzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zODNjOTJkYjY0ZjgwODctMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "documento 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmM4MTVmZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYmMyYzU0NTg0MDNhYmEtMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "documento 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmUwMzUxNmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01M2IyOTE5NGZlMWQxNzAtMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "contrato de compra e venda terreno | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWI3N2MxNTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMTUzOGQzNjJkN2E4ODQtMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjAzMjhmYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGZkNDEyMzRmN2Y0NTUtMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (exce\u00e7ao de pre executividade )",
+      "attachments": []
+    },
+    {
+      "id": "OGI5ODczOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNmUxZTU0ZmZjODkzNWItMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "exce\u00e7ao de pre executividade | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmM5N2YyNjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZmE3NzU2NzZkODZiMjItMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmY1NDViNWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNjc0MTUyMjI5MzYyY2ItMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (habilita\u00e7ao)",
+      "attachments": []
+    },
+    {
+      "id": "ZjYyODFmNGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNTU5ZTMwZGNlNjc0NmMtMTYxNzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1617850800000,
+      "text": "habilita\u00e7ao | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzYxMGJiODAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MzBhMjdjZTY1NTlmMWEtMTYxOTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1619146800000,
+      "text": "malote: retorno de cp cumprida | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdiM2JmMjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MmU0N2I1YTJmMWQ5NGEtMTYyMDI3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620270000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a EDITE ALMEIDA VASCONCELOS",
+      "attachments": []
+    },
+    {
+      "id": "M2JjYzZjZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNDk4OWMxNDc3ZTQyY2YtMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) RESIDENCIAL BEM VIVER III - BIGUACU SPE LTDA",
+      "attachments": []
+    },
+    {
+      "id": "ZjcxOTgxZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMmE3YWRiZTk5NjEyZDgtMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) VIDAX TELESERVICOS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ0YWVkNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWI0YjkxODNhOGY4MDQtMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) WESLEY THIAGO CEOLA",
+      "attachments": []
+    },
+    {
+      "id": "ZGNiZjQ2NzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODMyODE1Zjk4ZjJmYzctMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWRkNmU3NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NGFkMjIxMWQ2NzMwMzctMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2M5ODNjMDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGY3OTM3NmIyOWRhMTgtMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDM2ZWI3MTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMDEwNzIwODA4NGI1NTgtMTYyMDQ0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620442800000,
+      "text": "malote: retorno de cp cumprida, completa | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRiOTFjYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjhiODMzOGQ2NTk0YmEtMTYyMDQ0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620442800000,
+      "text": "Disponibilizado\n(a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTJiNzdhOGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYWIxNjA3MTI5MDAzZGUtMTYyMDQ0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620442800000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 10/05/2021",
+      "attachments": []
+    },
+    {
+      "id": "YzY3MTZjY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZmUyYjUzOTAyZDgyMTMtMTYyMTMwNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1621306800000,
+      "text": "Decorrido o prazo de RESIDENCIAL BEM VIVER III - BIGUACU SPE LTDA em 17/05/2021",
+      "attachments": []
+    },
+    {
+      "id": "NWRiYTA1YzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MjUzNTM4MmVmZGI3OTMtMTYyMTMwNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1621306800000,
+      "text": "Decorrido o prazo de VIDAX TELESERVICOS S.A. em 17/05/2021",
+      "attachments": []
+    },
+    {
+      "id": "OGNjMjBiMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZjg2NDRjNzA5NGMxNTktMTYyMTMwNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1621306800000,
+      "text": "Decorrido o prazo de WESLEY THIAGO CEOLA em 17/05/2021",
+      "attachments": []
+    },
+    {
+      "id": "YjliMGNjMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODNhMjQ4NDA0ZTllOTQtMTYyMjQzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1622430000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade n\u00e3o atingida)",
+      "attachments": []
+    },
+    {
+      "id": "Y2EwODVjNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYyMjQzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1622430000000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzQ4MTQ3ZTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjU4MTYxOTE0ZmMyZGItMTYyMzEyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1623121200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "Y2MwYzE5YzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDJmYzc0YmVkODQ0YjAtMTYyMzEyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1623121200000,
+      "text": "Certid\u00e3o de Oficial de Justi\u00e7a | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWUxNGZkNDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NzhlMjM1YzI1MWViOWEtMTYyODMwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1628305200000,
+      "text": "Decorrido o prazo de TRB COMUNICACAO INTEGRADA LTDA. - ME em 06/08/2021",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,2269 @@
+{
+  "lawsuit": {
+    "id": "ZGI2YmU4MmEtYXV0b21hdGljOjAtMDAxMTY0NzQ3MjAxNTUwMzAwMzctbGF3c3VpdA==",
+    "activityCount": 359,
+    "number": "0011647-47.2015.5.03.0037",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Sind TR IND MET MC MT Elesd e FND RP de VEI AC de Jfora",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Gilziene de Oliveira Freitas",
+            "cpf": "956.665.167-87",
+            "lawyerId": "M2VmZjU1NTItYXV0b21hdGljOjAtYjkwNjYwYmJhNzJkZWM2LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Carlos Rafael Godinho Delgado",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Engie Brasil Servicos de Energia S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "David Goncalves de Andrade Silva",
+            "cpf": "610.994.226-04",
+            "lawyerId": "YzBmYzgxZTQtYXV0b21hdGljOjAtZTRkZDBjOTE5MTcyOGRlLWxhd3llcg=="
+          },
+          {
+            "name": "Daniel Rodrigues Martins",
+            "cpf": "970.812.056-15",
+            "lawyerId": "ZjNkOWVhZTMtYXV0b21hdGljOjAtY2IzYzg2ZGMxZjkwYWJkLWxhd3llcg=="
+          },
+          {
+            "name": "Lauriene do Nascimento",
+            "cpf": "105.939.356-59",
+            "lawyerId": "OTA0ZmRiMzEtYXV0b21hdGljOjAtMTU1NTAyOGNhODdjNzI4LWxhd3llcg=="
+          },
+          {
+            "name": "Andrea Julieta Silva",
+            "cpf": "518.923.676-53",
+            "lawyerId": "OWE0ZWUwMjctYXV0b21hdGljOjAtMzQ0OWM4YjhkYjcyMGZkLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Haroldo Luiz Siervi Felizardo",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Nexa Recursos Minerais S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1420120800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "3\u00aa Vara do Trabalho de Juiz de Fora",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ODU0NzkxNzhmNGMxOGY0ZDM2ZjdmMWFkYWQ0ZTJhNTg=",
+      "date": 1490140800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZGY5NDYyMjZhODQ4ODczOTkwMDRiODgwZTAxNjFkZGY=",
+      "date": 1492646400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTllNTQ0MGUzZWMzMTRhNGQyYTA0YjJhZDlkMzViNmQ=",
+      "date": 1464134400000,
+      "text": "Habilita\u00e7\u00e3o em processo em pdf | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWNjOTAzMmYyMDI5MDFiZDQ1ODRhOWRkMDRlMTY0ZGM=",
+      "date": 1471392000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTFlNzdjZTUxYWExMDkzOTVlMjJkOWQ5NjdlZGRkNGQ=",
+      "date": 1505174400000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "OGZjNmRhNDMxZjFjZDVkOGIzMmY2NzQ2YjA1OGYwZmM=",
+      "date": 1480982400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YzQzODYyMTMxOGU3NWQ3YzM0MTIxZjE0NDNhY2I5MGE=",
+      "date": 1464134400000,
+      "text": "Treinamento EPI OUT. 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDBiZmRiNGJiMWRhNTE4OGExYzFlOTQxMTNlYWFhMTI=",
+      "date": 1489708800000,
+      "text": "Pedido de dila\u00e7\u00e3o de prazo | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmUxNTdhYzRlNzRjODc2ZGQ5NmE1MTZlNzY0OTkwNjU=",
+      "date": 1466380800000,
+      "text": "Apresenta\u00e7\u00e3o de documentos e honor\u00e1rios pr\u00e9vios | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDc0M2Y1MTZkZmEwMTY0OTQ5OWRiNzg2NWIxYmI1YWE=",
+      "date": 1496707200000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 05/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWI5M2ExZTg2NmE4ODcwMmY0OGQyOWE4ODZjMzYzYzg=",
+      "date": 1466726400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmY0M2Y0MTg3MTUxZjQ3MTI4NzMyYzFlNDQwMTljZjY=",
+      "date": 1495411200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTg3MGUxYmUyN2M1YjAzZGQ5ZTQxYzA3YmM4N2EwMGU=",
+      "date": 1495411200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODUyZTVhZWJmYzM5ZWRiY2Q3MmE4M2MwMmU0ZDlkZWI=",
+      "date": 1468195200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Y5MGFmNTJiOWJiODNlODcxMDg1MTk5NTRiOWI2YjY=",
+      "date": 1476316800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MzJjNGY1Y2FmMmMxMjVmY2I4YTQzMThjMzUwMjI3NWE=",
+      "date": 1470700800000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 08/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzA1YjZkNjBiYzJiODNjMmY0YTkwMzAzNjAxOTU5Zjg=",
+      "date": 1465948800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVlNTk4ZmNhOGU3MjFhMDc0NjU3MWE3MTI4N2JhYjg=",
+      "date": 1503360000000,
+      "text": "Decorrido o prazo de ENGIE BRASIL SERVICOS DE ENERGIA S.A. em 21/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjM1MWZkYTFiZjZlNGUwZDViNzkzZTFlZjk2MDMwYTQ=",
+      "date": 1464566400000,
+      "text": "002 Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQyMzZkMjgzZGMxMmJmOGI0MWMxYzQwYWI0ZjhjYjk=",
+      "date": 1464134400000,
+      "text": "altera\u00e7\u00e3o contrato social 1 | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhlZDVlYTJlNTQ1ZDA4ZGE4ZGVjNjZiYjg4YjgzN2Q=",
+      "date": 1464134400000,
+      "text": "ficha de registro Adonias | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGM4MDUyYzJkZDgwZDdjODU3MzllMjVmNDAyZmJiZmU=",
+      "date": 1471478400000,
+      "text": "peti\u00e7\u00e3o em pdf | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTkxMjAwYjNhZmU0ZjQyNTUzZTczZGRiYmMxODZjM2E=",
+      "date": 1472774400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "YjJhODliNTFkY2QwYzdmMGQ0YmQzMTdlNzg1YWU2MGE=",
+      "date": 1518048000000,
+      "text": "ato ordinat\u00f3rio | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWZjNzMyYzczODc0MThkMzQwMjc4NzYwYWQ5Njg1NjI=",
+      "date": 1464307200000,
+      "text": "002 Atos constitutivos (parte 2) | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGYzZTY1NzQ2NGI5MmU4YTZhZTViYWU1NTUyNWU2MzE=",
+      "date": 1480896000000,
+      "text": "Conclusos os autos para despacho a MARTHA HALFELD FURTADO DE MENDONCA SCHMIDT",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ4NjFmMmMzOWM5OTgzNzg4YTM5NDE5ZDNiMWNiYjA=",
+      "date": 1521590400000,
+      "text": "Peti\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ0NjQyZDY1MjQ0MDFkYmZhYWRmMDdmNWU0YzdkZTE=",
+      "date": 1464134400000,
+      "text": "Ficha de Registro Jo\u00e3o Gomes | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzcxMWVkNjM0MTk3ZTRlN2IwYThlNmU4NGYwNmY3ZjA=",
+      "date": 1478476800000,
+      "text": "Juntada laudo assistente t\u00e9cnico | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmE4NjQ4MzEzYWE2N2ExZGIyZTlmMzgwYWZmNDgwZGE=",
+      "date": 1464134400000,
+      "text": "Recibo pagamento Adnoias 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzgxZDQyODVmNTI1ZjMwZmQ1ZDVkODBiZGRlYzZmNzU=",
+      "date": 1451520000000,
+      "text": "Audi\u00eancia inicial designada (30/05/2016 14:40 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "N2Y4OWFlMzY3NDg2YTQ1M2FlYzM4YmZhOGMxY2E0MTE=",
+      "date": 1495411200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmUzN2FhM2EyMjYzY2IxZjM3OTFkOTNjNzJjM2Q0YWI=",
+      "date": 1464134400000,
+      "text": "Ficha de Registro Luciano | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjUxMzgxYzNkYjNmNDIwNTlkZDQzMTI3OGRkNGNkMWM=",
+      "date": 1491868800000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 10/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODRiYmYyOTVmYzFmMmVmNWM3NTVkMGI0MTdkOWNlMWY=",
+      "date": 1475452800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MTI4N2Y2Zjc3MDRhMTM4NDlkMTI5OTkyNTMzOWY3YWQ=",
+      "date": 1471910400000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 22/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzAyMTMwNjc5MWIwNmJkNjBmNjgxMmFmZWE1MDkwY2M=",
+      "date": 1504569600000,
+      "text": "Ato Ordinat\u00f3rio | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ1MjgwZTgxOTNjNjMzZDgwODQ4YjAwNDVhNjk4Mjk=",
+      "date": 1495843200000,
+      "text": "Decorrido o prazo de DANIEL RODRIGUES MARTINS em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzM5NTAxMGMyMTUxZjU2MGFlMTk2MWVmZmY5ZTExMGQ=",
+      "date": 1472428800000,
+      "text": "Conclusos os autos para despacho a MARTHA HALFELD FURTADO DE MENDONCA SCHMIDT",
+      "attachments": []
+    },
+    {
+      "id": "YjJiMmQ2NDI1MmE2MDJiOWQyYmYxOGE1YzZiYWFhYWQ=",
+      "date": 1495843200000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDE1Y2MzODU4ODBkZDlmMjRhMzUwNjVkNGIxMDhmMTU=",
+      "date": 1488931200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGQzMTI4NTIwMjdlZjViZTVlM2E0NGFkYmZjYmY5M2Q=",
+      "date": 1481673600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWFhOTU5MWFhNzcwODMzYWM5YTQ3MDQxOWRhZjBiZDA=",
+      "date": 1496016000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzU3N2RjZDg4ODkxNjgyZDVjZDhlOGI1ZTU3ODc2Zjk=",
+      "date": 1518739200000,
+      "text": "PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ3ODI4NDlkNDI5MDIwY2NkZTA1NGVmMmE2YzkzMmU=",
+      "date": 1471910400000,
+      "text": "Decorrido o prazo de EMAC ENGENHARIA DE MANUTENCAO S/A em 22/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YmM2NWY1ZWExZDdiMWZlMzNjODE3NGNhMTNmODFjODI=",
+      "date": 1492646400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDM5MmZkODJkOWNjYjQ0OTJmM2JlODU1Mjk1NWUxMDk=",
+      "date": 1496707200000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 05/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZGQxY2EwYWEzYjUwMThiYWJiZTE5MWJiYTI0MzRmMTQ=",
+      "date": 1497312000000,
+      "text": "Decorrido o prazo de ANDREA JULIETA SILVA em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ3OGI5NWRjYzg3ZDY5NjI0NDkwMTZhOTdjMWFmNjg=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Cheney 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhhZjBiZWYxMGY1ZDk3MDg1YjIzZmZhN2RlMTFjMzE=",
+      "date": 1492387200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWQ0YjlmODEwMTkxODk0N2JiYTdiOTA1ZWNjOTVmNjE=",
+      "date": 1502150400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODk0MjUzYmVhMGJjNjFjMTM0MGJlYmJjMjJiZTg5ZWQ=",
+      "date": 1464566400000,
+      "text": "004 - Contribui\u00e7\u00e3o sindical (Belo Horizonte) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzRjMzBlM2VhYjA0ZWQ5MTQxNmU1NThiYWY2M2JmNDA=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2UwZDQwMzljNDYzNDM4MTI1OTZjZGRlZjQ5NWEwNjM=",
+      "date": 1476748800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "OWZkOGU3MDg1Zjg1NDEzMTZlYzU1ZWIxYmJhMTQxMTY=",
+      "date": 1467158400000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M5MWRjMWIxMDJlZjM3YzYxNzg4NGYwMjU4ZTAyNGU=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Jose Leonardo 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDc0YjAyNjdiN2NlZDJiZDA0NTEzYmYyZTk1ZWRhMzE=",
+      "date": 1496361600000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmRhYWI3MThkZDdhODJkZGQyNTYwOWQ2MzJhMjFjN2Y=",
+      "date": 1464134400000,
+      "text": "Ordem de Servi\u00e7o Jos\u00e9 Leonardo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTg3MzVkMjQ2YjhmMGQ5YTVkOWE4Y2RiOGIwNzg1NTU=",
+      "date": 1495411200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2VhYWM0Mjc3ZDQ1YTY0ZWQ2ZTlhNTdmYWUyZTBkNzA=",
+      "date": 1451520000000,
+      "text": "PETI\u00c7\u00c3O INICIAL STIM X EMAC + VMZ | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmJkMmQzNzhjODAxNTk5MzUyYmIyYTM1Y2E5Mjk3NDk=",
+      "date": 1502150400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTA5MzhiNzg1NzdmNTAwYjlmODQ1MGQzZGMxOTczMGQ=",
+      "date": 1464134400000,
+      "text": "procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQxMGNjMjk0MzEwYzc3ZmY1NDY0MmMyMjdjYzBlZjk=",
+      "date": 1476230400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Mjc3MjJlYWM0MDU4MWQ1ZWEzNmExNmFmZGIxMzIzZTM=",
+      "date": 1451520000000,
+      "text": "CCT - Setembro 2010-2011 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDljYThjZjZlOTVkMTU3YjQ5M2ZmNjViYmI5NzQxMTc=",
+      "date": 1468195200000,
+      "text": "Requerimento | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdiZjY2NzQyODYzNzA1NzI2MzRhODNiNjY1ZDc4YzI=",
+      "date": 1501027200000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGY5ZWIzY2I5ZWMyNzY5MWUzM2RjZmQxZmYwNjQ1NmU=",
+      "date": 1473638400000,
+      "text": "Conclusos os autos para despacho a ANA LUIZA FISCHER TEIXEIRA DE SOUZA",
+      "attachments": []
+    },
+    {
+      "id": "NTQ2Y2MxN2Y5ZWUyNjRjZTM1Mjk1YjMwNmRmZTU4OTA=",
+      "date": 1490572800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzZkMTJkOGQzYWE0ODc3NmRmOWZlYzVjYWIyNWM4MDc=",
+      "date": 1500422400000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 18/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzZjNzA5NjQ4NjE0NjlmMGQyMjYzOWI1YzQ1Y2YyNmM=",
+      "date": 1490745600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmU1NjFhZWNjOTc1YTZmNWM4MDQzZTQ3Njk0MTI2YzQ=",
+      "date": 1490313600000,
+      "text": "Impugna\u00e7\u00e3o laudo pericial sindicato Juiz de Fora | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njk5YjFjNDgxMTcyODg2MWFlMTVkZTI2ZjY5ZTZlODM=",
+      "date": 1492560000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZDIzODEzMTQ5NWM4M2ZlMmQ1ZmQ4MDA0MDg3MmY4NGE=",
+      "date": 1488931200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjViZjg4ZDAyOTQxYjE4ZDViZmUyMGM4NDg5ZTZhYmY=",
+      "date": 1490832000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWZlZjVlN2VlNzgzNjllZmEzMDQwZWVkYjU4OGU5ZmQ=",
+      "date": 1470700800000,
+      "text": "Decorrido o prazo de EMAC ENGENHARIA DE MANUTENCAO S/A em 08/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTIwMzcwOTBlYzQzMmU4ZDlmZjFiODk4NjEzYWU3MGI=",
+      "date": 1493769600000,
+      "text": "Decorrido o prazo de CARLOS RAFAEL GODINHO DELGADO em 02/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDhlZDEwNjlmMjNlOTMzNGM5YTlhNWE3NjUxZjNlZWY=",
+      "date": 1464134400000,
+      "text": "LTCAT 2013 2014 PARTE 1\u00aa | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2YwYTkxMGRkN2ViNGNmY2UxNTM3MDcxMmI2ZjM2NjU=",
+      "date": 1500336000000,
+      "text": "Guias GRU e Recursal pagas | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDVmNTA3ZTk1NjYwYWQ2NDcxOTU1NGE2NTdmYzdjZjk=",
+      "date": 1464134400000,
+      "text": "Treinamento EPI 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg0MTZhNzE4ZTkyNDUxZjViNTAxNDgzNTIxNmM1NTA=",
+      "date": 1496102400000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 29/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MGZhZjc0YjZhNDQyNWMyNjYwZTQxZjcwOWM5ZmEzMjU=",
+      "date": 1490313600000,
+      "text": "manifesta\u00e7\u00e3o em pdf | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg4MGMyZGM4ODc2NTY1Y2M2ODcxMWQ0Y2RlOGM2ZTM=",
+      "date": 1475020800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDdjZTI5MWU3MmYxZTlmZjM5YzJkYWI5N2Y0Njc2ODM=",
+      "date": 1495756800000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "ZThmOGIxNTRkZGE5ZWM1NzlhNTQ2Yzc1ZmY2OGNhN2I=",
+      "date": 1478476800000,
+      "text": "Laudo assistente t\u00e9cnico VMZ | Laudo - Assistente t\u00e9cnico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGVlNGY0NWE3OTQ0MzY1NTg4NTAxZjMwNGUzMGQ5YTQ=",
+      "date": 1477353600000,
+      "text": "Decorrido o prazo de CARLOS RAFAEL GODINHO DELGADO em 24/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGE2ZDYwNjY0MWExOGIzMzBiM2RlMDA3NDZiZjZmMTE=",
+      "date": 1476921600000,
+      "text": "GUIA CEF | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY2ODU1MTRkMTRhNTMxMzhhODI4MjczM2U3NmYxYTA=",
+      "date": 1500336000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWEyODNiNGE5NDRiMTg0MTNlMWFmOWEyMDk3ZWJiMjY=",
+      "date": 1451952000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MjM0MGRhMDBhNDlhNWVhNDBlZmY0N2RiZGFlMTM5NGU=",
+      "date": 1464134400000,
+      "text": "altera\u00e7\u00e3o contrato social 2 | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2RkMzgwMmQ4ZjAwMTkzZjRmMzgwZGJlMDg3YWRkNjk=",
+      "date": 1493856000000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "ZDBlNDdmYTk4Zjk4NGJiODkzOTM4MWUwMjNjNTk3M2I=",
+      "date": 1464566400000,
+      "text": "002 - Contrato EMAC | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWU0N2ViYTlkMTVhOGJjYmMyMDdjNmM1MDNlNWUyNmU=",
+      "date": 1464134400000,
+      "text": "Ficha de EPI Luciano | Recibo de EPI (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTVmYjZiZjE1ODE0MjcyZGYyZjI3OTgxMjkwZTYzYzk=",
+      "date": 1467763200000,
+      "text": "recibo de pagamento perito Emac em pdf | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg1ZmU0ZjEwNjRlNjU4ZGUyMThiZWM0NzI3OGZlNTM=",
+      "date": 1492992000000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhlYjdlYTgzZjAyZjBjNDQ3MWJmZjNiNGNkMWE1ZWY=",
+      "date": 1465171200000,
+      "text": "REPLICA DEFESA 1\u00aa RECLAMADA | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODI3Mzk3ZDhkNjkzOGVmZTA5NDRmYzgxMTliNDRhMGU=",
+      "date": 1473897600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZWFjYjAwOGQ1MTAxMDFhNzMwNzg4NjA0YjI4ZDFmNDk=",
+      "date": 1498435200000,
+      "text": "Conclusos os autos para decis\u00e3o dos Embargos de Declara\u00e7\u00e3o a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NjU0YWM2ZWUwZDk0N2NhOTUyMTJiOTc4NzUyYWZhYzA=",
+      "date": 1464566400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/11/2016 11:30 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NWRkZWFmYjJhZjQyM2UwZTg2OWMzZTRjNGJmYzc3MjQ=",
+      "date": 1492992000000,
+      "text": "Peti\u00e7\u00e3o para anexar esclarecimentos periciais | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGI3ZWFiMTIxMmY5ZTJkNzFmMDZkNThjZDQ2ODllNGY=",
+      "date": 1467244800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTljMzM0YzQwY2Y1NjgzOTIyMTE3YjA4NTRkYTZmZDY=",
+      "date": 1464134400000,
+      "text": "Recibo de pagamento Luciano | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU4MDc4MmRkYjFlNmE1ODQyYmM2YmY4MjQzYmM3NGE=",
+      "date": 1464134400000,
+      "text": "ficha de registro Cheney | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQxNDUxNTQ2MGMzMzdkYWVlODBlMWEwMzRjZWNhMWY=",
+      "date": 1471564800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzg2YWI1NzJjZWIxYzM3MTBhM2EwZmZlOWU2YjQ4ZTk=",
+      "date": 1490659200000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "Y2JkN2RjNmYzZjNhMGE2NTZiNTg5YmRmNGJjNzdlMmM=",
+      "date": 1492646400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWJhZDQ0NGE1NzA3NjI2YjhiNWM0ZTUwYzY1OGI4ZjU=",
+      "date": 1489968000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNhZmQwNTU4ZTU5MGFhYzg1NTE5ZTFlMDMyMWI5NGU=",
+      "date": 1490140800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2ZjM2VlNjBhOTZiYmQ4MzkxMWQ5OWVjOGE0NWQ4NGE=",
+      "date": 1464566400000,
+      "text": "001 Procura\u00e7\u00e3o para carta de preposi\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODlhYTM0ZTljYmJiMzE4N2E1ZDRkMGRjMjE2MGIwYmQ=",
+      "date": 1470700800000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 08/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YmI0M2Q4ODNjYzBhZGE2ZGFhYWU2ZDkyNDk5MDc2MGI=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Joao Gomes | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDcyMmFmY2I0MWUzZWU2MDhhNTljNmMyYjhjZjMyMWY=",
+      "date": 1491782400000,
+      "text": "STIM impugna\u00e7\u00e3o parcial do laudo e pedido de esclarecimentos | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk3Zjc2NTQzZmI1NmFiMTNlMzg0NjUwYjY5OWEwMmU=",
+      "date": 1472774400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2QzNjZjNTAyNmI1OTUxMWZjMmFjMmZmZDY4MTA0MTA=",
+      "date": 1467763200000,
+      "text": "Comprovante de Pagamento | Comprovante de Dep\u00f3sito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTczNjkzMzZlOWVhMDQyNTU1NTAzZDM0YzM3MTUxMmY=",
+      "date": 1464566400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "N2FkYmI4NGZjZmUxNzY4MGU2ZDBlMjcwNzlmYWZlZDM=",
+      "date": 1465430400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YmExZjE1NDE0YWIzYzIyYzQzNzIwNzNkN2IyMmExOTU=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzczM2ViNjQ1NWUwZDlhZDE2NDY0ZTg4YTZjMWQ3MTI=",
+      "date": 1464566400000,
+      "text": "Juntada de carta de preposicao e substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzMxM2E5NWQ1NTEyMDgwMTUxYjEzMmUyYjRkMzgzODE=",
+      "date": 1496620800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGQzYWJkYWFiZjU1OTFlODZhOTY4NmZmOGNjMWQ1ZDM=",
+      "date": 1466726400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZTY4N2Y1YTFhMGIyMTM2OTA2Njg1N2VkZDYxMWVjYmQ=",
+      "date": 1493856000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NGJmMzQ2NzgyNTZmNjQxNzBkZDI4ZmYzZjFhMGJkM2Y=",
+      "date": 1464134400000,
+      "text": "Recibos de Pagamento Adonias | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmFmYzBhNWJjZTMxMmU1Njc2MzI5ZWZhNTFjMzMwYWY=",
+      "date": 1451520000000,
+      "text": "CCT - Setembro 2014-2015 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQ3NTZiOWMyY2Q1NWVjNDQwYWVhNzY5MGQ1YTE1YmE=",
+      "date": 1481414400000,
+      "text": "Peti\u00e7\u00e3o para dila\u00e7\u00e3o do prazo | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDNjMzIxNmU0MDcyNTI0YjQ5NmQ5MmM4Y2EwM2Q1MTE=",
+      "date": 1503360000000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 21/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWQ0ZTY3NWNmNWFhZGFiZjI5NmUwYTU1MjFmY2I4YTM=",
+      "date": 1478736000000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NDRmNjEzNDU2OTFlMzkwMmY5NjQ5ZTUyZmRhNTc4NjI=",
+      "date": 1464134400000,
+      "text": "Ordem de Servi\u00e7o - Luciano | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTAxYWFlNjk1MmI0YjVmZGM3MjRkZDY0Nzg3OWRjMTc=",
+      "date": 1464566400000,
+      "text": "005 - Descritio de fun\u00e7\u00e3o - Eletromec\u00e2nico | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzVkYWQwNDEzOTllOWZjNGI5YTIxOTNmZjAyMjQwYTQ=",
+      "date": 1464566400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGVjNWU0MTg2MTE3NDNhMWRjY2Q1YjFmYjVjNThiOWQ=",
+      "date": 1464134400000,
+      "text": "recibo de pagamento Isac 3 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzVjMmE1NzM3YTUwNGU5Mzc4YjAzNzQ2MTAzYmFiMGQ=",
+      "date": 1476921600000,
+      "text": "GUIA CEF 0011647 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjFiMjNjNDUzNDg1NTEyYTc3NzU0NWFjMThkYmYxMmI=",
+      "date": 1494892800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "M2NkMDNlNjg1NDllNmVjOTJmZTc1MzVmNGQ4ZmY4MjA=",
+      "date": 1518739200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQ0MTEzNDQ1ZGE3ODZkNzYwYWQyZWE1NjI4MDFkOTU=",
+      "date": 1501113600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MWQ1Njg5YjBlODE0NjczZDJmMDI1MzUzMTA4NGIxMzA=",
+      "date": 1495843200000,
+      "text": "Decorrido o prazo de ANDREA JULIETA SILVA em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzNhOTdkZGU1MmUxOWQyZDZkOTIwNjA3YzcxMTM4MjE=",
+      "date": 1493769600000,
+      "text": "Decorrido o prazo de DANIEL RODRIGUES MARTINS em 02/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODQ0MGVmZmUxNDI3OWIyOTRkZjQ3ZDZjOTE5MzNmYTU=",
+      "date": 1501113600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "MzEzM2EwMWQzYjA4YzQzOGJmNTJmYTA1YzkwNWE5ZGM=",
+      "date": 1491782400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njk5YjU1YWUwZmVmMGQxMmNhNThjZmFhNGEzZjdmOGY=",
+      "date": 1471219200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGFlMmUyNDM2N2QxZDU5ZGFmZDdjMmM3NmQ2NDI1ODM=",
+      "date": 1464134400000,
+      "text": "Ordem de Servi\u00e7o - Jo\u00e3o Gomes | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjA1ZDdhNTk0ZWZkY2M2NTE0NjhlZDU0ZTgzMzA0ZWY=",
+      "date": 1501804800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTZmOTgyYjZmMzkzNTIzY2Q5ZDdhZmEzMmM2MzQ1ZmE=",
+      "date": 1498694400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDU5ZGZkMGE5MGYzMGRkYTZkZDU0NWU3ODhlMTBjYWE=",
+      "date": 1471219200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDIwNjAxMzA0ZmQ5YWI3YTYyMjRjM2NmNmUxOTZmYTA=",
+      "date": 1492387200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGQ3MGNhNDVjOTdmY2I5MmUyMWExODk3OTllYWFmZDk=",
+      "date": 1467676800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGM0ZWI2NjFkMTVkOGRkOWJkYjYwMzBhYmNlMmVkODA=",
+      "date": 1476057600000,
+      "text": "Senten\u00e7a de improced\u00eancia em pdf | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWQyN2MwMDM2OGJhNmM0ODgyNjYzZWJkNDU5YTdmNzA=",
+      "date": 1476662400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MzEzMDdjNzVmNGZiMGEwMzcyYmY4MmIzZmY4NGViNDc=",
+      "date": 1493769600000,
+      "text": "Decorrido o prazo de ANDREA JULIETA SILVA em 02/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDM5ZTE2YWM4MzQyZmI2MmViMDE2NTg2ZDg1ODZiOWU=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Isac | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI2YWIwZGQ3OWJmNTQzYTVhM2I5Y2U3ZjRjMjM2Yjk=",
+      "date": 1495152000000,
+      "text": "Embargos Declarat\u00f3rios x Sindicato Juiz de Fora | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWUzOWUxMDBiN2JlMTU1MzEzNWRiYTMwYzVjMzJhZGU=",
+      "date": 1464134400000,
+      "text": "contrato social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFiZTIyN2IzZTY5ZDVlYTYxZTQxYzgwOTdjMWIwNWU=",
+      "date": 1451520000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODczY2Q2NmFiMzM3YWRmZjg4MjlkMTQzYzA1MjZiMmQ=",
+      "date": 1474416000000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 20/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDI4YTI1ZDc3MzBhYWRjZjY2ZGFmMzg1YWUyOWM0NzQ=",
+      "date": 1475020800000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "MDE1YzM4NTYyYjU1NDZiNzY3MDdiYzc5MGQ4OThhOTU=",
+      "date": 1464134400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWEwMTg4NzU2NDVkYTFjODg1MTMwNzIxNDY0NWQzMjk=",
+      "date": 1464134400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGM5MTU3NjgyYWY0OTMxN2ZkMTVjY2RmMmI4OGRiNmM=",
+      "date": 1489968000000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "MGJlZjQwYmE5ZmVhNWE3Y2Y2M2ZiNGU2N2YwY2QxNjg=",
+      "date": 1469664000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDAzNGJmNTQ3NTYwMzFhMGNhMjJkYTQzNjUxYjIxMmE=",
+      "date": 1469664000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDU2MDYwMzUxOTYxZmQ2OWMzZDBkMDQ4OTBjM2ExMGU=",
+      "date": 1521590400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTkwYzczZmM1YTM3YjVmM2ExNWY3ZDRhYzNmZjY2Nzc=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Luciano 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzlkN2NiYzRjMzdjODBkMDY4NjFlMjBiODlhZGZjOWY=",
+      "date": 1494892800000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1200.00",
+      "attachments": []
+    },
+    {
+      "id": "NDJlOWRiZDEzZGFmZTMxZTcyZWNkYjVmY2ZjMzg3M2Y=",
+      "date": 1476403200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTQyZGVlYjJmMmJlYWNkZDQzY2ZjN2IzZWI4Yjg3ZTQ=",
+      "date": 1496016000000,
+      "text": "manifesta\u00e7\u00e3o embargos | Impugna\u00e7\u00e3o aos Embargos \u00e0 Execu\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGI4NjNmMWUwMzdhYjdlZTNmMWFmM2NmOGI5Nzc0NjU=",
+      "date": 1474329600000,
+      "text": "manifesta\u00e7\u00e3o sobre peti\u00e7\u00e3o RECDA de ID 599eb5b | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZlNTkxYTc4MDlkNzkwODQyMmJjNDU3YmZmMGM1MzU=",
+      "date": 1464134400000,
+      "text": "RECIBOS PAGAMENTOS JOAO GOMES 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2MxZTgwMTY3MDYwOThkNTRhZmM1YjY0ZWU2ZDIwMjA=",
+      "date": 1472515200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OGY2MWQwY2JmNjlkZmYxZTAxZTUwNWEzZDA3MDczYTQ=",
+      "date": 1464566400000,
+      "text": "008 - Recibos de pagamento pela EMAC (substitu\u00eddos - periculosidade) | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJmN2U2MzEzOGNlNjMyYWM1YjliNWQwOTg1MjBhNGU=",
+      "date": 1475020800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTQ0NjMyMjM2MGNmNWY5ZTlkM2U4OWFkN2E2NjM3MTI=",
+      "date": 1503360000000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 21/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWU2MDU1MzIyZjgzMmQ1MDZkMmIzNmMzYTViYTY3ODM=",
+      "date": 1473379200000,
+      "text": "Manifesta\u00e7\u00e3o | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2UxNWRjMzAwYWQ3NDc1N2Y4ZmY1OTY0YjczNmQ5Mzg=",
+      "date": 1451520000000,
+      "text": "ATA DE POSSE (1) | Ata (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWNiYTRkMjBjYzg2ZjNmMzIyOWMyYzViZWI1YjRjZjE=",
+      "date": 1464566400000,
+      "text": "001 Defesa - STIM 11647 (VMZ) | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ3NmJhMTliZmVjNDNmMzc1NTMyMDlhODgxNWQ1ZWQ=",
+      "date": 1464134400000,
+      "text": "recibo de pagamento luciano 3 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTY5ZjVmNGU1MWM1NmJlZjZiZTg4ZDI5ZDM2YTg1MjU=",
+      "date": 1464134400000,
+      "text": "Ficha de Registro Moises | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjI1NWRiOTZmZWU2YTMyNjVmZGM2OTM5ZjAzYzVjYmE=",
+      "date": 1473465600000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 09/09/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjI5OWI2YzJhNmY4ZTJjZThlM2M4Mzc4NzJiYTc5MmU=",
+      "date": 1467676800000,
+      "text": "manifesta\u00e7\u00e3o 0011647-47.2015.5.03.0037 | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODkxN2VkYWE2YmFhZDljOTBiN2E5NmIxNjJjZDU0ZTA=",
+      "date": 1465171200000,
+      "text": "REPLICA DEFESA 2\u00aa RECLAMADA | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWM0OTcwN2RhYjBiM2UyMTI1MTk5MjM4NjA1NGQ3NzY=",
+      "date": 1473724800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjM0ZTNhMWQ4MzRkYjIyY2VmMjY5ZTEwZmU1YzRhNWM=",
+      "date": 1473724800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTM3M2E5ZWI5NTkxOTI4ZjRjZGRhYjYwNGI2ODE1MTA=",
+      "date": 1464134400000,
+      "text": "Ficha de Registro Isac | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjYzNDRlMTc1OGMzNzU5NDQ4YzhkNDgyMjk1NWM1ZDE=",
+      "date": 1477612800000,
+      "text": "Decorrido o prazo de CARLOS RAFAEL GODINHO DELGADO em 27/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTY4ZTA0M2UwYWQzN2FmM2Y5NDI4MDQ4YzNjZWNhZTk=",
+      "date": 1500422400000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 18/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWUwM2MzMjUzODliOWE5YTNlYWY5ZjllNzk5MjE5ZGU=",
+      "date": 1464134400000,
+      "text": "PPRA 2013 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzUzODYwZDg2ZmViNjcwODE0ZjFjZjY3MDAxZTkyMzE=",
+      "date": 1489968000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Nzk2YzEzNjZmOTYxMDQwN2U1ODlmYjc5OTYxMGI2ODY=",
+      "date": 1490572800000,
+      "text": "requerimento dilacao prazo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTZlZWJmMjQyMGY1MDQ5MjEwOWFiMjA2ZTY2Y2RmMmU=",
+      "date": 1464307200000,
+      "text": "001 Atos constitutivos (parte 1) | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzM3ZjZiNzkwNThlNGU1ZDViOGE5ZWI5OGQwZDY5OTk=",
+      "date": 1480377600000,
+      "text": "Decorrido o prazo de CARLOS RAFAEL GODINHO DELGADO em 28/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDVlMGM4N2IyNDNmYzBkMGNhODQ0N2ZjNDQ1YzA1YmY=",
+      "date": 1469750400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZjQzOWQ5MjJkZjJiM2YzM2UyZWFjYjJmOWNkMGUwZjA=",
+      "date": 1502496000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NTBiYTg5NDc4OTBmYzAzMGYwY2JhMjVhOGE4ZmZlNWE=",
+      "date": 1492646400000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "ZjdkMTc5NzQ2OWM0ZjJkMjAzNjJhYTcxZTdkMWUwODU=",
+      "date": 1490572800000,
+      "text": "002 COBEI - esclarecimentos | Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQwYWRlOGEyOGNhNDNjZGUzNzhkM2FiNTJkMWNlMTU=",
+      "date": 1471564800000,
+      "text": "STIM 11647 (+EMAC) - manifesta\u00e7\u00e3o VMZ | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjkwY2UxMjQ3MWE3NzRhZDcyZmIwZjA4Y2IwYmZhYTk=",
+      "date": 1490659200000,
+      "text": "Decorrido o prazo de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA em 27/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTdkMTU0ZDhiZTk1ZDRlNjdmMzg4YmI0NjYzM2MxNzA=",
+      "date": 1464134400000,
+      "text": "Ordem de Servi\u00e7o - Adonias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk1MjJiOTM2MzUwYzkzZjU1NTA3MGMwMzUzM2QxOWE=",
+      "date": 1498694400000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de ENGIE BRASIL SERVICOS DE ENERGIA S.A. - CNPJ: 19.157.650/0001-73",
+      "attachments": []
+    },
+    {
+      "id": "MWQwNmE4NGNjZjY1YTNlMmFkMjBlMmFhZWQ0YTkzNWE=",
+      "date": 1502150400000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YzgxOTQ2Zjg4ZjZjZDI2MGJlMzhiNzU5MTJkOGE4OGI=",
+      "date": 1500854400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTIzMTAyY2QxYmNlNjIzMTcyMGZjZjEyMjI2N2YyOGQ=",
+      "date": 1451520000000,
+      "text": "CCT - Setembro 2013-2014 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTlhOGY1MmUyOWM5NTE1NmRhYmQxZWQxZDE2YmNkYzE=",
+      "date": 1500422400000,
+      "text": "Decorrido o prazo de DANIEL RODRIGUES MARTINS em 18/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGY3YmIzZGU5ODM5MDQyNGEzN2I4ZjhhZTZmYWEyZGU=",
+      "date": 1490832000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "YmUwMDE5NGVkMWY0NmFjNmE1ODQ0YWExMTAwM2QzMzI=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de ANDREA JULIETA SILVA em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Mjg5YzVkN2ZlZGZkYzYyM2M4NmRlNDczYzNmZjQ1M2U=",
+      "date": 1451520000000,
+      "text": "Estatuto STIM | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg3NTRjZGVjMTgxNjQ5YTUxNDQ2MTM0ZmFjYjM0ODE=",
+      "date": 1497312000000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDBkNTk0YWUwZDVjOTNhZjBlMWMyM2MxYTBkYjQ4NTA=",
+      "date": 1464307200000,
+      "text": "004 Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg0ZDAwMDM5ZWFlOTA1NTdhZjI3MTM2ZTZhYjIwMDM=",
+      "date": 1479081600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ODg0MjA3ODYwZDU1ZjYzNzNjMDQ2Yjg2YjIxOWUwZDI=",
+      "date": 1476403200000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "ZTkyMDE3ZmRhNTRkYmFiNjAyMTYwYWJjYmFjOTI0ZWQ=",
+      "date": 1495152000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTZhNDg3MjZiYzFiNWE2MjYzZWEzZmM1NTc5NzUzYjM=",
+      "date": 1464134400000,
+      "text": "Prova Emprestada - 2 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjZkN2QyNjJkMzg1MWJjZTk4ODk3N2JmMWQzZDEzNGE=",
+      "date": 1499385600000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY4ZGYyYjhhODFjMjg3NzEwM2ZkN2VlMmUyNmU5MjI=",
+      "date": 1492560000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzViMjU1NzEwYjJiYTk3ZjJiMjk4OTBjMjMxMWRiN2Y=",
+      "date": 1495843200000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjNjMGUzMjhlOGYwNWUwODgzNGZlNTEwZDhhZmMxYWQ=",
+      "date": 1467244800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "YjE4NTFiZTNhODZmMjA4ZjUwYTQ4ZGMxMjljYjNmNjk=",
+      "date": 1464134400000,
+      "text": "PPRA PARTE 1\u00aa 2015 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQxNTA1YjhlNDA3YTcyYTk2NTQ0ZDhkMjc5MGFhYWM=",
+      "date": 1453420800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/01/2016",
+      "attachments": []
+    },
+    {
+      "id": "YWI2M2JjZTNiNWJhMGZmNjhiM2JiYjFmYmJlMTQzNGI=",
+      "date": 1476316800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJkNjM4MmVlZTgwOWMzMWQxZjY1OWUwYWJhMzEyZDY=",
+      "date": 1490745600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2I2MzIyZmY4NjY4NjQ3ZTJhMTRhZjRkZTUxNGM5YmY=",
+      "date": 1465430400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWE2OTA4MGQ4OTI0ZTdjYTJiNDAyNzE2NzliYWQzMWM=",
+      "date": 1464307200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzAwMWRhN2ViYzkyMDk4Y2VkNTAxNzMzNmE5NWJhODk=",
+      "date": 1495497600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "MGI3ZjAyMmRjZDhmMzNhNDNmNDUxYzY2ZGNjMzlmMjY=",
+      "date": 1466640000000,
+      "text": "Conclusos os autos para despacho a FERNANDO SARAIVA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "YjlkNmU1ZDdiNDVlN2EyODMyNmIwY2FkYmI4ODEyMGE=",
+      "date": 1476316800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYzNjdlYTc2NmY2MmJkODkyNDFkODczYmE1MTk2MGQ=",
+      "date": 1464134400000,
+      "text": "Recibo de Pagamento Jose leonardo | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc3N2QzNjZmZjBhMTAwNzZlOTE5MzRiOWJlYjdlMGI=",
+      "date": 1464134400000,
+      "text": "Ficha EPI adonias | Recibo de EPI (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJhNDYyNzE1YmU0ZDE4ODQ0OTU4NzJjNTA5NDBlYjk=",
+      "date": 1489708800000,
+      "text": "Peti\u00e7\u00e3o para anexar laudo pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGI5NTM5ZjIxMWQwNjdhZjdjODQ1NzcxNDhiYWYxY2E=",
+      "date": 1465171200000,
+      "text": "Peti\u00e7\u00e3o de Quesitos - Sindicato | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjlmYzNjNDk5OGI3YzRlYTA1MjU0YTAyMjAxNTZmZTE=",
+      "date": 1471219200000,
+      "text": "Conclusos os autos para despacho a MARTHA HALFELD FURTADO DE MENDONCA SCHMIDT",
+      "attachments": []
+    },
+    {
+      "id": "MmIxYjU2ZWEyYzhlODRiNjYzYmMyZmZjYjcwNTM5YzQ=",
+      "date": 1464134400000,
+      "text": "LTCAT 2014 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjA5NWM0OTg3MjBjNzNhZjY0OWE4ZWFjMWQ3YTI0MWI=",
+      "date": 1497312000000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTA2ZWYxNDk1NGI4NWViMzAxODhhMDUzZTY3MmQxYzU=",
+      "date": 1465344000000,
+      "text": "Conclusos os autos para despacho a FERNANDO SARAIVA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "NTdhMjk4MjRiNGZkMjdmNTViYTdjZGQ2YjUzN2M2ODM=",
+      "date": 1465171200000,
+      "text": "quesitos e assist tec pericia EMAC | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTdhNzkxYjU4NjkwNjQwZjczMDE1ZTEwMmI4ZmJhNzA=",
+      "date": 1493683200000,
+      "text": "MANIFESTA\u00c7\u00c3O SINDICATO AUTOR | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGYyNjg5N2U3OTg4NDQwMzZlMzllZGEyMGQ0MmIyZDk=",
+      "date": 1464134400000,
+      "text": "AFASTAMENTO INSS CHENEY | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzEzOGRiMjE5Y2M2Y2IzOThjZDk1NWVkZTU2MGY1YjU=",
+      "date": 1464134400000,
+      "text": "ficha de registro Roberto | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDgyODIwNTMyMDQ2NGM2YjQyZWQ3Y2ZjODNmMmJhMDk=",
+      "date": 1464134400000,
+      "text": "Treinamento EPI JUL. 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTZiMzA4NzFmODU5NmIxMGE1ZmQ1MzQ5MDY1ZDc2OWI=",
+      "date": 1465171200000,
+      "text": "Assistente t\u00e9cnico e Quesitos | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODg4N2IyNjQ5MmI3MzAzYzU0ZDEwYmMxYTVjYjY3MjQ=",
+      "date": 1453420800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDlhMWNhYzFmNWY1ZjRhMjRmMWRkNDg0MWI1M2FhNGU=",
+      "date": 1496102400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "YjU1YTM1NmZkNzg3OTVjY2FmNGRlNGI0NmU0MTMyNjI=",
+      "date": 1496016000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFhZWRlODE1MzZkOTg3ZWE3ODc2Y2JmYTY3MThlYWY=",
+      "date": 1464134400000,
+      "text": "LTCAT 2013 2014 PARTE 2\u00aa | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmIwOTMyMzhiNjZiMjM1OTNmNWI2NjI4ZmU2ZWYzZWU=",
+      "date": 1472515200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODRiZDczOGUzMTBmYWI1MjhkMWM3MTQ1MWJhZDU3NzQ=",
+      "date": 1464134400000,
+      "text": "AFASTAMENTO INSS ISAC MARQUES | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjY4ZGEzM2E1NmU3NTNmNmM5ZGMzOGE0MjhkMzU3NDM=",
+      "date": 1474934400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTNhNWMwNDFhNmYzMDAyNzE4ZmUzMDBiMDg4Y2VhOGU=",
+      "date": 1472515200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ3ZjM1ZjUyNzU5ZWQwYWJiNTg4OWZhYWNhMzM0YTU=",
+      "date": 1521590400000,
+      "text": "Substabelecimento sem Reserva de Poderes | Substabelecimento sem Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU0NzE5NzkwNmM1MmFmN2ZlNDEyY2JmMTM2NDhmY2U=",
+      "date": 1500595200000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NzAzM2VkNDNmYzM0MTJjZTU1YmM3YjYxYTFiMGYzYzM=",
+      "date": 1517961600000,
+      "text": "Termo de ren\u00fancia ao mandato outorgado pela reclamada | Apresenta\u00e7\u00e3o de Ren\u00fancia de Procura\u00e7\u00e3o/Substabelecimento (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY0MzM4YWU1NDg2ODg3OTMwNzFmYjM0ZjZkMWQ0NmI=",
+      "date": 1475798400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (16/11/2016 10:40 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "Y2U0NGQ1ZGFjNzJiYzNiYmE4ZDkzMWZjMTYwODg5MDY=",
+      "date": 1521590400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzBmYzJlYjk0NTM2YjZmMjNhZjk5MmJiZTIzNTZhODI=",
+      "date": 1517961600000,
+      "text": "ren\u00fancia de procura\u00e7\u00e3o | Apresenta\u00e7\u00e3o de Ren\u00fancia de Procura\u00e7\u00e3o/Substabelecimento (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmVhYzQ4ZGVmNzg5YTc4Y2ZmYTdlNWU4ZmMwYzAyZDI=",
+      "date": 1464134400000,
+      "text": "recibo de pagamento Cheney 1 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWYzNDVkMGQxZWRkNWUwNGQzOTM4NjQwNDQyZjA5NjM=",
+      "date": 1496707200000,
+      "text": "Decorrido o prazo de ENGIE BRASIL SERVICOS DE ENERGIA S.A. em 05/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTc5ZTNlMzExOWRjODAxYjIxYTRjN2ZiZTZiY2Y1NjU=",
+      "date": 1488931200000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "YjNmYzQ5MTZjODMwOWFmZTljZDgwYWQ1MDY3ZWUwMjM=",
+      "date": 1500336000000,
+      "text": "Recurso Ordin\u00e1rio - MRS | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTAxMmQ4MzRiNGRiOWM0MmRjMTBiYjM2YjI5OWY0MzI=",
+      "date": 1451952000000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhhODc3NGJmYWI0N2M5ZjBiNzI4MzkyNDhiYTcwMTE=",
+      "date": 1490572800000,
+      "text": "003 PARECER COBEI | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MTk4Y2M4ZDU4NDY3NjgyZGJiOWQ3ZTczZDc3MTA=",
+      "date": 1464134400000,
+      "text": "RECIBOS PAGAMENTOS JOSE PLINIO | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDZhZjBjNDM3NTRjZjA2N2JiY2M1ZWM4Mzg5Y2YwNjg=",
+      "date": 1464134400000,
+      "text": "Treinamento EPI FEV. 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQzMjFiYWFmZTlmZTEwZWJjZjEyZDRiM2VjM2UzMzM=",
+      "date": 1464134400000,
+      "text": "ficha de EPI Jose leonardo | Recibo de EPI (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDIxOTc2OGU1ZDBkOGViMmNkOTAxYWFkZDU1ZGYxYTI=",
+      "date": 1493078400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "NDBjMjA0MGJkMTRhNjNiY2YyYWVlZjNkYTEwY2Y5MDU=",
+      "date": 1499472000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "MmM2YTQ5MWQ4OTZiMDI5Y2E3ZTIwNTJkNDIwYTkyY2I=",
+      "date": 1464566400000,
+      "text": "Audi\u00eancia inicial realizada (30/05/2016 14:40 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "NDgyMmVkMWU1OWRjMWI4NjUyNWM0OGUwNmFmMTEyYWI=",
+      "date": 1451952000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc2OTExNTE3NDhjNmY3OTM3ZGY4YTc4YThjOGE2NmI=",
+      "date": 1464566400000,
+      "text": "003 Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDliMDcyMDYyY2I3NTQyMTNkMjE1ZmQzNDZjODM5ZGU=",
+      "date": 1470009600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "YzlkZmQ0NmYyODVhN2E4MTYyZGUyNWVlMWQzZTFkMjU=",
+      "date": 1465948800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWY0NWY0MWUyODUwOTQzN2UzZTQ5OGJkODYwMzdmN2E=",
+      "date": 1498694400000,
+      "text": "Acolhidos os Embargos de Declara\u00e7\u00e3o de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA - CNPJ: 21.608.153/0001-96",
+      "attachments": []
+    },
+    {
+      "id": "NTA3MmI0OTAzY2I4MDVmNjFmZmI3NGI3ZDY5YjZjY2Q=",
+      "date": 1493769600000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 02/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWQyMjhhNjRiYzE4MzlkNDNmY2EwODRjNjJlZjYxZmQ=",
+      "date": 1464134400000,
+      "text": "Ficha de Registro Jos\u00e9 leonardo | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWFmMGY2ZmI1ODVjMTE5YmZjMjE2YmVjZGViZjkyOTc=",
+      "date": 1494892800000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA",
+      "attachments": []
+    },
+    {
+      "id": "MzFhZDZiNmZjOGZiMDcyZTRjZmZjNGMwODg0OWJhN2I=",
+      "date": 1493683200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjVjMzcxZTVmNzJkNzljZTFkYWU2MGE4YWNhMGE0MjI=",
+      "date": 1495152000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NjE4YmJiYTU1ZjUzYzNkNmI3MzQ0ZTVlN2EyOTRiODM=",
+      "date": 1464134400000,
+      "text": "PPRA 2014 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2VkOTIyNTQxZWM0YTQ1ZTZhNWJmNzU2MWEzZWE1M2M=",
+      "date": 1495152000000,
+      "text": "embargos declarat\u00f3rios em pdf | Desist\u00eancia - Requerimento de desist\u00eancia da a\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTBmYjc0ZWQ1N2M5NTU2YWIwNTBiZDliYTE3ODY2ZGY=",
+      "date": 1464134400000,
+      "text": "RECIBOS PAGAMENTOS LUCIANO APARECIDO 3 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmRlYjQxMWFmYjg2NDk5MDQ1N2RjYzRiNzlkOTQwZTI=",
+      "date": 1493856000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (04/05/2017 10:30 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "ODJjYWFlNjcyMzk5OGI4ZmFjMTE4NDI2NzQxZmNlZGI=",
+      "date": 1497312000000,
+      "text": "Decorrido o prazo de DANIEL RODRIGUES MARTINS em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MmYyOGRjODcwN2UyMGViNDJkNDNlY2IzODg2NDQ3N2E=",
+      "date": 1451520000000,
+      "text": "CCT - Setembro 2011-2012 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDYyNjZjOGUwYjU2NTkyOTM2YTdlN2M0YzA0YzBlZTM=",
+      "date": 1493769600000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 02/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjI3NTYyY2Y3YjczOWNhN2YzODU5ZTFhY2E5NjBjODk=",
+      "date": 1471219200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODg2MzA5ZDI1NGUxN2YxYmRjOGQ0NDI5ZWIyZDc4Mzk=",
+      "date": 1494892800000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de SIND TR IND MET MC MT ELESD E FND RP DE VEI AC DE JFORA",
+      "attachments": []
+    },
+    {
+      "id": "YWQ3NjE5NGVlOWVlMGJlY2Q2ODVjMzMwYjRiYzUxNGU=",
+      "date": 1474934400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzQ2N2FlNTAxODFmNzI1ODQ1MzhkOGFlNjA1ODU4MjM=",
+      "date": 1473724800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Yzg3NTRhZDY3M2Q3MDE2N2UyNTcyMTcwNzExNmVkZWI=",
+      "date": 1492387200000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "Yzk0NWI2OGU2OTc5MmQ5OWFjNzk1MDc3NDZmMmVlMDA=",
+      "date": 1464134400000,
+      "text": "PPRA PARTE 2\u00aa 2015 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODEzMDZmMGExNWQxNmRmOGNkMTg0Nzg2MjM4ZTg0NTA=",
+      "date": 1499472000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWUwZWE3ZmRiNDZjY2Q5YWVlN2JkYWQ0OTg3NGY1ZjU=",
+      "date": 1451520000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YTBiNDQ3MmRhNGQ1MjZjN2IzOTg3ZDYwMWUzNmFhNDc=",
+      "date": 1464134400000,
+      "text": "recibo de pagamento Isac 2 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTNhYTI3MzQyOWIxZTY3MGYxMzM1YjcyOTMzOTRhNjY=",
+      "date": 1521590400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NmNlNmQ2OTZhODEyZTQzMDRiNzM2NTBkZWM5MjkwM2Q=",
+      "date": 1476662400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWY2ZWQ2ZmNlNmNhODM0Mzg2Y2QwMjRhODNmNGEyYWI=",
+      "date": 1490659200000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 27/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGZiNzMyYWQyZTg1ZWZmODc4MDAyNmU1NDQ2NWMxMTg=",
+      "date": 1517961600000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWNiMmI3NWMzMDYxOTk4Y2JiZjI2OTc5MzNlOTIwZDE=",
+      "date": 1471478400000,
+      "text": "Honor\u00e1rios periciais - Emac X Sind Juiz de Fora | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2IwZTJkZGNiN2NlNTYzM2I0MzFhNDU2ZGMzZjk1MTQ=",
+      "date": 1469664000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTRjMjJmNWI2MTJhNjdhNDIyN2RkOWNjN2ZkMDk1ZDA=",
+      "date": 1493078400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmVhZjJlMTk4MGYzNWZmN2YzZTM4OTIyMWU1N2Y1NjI=",
+      "date": 1490572800000,
+      "text": "STIM 11647 (+EMAC) - impugna\u00e7\u00e3o laudo pericial | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTljN2ZjNTU1YzA4ZmYzMjFiNmMyMjU3NjYzOWY5OWQ=",
+      "date": 1490745600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzhkZmU1MDgyZTlmYjlhZTZiZmM5MmRjYmFiMjIxMmI=",
+      "date": 1469577600000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "ZmFmYzhiOWZmNTI5YmU0YjUyY2M2YjA4YzUzODdkZWI=",
+      "date": 1495497600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ1ZWY1NDM4OGZjZDFkZDY2MWFlZjk0YzZkNWVlZWM=",
+      "date": 1474934400000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NjdlNGQxZWY1YmJhYjk5MTZlMzFjZWFjMDM1YmU4ZmM=",
+      "date": 1489708800000,
+      "text": "3VT - 11647-2015 - LAUDO PERICIAL | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjdjMDFhZTMyMWQ2OGY2ZWI4ZmYwNDQ2NDYwZjQyNmM=",
+      "date": 1492646400000,
+      "text": "peti\u00e7\u00e3o urgente em pdf | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFhZjEwODhjNmRmODg1OTUxOTZhYTU3NmQxYWY0MzQ=",
+      "date": 1475452800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDgxYWE0ZTM2OGI3MTIyNjVjZTVhNWJiNDJjY2ZhY2Q=",
+      "date": 1502150400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a MARTHA HALFELD FURTADO DE MENDONCA SCHMIDT",
+      "attachments": []
+    },
+    {
+      "id": "NTg5MjBmNDY2NmM5YTA1Yjg3ODU3NjBmYmZiMGNmMzM=",
+      "date": 1502496000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ2ODUwZDMzMTdkMTU2ZGMyNDIzNmFiZTQ2YjJiODY=",
+      "date": 1470009600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjAwNDEyZmIwN2U3NTFlNjc5MmI5Y2NlYjg3OTg5OGE=",
+      "date": 1495324800000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NWU1M2QxODUzOTg0NDhkZGY1ZmU5NzU0MGQ2NTY2ODY=",
+      "date": 1501804800000,
+      "text": "CONTRARRAZ\u00d5ES RO | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNmZjA5MDg1ZjFlYWU0NzgyNTYwOTMzN2NkZWQ5ODI=",
+      "date": 1476230400000,
+      "text": "Peti\u00e7\u00e3o para solicitar libera\u00e7\u00e3o de honor\u00e1rios | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTdlMTE2NjRkN2FiM2RiYzg4ZDU3YjI0OGQ1OGZkYTQ=",
+      "date": 1468281600000,
+      "text": "Decorrido o prazo de HAROLDO LUIZ SIERVI FELIZARDO em 11/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTYwNzc2NjA4OTU2MjIxMjQ4ODE0ZGY1ZGQ0YzU0NDE=",
+      "date": 1495497600000,
+      "text": "Embargos de declara\u00e7\u00e3o (segunda reclamada) | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGJlYjU0ZmYwOTI1ZjFlOGZjN2MyOGQxNTI2Y2U2N2U=",
+      "date": 1521590400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGI2MmUyZjhmYjJiOTJiODcxOTFmZmRmYmM0ZTcyOGQ=",
+      "date": 1495497600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzkzYzMwMTg2Mzc2ZGNiZWI0ZjhjYjAzMGExYzM4NTQ=",
+      "date": 1492992000000,
+      "text": "3VT - 11647-2015 - Esclarecimentos Periciais | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRhYmI1MDNkNmI2MDFjMjUxNTFkNmI2MjJmODc3Y2U=",
+      "date": 1476748800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2IxMzM1ZjhkOTQwMjA3YThmZjk2ZTUwMzZkNzZiNjU=",
+      "date": 1481673600000,
+      "text": "Conclusos os autos para despacho a MARTHA HALFELD FURTADO DE MENDONCA SCHMIDT",
+      "attachments": []
+    },
+    {
+      "id": "NzhlMTczZDg2MGE4ZGMwMTA0NjYwOWNiNjcwMDhiMmY=",
+      "date": 1501891200000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 04/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTliM2EwOGNhZTNkNGExNDUxODdlNjA4ZGVlMjQ1NDY=",
+      "date": 1470614400000,
+      "text": "Dep\u00f3sito de Honor\u00e1rios Pr\u00e9vios | Laudo Pericial - Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUzOWUzYTAzOWQyZTk1NGJjOGU1ZjkxODAzYzBmZDc=",
+      "date": 1490659200000,
+      "text": "Decorrido o prazo de ENGIE BRASIL SERVICOS DE ENERGIA S.A. em 27/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NmUyMDU4YmZiMTdmZTcxYmY5NzA2Yjk1YTgwMTE4Y2M=",
+      "date": 1451520000000,
+      "text": "CCT - Setembro 2012-2013 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDUwYWJlMjcyZDdlMTU3ZWVhMjkxMTZiODJiNjczNDI=",
+      "date": 1498694400000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NDA2YjUwODJjNWY5M2ZmODIzNzljMGFkNTJkMDc0Y2E=",
+      "date": 1478822400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTYxOWQ1Nzk3MmVkN2EwN2Y0NzM2Mzk2ODZlMDhlMzc=",
+      "date": 1471392000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTZlMTJjNzk1YTlkYTM2OWRlYzU3OTY0YzQ5MWJmNzU=",
+      "date": 1480982400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OWQ4NjdlZjIzODhhODNmZjM3NmEwN2FkNDE3MjliNjM=",
+      "date": 1464566400000,
+      "text": "003 - 6\u00ba Termo de Aditamento ao Contrato 1437.09 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNiNTNkNTYyZGJjYzZiMmRlNDcyM2M3NGQ5YzkyMTc=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de DANIEL RODRIGUES MARTINS em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjkyMzIzNTU0YWZhZjU3ODc2MzYwZmZkNDM0NjZiYmE=",
+      "date": 1481673600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NGQxYzkzNGYzZDk3NDQ1YzhlMjdjOWIxM2Y0NTIyODg=",
+      "date": 1492646400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (04/05/2017 10:30 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "MzFhOTdhMjBlNTNjNjE4ZGMwNDI1ZjI3YzViZTg0Y2U=",
+      "date": 1493683200000,
+      "text": "STIM - impugna esclarecimentos periciais 02.05.2017 | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODBiNWVlMThmYTU3Y2EzNjA1OGQ4NzBlZTc1YjYyNWI=",
+      "date": 1490572800000,
+      "text": "001 STIM 11647 (+EMAC) - impugna\u00e7\u00e3o laudo pericial | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg3NDRkYzQ2MmNhNTY4ZDdjZjgyM2Q3NDJjM2Y5Y2Q=",
+      "date": 1496620800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "N2U4ZGY3MDY3ZTdhNTY0Mzg0NjcyOTA4MTcxNjQ1ZDM=",
+      "date": 1495411200000,
+      "text": "ED SINDICATO | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjhmOWQ4NWYzZjk3NDA4YTQ0ZDA3N2I3YWY1NWJjNzQ=",
+      "date": 1500854400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDg1NTljZWM3YTdmY2Y1ODk0MDFkMjg2MmZkMjljMWU=",
+      "date": 1464134400000,
+      "text": "Prova Emprestada - 1 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTNhZWMwYmIxMGQxZDNlZDkzYmIyMDU4NjI4N2Y3YzU=",
+      "date": 1479081600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmZlNmE5Yzg0MDA2MThhYmIwMDliZjliNTljM2M4NjE=",
+      "date": 1494979200000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTBmMTY3NDc5MTg3ZDA1NWMwZGMwYTBhOTFjYWU2OTU=",
+      "date": 1451520000000,
+      "text": "Procura\u00e7\u00e3o - EMAC e VOTORANTIM | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTAxMjVlODlkOGM1MjgyODY5OWUwNzc3YjI0YTIyOTA=",
+      "date": 1469750400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNjMzU4MzA4ZDMyN2Y3MjFhMzE0YTQ1NjVlMjllMTc=",
+      "date": 1464566400000,
+      "text": "006 - Descritivo de fun\u00e7\u00e3o - Ajudante de Manuten\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDg4NjE0YWQ2NzNkZmZjOTU2NDIzYjI5YzBiZWY5M2M=",
+      "date": 1489968000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTIwYmU4NDM0MjUwOTJlNzkxNDkyNzgwMmU4NzNhOWI=",
+      "date": 1464134400000,
+      "text": "Treinamento EPI JUN. 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWU3ZDRlMmFjYmIwMzIyNGI3YjBmMTYyMzVlOWJjNTM=",
+      "date": 1464134400000,
+      "text": "Ficha de EPI jo\u00e3o Gomes | Recibo de EPI (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI5ZGNjNDFiMDUxMjY4NmUyYTM2NWI1MTYzMTdlY2M=",
+      "date": 1464134400000,
+      "text": "RECIBOS PAGAMENTOS CHENY 3 | Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzk5ZjE2ZjcyZmVhMWE5YTAwZDczNzI3OThlYTEyMzk=",
+      "date": 1473897600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTk5MTBjZWM3ZTM2ZDUwMTI4ZWM0MmRmOTA0NGZjOTg=",
+      "date": 1496102400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjNmZDY1ZWM1MGVhZGY4MTQ2ODQxYmFhNWM2ZGRlMmM=",
+      "date": 1476144000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (24/04/2017 10:30 - 3\u00aa Vara do Trabalho de Juiz de Fora)",
+      "attachments": []
+    },
+    {
+      "id": "MDFmMjBiMjEwZDI4ZjU3NDRlNjk3NTU2MTE4MzIyZjA=",
+      "date": 1500422400000,
+      "text": "Decorrido o prazo de ANDREA JULIETA SILVA em 18/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODlmNmRlNjZlNGY2ZjdhNzY2ZTc0NGIyOTc2NmExMTk=",
+      "date": 1473379200000,
+      "text": "MANIFESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdjNjZlNTY2NDdlYjE4NzMzYmEwYTlhMDQxMjdiZjI=",
+      "date": 1464566400000,
+      "text": "007 - Laudo pericial (Roberto Pires Jambo - RT 0010782-24.2015.5.03.0037) | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjcyYzI4MjdkNWNkZmE1N2ExMjAzMDVlOWJkMjI1MjE=",
+      "date": 1464134400000,
+      "text": "carta de preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWU5YzNhYjIzMDdmNTAyMmZlYWNhYjc0YTlhNWEzN2M=",
+      "date": 1496016000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzYxNzc2NDU2MjgzMTk0M2UyZTE5OTZmYjdhZjlkNGM=",
+      "date": 1476403200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzdlNGJmYzY0Zjk5YzFlOTI5NmU0Zjc2ZThlOTQ5NDk=",
+      "date": 1476144000000,
+      "text": "Conclusos os autos para despacho a KEYLA DE OLIVEIRA TOLEDO E VEIGA",
+      "attachments": []
+    },
+    {
+      "id": "NDVhNWM3NmQwYjZiNmJkNmYyMTM2NDYwZDcwOWE0M2Y=",
+      "date": 1476230400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTZkZjMyNTEyYzY2ZTBkZGJmMGMxMjAwZTdkYTA4MjM=",
+      "date": 1492646400000,
+      "text": "Peti\u00e7\u00e3o adiamento de audiencia EBSE x sindicato juiz de fora (1) | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmYxNDI0YzNlNDMwMDZjNzM1OWRjMmY4YTlmNTAxYzI=",
+      "date": 1465171200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTIxZjJlMzBhYTM1M2VmZDNjN2E4NWNmMDNiYmEwOTA=",
+      "date": 1498176000000,
+      "text": "Ato Ordinat\u00f3rio | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJkZjg0ODNiMDBhZTU4ZjAwZmU0NWQyYmNmNjgzZTU=",
+      "date": 1474934400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGNmMDNlMTViZWRmNjY3YjE2NGU1ZThlYjlmNDZkZmY=",
+      "date": 1478822400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTRkOTdlYjI2NTcyNzVjNzM1NmQ4NThiMWFkMzI1OGM=",
+      "date": 1464307200000,
+      "text": "003 Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,431 @@
+{
+  "lawsuit": {
+    "id": "NzIwYWZhNWEtYXV0b21hdGljOjAtMDEwMDkyMjc2MjAxNjUwMTAwNTMtbGF3c3VpdA==",
+    "activityCount": 28,
+    "number": "0100922-76.2016.5.01.0053",
+    "value": 40000.0,
+    "subject": "Ass\u00e9dio Moral, Abrang\u00eancia da Condena\u00e7\u00e3o, Adicional, Adicional Noturno, Anota\u00e7\u00e3o na CTPS, Aviso Pr\u00e9vio, Dep\u00f3sito / Diferen\u00e7a de Recolhimento, Multa de 40% do FGTS, \u00d4nus da Prova",
+    "kind": "Trabalhista",
+    "district": "53\u00aa Vara do Trabalho do Rio de Janeiro",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "A. C. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": "092.338.057-43",
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "R. D. S.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Fernando Soares de Assis",
+            "cpf": "429.274.127-15",
+            "lawyerId": "ZDI1ZWUyMmUtYXV0b21hdGljOjAtYzVjM2ExZDI4ZjU4YmNiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "R. L. C. T. P. T. L.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "R. T. D. L. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Nelson Soares Cordeiro",
+            "cpf": "593.709.477-87",
+            "lawyerId": "MGM3M2M4MjgtYXV0b21hdGljOjAtODVjN2MyYTg4YjNhZTJiLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1498068521000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Ass\u00e9dio Moral",
+                "code": 1723
+              },
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Dep\u00f3sito / Diferen\u00e7a de Recolhimento",
+                "code": 2033
+              },
+              {
+                "level": 3,
+                "text": "FGTS mas em outro ramo na \u00e1rvore da justi\u00e7a do trabalho",
+                "code": 2029
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional",
+                "code": 2594
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1663-1723-1844-1998-2033-2594-2641"
+      }
+    ],
+    "court": "TRT1",
+    "courtSection": "Gabinete do Desembargador Jos\u00e9 Antonio Teixeira da Silva",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTg1",
+      "date": 1467051466000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTgx",
+      "date": 1480955963000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdm",
+      "date": 1487785882000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdi",
+      "date": 1493738417000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTZj",
+      "date": 1520564751000,
+      "text": "Decorrido o prazo de ROTAN TRANSPORTES E DISTRIBUICAO LOGISTICA LTDA - ME em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTg2",
+      "date": 1466717821000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTcx",
+      "date": 1519442038000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTcy",
+      "date": 1518813061000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTZl",
+      "date": 1520564751000,
+      "text": "Decorrido o prazo de ROBSON DI STASIO em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc1",
+      "date": 1510226992000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTg0",
+      "date": 1468844447000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTZk",
+      "date": 1520564751000,
+      "text": "Decorrido o prazo de RIOSP LOG - COOPERATIVA DE TRABALHO DOS PROFISSIONAIS EM TRANSPORTE E LOGISTICA em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc0",
+      "date": 1510279303000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 10/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTZi",
+      "date": 1520949704000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTcw",
+      "date": 1519442039000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 26/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc2",
+      "date": 1510226958000,
+      "text": "Inclu\u00eddo o processo em pauta (28/11/2017, 10:00:00, SALA 1 (10 h))",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTgw",
+      "date": 1481839526000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdk",
+      "date": 1491066693000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc3",
+      "date": 1507326876000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdj",
+      "date": 1492613541000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTgz",
+      "date": 1469016217000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc4",
+      "date": 1504008530000,
+      "text": "Conclusos os autos para julgamento (relatar) a JOSE ANTONIO TEIXEIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdl",
+      "date": 1490920996000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTc5",
+      "date": 1498068523000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTcz",
+      "date": 1511970217000,
+      "text": "Conhecido o recurso de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTZm",
+      "date": 1520564751000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTdh",
+      "date": 1495724251000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzZGZlYmJiYzEzODBkODMxNGZiOTgy",
+      "date": 1472834731000,
+      "text": "Despacho",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

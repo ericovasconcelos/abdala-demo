@@ -1,0 +1,281 @@
+{
+  "lawsuit": {
+    "id": "N2U2MDk0MTMtYXV0b21hdGljOjAtMDAxMDU5MjEyMjAxODUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 31,
+    "number": "0010592-12.2018.5.03.0084",
+    "value": 3212.71,
+    "subject": "Verbas Rescis\u00f3rias",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "CONSIGNANTE",
+          "normalized": "Consignante"
+        },
+        "lawyers": [
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Gustavo Magalhaes Assis",
+            "cpf": "040.705.326-33",
+            "lawyerId": "YmE4YzlhNzQtYXV0b21hdGljOjAtOGE1ZTlkZTAwN2UxMTM0LXVuaWZpZWQ="
+          },
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "F. O. B.",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "CONSIGNAT\u00c1RIO",
+          "normalized": null
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1529522766000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2546"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ConPag",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM5",
+      "date": 1529524494000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI1",
+      "date": 1530577308000,
+      "text": "Audi\u00eancia inicial realizada (02/07/2018 15:25 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM4",
+      "date": 1529524494000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDJl",
+      "date": 1530145496000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDNh",
+      "date": 1529522770000,
+      "text": "Audi\u00eancia inicial designada (02/07/2018 14:05 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDNi",
+      "date": 1529522766000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDJm",
+      "date": 1530145255000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDIw",
+      "date": 1530577309000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM0",
+      "date": 1530141163000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDFl",
+      "date": 1530732930000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM2",
+      "date": 1529702012000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDFm",
+      "date": 1530594885000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 02/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDMw",
+      "date": 1530145255000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDFk",
+      "date": 1531159252000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI3",
+      "date": 1530287834000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI5",
+      "date": 1530260438000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDMx",
+      "date": 1530143806000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDFi",
+      "date": 1531457561000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 12/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDJi",
+      "date": 1530191159000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM1",
+      "date": 1530133996000,
+      "text": "Audi\u00eancia inicial redesignada (02/07/2018 15:25 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDJj",
+      "date": 1530145496000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDM3",
+      "date": 1529524495000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI0",
+      "date": 1530577308000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDIz",
+      "date": 1530577309000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a VOTORANTIM METAIS ZINCO S.A.                                                                                                                          ",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDIy",
+      "date": 1530577309000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 64.25",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDMz",
+      "date": 1530143255000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI4",
+      "date": 1530260440000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/06/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDI2",
+      "date": 1530287887000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDFh",
+      "date": 1531457564000,
+      "text": "Decorrido o prazo de FERNANDO DE OLIVEIRA BARREIROS em 12/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDJh",
+      "date": 1530191159000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGY2ZDQxMzQxNDNlYThjOWYzMDMy",
+      "date": 1530143257000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

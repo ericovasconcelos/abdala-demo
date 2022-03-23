@@ -1,0 +1,660 @@
+{
+  "lawsuit": {
+    "id": "MDM0YTYxOWQtYXV0b21hdGljOjAtMDAwMDY5MDI4MjAxMzUwMzAxNDMtbGF3c3VpdA==",
+    "activityCount": 94,
+    "number": "0000690-28.2013.5.03.0143",
+    "value": 30000.0,
+    "subject": "Abono Pecuni\u00e1rio",
+    "kind": "Trabalhista",
+    "district": "5\u00aa Vara do Trabalho de Juiz de Fora",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "A. L. B. N.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Gilziene de Oliveira Freitas",
+            "cpf": "956.665.167-87",
+            "lawyerId": "NTE5YTU5MWUtYXV0b21hdGljOjAtYjkwNjYwYmJhNzJkZWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Barbara Hargreaves Carvalho Tymburiba",
+            "cpf": "067.043.686-04",
+            "lawyerId": "MjlkMzZkMjktYXV0b21hdGljOjAtNGM2OGJiY2NjZDAwODg2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Fl\u00e1vio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "YTc3MDUwOGMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1357048800000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Abono Pecuni\u00e1rio",
+                "code": 2663
+              },
+              {
+                "level": 2,
+                "text": "F\u00e9rias",
+                "code": 2662
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2663"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "5\u00aa Vara do Trabalho de Juiz de Fora",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdj",
+      "date": 1549649142000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY4",
+      "date": 1554825768000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdk",
+      "date": 1549339966000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 04/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTM4",
+      "date": 1568722992000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNl",
+      "date": 1567052570000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU4",
+      "date": 1558037752000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc0",
+      "date": 1553664099000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 26/03/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVm",
+      "date": 1556540921000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg0",
+      "date": 1547522495000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVj",
+      "date": 1557298364000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTkx",
+      "date": 1542258163000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdi",
+      "date": 1549896363000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTcz",
+      "date": 1553693295000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThi",
+      "date": 1543298139000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU1",
+      "date": 1558331427000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThk",
+      "date": 1543226959000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg5",
+      "date": 1545198325000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 18/12/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg3",
+      "date": 1547063177000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRl",
+      "date": 1559629180000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ3",
+      "date": 1561987956000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU2",
+      "date": 1558331427000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc2",
+      "date": 1553244168000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVi",
+      "date": 1557298364000,
+      "text": "Publicado(a) o(a) Despacho em 07/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTM5",
+      "date": 1568171377000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 10/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY3",
+      "date": 1554825769000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQw",
+      "date": 1566585785000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThj",
+      "date": 1543226960000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdl",
+      "date": 1549339965000,
+      "text": "Decorrido o prazo de ANDRE LUIZ BATISTA DO NASCIMENTO em 04/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRh",
+      "date": 1560964366000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZl",
+      "date": 1554319601000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZh",
+      "date": 1554453978000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTgz",
+      "date": 1547522496000,
+      "text": "Publicado(a) o(a) Despacho em 21/01/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTUy",
+      "date": 1559073862000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY5",
+      "date": 1554822152000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTkw",
+      "date": 1542258163000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZk",
+      "date": 1554319603000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNk",
+      "date": 1567052571000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdh",
+      "date": 1549896366000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ4",
+      "date": 1561386284000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTky",
+      "date": 1542202875000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTUw",
+      "date": 1559166131000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY1",
+      "date": 1554887371000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTcx",
+      "date": 1553890249000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Solicita\u00e7\u00e3o de habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTUx",
+      "date": 1559166128000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc4",
+      "date": 1553179462000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQz",
+      "date": 1564002220000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTk0",
+      "date": 1542195534000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZi",
+      "date": 1554453977000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVh",
+      "date": 1557892741000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 14/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTcw",
+      "date": 1554147375000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTYz",
+      "date": 1555610752000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Requerimento de transfer\u00eancia para conta banc\u00e1ria da reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQy",
+      "date": 1566213578000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado/",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ1",
+      "date": 1563972647000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ0",
+      "date": 1564002219000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVl",
+      "date": 1556841272000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU3",
+      "date": 1558037753000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTdm",
+      "date": 1549328417000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTYw",
+      "date": 1556540920000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRk",
+      "date": 1559629181000,
+      "text": "Publicado(a) o(a) Despacho em 04/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY0",
+      "date": 1555133856000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 12/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg2",
+      "date": 1547063178000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTgx",
+      "date": 1547522497000,
+      "text": "Publicado(a) o(a) Despacho em 21/01/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZj",
+      "date": 1554322092000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Requerimento convola\u00e7\u00e3o dep\u00f3sitos recursais e libera\u00e7\u00e3o bloqueio)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTk1",
+      "date": 1541530676000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTY2",
+      "date": 1554887371000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTYy",
+      "date": 1555999684000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 22/04/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNi",
+      "date": 1567052571000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNm",
+      "date": 1566585786000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRj",
+      "date": 1560310347000,
+      "text": "Decorrido o prazo de GILZIENE DE OLIVEIRA FREITAS em 11/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTZm",
+      "date": 1554318453000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc3",
+      "date": 1553179463000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU5",
+      "date": 1558008914000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTcy",
+      "date": 1553709929000,
+      "text": "Documento sigiloso",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTkz",
+      "date": 1542202874000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTVk",
+      "date": 1557285199000,
+      "text": "Decorrido o prazo de ANDRE LUIZ BATISTA DO NASCIMENTO em 07/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThl",
+      "date": 1542966853000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ5",
+      "date": 1561386284000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNh",
+      "date": 1568171377000,
+      "text": "Decorrido o prazo de ANDRE LUIZ BATISTA DO NASCIMENTO em 10/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTYx",
+      "date": 1556327226000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc5",
+      "date": 1553178245000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThh",
+      "date": 1543298139000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg4",
+      "date": 1547059530000,
+      "text": "Conclusos os autos para despacho  a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTNj",
+      "date": 1567052571000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTg1",
+      "date": 1547476348000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQ2",
+      "date": 1562814692000,
+      "text": "Decorrido o prazo de VICTOR MONTEIRO RODRIGUES em 10/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRm",
+      "date": 1559587747000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYThm",
+      "date": 1542904640000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTU0",
+      "date": 1559015769000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 27/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTUz",
+      "date": 1559015769000,
+      "text": "Decorrido o prazo de ANDRE LUIZ BATISTA DO NASCIMENTO em 27/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTc1",
+      "date": 1553244169000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTgw",
+      "date": 1548908757000,
+      "text": "Decorrido o prazo de VICTOR MONTEIRO RODRIGUES em 28/01/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTQx",
+      "date": 1566511020000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a TARCISIO CORREA DE BRITO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTRi",
+      "date": 1560395573000,
+      "text": "Decorrido o prazo de ANDRE LUIZ BATISTA DO NASCIMENTO em 12/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMmQ0MWE2ZTcxYzdhMTE1ZGIwYTgy",
+      "date": 1547522497000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

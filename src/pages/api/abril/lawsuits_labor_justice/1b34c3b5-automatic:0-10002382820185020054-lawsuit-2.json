@@ -1,0 +1,773 @@
+{
+  "lawsuit": {
+    "id": "MWIzNGMzYjUtYXV0b21hdGljOjAtMTAwMDIzODI4MjAxODUwMjAwNTQtbGF3c3VpdA==",
+    "activityCount": 91,
+    "number": "1000238-28.2018.5.02.0054",
+    "value": 50000.0,
+    "subject": "Adicional de Horas Extras, Adicional de Hora Extra, Adicional de Periculosidade, Comiss\u00e3o, Honor\u00e1rios na Justi\u00e7a do Trabalho, Multa Prevista em Norma Coletiva, Reflexos, Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia, Telemarketing",
+    "kind": "Trabalhista",
+    "district": "54\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "M. A. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Paulo Roberto de Oliveira Conceicao",
+            "cpf": "116.719.728-30",
+            "lawyerId": "ZTMyMDZlOTAtYXV0b21hdGljOjAtNmE5M2RmOGI4N2JjNzllLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "T. T. P. S. T. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Felipe Navega Medeiros",
+            "cpf": "267.873.758-67",
+            "lawyerId": "ZGJiZDQyMjUtYXV0b21hdGljOjAtZGJhZWQ5MzliNGE5NjgxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1564664384000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Comiss\u00e3o",
+                "code": 1783
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Multa Prevista em Norma Coletiva",
+                "code": 2215
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia",
+                "code": 2697
+              },
+              {
+                "level": 3,
+                "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+                "code": 2458
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Periculosidade",
+                "code": 10292
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1783-2141-2215-2697-10292-10303"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "7\u00aa Turma - Cadeira 2",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZk",
+      "date": 1600640801000,
+      "text": "Remetidos os autos para Vara do Trabalho para apreciar acordo",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThi",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.                                                                                           em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdk",
+      "date": 1599062242000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWIz",
+      "date": 1576269522000,
+      "text": "Conhecido o recurso de MICHAEL ANGELO MAXIMIANO - CPF: 347.661.138-88 e TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A. - CNPJ: 07.073.027/0001-53 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg5",
+      "date": 1597688447000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento designada (28/08/2020 14:00 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTk5",
+      "date": 1594263789000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTY4",
+      "date": 1600717651000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a JOSE CARLOS FOGACA",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTlh",
+      "date": 1594263789000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTcx",
+      "date": 1600500267000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWI3",
+      "date": 1573576701000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc2",
+      "date": 1599663881000,
+      "text": "Homologado o acordo em execu\u00e7\u00e3o ou em cumprimento de senten\u00e7a (valor do acordo: )",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJk",
+      "date": 1564412298000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTk2",
+      "date": 1594263793000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJl",
+      "date": 1561479658000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFl",
+      "date": 1580180774000,
+      "text": "Decorrido o prazo de TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.                                                                                           em 27/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWMz",
+      "date": 1529423945000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWIw",
+      "date": 1576702281000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o (Embargos de Declara\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE3",
+      "date": 1590782088000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTkw",
+      "date": 1594663043000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (manifesta\u00e7\u00e3o )",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTcz",
+      "date": 1600190016000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Discrimina\u00e7\u00e3o de Verbas)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFi",
+      "date": 1590771839000,
+      "text": "Conclusos os autos para despacho  a SANDRA DOS SANTOS BRASIL",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWMy",
+      "date": 1538668534000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWEx",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MICHAEL ANGELO MAXIMIANO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThl",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.                                                                                           em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFj",
+      "date": 1583325046000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Pedido de audi\u00eancia de concilia\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWI1",
+      "date": 1576179927000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE0",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWEz",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWMw",
+      "date": 1553179727000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE4",
+      "date": 1590782088000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZj",
+      "date": 1600640801000,
+      "text": "Baixado o incidente/ recurso ( / Recurso Ordin\u00e1rio) sem decis\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFh",
+      "date": 1590771847000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg0",
+      "date": 1597689625000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento designada (28/08/2020 14:00 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFk",
+      "date": 1580180774000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 27/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTlj",
+      "date": 1594263789000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTk0",
+      "date": 1594263794000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWI2",
+      "date": 1573614205000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 13/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTlk",
+      "date": 1594263788000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdj",
+      "date": 1599244383000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Regulariza\u00e7\u00e3o Processual)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWIy",
+      "date": 1576292612000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc0",
+      "date": 1600112287000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJm",
+      "date": 1558367123000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThj",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de MICHAEL ANGELO MAXIMIANO em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdi",
+      "date": 1599249736000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento e Carta de Preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZh",
+      "date": 1600640820000,
+      "text": "Prejudicado(s) o(s) Recurso Ordin\u00e1rio de MICHAEL ANGELO MAXIMIANO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE1",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MICHAEL ANGELO MAXIMIANO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc5",
+      "date": 1599571000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTgw",
+      "date": 1598640116000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTll",
+      "date": 1594263788000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTY5",
+      "date": 1600640820000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThh",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThk",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTkx",
+      "date": 1594409264000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (informando email)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWI5",
+      "date": 1572895145000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNThm",
+      "date": 1594695951000,
+      "text": "Decorrido o prazo de MICHAEL ANGELO MAXIMIANO em 13/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg3",
+      "date": 1597688745000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWI4",
+      "date": 1573576700000,
+      "text": "Inclu\u00eddo em pauta para 12/12/2019, 13:00:00, 12/12 Sala 18 - Sandra-C2 - Carolino - Sonia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWIx",
+      "date": 1576292612000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 16/12/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTY3",
+      "date": 1600717772000,
+      "text": "Prejudicado(s) o(s) Embargos de Declara\u00e7\u00e3o de MICHAEL ANGELO MAXIMIANO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTky",
+      "date": 1594263794000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdm",
+      "date": 1598643658000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE5",
+      "date": 1590771860000,
+      "text": "Conclusos os autos para despacho  a JOSE CARLOS FOGACA",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTgy",
+      "date": 1598628228000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (INFORMA\u00c7\u00c3O PARA LINK AUDI\u00caNCIA TIVIT)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZm",
+      "date": 1600640673000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTY2",
+      "date": 1600717772000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJj",
+      "date": 1564664384000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZi",
+      "date": 1600640820000,
+      "text": "Prejudicado(s) o(s) Recurso Ordin\u00e1rio de ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWE2",
+      "date": 1590782098000,
+      "text": "Remetidos os autos para Centro Judici\u00e1rio de M\u00e9todos Consensuais de Solu\u00e7\u00e3o de Disputas - CEJUSC-JT (2\u00ba Grau) para tentativa de concilia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc1",
+      "date": 1599663881000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg4",
+      "date": 1597688745000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MICHAEL ANGELO MAXIMIANO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdl",
+      "date": 1598660104000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento designada (04/09/2020 13:30 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc3",
+      "date": 1599663881000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento realizada (04/09/2020 13:30 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg1",
+      "date": 1597689563000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento cancelada (28/08/2020 14:00 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTY1",
+      "date": 1600822189000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para apreciar acordo",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWFm",
+      "date": 1580180774000,
+      "text": "Decorrido o prazo de MICHAEL ANGELO MAXIMIANO em 27/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTlm",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWEw",
+      "date": 1594150944000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTdh",
+      "date": 1599251742000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes NEOBPO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTZl",
+      "date": 1600640683000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a SANDRA DOS SANTOS BRASIL",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJh",
+      "date": 1572537259000,
+      "text": "Conclusos os autos para julgamento (revisar) a JOSE ROBERTO CAROLINO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTk1",
+      "date": 1594263794000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTc4",
+      "date": 1599583907000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes - TIVIT.)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTcw",
+      "date": 1600500509000,
+      "text": "Conclusos os autos para despacho  a JOSE CARLOS FOGACA",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWJi",
+      "date": 1572377433000,
+      "text": "Conclusos os autos para julgamento (relatar) a SANDRA DOS SANTOS BRASIL                                    ",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTk3",
+      "date": 1594263793000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTcy",
+      "date": 1600500235000,
+      "text": "Conclusos os autos para despacho  a SANDRA DOS SANTOS BRASIL",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTli",
+      "date": 1594263789000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTg2",
+      "date": 1597688746000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ABRIL COMUNICACOES S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNWMx",
+      "date": 1541535525000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTgx",
+      "date": 1598640116000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento realizada (28/08/2020 14:00 - CEJUSC 2 Inst\u00e2ncia)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZTRmMGFjZDhjMDMxNmY0NTFiNTkz",
+      "date": 1594263794000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

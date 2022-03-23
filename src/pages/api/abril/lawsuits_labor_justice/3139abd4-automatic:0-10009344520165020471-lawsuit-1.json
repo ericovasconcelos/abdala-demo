@@ -1,0 +1,495 @@
+{
+  "lawsuit": {
+    "id": "MzEzOWFiZDQtYXV0b21hdGljOjAtMTAwMDkzNDQ1MjAxNjUwMjA0NzEtbGF3c3VpdA==",
+    "activityCount": 63,
+    "number": "1000934-45.2016.5.02.0471",
+    "value": 50000.0,
+    "subject": "Gratifica\u00e7\u00e3o de Fun\u00e7\u00e3o, Indeniza\u00e7\u00e3o por Dano Moral",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Deise Helena Geralda de Melo Cegolin",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Daniela Chicchi Grunspan",
+            "cpf": "166.717.438-00",
+            "lawyerId": "YWJmYWMyYzctYXV0b21hdGljOjAtOWEwZGZjZGQxZDA1ODBjLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Empresa Brasileira de Correios e Telegrafos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Maury Izidoro",
+            "cpf": "474.904.549-72",
+            "lawyerId": "N2YwNmUwYWItYXV0b21hdGljOjAtNWVjYWIxZTJiNWM4ZDI3LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1465328008000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Gratifica\u00e7\u00e3o de Fun\u00e7\u00e3o",
+                "code": 8818
+              },
+              {
+                "level": 3,
+                "text": "Gratifica\u00e7\u00e3o",
+                "code": 2055
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1855-8818"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZi",
+      "date": 1502724446000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZm",
+      "date": 1497302528000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk3",
+      "date": 1465418222000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a DEISE HELENA GERALDA DE MELO CEGOLIN - CPF: 105.329.128-02",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZl",
+      "date": 1498251407000,
+      "text": "Embargos Declarat\u00f3rios",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY3",
+      "date": 1524155006000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY1",
+      "date": 1524163211000,
+      "text": "Conclusos os autos para despacho  a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdi",
+      "date": 1480988024000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS(Oficial) - CNPJ: 34.028.316/0001-03 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY4",
+      "date": 1517427968000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhm",
+      "date": 1466017051000,
+      "text": "Devolu\u00e7\u00e3o de mandado",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzlh",
+      "date": 1465328016000,
+      "text": "Audi\u00eancia una designada (18/10/2016 10:10 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZh",
+      "date": 1503492843000,
+      "text": "Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzcz",
+      "date": 1487073986000,
+      "text": "Of\u00edcio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg1",
+      "date": 1478874428000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a DEISE HELENA GERALDA DE MELO CEGOLIN",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzgx",
+      "date": 1479872119000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg2",
+      "date": 1478874428000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de DEISE HELENA GERALDA DE MELO CEGOLIN",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzcy",
+      "date": 1487883337000,
+      "text": "MINIST\u00c9RIO P\u00daBLICO DO TRABALHO",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY5",
+      "date": 1517427967000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzgz",
+      "date": 1479755086000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzcx",
+      "date": 1496931314000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc5",
+      "date": 1481167030000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhj",
+      "date": 1475766051000,
+      "text": "contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzYz",
+      "date": 1524166387000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhk",
+      "date": 1466225157000,
+      "text": "Decorrido o prazo de DEISE HELENA GERALDA DE MELO CEGOLIN em 17/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzli",
+      "date": 1465328008000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk0",
+      "date": 1465492034000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhi",
+      "date": 1476801760000,
+      "text": "Audi\u00eancia una realizada (18/10/2016 11:10 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg0",
+      "date": 1478874428000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzky",
+      "date": 1465492037000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc3",
+      "date": 1482203864000,
+      "text": "Decorrido o prazo de DEISE HELENA GERALDA DE MELO CEGOLIN em 19/12/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg4",
+      "date": 1478272148000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzYy",
+      "date": 1524166388000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg5",
+      "date": 1476815287000,
+      "text": "Audi\u00eancia julgamento designada (04/11/2016 16:05 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc1",
+      "date": 1487013113000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY2",
+      "date": 1524163201000,
+      "text": "Transitado em julgado em 20/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzg3",
+      "date": 1478874426000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzkz",
+      "date": 1465492035000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhh",
+      "date": 1476801760000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzVm",
+      "date": 1524811726000,
+      "text": "Decorrido o prazo de DEISE HELENA GERALDA DE MELO CEGOLIN em 26/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk1",
+      "date": 1465492029000,
+      "text": "Mandado",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdh",
+      "date": 1480988029000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk2",
+      "date": 1465492028000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzkx",
+      "date": 1465721023000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk4",
+      "date": 1465418221000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc0",
+      "date": 1487013119000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzlj",
+      "date": 1465327891000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdj",
+      "date": 1480988024000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZj",
+      "date": 1502724446000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdk",
+      "date": 1480966192000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzZk",
+      "date": 1502305983000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzY0",
+      "date": 1524166387000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzcw",
+      "date": 1497302528000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzVl",
+      "date": 1524850499000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc4",
+      "date": 1481167030000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/12/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdm",
+      "date": 1480645360000,
+      "text": "Decorrido o prazo de DEISE HELENA GERALDA DE MELO CEGOLIN em 01/12/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzc2",
+      "date": 1486030387000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzgw",
+      "date": 1480338892000,
+      "text": "RO ECT",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzgy",
+      "date": 1479872119000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzYw",
+      "date": 1524296243000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzhl",
+      "date": 1466017052000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzYx",
+      "date": 1524296243000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzk5",
+      "date": 1465388221000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzkw",
+      "date": 1465721024000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZDM1ZDA1NTQ5YmZmMDBmZGMzNzdl",
+      "date": 1480645361000,
+      "text": "Decorrido o prazo de EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS(Oficial) em 01/12/2016 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

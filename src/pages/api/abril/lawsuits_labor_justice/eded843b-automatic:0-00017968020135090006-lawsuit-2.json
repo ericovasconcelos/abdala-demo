@@ -1,0 +1,254 @@
+{
+  "lawsuit": {
+    "id": "ZWRlZDg0M2ItYXV0b21hdGljOjAtMDAwMTc5NjgwMjAxMzUwOTAwMDYtbGF3c3VpdA==",
+    "activityCount": 22,
+    "number": "0001796-80.2013.5.09.0006",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": "6\u00aa Vara do Trabalho de Curitba",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Banco do Brasil S.A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante(s)",
+          "normalized": "Agravante"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Gerson Aroldo do Amaral",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Alerta Servi\u00e7os de Vigil\u00e2ncia Ltda.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Marilda Vicente da Silva",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Rosa Maria de Boer",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Dhyomaro Parente dos Santos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Maria Alice Parente dos Santos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Denis George Martins Gon\u00e7alves",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Marcos Cesar Zampieri",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado(s)",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1357048800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "7\u00aa Turma",
+    "nature": {
+      "raw": "AIRR",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM1",
+      "date": 1561690800000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNl",
+      "date": 1485828000000,
+      "text": "Recebidos os autos para triagem",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM2",
+      "date": 1489374000000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM5",
+      "date": 1486951200000,
+      "text": "Publicado despacho em 13/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM3",
+      "date": 1489114800000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 9\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNk",
+      "date": 1486000800000,
+      "text": "Recebidos os autos - triagem conclu\u00edda",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDQz",
+      "date": 1481594400000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNi",
+      "date": 1486605600000,
+      "text": "Remetidos os Autos para Secretaria-Geral Judici\u00e1ria para publicar decis\u00e3o monocr\u00e1tica",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM0",
+      "date": 1561690800000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDQy",
+      "date": 1481594400000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDJm",
+      "date": 1580698800000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro CMB - T7 em 03/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDQw",
+      "date": 1481853600000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDQx",
+      "date": 1481680800000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNm",
+      "date": 1485828000000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDMx",
+      "date": 1571626800000,
+      "text": "Remetidos os autos \u00e0 CCADP - Nova remessa pelo TRT",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDMz",
+      "date": 1561690800000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos ( retorno do TRT com novo recurso )",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDJk",
+      "date": 1580785200000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Cl\u00e1udio Mascarenhas Brand\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDMw",
+      "date": 1579489200000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNh",
+      "date": 1486692000000,
+      "text": "Negado seguimento ao recurso.",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDMy",
+      "date": 1571626800000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDM4",
+      "date": 1489114800000,
+      "text": "Transitado em Julgado em 21/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWViZjM1YTQ2MDY3OGVmNDBkZTE3ZDNj",
+      "date": 1486000800000,
+      "text": "Remetidos os Autos para Gabinete da Presid\u00eancia para exame",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

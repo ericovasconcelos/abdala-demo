@@ -1,0 +1,626 @@
+{
+  "lawsuit": {
+    "id": "MmFiOGE0MzUtYXV0b21hdGljOjE2MDQyODI0LTEwMDA1OTk1MTIwMTY1MDIwMjA0LWxhd3N1aXQ=",
+    "activityCount": 92,
+    "number": "1000599-51.2016.5.02.0204",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Franciane Cristina da Silva Lima",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Roberto Hiromi Sonoda",
+            "cpf": "104.736.058-64",
+            "lawyerId": "OWUyMGFhNzAtYXV0b21hdGljOjE2MDQyODI0LTRmNDIwOTk5NzBiMzQ4Ni1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Centrix Contact Center LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Editora Abril",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NjcxODBlODYtYXV0b21hdGljOjE2MDQyODI0LWFiMmVlZjExY2JlY2UwYS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "13\u00aa Turma - Cadeira 2",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": "RECURSO ORDIN\u00c1RIO TRABALHISTA"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MmI0ZjFhZWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MTQwNDVmNzQxODIzNDItMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "TELEMARKETING - 2015 - 2016 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTdkYTNjZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZjM0ZTk0MzM4YTU4MzQtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "TELEMARKETING - 2016 - 2016 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzUxNzU3N2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MzZmMDQ2OGI3MGY0Y2YtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "TELEMARKETING - 2014 - 2015 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzhjNGY4YWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YmVkNTMxMmJhNjFiYzMtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "TELEMARKETING - 2014 - 2014 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDc3NTFjMTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NzljMmRjOGE1M2M5NzAtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "TELEMARKETING - 2012 - 2013 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njc5NmVhYmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZjE2Nzg2NmVhZTE3NWItMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "DOC 3 - CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjVjNWEwNDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMGNjYzFiOGFjZDQ4YzMtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "DOC 2 - RG | Registro Geral - RG - Carteira de Identidade Civil (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzkwNzAwZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMGU0MmMzYmViNDYwMWQtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "DOC 1 - PROCURA\u00c7\u00c3O, SUBSTABELECIMENTO, DECLARA\u00c7\u00c3O, CONTRATO DE HONOR\u00c1RIOS | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzgyM2FiODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZmI2OTQ2N2QwYTg1NzQtMTQ2NTE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465182000000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJhMzMzYjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjVlMGM3OWM1NTM1ZjItMTQ2NTI2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465268400000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE2NWE3Y2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZDg5ODdkMWVhZTdlZjktMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Contrato e aditivo Centrix Parte2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThmMTJlYTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzZkNGU2MWZmYmEzMmUtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Contrato Centrix Parte1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2JlYzcwOTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYjk3MjkxZjVjYTMyMzAtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTgxMTRkMGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NTJjNjJmYmI5YzM0YmQtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "SUBS - FRANCIANE CRISTINA DA SILVA LIMA Osmar (Thais Marques) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZjOTk3N2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNzZhYzI5YTZhZTc0NTItMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Juntada de Substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNlN2ZlOTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zODE2MmIyNjRhNmJjZDQtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzNjQwZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMjEzZDc3NzQ0YjM3ZDgtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFjMTcyNTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNWEwMGQzOTA0NWU3ZmQtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTUzZjE0NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYmNmODA3ZTFjM2JkZTgtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGUxYWFjZTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMTI0MDhjNjg4MjJhYmQtMTQ3MTU3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1471575600000,
+      "text": "Atos | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA5YzIxODktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NTcyZWJhNjZmODExODAtMTQ3MjAwNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472007600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YWFhMzRkZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MDM4NDdlYzI0OTA2OGEtMTQ3MjQzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472439600000,
+      "text": "RAZ\u00d5ES FINAIS | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzYwZjQyNzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMjY1YWExYTg3OGUwMjAtMTQ3MjQzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472439600000,
+      "text": "juntada | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc4ZmNlNzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MzcxN2YzYWQ1NDhjZDgtMTQ3MjQzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472439600000,
+      "text": "Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE0NjFjMjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZWExNWZhMGQwNjNhNzEtMTQ3MjQzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472439600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWViN2EyMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNmNkM2MyZDc0OTFlNDUtMTQ3MzMwMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1473303600000,
+      "text": "FRANCIANE CRISTINA DA SILVA LIMA X CENTRIX + ABRIL COMUNICA\u00c7\u00d5ES - S\u00daMULA 197 | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTdlN2ZkN2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NWVjY2NjYTU5ZDNjNWMtMTQ3MzMwMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1473303600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTZiOWUzYTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNjJkNWMzN2EzZmI1NDUtMTQ3NDUxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1474513200000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YzE0YTM4NzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjVlMGM3OWM1NTM1ZjItMTQ3NDU5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1474599600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjNmYTJmOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iOGE5YjJkYTYxMmQ3OGUtMTQ3NDk0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1474945200000,
+      "text": "EMBARGOS DE DECLARA\u00c7\u00c3O | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDNkMmE0MGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWRkNzNkZWVkZmJiODMtMTQ3NTQ2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1475463600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjQ1OThlMzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjVlMGM3OWM1NTM1ZjItMTQ3NTU1MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1475550000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q1ZDA4ZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YWJlZmI0MzNmMDcxNmQtMTQ3NjMyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476327600000,
+      "text": "Recuso Ordin\u00e1rio - Franciane | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI1NTBlMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NWVjY2NjYTU5ZDNjNWMtMTQ3NjMyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476327600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjUzYmZlZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODhmY2E5YTk1NDVkOGMtMTQ3NjQxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476414000000,
+      "text": "RO - FRANCIANE CRISTINA DA SILVA LIMA X CENTRIX CONTACT CENTER LTDA. + EDITORA ABRIL | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ1MDNmNDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjM1MmNkZDFhZDIyODgtMTQ3NjQxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476414000000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM1Mzc1ODktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZjY0NWIzNWUxOWY2NmItMTQ3NjQxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476414000000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBhZGJjMDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWRkNzNkZWVkZmJiODMtMTQ3NjQxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476414000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Mjc1OWM2NDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZjY0NWIzNWUxOWY2NmItMTQ3NjY2OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476669600000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTJlY2Y0OGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjVlMGM3OWM1NTM1ZjItMTQ3NjY2OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476669600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzAyNzRiM2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWRkNzNkZWVkZmJiODMtMTQ3NjY2OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1476669600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDdkZWM4ZGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYzU1ZjExZGRjOTdmOTYtMTQ3NzI3NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1477274400000,
+      "text": "Contrarraz\u00f5es de Recurso Ordin\u00e1rio | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjg5OWQyNmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NWVjY2NjYTU5ZDNjNWMtMTQ3NzI3NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1477274400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjkzZDkzYTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mOTdlNTgzYzMzYmYzMDAtMTQ3NzQ0NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1477447200000,
+      "text": "CRRO - Franciane Cristina da Silva Lima x Centrix | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2NmMTkxYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOWM3YTc2NDc3YzIzODktMTQ3NzQ0NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1477447200000,
+      "text": "Contrarraz\u00f5es Recurso Ordin\u00e1rio | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThjZmZhYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNjM1MmNkZDFhZDIyODgtMTQ3NzQ0NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1477447200000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTEwNDQxYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNzY1NWZhN2JmYmQzYzEtMTQ4MTA3NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1481076000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "ZDU2NDlmMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjU5OGUzYjhmZGQyN2YtMTQ4NjM0NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1486346400000,
+      "text": "Conclusos os autos para julgamento (relatar) a TANIA BIZARRO QUIRINO DE MORAIS",
+      "attachments": []
+    },
+    {
+      "id": "NDJlODc1YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZWNkYjAyM2RhN2VjMjEtMTQ4Njk1MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1486951200000,
+      "text": "Conclusos os autos para julgamento (revisar) a PAULO JOSE RIBEIRO MOTA",
+      "attachments": []
+    },
+    {
+      "id": "YjdkMmI3ZDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODQyMWJmODEzMWI2MmQtMTQ4NzczMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1487732400000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NDRhMTIwNWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmI4ZTg5Zjk1OTUxYjYtMTQ5MjU3MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1492570800000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjJjNzJmM2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMGU3ZmVlYjMwZTAzYmItMTQ5MjU3MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1492570800000,
+      "text": "Inclu\u00eddo em pauta para 09/05/2017, 13:00:00, Sala 07 - TA/PA/CI",
+      "attachments": []
+    },
+    {
+      "id": "MDU3MmQ1ZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NDM3MzdiYjJhMWFjMDgtMTQ5MjY1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1492657200000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 20/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "YTZkZTVkOTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZGY2ZDY3ZDk3MmEwNGMtMTQ5NDI5ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494298800000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTdkMzE3MDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jODgwMzU2YTMwYzAwYzgtMTQ5NDQ3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494471600000,
+      "text": "Conhecido o recurso de FRANCIANE CRISTINA DA SILVA LIMA - CPF: 383.091.158-06 e EDITORA ABRIL e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "ZTFjYjllMDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YWY2MWRkOGEyNmE1NGEtMTQ5NDkwMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494903600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDQ1YWE2ZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kODZmOGVhYTJhYjBjOGItMTQ5NTA3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495076400000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MWYyOTIzNTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYmM0ZjVkMmJiYTljYmItMTQ5NTA3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495076400000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 18/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "YTY0YjQ1NTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kODA1M2M4Y2NiNmJhNjEtMTQ5NTc2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495767600000,
+      "text": "RECURSO DE REVISTA | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQyM2NlOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNDkyYzZlMDQwZDlkZmUtMTQ5NTc2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495767600000,
+      "text": "RECURSO DE REVISTA | Recurso de Revista (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Q2OGRjNzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYzBhZjU1OTg4YjQ3YWYtMTQ5NTg1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495854000000,
+      "text": "Decorrido o prazo de EDITORA ABRIL em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODI2MTNmYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNWY2ZTJkNDYyM2ZmNTQtMTQ5NTg1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495854000000,
+      "text": "Decorrido o prazo de FRANCIANE CRISTINA DA SILVA LIMA em 26/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzEyOTNiMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00N2Y2NWExMzJkNGEzOTYtMTQ5NjExMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496113200000,
+      "text": "Baixado o incidente/recurso ( / Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "N2NkNzhkMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjczMmUwZDJjYWJmYjMtMTQ5NjExMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496113200000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjEyNWYxNjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MTYxM2QxNGFkZTFiNWItMTQ5NjExMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496113200000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5MDMxNTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZjM2NjBlZDllODcyMjctMTQ5NjE5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496199600000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a CARLOS ROBERTO HUSEK",
+      "attachments": []
+    },
+    {
+      "id": "YjNlYjg3YWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWRkNzNkZWVkZmJiODMtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDE2YWMyODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jN2NjNDNjMTc4NGY2MTMtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "N\u00e3o admitido o Recurso de Revista de FRANCIANE CRISTINA DA SILVA LIMA - CPF: 383.091.158-06",
+      "attachments": []
+    },
+    {
+      "id": "Y2IxYTIxMjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YWY2MWRkOGEyNmE1NGEtMTUwNzE3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507172400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhkMWEzZDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTg1ZDVhYTkyMzVmNTItMTUwNzI1ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507258800000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "M2ExNDRkMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYzljM2UzMDg3OTMxYTctMTUwNzI1ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507258800000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 06/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "ODZjZDQ4NGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZjcxYmY2NzVjYzlhMmYtMTUwNzg2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507863600000,
+      "text": "AI - Centrix e Editora Abril x Franciane | Agravo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2UwYmUwYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NWVjY2NjYTU5ZDNjNWMtMTUwNzg2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1507863600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTk4NWUxYTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02M2M3NjJmODY0YWM1ZjctMTUwODI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508292000000,
+      "text": "Decorrido o prazo de CENTRIX CONTACT CENTER LTDA em 17/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjdlMGFiMDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYmM3NjFiZGFhNDFkMGYtMTUwODI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508292000000,
+      "text": "Decorrido o prazo de FRANCIANE CRISTINA DA SILVA LIMA em 17/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZGUxOTU0MDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04Y2MzMzFmNmE5MDFmNzItMTUwODI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508292000000,
+      "text": "Decorrido o prazo de OSMAR DE OLIVEIRA SAMPAIO JUNIOR em 17/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjlhNmUzYjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MzJiZDA3ZGM3ODBjZjctMTUxMTMxNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1511316000000,
+      "text": "Conclusos os autos para decis\u00e3o do Agravo de Instrumento em Recurso de Revista a CARLOS ROBERTO HUSEK",
+      "attachments": []
+    },
+    {
+      "id": "NGQ1YjUyNmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjlmNTBiYTFjMmE4OTAtMTUxNjY3MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1516672800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ0MGU1MzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWRkNzNkZWVkZmJiODMtMTUxNjY3MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1516672800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2IyYmU1ZWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYTJmMjhlMGFmZjE0NTctMTUxNjY3MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1516672800000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de FRANCIANE CRISTINA DA SILVA LIMA - CPF: 383.091.158-06 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YzI0YTk2ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTg1ZDVhYTkyMzVmNTItMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NmI5NjU0YjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWQ0ZTA3MjIyNTZkMjAtMTUxNzI3NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517277600000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 30/01/2018",
+      "attachments": []
+    },
+    {
+      "id": "ODc1ODk4ZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OTQ4OGE1YTI1OTAyNTctMTUxODE0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518141600000,
+      "text": "Contraminuta de Agravo de Instrumento | Contraminuta (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU5NzM0NTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOWQ5YzRkZmZjNDY2OWMtMTUxODE0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518141600000,
+      "text": "Contrarraz\u00f5es de Recurso de Revista | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVhMTY5MDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NDFjYzNiMTJmZGNiNzUtMTUxODIyODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518228000000,
+      "text": "Decorrido o prazo de EDITORA ABRIL em 09/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWIwZDQ5ZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMmVlZDVkNWIzN2Y3MDAtMTUxODIyODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518228000000,
+      "text": "Decorrido o prazo de FRANCIANE CRISTINA DA SILVA LIMA em 09/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzE1NDE0YTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMDYyYTE2NzQ5ZDU5ODctMTUyMjExOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1522119600000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para julgar Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ1M2EyMzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODIxOTA3ODI1NzYyYmYtMTUyMjExOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1522119600000,
+      "text": "Remessa ao TST | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQwYTQ5OTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MTYxM2QxNGFkZTFiNWItMTUzNDEyOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534129200000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "ODEzOGIxZjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmVhYWE2OTJlYTZmMmMtMTUzNDEyOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534129200000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "ZTM5NGI5ZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMWUzMmUyYjExM2QyYWUtMTUzNDEyOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534129200000,
+      "text": "Pe\u00e7as do TST | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzAyNzk4NTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMzFhYTEwYTZkN2M4NjQtMTUzNDEyOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534129200000,
+      "text": "Juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

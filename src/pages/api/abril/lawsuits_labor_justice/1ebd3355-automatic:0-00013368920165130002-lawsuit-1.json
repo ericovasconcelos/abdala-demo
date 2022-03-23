@@ -1,0 +1,694 @@
+{
+  "lawsuit": {
+    "id": "MWViZDMzNTUtYXV0b21hdGljOjAtMDAwMTMzNjg5MjAxNjUxMzAwMDItbGF3c3VpdA==",
+    "activityCount": 43,
+    "number": "0001336-89.2016.5.13.0002",
+    "value": 100000.0,
+    "subject": "Aviso Pr\u00e9vio, Anota\u00e7\u00e3o na CTPS, CTPS, Descontos Salariais - Devolu\u00e7\u00e3o, Expurgos Inflacion\u00e1rios, FGTS, Frui\u00e7\u00e3o / Gozo, F\u00e9rias Proporcionais, Honor\u00e1rios na Justi\u00e7a do Trabalho, Indeniza\u00e7\u00e3o, Indeniza\u00e7\u00e3o / Dobra / Ter\u00e7o Constitucional, Indeniza\u00e7\u00e3o por Dano Material, Indeniza\u00e7\u00e3o por Dano Moral, Intervalo Intrajornada, Levantamento / Libera\u00e7\u00e3o, Libera\u00e7\u00e3o / Entrega das Guias, Multa do Artigo 467 da CLT, Multa do Artigo 477 da CLT, Reflexos, Seguro Desemprego, Supress\u00e3o / Redu\u00e7\u00e3o de Horas Extras Habituais - Indeniza\u00e7\u00e3o",
+    "kind": "Trabalhista",
+    "district": "2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "J. S. D.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Isabelle Costa Cavalcanti Pedroza",
+            "cpf": "468.413.774-00",
+            "lawyerId": "NDUxYzBkMTUtYXV0b21hdGljOjAtOWU2YzFiNGE0MDZlZmM4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "P. D. R.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Wilson Jose da Costa",
+            "cpf": "053.534.084-20",
+            "lawyerId": "ZDhhMTA0ZWQtYXV0b21hdGljOjAtYWEwMjM4NmJhNzkyNzE5LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1469457930000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7ao por Dano Moral",
+                "code": 1855
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Descontos Salariais - Devolu\u00e7\u00e3o",
+                "code": 1888
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Frui\u00e7\u00e3o / Gozo",
+                "code": 2019
+              },
+              {
+                "level": 2,
+                "text": "F\u00e9rias",
+                "code": 2662
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Levantamento / Libera\u00e7\u00e3o",
+                "code": 2037
+              },
+              {
+                "level": 3,
+                "text": "FGTS mas em outro ramo na \u00e1rvore da justi\u00e7a do trabalho",
+                "code": 2029
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 467 da CLT",
+                "code": 2210
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Indeniza\u00e7\u00e3o",
+                "code": 2479
+              },
+              {
+                "level": 3,
+                "text": "Seguro Desemprego",
+                "code": 2478
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Indeniza\u00e7\u00e3o por Dano Material",
+                "code": 8808
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Civil do Empregador",
+                "code": 2567
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "F\u00e9rias Proporcionais",
+                "code": 8821
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "FGTS",
+                "code": 10570
+              },
+              {
+                "level": 2,
+                "text": "Prescri\u00e7\u00e3o",
+                "code": 10568
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "redu\u00e7\u00e3o",
+                "code": 10773
+              },
+              {
+                "level": 3,
+                "text": "N\u00famero de vagas",
+                "code": 10765
+              },
+              {
+                "level": 2,
+                "text": "Elei\u00e7\u00e3o",
+                "code": 10763
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ELEITORAL E PROCESSO ELEITORAL DO STF",
+                "code": 10739
+              }
+            ],
+            "last_text": "DIREITO ELEITORAL E PROCESSO ELEITORAL DO STF",
+            "last_id": 10739
+          }
+        ],
+        "id": "1844-1855-1888-2019-2037-2086-2140-2210-2212-2479-2641-8808-8821-10570-10773"
+      }
+    ],
+    "court": "TRT13",
+    "courtSection": "2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY0",
+      "date": 1477533839000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVh",
+      "date": 1493216195000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a JULIAN SOARES DINIZ",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU0",
+      "date": 1494511401000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de JULIAN SOARES DINIZ - CPF: 380.583.938-35 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVm",
+      "date": 1492700398000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (20/04/2017 10:50 - 2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU3",
+      "date": 1493953450000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVi",
+      "date": 1493216195000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) /  ) de JULIAN SOARES DINIZ",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRi",
+      "date": 1500385165000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRj",
+      "date": 1495735415000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzZi",
+      "date": 1469466236000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU2",
+      "date": 1494506004000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a SOLANGE MACHADO CAVALCANTI",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU4",
+      "date": 1493953450000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRl",
+      "date": 1495681255000,
+      "text": "Decorrido o prazo de PLANETA DISTRIBUIDORA DE REVISTAS LTDA em 24/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY2",
+      "date": 1476974805000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ3",
+      "date": 1502199949000,
+      "text": "Conclusos os autos para despacho  a FLAVIA ROBERTA FARIAS DA COSTA ASSUNCAO",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzZk",
+      "date": 1469457931000,
+      "text": "Audi\u00eancia inicial designada (23/08/2016 08:30 - 2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ4",
+      "date": 1502199858000,
+      "text": "Transitado em julgado em 28/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzYw",
+      "date": 1478570509000,
+      "text": "Decorrido o prazo de ISABELLE COSTA CAVALCANTI PEDROZA em 07/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzUx",
+      "date": 1494903869000,
+      "text": "Decorrido o prazo de WILSON JOSE DA COSTA em 15/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU5",
+      "date": 1493216195000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 2000.00",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY5",
+      "date": 1471966416000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRk",
+      "date": 1495681255000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 24/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRm",
+      "date": 1494904011000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ0",
+      "date": 1502276238000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzYx",
+      "date": 1478570504000,
+      "text": "Decorrido o prazo de WILSON JOSE DA COSTA em 07/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzUy",
+      "date": 1494903869000,
+      "text": "Decorrido o prazo de OSMAR DE OLIVEIRA SAMPAIO JUNIOR em 15/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVl",
+      "date": 1492700398000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ5",
+      "date": 1501762999000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVk",
+      "date": 1493135834000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a VERUSKA SANTANA SOUSA DE SA",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzYy",
+      "date": 1478570504000,
+      "text": "Decorrido o prazo de OSMAR DE OLIVEIRA SAMPAIO JUNIOR em 07/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzU1",
+      "date": 1494511401000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY3",
+      "date": 1476973120000,
+      "text": "Conclusos os autos para despacho  a VERUSKA SANTANA SOUSA DE SA",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzUw",
+      "date": 1494904011000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzZh",
+      "date": 1471966416000,
+      "text": "Audi\u00eancia inicial realizada (23/08/2016 08:30 - 2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzZl",
+      "date": 1469457930000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzZj",
+      "date": 1469466236000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ2",
+      "date": 1502213678000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzRh",
+      "date": 1501762955000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzYz",
+      "date": 1477533839000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzUz",
+      "date": 1494903869000,
+      "text": "Decorrido o prazo de ISABELLE COSTA CAVALCANTI PEDROZA em 15/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzVj",
+      "date": 1493216194000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY1",
+      "date": 1476974805000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzY4",
+      "date": 1473164735000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (20/04/2017 10:50 - 2\u00aa Vara do Trabalho de Jo\u00e3o Pessoa)",
+      "attachments": []
+    },
+    {
+      "id": "NWY2ZmE5ZDIwNmY4MzgyNmVhZTAyMzQ1",
+      "date": 1502213678000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

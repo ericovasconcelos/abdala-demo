@@ -1,0 +1,390 @@
+{
+  "lawsuit": {
+    "id": "YjhlNWJjMWYtYXV0b21hdGljOjAtMDAxMDU4NjM5MjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 49,
+    "number": "0010586-39.2017.5.03.0084",
+    "value": 36248.0,
+    "subject": "Horas in Itinere",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "J. A. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1493300263000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas In Itinere",
+                "code": 1661
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1661"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI5",
+      "date": 1493300264000,
+      "text": "Audi\u00eancia una designada (15/05/2017 09:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk5",
+      "date": 1513014446000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFi",
+      "date": 1496460684000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 02/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njky",
+      "date": 1541632872000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI2",
+      "date": 1493744319000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njll",
+      "date": 1497670198000,
+      "text": "Decorrido o prazo de JOSE ADELINO DA SILVA em 16/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmEz",
+      "date": 1497279150000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njlk",
+      "date": 1497929008000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 19/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmEy",
+      "date": 1497280779000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI4",
+      "date": 1493318631000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmEx",
+      "date": 1497280779000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhk",
+      "date": 1543332517000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmIw",
+      "date": 1495589784000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / \n ) de JOSE ADELINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhl",
+      "date": 1541707557000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk2",
+      "date": 1540840297000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhm",
+      "date": 1541707556000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhh",
+      "date": 1547029895000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk1",
+      "date": 1541610903000,
+      "text": "Transitado em julgado em 23/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njkw",
+      "date": 1541703544000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njkz",
+      "date": 1541632870000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk0",
+      "date": 1541610922000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFk",
+      "date": 1495683863000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njli",
+      "date": 1498220285000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFj",
+      "date": 1495683864000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhj",
+      "date": 1546976224000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmE4",
+      "date": 1496698765000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njlj",
+      "date": 1497929008000,
+      "text": "Decorrido o prazo de JOSE ADELINO DA SILVA em 19/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmE2",
+      "date": 1496807155000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmE0",
+      "date": 1496807155000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFl",
+      "date": 1495589784000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 300.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI1",
+      "date": 1493744319000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmJh",
+      "date": 1493300263000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmEw",
+      "date": 1497498273000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk3",
+      "date": 1537293513000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI0",
+      "date": 1494857344000,
+      "text": "Audi\u00eancia una realizada (15/05/2017 09:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmI3",
+      "date": 1493732566000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njkx",
+      "date": 1541703521000,
+      "text": "Transitado em julgado em 23/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmIy",
+      "date": 1494876752000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njg5",
+      "date": 1547218941000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njlm",
+      "date": 1497498273000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmIx",
+      "date": 1495589783000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmE3",
+      "date": 1496698765000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njk4",
+      "date": 1524664374000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmE5",
+      "date": 1496696684000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFm",
+      "date": 1495589784000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a JOSE ADELINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njlh",
+      "date": 1499358911000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0Njhi",
+      "date": 1547029893000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmIz",
+      "date": 1494857344000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOTdiODBjNDVmMzNmZjZjM2U0NmFh",
+      "date": 1496460684000,
+      "text": "Decorrido o prazo de JOSE ADELINO DA SILVA em 02/06/2017 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

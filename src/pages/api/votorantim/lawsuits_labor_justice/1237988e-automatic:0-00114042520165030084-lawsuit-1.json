@@ -1,0 +1,647 @@
+{
+  "lawsuit": {
+    "id": "MTIzNzk4OGUtYXV0b21hdGljOjAtMDAxMTQwNDI1MjAxNjUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 91,
+    "number": "0011404-25.2016.5.03.0084",
+    "value": 90000.0,
+    "subject": "Horas in Itinere",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "J. G. B.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Dalila Rocha Santos",
+            "cpf": "079.022.846-70",
+            "lawyerId": "NzQ2MDIzMjgtYXV0b21hdGljOjAtMmU4ZTE4YWZhODQyY2E4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Divino Vilela Junior",
+            "cpf": "028.280.606-75",
+            "lawyerId": "NmE5MjY5NWItYXV0b21hdGljOjAtOGNkZTM4MTU1MWI0OGFjLXVuaWZpZWQ="
+          },
+          {
+            "name": "Flavia Caroline Cunha Moises Guirra",
+            "cpf": "087.390.326-98",
+            "lawyerId": "YTc4MGJlODEtYXV0b21hdGljOjAtMGE2ZWM4NmIwZGFlYzdjLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1475145342000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas In Itinere",
+                "code": 1661
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1661"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzIz",
+      "date": 1494324676000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de JUNIO GUIMARAES BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY2",
+      "date": 1560363384000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE4",
+      "date": 1495754156000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU5",
+      "date": 1562125298000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 02/07/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBi",
+      "date": 1497326256000,
+      "text": "Decorrido o prazo de JUNIO GUIMARAES BARBOSA em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRk",
+      "date": 1565839821000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU0",
+      "date": 1562301043000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU3",
+      "date": 1562200704000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmNm",
+      "date": 1573132357000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzFl",
+      "date": 1495118817000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE5",
+      "date": 1495745698000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmYx",
+      "date": 1561569522000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBh",
+      "date": 1497610628000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRl",
+      "date": 1565729317000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal/null",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzI1",
+      "date": 1493246090000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJj",
+      "date": 1476705270000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU4",
+      "date": 1562161925000,
+      "text": "Conclusos os autos para despacho  a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJi",
+      "date": 1478518135000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (24/04/2017 10:30 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU1",
+      "date": 1562301043000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmUw",
+      "date": 1563914793000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZm",
+      "date": 1558967958000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmUx",
+      "date": 1563593604000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 19/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ2",
+      "date": 1567738981000,
+      "text": "Decorrido o prazo de DIVINO VILELA JUNIOR em 05/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY3",
+      "date": 1560348300000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBl",
+      "date": 1496982420000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmVj",
+      "date": 1561696597000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRi",
+      "date": 1565839822000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmVh",
+      "date": 1562098624000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE1",
+      "date": 1495857077000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzEx",
+      "date": 1496923473000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQx",
+      "date": 1573070880000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzA4",
+      "date": 1511984501000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBj",
+      "date": 1497326256000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 12/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzMy",
+      "date": 1475145342000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzAx",
+      "date": 1558967894000,
+      "text": "Transitado em julgado em 20/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmYy",
+      "date": 1561559966000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Concord\u00e2ncia com c\u00e1lculos da reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJm",
+      "date": 1475170882000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZk",
+      "date": 1558970822000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY5",
+      "date": 1560309719000,
+      "text": "Decorrido o prazo de JUNIO GUIMARAES BARBOSA em 11/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJh",
+      "date": 1478525641000,
+      "text": "Audi\u00eancia inicial realizada (07/11/2016 09:10 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzI0",
+      "date": 1494324676000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzEy",
+      "date": 1496850798000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzAy",
+      "date": 1558730190000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzMx",
+      "date": 1475145343000,
+      "text": "Audi\u00eancia inicial designada (07/11/2016 09:10 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmUz",
+      "date": 1562959641000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (JUNTADA COMPROVANTE DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRm",
+      "date": 1563914794000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzI4",
+      "date": 1493068194000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (24/04/2017 10:30 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzI3",
+      "date": 1493068194000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJk",
+      "date": 1475170883000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzA1",
+      "date": 1542037598000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzFi",
+      "date": 1495513169000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzI5",
+      "date": 1478525641000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzAw",
+      "date": 1558967915000,
+      "text": "Iniciada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY4",
+      "date": 1560309721000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 11/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZh",
+      "date": 1560282986000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (APRESENTA\u00c7\u00c3O DE C\u00c1LCULOS NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmYw",
+      "date": 1561654343000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE0",
+      "date": 1496286767000,
+      "text": "Decorrido o prazo de JUNIO GUIMARAES BARBOSA em 31/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ4",
+      "date": 1565839822000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ3",
+      "date": 1567738981000,
+      "text": "Decorrido o prazo de FLAVIA CAROLINE CUNHA MOISES GUIRRA em 05/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzFj",
+      "date": 1495453866000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBm",
+      "date": 1496923474000,
+      "text": "Recebido(s) o(s) Recurso Adesivo de JUNIO GUIMARAES BARBOSA - CPF: 047.183.736-97 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY1",
+      "date": 1560363385000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZi",
+      "date": 1559017815000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmUy",
+      "date": 1563535108000,
+      "text": "Conclusos os autos para despacho  a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzAz",
+      "date": 1555438862000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzIw",
+      "date": 1494324677000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1200.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRj",
+      "date": 1565839822000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmRh",
+      "date": 1565839822000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZj",
+      "date": 1559017815000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmY0",
+      "date": 1560574244000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmZl",
+      "date": 1558970821000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQy",
+      "date": 1573070879000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzFk",
+      "date": 1495453866000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ1",
+      "date": 1567738982000,
+      "text": "Decorrido o prazo de DALILA ROCHA SANTOS em 05/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzFh",
+      "date": 1495513169000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmVl",
+      "date": 1561654345000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQz",
+      "date": 1573045136000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ0",
+      "date": 1569947400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal/null",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzA3",
+      "date": 1527252451000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmQ5",
+      "date": 1565839822000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE3",
+      "date": 1495754156000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmVi",
+      "date": 1561779222000,
+      "text": "Decorrido o prazo de JUNIO GUIMARAES BARBOSA em 28/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzEw",
+      "date": 1496923473000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzJl",
+      "date": 1475170882000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmVk",
+      "date": 1561696597000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzEz",
+      "date": 1496805222000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 06/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmU2",
+      "date": 1562200705000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMmYz",
+      "date": 1560574244000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzE2",
+      "date": 1495857077000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzIy",
+      "date": 1494324677000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a JUNIO GUIMARAES BARBOSA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmZWZmNDNjNDVmMzNmZjZjOGYwMzBk",
+      "date": 1496982420000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/06/2017",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

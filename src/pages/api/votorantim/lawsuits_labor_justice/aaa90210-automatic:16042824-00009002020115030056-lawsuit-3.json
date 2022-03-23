@@ -1,0 +1,190 @@
+{
+  "lawsuit": {
+    "id": "YWFhOTAyMTAtYXV0b21hdGljOjE2MDQyODI0LTAwMDA5MDAyMDIwMTE1MDMwMDU2LWxhd3N1aXQ=",
+    "activityCount": 21,
+    "number": "0000900-20.2011.5.03.0056",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "Votorantim Metais Zinco S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Recorrente",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Leila Azevedo Sette",
+            "cpf": "",
+            "lawyerId": "NDk3ZDNjMjktYXV0b21hdGljOjE2MDQyODI0LTc1OTk4MzUzODJmNjFjNi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Edson Gon\u00e7alves da Silva",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Recorrido",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Henrique Dias Corr\u00eaa da Costa",
+            "cpf": "",
+            "lawyerId": "NzE1ZjRkNjEtYXV0b21hdGljOjE2MDQyODI0LTk0OGRhYjY1OGRmMzg4Ni1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MmQ0OGM2MDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNzIzYzI1M2FiOTc3MjItMTMzNjc5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1336791600000,
+      "text": "Movimenta\u00e7\u00e3o: Andamento inicial\r\nLocal: Coordenadoria de Cadastramento Processual",
+      "attachments": []
+    },
+    {
+      "id": "NTBlZTE2ODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMWYxYmM3MjNiMDQyZDMtMTMzNjc5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1336791600000,
+      "text": "Movimenta\u00e7\u00e3o: Cadastro pr\u00e9-autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzQzMGVmNzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMGZiNzFiYWJjNzkxYTAtMTMzNjk2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1336964400000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos \u00e0 CPE para identifica\u00e7\u00e3o de pe\u00e7as\r\nLocal: Coordenadoria de Processos Eletr\u00f4nicos",
+      "attachments": []
+    },
+    {
+      "id": "NjIwYWEwZjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZWI0YWIyOGNkNjk3Y2YtMTMzODc3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1338778800000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos para a CCADP para autuar e distribuir\r\nLocal: Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos",
+      "attachments": []
+    },
+    {
+      "id": "NWRlYTY4Y2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNzc2MjQzOGQ5ODllZTctMTMzODc3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1338778800000,
+      "text": "Movimenta\u00e7\u00e3o: Processo eletr\u00f4nico iniciado",
+      "attachments": []
+    },
+    {
+      "id": "ZTNhYjU3NWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjFiYThiNmJmYWRlMjctMTM0MzE4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1343185200000,
+      "text": "Movimenta\u00e7\u00e3o: Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NTBmNTRmNjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjliOTk4NGVhZjE2NGUtMTM0Mzc5MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1343790000000,
+      "text": "Movimenta\u00e7\u00e3o: Concluso ao Relator\r\nLocal: Gabinete do Ministro Vieira de Mello Filho",
+      "attachments": []
+    },
+    {
+      "id": "YjE3Y2I4NmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YzE4NzNiNDE0NmJiNzktMTM0Mzc5MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1343790000000,
+      "text": "Movimenta\u00e7\u00e3o: Distribu\u00eddo ordinariamente ao Exm\u00ba Ministro VMF - T4 em 01/08/2012",
+      "attachments": []
+    },
+    {
+      "id": "NWM3ZTk5OTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZTg0ODFiNTY0NDY4ZTgtMTM2MjQ1MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1362452400000,
+      "text": "Remetidos os Autos para Secretaria da 4\u00aa Turma para redistribuir por sucess\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGQ4ZDRlMDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYTcxNDhhNWY2NWQ3NDMtMTM2MjcxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1362711600000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Jo\u00e3o Oreste Dalazen)",
+      "attachments": []
+    },
+    {
+      "id": "ZDY3YTQ3MGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTg0NjQ0Mzk1YWQ3ZTQtMTM2MjcxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1362711600000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o ao Exm\u00ba Ministro JD - T4 - art. 93, \u00a7 1\u00ba do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "MDdiOTE4OTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNWY4YWMzNzBlZWU3ZGQtMTM2Njg1ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366858800000,
+      "text": "Peti\u00e7\u00e3o: 57614/2013 - Instrumento de Mandato",
+      "attachments": []
+    },
+    {
+      "id": "ZWJjYTI3ZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDNlZmVmNzQ5ZTk1ZjctMTQ1NDM3ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454378400000,
+      "text": "Disponibilizado(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzEyMzg0ZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNGUwNjgxNDM1NDdlOWItMTQ1NDM3ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454378400000,
+      "text": "Remetidos os Autos para Secretaria da 4\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "MjI5M2U1YjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZDE4YWVlM2ExOWRhOGEtMTQ1NDQ2NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454464800000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 17/02/2016 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "ODhhODA4NTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZDg3ZDFiYmMwYmU2NmMtMTQ1NTY3NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1455674400000,
+      "text": "N\u00e3o conhecido o Recurso",
+      "attachments": []
+    },
+    {
+      "id": "NjRjMzQ2NzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZWI4ZmQ5OWJhYzM0OTYtMTQ1NTc2MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1455760800000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MWI2ZmI1ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05OWI1NzA0M2ZmOGMzYmUtMTQ1NTg0NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1455847200000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 19/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "MmRmMzlkMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZTViMzNlN2RiMGNjMWEtMTQ1NzU3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1457578800000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "YmRlNDU3ZTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNDY0ZWQ3OTQ3MTg1MTMtMTQ1NzU3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1457578800000,
+      "text": "Transitado em Julgado em 07/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "YjI1ZGFlNzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTJhOTVmZjFjZDc0MjgtMTQ1NzkyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1457924400000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

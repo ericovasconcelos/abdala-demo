@@ -1,0 +1,222 @@
+{
+  "lawsuit": {
+    "id": "ODZhNWQ5MjEtYXV0b21hdGljOjAtMTAwMDU2MjcxMjAxNzUwMjAwODAtbGF3c3VpdA==",
+    "activityCount": 21,
+    "number": "1000562-71.2017.5.02.0080",
+    "value": 100000.0,
+    "subject": "Adicional de Horas Extras",
+    "kind": "Trabalhista",
+    "district": "80\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Danilo de Souza Sarmento",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Simei Fabro Barreto",
+            "cpf": "093.059.878-42",
+            "lawyerId": "YTk3YjA3MDUtYXV0b21hdGljOjAtYWEzNzZmZWJkMTg5ZmQwLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1491394702000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "10303"
+      }
+    ],
+    "court": "TRT2",
+    "courtSection": "80\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDFl",
+      "date": 1491394619000,
+      "text": "Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE4",
+      "date": 1493757927000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDEw",
+      "date": 1502854904000,
+      "text": "Peti\u00e7\u00e3o juntando Conven\u00e7\u00e3o Coletiva",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDEz",
+      "date": 1502823329000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBl",
+      "date": 1502900736000,
+      "text": "Arquivado o processo por aus\u00eancia do reclamante",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE3",
+      "date": 1493757927000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBj",
+      "date": 1502900736000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 2000.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBi",
+      "date": 1502900737000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBm",
+      "date": 1502900736000,
+      "text": "Audi\u00eancia una realizada (16/08/2017 08:40 - 80\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE1",
+      "date": 1493869366000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDEx",
+      "date": 1502830424000,
+      "text": "Defesa",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDEy",
+      "date": 1502824032000,
+      "text": "Habilita\u00e7\u00e3o em processo",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE2",
+      "date": 1493757929000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBk",
+      "date": 1502900736000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a DANILO DE SOUZA SARMENTO",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDFi",
+      "date": 1492613601000,
+      "text": "Audi\u00eancia una designada (16/08/2017 08:40 - 80\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDFh",
+      "date": 1492624979000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE5",
+      "date": 1492624979000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDBh",
+      "date": 1502902502000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDE0",
+      "date": 1493869366000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDFk",
+      "date": 1491394702000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNjc2MGFlNjE0ZTI4NzU5NTBjMDFj",
+      "date": 1492613523000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a EMANUELA ANGELICA CARVALHO PAUPERIO",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

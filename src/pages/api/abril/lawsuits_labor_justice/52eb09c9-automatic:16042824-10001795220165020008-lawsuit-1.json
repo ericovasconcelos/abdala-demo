@@ -1,0 +1,627 @@
+{
+  "lawsuit": {
+    "id": "NTJlYjA5YzktYXV0b21hdGljOjE2MDQyODI0LTEwMDAxNzk1MjIwMTY1MDIwMDA4LWxhd3N1aXQ=",
+    "activityCount": 93,
+    "number": "1000179-52.2016.5.02.0008",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Glaucia Faustino Caraiani",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Jose Osvaldo da Costa",
+            "cpf": "946.544.258-53",
+            "lawyerId": "ZDU5M2U0YzctYXV0b21hdGljOjE2MDQyODI0LTczYTMwYzMzMWIwOWJmYy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Tivit Terceirizacao de Processos, Servicos e Tecnologia S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Felipe Navega Medeiros",
+            "cpf": "267.873.758-67",
+            "lawyerId": "N2RjYThmMTUtYXV0b21hdGljOjE2MDQyODI0LWRiYWVkOTM5YjRhOTY4MS1sYXd5ZXI="
+          },
+          {
+            "name": "Fernando Denis Martins",
+            "cpf": "249.478.028-47",
+            "lawyerId": "ZDU1OTE1MWMtYXV0b21hdGljOjE2MDQyODI0LWNjMzBlMjFiMDYwYTI5OC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1451656800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "8\u00aa Vara do Trabalho de S\u00e3o Paulo",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YjhkYjQxZGNlZTc4ZTU2ZjVjMTEyZTI2YzgzNzE1NDg=",
+      "date": 1464048000000,
+      "text": "Substabelecimento Abril | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhhMmUyYTBkOWJkMWIxZjEzZTg1OTg5NTFhOTY5YzA=",
+      "date": 1454630400000,
+      "text": "09 - Correspond\u00eancia - Gl\u00e1ucia | Telegrama (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGM4ODM3Zjc3NjAzMWRjNGFjODU2Y2ZmZTIzZjk5YmI=",
+      "date": 1464048000000,
+      "text": "Contrato de presta\u00e7\u00e3o de servi\u00e7os com a Tivit | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDVjNjg3ZGU2NTE1YTA4N2YxOGEwYzhkMTA3MjVmMjc=",
+      "date": 1464134400000,
+      "text": "Doc. 6 Cart\u00e3o de ponto 2014 - 2 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmU3NzJmMzYzODlkNjc3NTk2ZDEzYWRjYjZjZGFhYzg=",
+      "date": 1464048000000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2M4Y2Y2ZWIyNDRiNzU5M2YyMmJmZTRlYzkzMjY3NmY=",
+      "date": 1464134400000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzBkYTM2YzMyOTk2ZWIwNTcwYjEwMTFmZWQ2MjlkNjc=",
+      "date": 1458172800000,
+      "text": "Manifesta\u00e7\u00e3o - Gl\u00e1ucia x Tivit + 01 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmU4MGVkZDU2ZTE3ZmM2NjRhODVlNmY1YTc3M2IxMjA=",
+      "date": 1458172800000,
+      "text": "Telegrama - Gl\u00e1ucia 1 | Telegrama (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTJiMzk5MTBhYmZkN2I3MWQwZjZhYTVkZGQzOTEwOWQ=",
+      "date": 1467331200000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NTliZmRiZWE2YThkMTM4NmI3OTJhNTg3NzA5NDczNWI=",
+      "date": 1464134400000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzAyYzUyZjJiZmY0YzY5OTI5ZGM5ODkxZmNhOWNhMDQ=",
+      "date": 1467331200000,
+      "text": "Transitado em julgado em 06/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "N2ZiNjhiNzI2ZThlYjlmZDhkMmI2OGI3YWZlOTVmMTY=",
+      "date": 1464134400000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a GLAUCIA FAUSTINO CARAIANI",
+      "attachments": []
+    },
+    {
+      "id": "NzJiNmVkNGI2NGM3OTBkNGQzYmNhOGQwYzcxYWFhOTc=",
+      "date": 1454630400000,
+      "text": "00 - GL\u00c1UCIA FAUSTINO AUGUSTO x Tivit + 01 - INICIAL | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzMxMGI2MmUyNjU0NjQ4ODRiYTcyNmM1ZjU0MGIzNzA=",
+      "date": 1458172800000,
+      "text": "Conclusos os autos para decis\u00e3o da Antecipa\u00e7\u00e3o de Tutela a LAVIA LACERDA MENENDEZ",
+      "attachments": []
+    },
+    {
+      "id": "NTA5OTVlYzVmYjA2OGNiMTk3NWUwZDlkNzNkZWEyN2E=",
+      "date": 1459987200000,
+      "text": "Decorrido o prazo de GLAUCIA FAUSTINO CARAIANI em 06/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YmRhOWYxZmEyMDE4ZGFmNDc2MDAxMjdhNDU0N2VkYmY=",
+      "date": 1458259200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWIzM2EwZWUyNWY4YjhkNjQ4N2YzM2M5NmUxMTEyYmM=",
+      "date": 1464134400000,
+      "text": "Doc. 18 Cart\u00e3o de ponto 2015 - 6 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjEwOTMxYzcwYjE5NGVlYzFiNzdiNmMzOGJlYzc1MjY=",
+      "date": 1464048000000,
+      "text": "Contrato social parte 2 Abril | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWEwYTNkY2M0Njk2NWYzZTE4ODgxODY4ZDIxODY4ODU=",
+      "date": 1464134400000,
+      "text": "Doc. 5 Cart\u00e3o de ponto 2014 - 1 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzYxNGNkZWM4ZWU4ZjE2ZDhkMzZmZjc5MDY0OTViYTg=",
+      "date": 1464566400000,
+      "text": "Carta de Preposi\u00e7\u00e3o - EVELLYN PAULA DA SILVA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjNkNDcyMTM5ODExZjI0ZDI3MDM0MDllN2Q3OTEyNjk=",
+      "date": 1464134400000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI0N2E2NzViMTQxZTVmM2Q3ZmFmNjgwMjIwZTU4MTU=",
+      "date": 1464134400000,
+      "text": "Doc. 12 Cart\u00e3o de ponto 2014 - 8 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGI0YjQwZWZiYzUxOGQzYzAzZGI3OTg0MGQyMWEzNzY=",
+      "date": 1458604800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdkZmE1OTdjNDBjMTYzOTVhNTI3ZWI1NjlkMGZhMWY=",
+      "date": 1464134400000,
+      "text": "Doc. 23 TRCT | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5ODA5YjE4MjMzZTIxZmFkZWQ2MDM4MGMwNGQwMDU=",
+      "date": 1464134400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGJkMWEwNjRhOGM5NjhjYTZlMTE0MWYzNTFlYmUwZmU=",
+      "date": 1454630400000,
+      "text": "03 - RG - Gl\u00e1ucia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzgwZjg3YzZhMzhmMzk5Yzk0NjNjMDllMzI3YjBmZjM=",
+      "date": 1454630400000,
+      "text": "04 - CTPS - Gl\u00e1ucia | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjI5NDc0NWZiODdlOTcxMjBlMzQ4NWRmNzY3OWYxMmU=",
+      "date": 1464048000000,
+      "text": "Contrato social parte 3 Abril | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjBlNWI1Zjk0Zjg1ZDZlYzQ3MDM4MTA4MmU3ZTA4MDQ=",
+      "date": 1464134400000,
+      "text": "Doc. 16 Cart\u00e3o de ponto 2015 - 4 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDZhZjM2ZmM4MWRiNjlhM2Q4NmM2OTFkNDJkOTFjMDE=",
+      "date": 1459814400000,
+      "text": "Decorrido o prazo de TIVIT TERCEIRIZACAO DE PROCESSOS, SERVICOS E TECNOLOGIA S/A em 04/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjRlZTczNzI5YjhhNDYyODlhYjQzNDc1NjQwMDUzZDg=",
+      "date": 1464134400000,
+      "text": "Doc. 28 CCT SINTRATEL - 2016 parte 2 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGZiODU1Y2FhNTgwOGNmYzliODVkOWM1MGE3MDNiYWU=",
+      "date": 1459814400000,
+      "text": "Decorrido o prazo de JOSE OSVALDO DA COSTA em 04/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDQ1OTM2YTMwZWM3NmZhMWRmZDI0MWVhMjMyZWJjMDU=",
+      "date": 1464134400000,
+      "text": "Doc. 24 CCT SINTRATEL - 2014 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGM2ZWU2NmE2MjAzNzhjMGE2YjZlZTQwODJhYmQwYWM=",
+      "date": 1464134400000,
+      "text": "Doc. 4 Ficha de Registro | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzZmM2U3OTBhODg4NDg5ZTVmOTI5ZTAxZjIyZjkyOWU=",
+      "date": 1464134400000,
+      "text": "Doc. 3 Docs. admissionais - 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDk3YWU0Y2JiMWFkNjQ1YmIzZDUyZmIzZTU5MDVkZmI=",
+      "date": 1454630400000,
+      "text": "06 - Certid\u00e3o de Nascimento filha - Gl\u00e1ucia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWM0NzM5NGYzNTk5YjZkYzczMDk4N2M2YmIzNmU4MTc=",
+      "date": 1464134400000,
+      "text": "CONTESTA\u00c7\u00c3O - GLAUCIA FAUSTINO CARAIANI - (ED. ABRIL) - Adv. Osvaldo Costa | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmMyNmU0ZTdhMTQ1ZDI0MWM3MDExZjc4MmNmNDNlYjY=",
+      "date": 1464134400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NmQ5NTFlNTQ4MTA1ODFkMjczZDY1NDRhMjJmNGZjYzM=",
+      "date": 1459382400000,
+      "text": "Rol de testemunhas | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRjZjQ0ZjNiY2MyZWY2ZGVjMDNjNWFiZjdmYzk1MDg=",
+      "date": 1454630400000,
+      "text": "07 - Plano de Sa\u00fade n\u00e3o aderido - Gl\u00e1ucia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmIwOTMyMmU1ZmRlNGFkNWUyNGI5OWE4MWEyYzZiNjg=",
+      "date": 1454630400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YmU2YWFjMzRmODEzZTJmNThjZjI2N2UxMDE2YWIyMTE=",
+      "date": 1464134400000,
+      "text": "Doc. 1 Docs. admissionais - 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ4Nzk3YmY3ZTE0ZDA3M2VkMTMwYzBhYmRlYzJhZTM=",
+      "date": 1464134400000,
+      "text": "Doc. 22 Telegramas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDFjMGU5ZTc2NTEyNDMwOTY0YTY3N2VlYzAwYjFlZDk=",
+      "date": 1464048000000,
+      "text": "procura\u00e7\u00e3o Abril | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOTAyZGY0YjU1NjY3YzI1ZTNlNjUyZGNlYjU4NDA=",
+      "date": 1464134400000,
+      "text": "Doc. 27 CCT SINTRATEL - 2016 parte 1 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQwZWI0ZmM4NWIxZDE0NTI5NGI3ZDVhMWIxYjFmYTc=",
+      "date": 1464134400000,
+      "text": "Doc. 8 Cart\u00e3o de ponto 2014 - 4 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTZiYzc3YTRlYjRiMGNmMjQ0ZDEyNjc0YTIzYTE2NzY=",
+      "date": 1464134400000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 30.00",
+      "attachments": []
+    },
+    {
+      "id": "NTVhMTg3MDIwZGEzOGIxNzM0MTcyYjRmNjBhMTJmYmY=",
+      "date": 1454630400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ5ZjljYzEwYzVjYjhkN2IzZWI0ZTNlYmI3M2MwYjM=",
+      "date": 1454630400000,
+      "text": "08 - Holerites - Gl\u00e1ucia 01 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWNhYjFlYmZhNDMwZDYzOWE2NzE1NDc4MzRjYTRiM2Y=",
+      "date": 1464134400000,
+      "text": "Doc. 13 Cart\u00e3o de ponto 2015 - 1 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2VmZGZkZTNhNDM2Y2MzNjk5ZDA2ODVmODUzMjM3NTg=",
+      "date": 1464134400000,
+      "text": "Ata de assembl\u00e9ia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGZkNTcyNmJkOWU2MzQzZjBjNGI1NzgwMjBiNzMzNTY=",
+      "date": 1454630400000,
+      "text": "05 - Cart\u00e3o da Gestante - Gl\u00e1ucia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ0ZmE5ODZjZjU5NTU1OTZlN2QwNzJhMTE5ZTk0MGY=",
+      "date": 1454630400000,
+      "text": "01 - Procura\u00e7\u00e3o - Gl\u00e1ucia | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjNiNDViM2QyN2MxN2VhOGE3YThjMDlmMWI5NGMyZjM=",
+      "date": 1464134400000,
+      "text": "Doc. 19 Cart\u00e3o de ponto 2016 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTAwYjNmMTUwYjJjZjZjZjg5MDNiMjA4NjYwYzc1M2Y=",
+      "date": 1458172800000,
+      "text": "Manifesta\u00e7\u00e3o com juntada de Telegramas | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWIzMzRjZWRlMjIzMWUyZTc5MDM1NTgwMGEyMjRkZTU=",
+      "date": 1458259200000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNkNDQ3YzRlZTNkZjhiMTVhM2I5OGJmZmY3MTQ5ZjY=",
+      "date": 1460073600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzllZjYwOWMzMWVkNWZjODk5MzgzMDA5NjQwZWI1OGY=",
+      "date": 1464134400000,
+      "text": "Doc. 10 Cart\u00e3o de ponto 2014 - 6 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDIzZWEzYjIxYTBhNWUyZGNiZWI0OTgwMGQ1YTdhYzQ=",
+      "date": 1454630400000,
+      "text": "Audi\u00eancia una designada (25/05/2016 15:45 - 8\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "MmJkMTBkOGMyNjAzYjc5Mjc0ZDlkMWIzNTgxMjMyMGI=",
+      "date": 1464048000000,
+      "text": "Carta de preposi\u00e7\u00e3o Abril | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmVkZTlkYWU0MmI2YTI5ZDU0NDNlYjA3ZDQ0YWU2NTk=",
+      "date": 1464134400000,
+      "text": "Doc. 15 Cart\u00e3o de ponto 2015 - 3 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTE5YzRkNjA5NWU5YjQ3NjQ1ZThkOTY3MmFmZGY4OTM=",
+      "date": 1458172800000,
+      "text": "Telegrama - Gl\u00e1ucia 2 | Telegrama (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmE5YjAzZDA2MTI0N2IzMDkyODU4OWQzYjYyNTE2YTE=",
+      "date": 1464566400000,
+      "text": "SUBSTABELECIMENTO ELIZABETE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Y3OTM4ODZmM2U3NGJmYjEyMTAxZTliN2JkNzE4NWU=",
+      "date": 1454630400000,
+      "text": "08 - Holerites - Gl\u00e1ucia 02 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWY3MTNlODFkNWFjZTFjZmI0NmZlZmQ5YzNlNDg1ODI=",
+      "date": 1464566400000,
+      "text": "Juntada de substabelecimento e carta de preposi\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWVjZTY5ZWY3OTAyYmU1ZjdjMGQwNTkyMWE1ZmFlMDg=",
+      "date": 1464134400000,
+      "text": "Ata de Assembl\u00e9ia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY0OTEzYzk5MDk3MDM2Y2ZjNzczMDc3MjAyZTNkODc=",
+      "date": 1459814400000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 04/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzBkNzYxYzE0Yjg4NTdhMjVhMTczMWU3ZThjYjRiZDQ=",
+      "date": 1464048000000,
+      "text": "Contrato social parte 1 Abril | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2JmNjM0MjMwZTRjMDY1OTc4OGE5MzkyYzAxZjczMjI=",
+      "date": 1464134400000,
+      "text": "Procura\u00e7\u00e3o; Subs; Carta de preposi\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFjYzJmYzM1MWUzZmVhYmFjZjk4MTBmMjkyM2Y4OWM=",
+      "date": 1464134400000,
+      "text": "Audi\u00eancia una realizada (25/05/2016 15:45 - 8\u00aa Vara do Trabalho de S\u00e3o Paulo)",
+      "attachments": []
+    },
+    {
+      "id": "NzdiY2Y4MjM1NDhjYzQyN2MxYzI3MWM3MjBkMTI1YjE=",
+      "date": 1464134400000,
+      "text": "Doc. 21 Boletim; advertencias e suspens\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTIwN2ZlYTYwN2ViMzdlYmI5MzFhMzQ3NWVhZDMxZmQ=",
+      "date": 1458604800000,
+      "text": "Certid\u00e3o DEJT | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWZlNTcxY2YyNGVhZWE5OGI4MTRkZDZlNWUxYWUzMGQ=",
+      "date": 1459209600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "OWJjZmM1ZGNhZDczODQ5ZWUyNzgwZGRhNTQ2YThjODQ=",
+      "date": 1459382400000,
+      "text": "Peti\u00e7\u00e3o rol de testemunhas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWE2ODEwYWQ5NGJhOGIyYzAxZGU3Y2Q0MmVhZTY2MGY=",
+      "date": 1454630400000,
+      "text": "02 - Declara\u00e7\u00e3o - Gl\u00e1ucia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmUzMjVmZmVmMzA1N2I4MjZhMWVlODFjYTA0NTM1MjM=",
+      "date": 1460073600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MGYwNDRjNmFmNmQ3OGE3NmVlMmQzOTlmZGRkYjUwYmI=",
+      "date": 1464134400000,
+      "text": "Doc. 14 Cart\u00e3o de ponto 2015 - 2 | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWVmMzkyZTUxNjk4ZTRkYjJjZGZjNmY1YzczZTM1ZjQ=",
+      "date": 1459209600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "M2M5NDVlNjNlYTRjNThiYjIxNDUxY2JkYmMwNTRkNDk=",
+      "date": 1464134400000,
+      "text": "Doc. 9 Cart\u00e3o de ponto 2014 - 5 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTcxM2ExN2MxYzhmMjA5NjMyZDRmNDE1NjY3NGYxMGM=",
+      "date": 1464134400000,
+      "text": "Doc. 11 Cart\u00e3o de ponto 2014 - 7 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWEzZDBiNGY3MDViOWU0OTJkMDFhNjgzOTVjMzhjODg=",
+      "date": 1464134400000,
+      "text": "Doc. 26 CCT SINTRATEL - 2015 - 2 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY4NTAyMTg1MDAxOGZhNjk5OTQ1YWE2N2FiMmZhNTA=",
+      "date": 1454630400000,
+      "text": "10 - Extrato FGTS - Gl\u00e1ucia | Extrato de Conta do FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzlhMjAzYzAwYmZkNzZkYjA1MWEyYWRjYzNhOWY1YzM=",
+      "date": 1458604800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzlkOWU2ZTUzZGFjMzM2ZWU0ODcxNDNhMmQ5NDk1YjM=",
+      "date": 1464134400000,
+      "text": "Doc. 17 Cart\u00e3o de ponto 2015 - 5 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDIxYjAxZWY0Yjc3ZjFmMDkzMzQ1MzNmMTJlYTFmNjI=",
+      "date": 1464134400000,
+      "text": "Doc. 20 Recibos de Pagamento | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWExOTFjNWM4ZmIyNDUwYTNjMzcwNTIzNDBkMGNiMGM=",
+      "date": 1464134400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDIzZWE5MzllNjZhZDMxOGY0YTlhNmY4Y2RhM2U0NGM=",
+      "date": 1464134400000,
+      "text": "Doc. 7 Cart\u00e3o de ponto 2014 - 3 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJiYmQ2ZjE0NDIwZTZlYmM2MTRiYWZhMDk5YjEzZTg=",
+      "date": 1454630400000,
+      "text": "08 - Holerites - Gl\u00e1ucia 03 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjA2MDk2MWQ0ZDY4MGVmMWU3NjU3ODQxMzg4ZTEyYmQ=",
+      "date": 1458259200000,
+      "text": "N\u00e3o concedida a antecipa\u00e7\u00e3o de tutela a GLAUCIA FAUSTINO CARAIANI - CPF: 274.314.328-28",
+      "attachments": []
+    },
+    {
+      "id": "ZTA3MjIwZjlmNDYwZGEwYTQ5N2IyYWYyNzdiYzNiNTM=",
+      "date": 1464134400000,
+      "text": "Doc. 25 CCT SINTRATEL - 2015 - 1 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmY0NzgzNDg3MDM5MWEzNGM2ODMzZWRlNDI2NGZiODM=",
+      "date": 1464048000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODJlYTcyOTc2NzczMWNjZWU5NTgwNjU0OTc3YWQzMDk=",
+      "date": 1464134400000,
+      "text": "Doc. 2 Docs. admissionais - 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNlNmI3ZWU1MmY3MjQ2MjYxYjk0NzFiZDVkYzFkZDU=",
+      "date": 1458604800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

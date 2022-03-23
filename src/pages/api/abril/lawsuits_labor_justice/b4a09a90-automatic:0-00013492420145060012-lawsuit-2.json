@@ -1,0 +1,461 @@
+{
+  "lawsuit": {
+    "id": "YjRhMDlhOTAtYXV0b21hdGljOjAtMDAwMTM0OTI0MjAxNDUwNjAwMTItbGF3c3VpdA==",
+    "activityCount": 20,
+    "number": "0001349-24.2014.5.06.0012",
+    "value": 80000.0,
+    "subject": "Multa de 40% do FGTS, Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o, Aviso Pr\u00e9vio, CTPS, D\u00e9cimo Terceiro Sal\u00e1rio Proporcional, FGTS, Frui\u00e7\u00e3o / Gozo, Indeniza\u00e7\u00e3o / Dobra / Ter\u00e7o Constitucional, Multa do Artigo 467 da CLT, Multa do Artigo 477 da CLT, Reconhecimento de Rela\u00e7\u00e3o de Emprego, Verbas Rescis\u00f3rias",
+    "kind": "Trabalhista",
+    "district": "12\u00aa Vara do Trabalho do Recife",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "M. T. O.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Josenildo Morais de Ara\u00fajo",
+            "cpf": "546.549.474-34",
+            "lawyerId": "MjRjZTFiYjktYXV0b21hdGljOjAtOTY2NmYzMDI5MmE5OWZmLXVuaWZpZWQ="
+          },
+          {
+            "name": "Avanilda Maria Gomes",
+            "cpf": "715.650.604-82",
+            "lawyerId": "ODliYmU0NjItYXV0b21hdGljOjAtMmQ2NWY2NDE1N2RjNjQyLXVuaWZpZWQ="
+          },
+          {
+            "name": "Katarine Gomes de Araujo",
+            "cpf": "082.954.644-85",
+            "lawyerId": "NGMxYWRmMTQtYXV0b21hdGljOjAtMzVmOGI4MTFmYTdkZTYxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "M. T. P. P. E.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Jeanne Valdevino dos Anjos",
+            "cpf": "248.480.288-92",
+            "lawyerId": "ZmViMDg5NDctYXV0b21hdGljOjAtMjZiZWJhYzM0OWRlNGU0LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1473445116000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Frui\u00e7\u00e3o / Gozo",
+                "code": 2019
+              },
+              {
+                "level": 2,
+                "text": "F\u00e9rias",
+                "code": 2662
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 467 da CLT",
+                "code": 2210
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Indeniza\u00e7\u00e3o",
+                "code": 2479
+              },
+              {
+                "level": 3,
+                "text": "Seguro Desemprego",
+                "code": 2478
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Reconhecimento de Rela\u00e7\u00e3o de Emprego",
+                "code": 2554
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o",
+                "code": 5352
+              },
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "D\u00e9cimo Terceiro Sal\u00e1rio Proporcional",
+                "code": 8820
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "FGTS",
+                "code": 10570
+              },
+              {
+                "level": 2,
+                "text": "Prescri\u00e7\u00e3o",
+                "code": 10568
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1998-2019-2210-2212-2479-2554-2641-5352-8820-10570"
+      }
+    ],
+    "court": "TRT6",
+    "courtSection": "Desembargadora Dione Nunes Furtado da Silva",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTUw",
+      "date": 1476444058000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTUx",
+      "date": 1476444003000,
+      "text": "Baixado o incidente/recurso ( / Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU0",
+      "date": 1476414077000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTYy",
+      "date": 1467668319000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU2",
+      "date": 1475636497000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTYz",
+      "date": 1434397434000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU1",
+      "date": 1475636497000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 05/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU4",
+      "date": 1475586998000,
+      "text": "Lavrado o ac\u00f3rd\u00e3o il\u00edquido pelo relator",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTUy",
+      "date": 1476414077000,
+      "text": "Decorrido o prazo de MAURO TENORIO DE OLIVEIRA em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTYw",
+      "date": 1472473064000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVl",
+      "date": 1473688496000,
+      "text": "Conclusos os autos para julgamento (relatar) a DIONE NUNES FURTADO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTUz",
+      "date": 1476414077000,
+      "text": "Decorrido o prazo de MARCOS TADEU PEREIRA PERUCCI - EPP em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVh",
+      "date": 1474599691000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 23/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVk",
+      "date": 1474308257000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVm",
+      "date": 1473445116000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU3",
+      "date": 1475597419000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVj",
+      "date": 1474547641000,
+      "text": "Inclu\u00eddo o processo em pauta (03/10/2016, 13:00:00, DIONE/ENEIDA/IVANILDO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTU5",
+      "date": 1475511687000,
+      "text": "Conhecido o recurso de MAURO TENORIO DE OLIVEIRA - CPF: 371.703.414-68 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTVi",
+      "date": 1474547645000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MjUyMmRjNjMyNzFlODc1ZjMyMTYx",
+      "date": 1471110424000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

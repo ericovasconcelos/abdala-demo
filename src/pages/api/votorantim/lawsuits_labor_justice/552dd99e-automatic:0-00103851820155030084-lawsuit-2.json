@@ -1,0 +1,310 @@
+{
+  "lawsuit": {
+    "id": "NTUyZGQ5OWUtYXV0b21hdGljOjAtMDAxMDM4NTE4MjAxNTUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 34,
+    "number": "0010385-18.2015.5.03.0084",
+    "value": 47826.97,
+    "subject": "Adicional de Horas Extras",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "N. R. M. S. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "H. M. S.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Divino Vilela Junior",
+            "cpf": "028.280.606-75",
+            "lawyerId": "NmE5MjY5NWItYXV0b21hdGljOjAtOGNkZTM4MTU1MWI0OGFjLXVuaWZpZWQ="
+          },
+          {
+            "name": "Flavia Caroline Cunha Moises Guirra",
+            "cpf": "087.390.326-98",
+            "lawyerId": "YTc4MGJlODEtYXV0b21hdGljOjAtMGE2ZWM4NmIwZGFlYzdjLXVuaWZpZWQ="
+          },
+          {
+            "name": "Dalila Rocha Santos",
+            "cpf": "079.022.846-70",
+            "lawyerId": "NzQ2MDIzMjgtYXV0b21hdGljOjAtMmU4ZTE4YWZhODQyY2E4LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1445283956000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTc2",
+      "date": 1473436414000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTk1",
+      "date": 1442930796000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTc1",
+      "date": 1473709350000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTkx",
+      "date": 1445869113000,
+      "text": "Conclusos os autos para julgamento (relatar) a Jos\u00e9 Marlon de Freitas",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTc4",
+      "date": 1462849631000,
+      "text": "Decorrido o prazo de LEILA AZEVEDO SETTE em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTkz",
+      "date": 1444828321000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTgw",
+      "date": 1462244747000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg0",
+      "date": 1457751846000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg1",
+      "date": 1457445674000,
+      "text": "Minutar Decis\u00e3o de Admissibilidade",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTk3",
+      "date": 1433941102000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTdj",
+      "date": 1462849630000,
+      "text": "Decorrido o prazo de DALILA ROCHA SANTOS em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTdi",
+      "date": 1462849630000,
+      "text": "Decorrido o prazo de FLAVIA CAROLINE CUNHA MOISES GUIRRA em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTdk",
+      "date": 1462849630000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTgy",
+      "date": 1458874832000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 22/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTgz",
+      "date": 1457751846000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTgx",
+      "date": 1458874833000,
+      "text": "Decorrido o prazo de HUENDEL MARTINS DA SILVA em 22/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThk",
+      "date": 1447209292000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 11/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTkw",
+      "date": 1446927240000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTky",
+      "date": 1445283956000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThl",
+      "date": 1447174559000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThj",
+      "date": 1447953835000,
+      "text": "Conhecido o recurso de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTk2",
+      "date": 1442357996000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTk0",
+      "date": 1443813412000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTc5",
+      "date": 1462849631000,
+      "text": "Decorrido o prazo de HUENDEL MARTINS DA SILVA em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTdh",
+      "date": 1462849631000,
+      "text": "Decorrido o prazo de DIVINO VILELA JUNIOR em 09/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg4",
+      "date": 1449540159000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 07/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTc3",
+      "date": 1463578951000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg2",
+      "date": 1456841919000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg3",
+      "date": 1449540160000,
+      "text": "Decorrido o prazo de HUENDEL MARTINS DA SILVA em 07/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThi",
+      "date": 1448398378000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThh",
+      "date": 1448592312000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTg5",
+      "date": 1448592314000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 27/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNTdl",
+      "date": 1462244748000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyMTUyOTQwNDA2NGIzYjQ5OTIyNThm",
+      "date": 1447174549000,
+      "text": "Inclu\u00eddo o processo em pauta (18/11/2015, 10:00:00, Plen\u00e1rio 1 - 10\u00baandar - Av.Get\u00falio Vargas)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

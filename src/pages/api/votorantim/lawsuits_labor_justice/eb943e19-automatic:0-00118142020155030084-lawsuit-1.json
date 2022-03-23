@@ -1,0 +1,810 @@
+{
+  "lawsuit": {
+    "id": "ZWI5NDNlMTktYXV0b21hdGljOjAtMDAxMTgxNDIwMjAxNTUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 119,
+    "number": "0011814-20.2015.5.03.0084",
+    "value": 10552.29,
+    "subject": "Aviso Pr\u00e9vio",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "S. A. F.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Denis Fernando Soares de Campos",
+            "cpf": "944.090.726-68",
+            "lawyerId": "ZjU3YmE0OWItYXV0b21hdGljOjAtMDZjMGQwYzdjYzJmNWY3LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "F. S. V. E.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Andre Fernandes Furtado",
+            "cpf": "075.958.997-61",
+            "lawyerId": "NTUxNGM5OTEtYXV0b21hdGljOjAtZTE5Nzg2YWEzMDZhMmU5LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1447854730000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "AVISO PR\u00c9VIO",
+                "code": 2641
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2641"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDc0",
+      "date": 1447854730000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDM5",
+      "date": 1465013417000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDMx",
+      "date": 1466568248000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDNm",
+      "date": 1464800004000,
+      "text": "Expedido(a) of\u00edcio a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ4",
+      "date": 1463109973000,
+      "text": "Decorrido o prazo de FOCUS SEGURANCA E VIGILANCIA LTDA em 12/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDUy",
+      "date": 1458231553000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDUx",
+      "date": 1460691711000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmY3",
+      "date": 1494965200000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDYx",
+      "date": 1454088010000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI1",
+      "date": 1467748929000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZm",
+      "date": 1448370659000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJm",
+      "date": 1466604290000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDEy",
+      "date": 1486743357000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDRl",
+      "date": 1461765741000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDAz",
+      "date": 1493039319000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDRh",
+      "date": 1461988188000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE0",
+      "date": 1486089499000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDRm",
+      "date": 1461640752000,
+      "text": "Decorrido o prazo de DENIS FERNANDO SOARES DE CAMPOS em 25/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFj",
+      "date": 1470334229000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDAw",
+      "date": 1494905548000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 15/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDIx",
+      "date": 1467864011000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI5",
+      "date": 1467651731000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDEz",
+      "date": 1486740467000,
+      "text": "Conclusos os autos para despacho  a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU5",
+      "date": 1456369823000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 24/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDM2",
+      "date": 1466134011000,
+      "text": "Decorrido o prazo de FOCUS SEGURANCA E VIGILANCIA LTDA em 16/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBm",
+      "date": 1487041750000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJj",
+      "date": 1466740435000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDIz",
+      "date": 1467861559000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 06/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDMz",
+      "date": 1466437992000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJk",
+      "date": 1466606830000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDM3",
+      "date": 1465013417000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZh",
+      "date": 1449080868000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDUw",
+      "date": 1460691711000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA1",
+      "date": 1492804542000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU0",
+      "date": 1458146923000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA2",
+      "date": 1492458231000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Banco do Brasil S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU1",
+      "date": 1458146846000,
+      "text": "Iniciada a liquida\u00e7\u00e3o por c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA4",
+      "date": 1490812375000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU2",
+      "date": 1458146816000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZl",
+      "date": 1448990600000,
+      "text": "Audi\u00eancia una redesignada (25/01/2016 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY0",
+      "date": 1453765103000,
+      "text": "Audi\u00eancia una realizada (25/01/2016 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDcx",
+      "date": 1448370659000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU4",
+      "date": 1458145833000,
+      "text": "Transitado em julgado em 24/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDcw",
+      "date": 1448370659000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVi",
+      "date": 1456369823000,
+      "text": "Decorrido o prazo de FOCUS SEGURANCA E VIGILANCIA LTDA em 24/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA5",
+      "date": 1490803480000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVm",
+      "date": 1454088012000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a SHIRLEY APARECIDA FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDRi",
+      "date": 1461887830000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY1",
+      "date": 1449764031000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDM0",
+      "date": 1466423273000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZi",
+      "date": 1449080868000,
+      "text": "Audi\u00eancia una realizada (01/12/2015 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZj",
+      "date": 1494955427000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDNl",
+      "date": 1464889566000,
+      "text": "Conclusos os autos para despacho  a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVj",
+      "date": 1455591347000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVh",
+      "date": 1456369823000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 24/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE3",
+      "date": 1485968820000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVl",
+      "date": 1454088013000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 200.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFh",
+      "date": 1470398345000,
+      "text": "Determinada a inclus\u00e3o de dados de FOCUS SEGURANCA E VIGILANCIA LTDA - CNPJ: 03.457.699/0001-01 no BNDT",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY3",
+      "date": 1449161864000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFi",
+      "date": 1470398340000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE2",
+      "date": 1485968820000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFl",
+      "date": 1468936677000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VANDERSON PEREIRA DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZi",
+      "date": 1494957233000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQx",
+      "date": 1464799745000,
+      "text": "Expedido(a) of\u00edcio a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZk",
+      "date": 1494955373000,
+      "text": "Registrada a exclus\u00e3o de dados de FOCUS SEGURANCA E VIGILANCIA EIRELI - CNPJ: 03.457.699/0001-01 no BNDT ",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDEx",
+      "date": 1486743357000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDYz",
+      "date": 1453765103000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZk",
+      "date": 1448991180000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDU3",
+      "date": 1458145864000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQy",
+      "date": 1464194323000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFk",
+      "date": 1468964471000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE5",
+      "date": 1470655866000,
+      "text": "Registrada a inclus\u00e3o de dados de FOCUS SEGURANCA E VIGILANCIA LTDA - CNPJ: 03.457.699/0001-01 no BNDT sem garantia ou suspens\u00e3o da exigibilidade do d\u00e9bito",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDAy",
+      "date": 1493117038000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDVk",
+      "date": 1455591347000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDFm",
+      "date": 1468936624000,
+      "text": "Iniciada a execu\u00e7\u00e3o trabalhista definitiva",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZm",
+      "date": 1494955280000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI0",
+      "date": 1467748929000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBl",
+      "date": 1487041750000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI4",
+      "date": 1467651733000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDIw",
+      "date": 1468297223000,
+      "text": "Decorrido o prazo de FOCUS SEGURANCA E VIGILANCIA LTDA em 11/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDYy",
+      "date": 1453805644000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJl",
+      "date": 1466606829000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDIy",
+      "date": 1467864011000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDMw",
+      "date": 1466568248000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDM1",
+      "date": 1466134011000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 16/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZl",
+      "date": 1494955336000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDNi",
+      "date": 1464892509000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDYw",
+      "date": 1454088012000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / \n ) de SHIRLEY APARECIDA FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQz",
+      "date": 1464033026000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE4",
+      "date": 1485860584000,
+      "text": "Conclusos os autos para despacho  a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ0",
+      "date": 1463765241000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI2",
+      "date": 1467741756000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ5",
+      "date": 1461988188000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDZj",
+      "date": 1449022354000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 01/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJh",
+      "date": 1467650359000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBk",
+      "date": 1487648045000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 20/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA3",
+      "date": 1490812375000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdhZmZh",
+      "date": 1494957233000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDcy",
+      "date": 1448370658000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBj",
+      "date": 1487870673000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY2",
+      "date": 1449282137000,
+      "text": "Decorrido o prazo de FOCUS SEGURANCA E VIGILANCIA LTDA em 04/12/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDJi",
+      "date": 1466740435000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDE1",
+      "date": 1486089499000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDEw",
+      "date": 1486779333000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 10/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDMy",
+      "date": 1466437992000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDI3",
+      "date": 1467691006000,
+      "text": "Decorrido o prazo de SHIRLEY APARECIDA FERREIRA em 04/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBh",
+      "date": 1487880817000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ2",
+      "date": 1463677369000,
+      "text": "Conclusos os autos para despacho  a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY4",
+      "date": 1449161863000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDA0",
+      "date": 1493039319000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ3",
+      "date": 1463109974000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 12/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDNh",
+      "date": 1464892509000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDBi",
+      "date": 1487880817000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDUz",
+      "date": 1458231553000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDQ1",
+      "date": 1463765241000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDAx",
+      "date": 1493117038000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDY5",
+      "date": 1449161862000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDRj",
+      "date": 1461887830000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOTEzMmEzZjUzMTc5ODBmODdiMDcz",
+      "date": 1447854733000,
+      "text": "Audi\u00eancia una designada (01/12/2015 14:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

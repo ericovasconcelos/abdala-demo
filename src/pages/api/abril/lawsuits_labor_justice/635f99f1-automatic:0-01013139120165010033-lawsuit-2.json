@@ -1,0 +1,198 @@
+{
+  "lawsuit": {
+    "id": "NjM1Zjk5ZjEtYXV0b21hdGljOjAtMDEwMTMxMzkxMjAxNjUwMTAwMzMtbGF3c3VpdA==",
+    "activityCount": 10,
+    "number": "0101313-91.2016.5.01.0033",
+    "value": null,
+    "subject": "Adicional de Hora Extra, DIREITO DO TRABALHO, Dura\u00e7\u00e3o do Trabalho, Horas Extras, Intervalo Intrajornada, Intervalo Intrajornada, Natureza Jur\u00eddica da Parcela / Repercuss\u00e3o, Reflexos",
+    "kind": "Trabalhista",
+    "district": "33\u00aa Vara do Trabalho do Rio de Janeiro",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Jorge Roberto Valim",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": null,
+          "normalized": null
+        },
+        "lawyers": [
+          {
+            "name": "Nadia de Oliveira Santos",
+            "cpf": "353.258.527-87",
+            "lawyerId": "OGQxY2VhODMtYXV0b21hdGljOjAtYmM3Mzc0MDBkOTU0MzQ5LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunicacoes S.A.",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": null,
+          "normalized": null
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Bianca Nascimento Veloso da Silva",
+            "cpf": "092.338.057-43",
+            "lawyerId": "ODZlMjNjNTctYXV0b21hdGljOjAtYjZkODRmNmM1M2NjZjhkLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1499705203000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2086-2140-2141"
+      }
+    ],
+    "court": "TRT1",
+    "courtSection": "Gabinete do Desembargador Marcos de Oliveira Cavalcante",
+    "nature": {
+      "raw": "RECURSO ORDIN\u00c1RIO",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI4",
+      "date": 1502247960000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 09/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI5",
+      "date": 1502205117000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDJi",
+      "date": 1499805519000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI2",
+      "date": 1508897131000,
+      "text": "Decorrido o prazo de JORGE ROBERTO VALIM                                          em 24/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDJk",
+      "date": 1499705204000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI1",
+      "date": 1508897131000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 24/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDJj",
+      "date": 1499805333000,
+      "text": "Conclusos os autos para julgamento (relatar) a MARCOS DE OLIVEIRA CAVALCANTE",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI0",
+      "date": 1508956270000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDI3",
+      "date": 1504721447000,
+      "text": "Conhecido o recurso de ABRIL COMUNICACOES S.A. - CNPJ: 44.597.052/0001-62 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWM5ZGYwMDMyNTU5YWYwMDBjMTNiZDJh",
+      "date": 1502205082000,
+      "text": "Inclu\u00eddo o processo em pauta (05/09/2017, 14:00:00, ST6 GERAL 05.09.17)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

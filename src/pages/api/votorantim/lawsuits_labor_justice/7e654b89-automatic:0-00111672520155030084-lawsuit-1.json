@@ -1,0 +1,577 @@
+{
+  "lawsuit": {
+    "id": "N2U2NTRiODktYXV0b21hdGljOjAtMDAxMTE2NzI1MjAxNTUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 81,
+    "number": "0011167-25.2015.5.03.0084",
+    "value": 52720.0,
+    "subject": "Horas Extras",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "J. L. A. P.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1437747885000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas Extras",
+                "code": 2086
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2086"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY0",
+      "date": 1520404453000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGNl",
+      "date": 1529613274000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTE5",
+      "date": 1440449220000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBj",
+      "date": 1446548239000,
+      "text": "Recebido(s) o(s) Recurso Adesivo de JORGE LUIZ DE ALCANTARA PERPETUO - CPF: 475.323.006-68 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY5",
+      "date": 1520267519000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFl",
+      "date": 1438016793000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente  para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY3",
+      "date": 1520267549000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVm",
+      "date": 1521689464000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 21/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVh",
+      "date": 1521872037000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTA4",
+      "date": 1446803495000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 14/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVi",
+      "date": 1521822760000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ4",
+      "date": 1524662349000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY4",
+      "date": 1520267531000,
+      "text": "Iniciada a liquida\u00e7\u00e3o ",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGYx",
+      "date": 1521640714000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ1",
+      "date": 1525210767000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGYz",
+      "date": 1520404453000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGNk",
+      "date": 1529613279000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQy",
+      "date": 1526634371000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFj",
+      "date": 1439522696000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 13/08/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGNm",
+      "date": 1529599706000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQz",
+      "date": 1526426885000,
+      "text": "Expedido(a) alvar\u00e1 a(o) Caixa Econ\u00f4mica Federal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGRh",
+      "date": 1524500349000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVk",
+      "date": 1521730787000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGU1",
+      "date": 1522758452000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFi",
+      "date": 1440437527000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (29/09/2015 11:50 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGU3",
+      "date": 1522731896000,
+      "text": "Decorrido o prazo de JORGE LUIZ DE ALCANTARA PERPETUO em 02/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY1",
+      "date": 1520273379000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTA1",
+      "date": 1448766077000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGM5",
+      "date": 1533226347000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGRj",
+      "date": 1523076675000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 06/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTE1",
+      "date": 1443561170000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTEz",
+      "date": 1443816538000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTEw",
+      "date": 1443816540000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 600.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ5",
+      "date": 1524500349000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTAz",
+      "date": 1456399199000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTA2",
+      "date": 1448766077000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGM2",
+      "date": 1533231612000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGZl",
+      "date": 1513286721000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGUw",
+      "date": 1522823584000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGM4",
+      "date": 1533226348000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGYw",
+      "date": 1521660140000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVl",
+      "date": 1521690592000,
+      "text": "Decorrido o prazo de JORGE LUIZ DE ALCANTARA PERPETUO em 21/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGU5",
+      "date": 1521872037000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQx",
+      "date": 1526634372000,
+      "text": "Publicado(a) o(a) Despacho em 18/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQw",
+      "date": 1528497166000,
+      "text": "Decorrido o prazo de CARLITOS CORDEIRO FERREIRA em 06/06/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTAw",
+      "date": 1473893731000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGUx",
+      "date": 1522760268000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGU4",
+      "date": 1522241337000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBm",
+      "date": 1446545198000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ0",
+      "date": 1525210768000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGZi",
+      "date": 1520267452000,
+      "text": "Transitado em julgado em 23/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGY2",
+      "date": 1520273378000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTIw",
+      "date": 1438016793000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFm",
+      "date": 1438016793000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGNi",
+      "date": 1533146249000,
+      "text": "Conclusos os autos para despacho  a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ2",
+      "date": 1525109930000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTE3",
+      "date": 1443556438000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (29/09/2015 11:50 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTA0",
+      "date": 1450361584000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGUz",
+      "date": 1522760267000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGU2",
+      "date": 1522731897000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 02/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFk",
+      "date": 1438879832000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBi",
+      "date": 1446591212000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGRm",
+      "date": 1522823584000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBh",
+      "date": 1446591218000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTEx",
+      "date": 1443816540000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a JORGE LUIZ DE ALCANTARA PERPETUO",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTE2",
+      "date": 1443556438000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTA5",
+      "date": 1446803475000,
+      "text": "Decorrido o prazo de JORGE LUIZ DE ALCANTARA PERPETUO em 14/10/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGZj",
+      "date": 1520022510000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGZh",
+      "date": 1520267464000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGRi",
+      "date": 1524247684000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTAx",
+      "date": 1464358920000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBl",
+      "date": 1446548239000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTBk",
+      "date": 1446548239000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTIx",
+      "date": 1437747887000,
+      "text": "Audi\u00eancia inicial designada (24/08/2015 14:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTIy",
+      "date": 1437747885000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGQ3",
+      "date": 1525109561000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGRl",
+      "date": 1523018615000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGNj",
+      "date": 1530320205000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTFh",
+      "date": 1440449220000,
+      "text": "Audi\u00eancia inicial realizada (24/08/2015 14:20 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NTEy",
+      "date": 1443816540000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de JORGE LUIZ DE ALCANTARA PERPETUO",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMjE1ZDBjODBlNGFlOTAyMmM3NGVj",
+      "date": 1521822760000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

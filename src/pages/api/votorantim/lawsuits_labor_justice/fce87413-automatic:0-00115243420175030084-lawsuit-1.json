@@ -1,0 +1,252 @@
+{
+  "lawsuit": {
+    "id": "ZmNlODc0MTMtYXV0b21hdGljOjAtMDAxMTUyNDM0MjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 26,
+    "number": "0011524-34.2017.5.03.0084",
+    "value": 16000.0,
+    "subject": "Adicional de Hora Extra",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "V. R. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Sidileia Aparecida de Jesus Almeida",
+            "cpf": "039.797.476-03",
+            "lawyerId": "Nzg1MGIwZTctYXV0b21hdGljOjAtYjUxMDkwOTQyMWYxNDAwLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1508959006000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2141"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2M1",
+      "date": 1508959006000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Jk",
+      "date": 1510027229000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Iw",
+      "date": 1512061898000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 320.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I3",
+      "date": 1510195173000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I4",
+      "date": 1510195173000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I0",
+      "date": 1511974296000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Fm",
+      "date": 1513356403000,
+      "text": "Transitado em julgado em 13/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Ix",
+      "date": 1512061898000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a VALDIR RAQUEL DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Fj",
+      "date": 1513539771000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Mx",
+      "date": 1509547316000,
+      "text": "Audi\u00eancia una redesignada (23/11/2017 09:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I5",
+      "date": 1510193768000,
+      "text": "Decorrido o prazo de VALDIR RAQUEL DE ARAUJO em 08/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I1",
+      "date": 1511454991000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Jl",
+      "date": 1509731641000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2My",
+      "date": 1509022363000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2E5",
+      "date": 1513621547000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Mz",
+      "date": 1508959008000,
+      "text": "Audi\u00eancia una designada (20/11/2017 09:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Iy",
+      "date": 1512061898000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) /  ) de VALDIR RAQUEL DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Fk",
+      "date": 1513539771000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2I2",
+      "date": 1511454991000,
+      "text": "Audi\u00eancia una realizada (23/11/2017 10:40 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Iz",
+      "date": 1512061897000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Jm",
+      "date": 1509731641000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Mw",
+      "date": 1509548408000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Ji",
+      "date": 1510075643000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Jj",
+      "date": 1510027229000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Fl",
+      "date": 1513356482000,
+      "text": "Conclusos os autos para despacho  a MARCELO MARQUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmYjY1NjM2MDY3OGVmNDBkYmExM2Jh",
+      "date": 1510076048000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

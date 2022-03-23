@@ -1,0 +1,822 @@
+{
+  "lawsuit": {
+    "id": "MWIyYWQ0NzAtYXV0b21hdGljOjAtMDAxMDM4Nzg2MjAxNTUwMzAwMTktbGF3c3VpdA==",
+    "activityCount": 82,
+    "number": "0010387-86.2015.5.03.0019",
+    "value": 21581.24,
+    "subject": "Multa do Artigo 477 da CLT, Adicional Noturno, Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o, Dep\u00f3sito / Diferen\u00e7a de Recolhimento, Devolu\u00e7\u00e3o, Honor\u00e1rios na Justi\u00e7a do Trabalho, Intervalo Intrajornada, Multa Prevista em Norma Coletiva, Multa de 40% do FGTS, Reajuste Salarial, Repouso Semanal Remunerado e Feriado",
+    "kind": "Trabalhista",
+    "district": "19\u00aa Vara do Trabalho de Belo Horizonte",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "G. J. S. J.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AGRAVANTE",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "Joaquim Martins Pinheiro Filho",
+            "cpf": "527.510.661-00",
+            "lawyerId": "YTdjYTk3NWUtYXV0b21hdGljOjAtZjZhMDFmMzNlZjVhNzU4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Erica Diniz Bomtempo",
+            "cpf": "012.778.936-75",
+            "lawyerId": "NzI5MGU3NDYtYXV0b21hdGljOjAtMTI1OTFmZWE3ZmM3ZDQ1LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "S. A. V. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "C. O. S. A. R. J.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "AGRAVADO",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "Romero Mattos Terra",
+            "cpf": "719.862.356-53",
+            "lawyerId": "YWY5NDUzOGQtYXV0b21hdGljOjAtMzZjNDk5OTE3MTUyYjc2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Fernando de Almeida Prado Sampaio",
+            "cpf": "221.516.758-07",
+            "lawyerId": "NGM3MmUxNDAtYXV0b21hdGljOjAtMWRiNDlmYjVlNzNkMDM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1537389565000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Dep\u00f3sito / Diferen\u00e7a de Recolhimento",
+                "code": 2033
+              },
+              {
+                "level": 3,
+                "text": "FGTS mas em outro ramo na \u00e1rvore da justi\u00e7a do trabalho",
+                "code": 2029
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Intervalo Intrajornada",
+                "code": 2140
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa do Artigo 477 da CLT",
+                "code": 2212
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Multa Prevista em Norma Coletiva",
+                "code": 2215
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Repouso Semanal Remunerado e Feriado",
+                "code": 2426
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Reajuste Salarial",
+                "code": 2449
+              },
+              {
+                "level": 3,
+                "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+                "code": 2458
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o",
+                "code": 5352
+              },
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Devolu\u00e7\u00e3o",
+                "code": 5354
+              },
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1663-1998-2033-2140-2212-2215-2426-2449-5352-5354"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete de Desembargador n. 37",
+    "nature": {
+      "raw": "AP",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWZk",
+      "date": 1444931274000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJj",
+      "date": 1539714819000,
+      "text": "Redistribu\u00eddo por sorteio  em raz\u00e3o da posse do relator em cargo diretivo do Tribunal",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWVj",
+      "date": 1461617890000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ0",
+      "date": 1476414326000,
+      "text": "Decorrido o prazo de CONSTRUTORA OAS S.A. em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM0",
+      "date": 1530104642000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ2",
+      "date": 1476414087000,
+      "text": "Decorrido o prazo de GERALDO JOSE DOS SANTOS JUNIOR em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ4",
+      "date": 1475550694000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMjAy",
+      "date": 1434469682000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRk",
+      "date": 1466046312000,
+      "text": "Decorrido o prazo de SECURITY ALL VIGILANCIA LTDA - ME em 15/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNh",
+      "date": 1526603007000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWMw",
+      "date": 1534882556000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWUy",
+      "date": 1464806783000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWMy",
+      "date": 1533047357000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWYy",
+      "date": 1454699232000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRj",
+      "date": 1466046313000,
+      "text": "Decorrido o prazo de GERALDO JOSE DOS SANTOS JUNIOR em 15/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWUx",
+      "date": 1464807016000,
+      "text": "Conhecido o recurso de GERALDO JOSE DOS SANTOS JUNIOR - CPF: 547.979.936-34 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWIw",
+      "date": 1542939614000,
+      "text": "Decorrido o prazo de PEDRO ALBERTO BRASIL VIEIRA DOS SANTOS em 22/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWVk",
+      "date": 1460112237000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMjAw",
+      "date": 1440450081000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWYz",
+      "date": 1454533972000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI2",
+      "date": 1541611287000,
+      "text": "Conhecido o recurso de GERALDO JOSE DOS SANTOS JUNIOR - CPF: 547.979.936-34 e provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWIy",
+      "date": 1541730943000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 09/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWIx",
+      "date": 1542939037000,
+      "text": "Decorrido o prazo de CONSTRUTORA OAS S.A. EM RECUPERACAO JUDICIAL em 22/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWMx",
+      "date": 1534530464000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWIz",
+      "date": 1541730942000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWZm",
+      "date": 1441749749000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJl",
+      "date": 1537211894000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRl",
+      "date": 1466046312000,
+      "text": "Decorrido o prazo de CONSTRUTORA OAS S.A. em 15/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQx",
+      "date": 1485547686000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de GERALDO JOSE DOS SANTOS JUNIOR - CPF: 547.979.936-34 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMjAx",
+      "date": 1437066631000,
+      "text": "Minutar despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWZi",
+      "date": 1447795005000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI0",
+      "date": 1541703100000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY5",
+      "date": 1449172151000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNi",
+      "date": 1487179680000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para julgar Agravo de Instrumento em Recurso de Revista",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRi",
+      "date": 1472061545000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWZj",
+      "date": 1446837495000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI5",
+      "date": 1540485702000,
+      "text": "Inclu\u00eddo o processo em pauta (06/11/2018, 14:04:00, -AWMA)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJh",
+      "date": 1540480823000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWFl",
+      "date": 1542939691000,
+      "text": "Decorrido o prazo de SECURITY ALL VIGILANCIA LTDA - ME em 22/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM2",
+      "date": 1529067422000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJk",
+      "date": 1537389566000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWU1",
+      "date": 1464014319000,
+      "text": "Inclu\u00eddo o processo em pauta (31/05/2016, 13:00:00, Plen\u00e1rio 1 13:00hs)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWVm",
+      "date": 1456958333000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWUz",
+      "date": 1464059659000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 24/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWUw",
+      "date": 1465269301000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWFk",
+      "date": 1542990302000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWZl",
+      "date": 1444080841000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNl",
+      "date": 1486605657000,
+      "text": "Decorrido o prazo de CONSTRUTORA OAS S.A. em 08/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ1",
+      "date": 1476414326000,
+      "text": "Decorrido o prazo de SECURITY ALL VIGILANCIA LTDA - ME em 13/10/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWU4",
+      "date": 1462401465000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWFm",
+      "date": 1542939691000,
+      "text": "Decorrido o prazo de GERALDO JOSE DOS SANTOS JUNIOR em 22/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM4",
+      "date": 1528309972000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY3",
+      "date": 1450120423000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQz",
+      "date": 1485544115000,
+      "text": "Conclusos os autos para despacho  a J\u00falio Bernardo do Carmo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM1",
+      "date": 1529509501000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWYx",
+      "date": 1455277110000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRh",
+      "date": 1472764923000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJm",
+      "date": 1535391779000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWU0",
+      "date": 1464014328000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWJi",
+      "date": 1540480643000,
+      "text": "Conclusos os autos para julgamento (relatar) a Alexandre Wagner de Morais Albuquerque",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM3",
+      "date": 1528826143000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNk",
+      "date": 1486605657000,
+      "text": "Decorrido o prazo de SECURITY ALL VIGILANCIA LTDA - ME em 08/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWU3",
+      "date": 1463356444000,
+      "text": "Conclusos os autos para julgamento (relatar) a JOAO ALBERTO DE ALMEIDA",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWVi",
+      "date": 1462398157000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWYw",
+      "date": 1455654310000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQy",
+      "date": 1485547686000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI3",
+      "date": 1540524806000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 26/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI4",
+      "date": 1540485726000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY2",
+      "date": 1452540496000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNj",
+      "date": 1486605657000,
+      "text": "Decorrido o prazo de GERALDO JOSE DOS SANTOS JUNIOR em 08/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWI1",
+      "date": 1541619474000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWVl",
+      "date": 1457730387000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWNm",
+      "date": 1485828825000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 31/01/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ3",
+      "date": 1475550695000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY0",
+      "date": 1453134514000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQ5",
+      "date": 1472764924000,
+      "text": "Prejudicado(s) o(s) Recurso de Revista de GERALDO JOSE DOS SANTOS JUNIOR - CPF: 547.979.936-34",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWRm",
+      "date": 1465269301000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 07/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWQw",
+      "date": 1485828825000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWU2",
+      "date": 1463665453000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWM5",
+      "date": 1526655003000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY4",
+      "date": 1449257688000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNjIzODFjZTJiYTRlYmJkMDZmMWY1",
+      "date": 1452712076000,
+      "text": "Despacho",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

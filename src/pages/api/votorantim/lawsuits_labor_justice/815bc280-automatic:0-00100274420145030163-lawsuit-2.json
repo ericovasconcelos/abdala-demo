@@ -1,0 +1,489 @@
+{
+  "lawsuit": {
+    "id": "ODE1YmMyODAtYXV0b21hdGljOjAtMDAxMDAyNzQ0MjAxNDUwMzAxNjMtbGF3c3VpdA==",
+    "activityCount": 70,
+    "number": "0010027-44.2014.5.03.0163",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Loureiro e Carvalho LTDA",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Jose Paulo dos Santos Filho",
+            "cpf": "835.546.616-00",
+            "lawyerId": "MWExYTJlMDktYXV0b21hdGljOjAtNDcyMzQ1M2NmODJmY2UxLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Zeonice Ferreira Rodrigues",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Dimer Azalim do Valle",
+            "cpf": "067.321.526-10",
+            "lawyerId": "Njc4YTA4MTQtYXV0b21hdGljOjAtZGU1OTc4N2EyYTA3MTU2LWxhd3llcg=="
+          },
+          {
+            "name": "Geisa Paula Nogueira",
+            "cpf": "071.911.376-81",
+            "lawyerId": "YTllZmY2ZjItYXV0b21hdGljOjAtY2IyM2YzYjFhZjBlMzYxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1388584800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Gabinete de Desembargador n. 5",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MzgxNWRkOGJjMjNhYmVkMDNiMTNhMzc0ZDM4MmJiYWQ=",
+      "date": 1399939200000,
+      "text": "Certid\u00e3o de Juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmU3ZTYxODhjNDU3Y2Y3MTk1MjIyMzNkYzA4ZDFmODA=",
+      "date": 1412121600000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDcyZDBlNjNlYmExYzRmOTljYTMxMDlhYThiY2U0NzM=",
+      "date": 1411430400000,
+      "text": "Disponibilizado (a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWIwN2Y3MzIyMzY1MjUyODkxMWVkYWZjYjg3NDM0YWQ=",
+      "date": 1396224000000,
+      "text": "Novo endere\u00e7o Reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTA2ODFlMDk3Yjc2MDQ1Y2Q1NDY4ZjU3MzcxMzA1N2U=",
+      "date": 1393200000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWMyOTU3NTBiODRhYjBjY2NjOTJkOTZjZTU4OTgyOTQ=",
+      "date": 1389571200000,
+      "text": "Comprovantes pagamentos comiss\u00f5es | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ2MzkwMzUwZWI5ZTk5YmJhNzQxMGY5ZTVhMTQxODA=",
+      "date": 1412294400000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o DEJT em 03/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "N2Q4ODBmODFmNjA1MGI1MjBmZjE4ZDI4ZjA2NTNlZjg=",
+      "date": 1411430400000,
+      "text": "Inclu\u00eddo o processo em pauta (30/09/2014, 08:00:00, Plen\u00e1rio 2, 8\u00ba andar, Av. Get\u00falio Vargas, 225)",
+      "attachments": []
+    },
+    {
+      "id": "NGZjZjkwODhkMTJmMzE0ZWNkOTkxMTg4MWRlNjZmMzU=",
+      "date": 1389571200000,
+      "text": "Comiss\u00f5es 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yzg2MTllZjU2ZTY2MzhmODNkM2FmODlkM2Q3NmVlY2Y=",
+      "date": 1390780800000,
+      "text": "Endere\u00e7o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODc1ODlhMDE2NjkzMTYwNDBiYzdmOTIwMTgxMTQ1MGE=",
+      "date": 1389571200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTkwZDk0ZTIxMzhiOTUxNjgzNmE0ZWRjMGRkMjI0NGM=",
+      "date": 1389571200000,
+      "text": "Documentos pessoais | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc2YTlkNTUzYjNiZjQyODkzNThhZGI4NDgzOTA1MDg=",
+      "date": 1389571200000,
+      "text": "Aviso e recibo de f\u00e9rias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThjNTI3NzIxYmMwYzIyZTY5MWM2MmE2YmE1MWRlZjE=",
+      "date": 1397433600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzgwMDcxNTMwNTAwMmY5OTA0Zjg1NDAxNTJhYmU3ODI=",
+      "date": 1392595200000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI5NGVkMjUxYmJiMzExYjUxODQzM2E4NjJkMDcxYTA=",
+      "date": 1409788800000,
+      "text": "Conclusos os autos para julgamento (relatar)",
+      "attachments": []
+    },
+    {
+      "id": "OGY5Nzc3ZGZhZjQ4ZmFlZDY3YjY2NGQ2YmZlNzBiYmU=",
+      "date": 1390435200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njg4N2IzOWJkZTMzYWJhYjE0YmNiZWUzMWY4MGY5YjI=",
+      "date": 1399593600000,
+      "text": "Minutar decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTFjOWIxNTFkZTMxZmU1NzZlM2I2YWY2MWU1MzNmODU=",
+      "date": 1389571200000,
+      "text": "CCT 2013-2014 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2EyMDI2M2ExZTA5OTgxMDIxYmI5NmFiY2RjYmU4YjQ=",
+      "date": 1398643200000,
+      "text": "Certid\u00e3o de juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWJkZDRkMWM1Y2MwYmY4M2E5ODVlMjFlMGFiM2YzNGM=",
+      "date": 1389571200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjU1M2NhYjAwNzliNTE5NTYyNjVkNDY5YmM5ODE2NDQ=",
+      "date": 1412294400000,
+      "text": "Disponibilizado (a) o(a) Ac\u00f3rd\u00e3o DEJT no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjQ3MDczMGU3ZDQ2YjFmZGVmMjEzNjgyMmIxMWFiYzQ=",
+      "date": 1389571200000,
+      "text": "CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJkYmFlNTEyZTZmZjFjMjgyNTVmNzM0M2MwZGVmMGQ=",
+      "date": 1411257600000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "OWMxMzhlMDI1ZWY5ZTU2YjRiYTZkZGRjZTk0ZWFkNWY=",
+      "date": 1397001600000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "OGM4MWU0YWJhNmRlYmJhMjhmYTFhZDBmNjZjMDRmYjA=",
+      "date": 1397088000000,
+      "text": "Pedido de intima\u00e7\u00e3o novo endere\u00e7o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzYwYTA2YTRlOWQwMmI0MDgyNTMxZTkyOWY4NGQ1ZTA=",
+      "date": 1399939200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NGUzMDcxMGFiZmNkNGQ0YmMyMDY4OThlNmQxODRhMTQ=",
+      "date": 1390435200000,
+      "text": "Certid\u00e3o de juntada de CE | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg1YWUzMDU0ZmYyNGViODk4MzQ2NzRjYzcxNzg0ZGE=",
+      "date": 1390435200000,
+      "text": "CE Loureiro e Carvalho - desconhecido | Aviso de Recebimento (AR) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTJmYWUyOWNmZjM2MjQ1NTk3N2Q5ZDYzYWE3YTU4NmY=",
+      "date": 1413244800000,
+      "text": "Transitado em julgado em 13/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "YWQ3MjRiMzBmNjI1N2U1YjI5ZmMzYzg3ODZhMWE3YjA=",
+      "date": 1392249600000,
+      "text": "CE Loureiro e Carvalho - ausente | Aviso de Recebimento (AR) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWY5OWExNzBhNzg4MTA4ZGRiZDU1YzYzZjc1ZjM1NTk=",
+      "date": 1398643200000,
+      "text": "Ce - recda - com \u00eaxito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJlZWFlNzE5ODFhNWJiNDUzYzRkY2I3YzIzM2Q1YWM=",
+      "date": 1398643200000,
+      "text": "Dilig\u00eancias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ1MmY0YTNkODQ3NjYxMjk1YTA4ZDRiY2EyZDEyNmQ=",
+      "date": 1397001600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODYwYWJiMWM1Njg3MjdmYzUzYWI1Y2UwODQ5ZGUwNTQ=",
+      "date": 1398643200000,
+      "text": "Termo de compromisso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2IzYTMwYTczMDI1NDliY2MzZmFjNTA1ZTgxN2M1MWM=",
+      "date": 1399852800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzY5M2U0OTgxZGM5NzAwYjU1Nzk4MjgxNzhlZjQxNmI=",
+      "date": 1411516800000,
+      "text": "Certid\u00e3o de Publica\u00e7\u00e3o de Pauta | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjlmNWI2YzE5OWEyMTFlYmVhNWIzMGExOTc2MzE0MWE=",
+      "date": 1391472000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM0ODFjOGViOGNlYzg5M2JhNDMyMmIzMzE3YWJjN2I=",
+      "date": 1389571200000,
+      "text": "Comiss\u00f5es 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjIwMTJiYjUxYTEwYzc0OThmZGIyMDBhMzYxNzExNjE=",
+      "date": 1409788800000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTdjMGI5MDRjM2VjMWViYzhhNTdmMjYxN2RjZmYwZmQ=",
+      "date": 1398643200000,
+      "text": "Procura\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNlMmY3YzgzMThmZGViZmUzYzU0OWU4ZWIzZTUxNjM=",
+      "date": 1397088000000,
+      "text": "Manifesta\u00e7\u00e3o acerca da fal\u00eancia da Reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDVmMjU0NTdiMTBkZTg1NzUzYTQ0NjI5OTk1OWMzMjk=",
+      "date": 1398816000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzVhNTFhMTFkYTkzNWM4M2Q2NjYwNmJiMjRiMTRkMWU=",
+      "date": 1413244800000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "MGQ0OWRiODIxMWJlNDdkMzMxNjdiMWRjOTYyMjE4N2E=",
+      "date": 1392854400000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NTQ4ODBhM2JmOWE0YWYwODAzY2EyZjU3NTM3YzA4MWI=",
+      "date": 1421798400000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 24/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "YmU0ZDYwYTQ4NGE0ODAxMGU2M2YxMmMxMDgwZWYzZjY=",
+      "date": 1395014400000,
+      "text": "CE LOUREIRO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2E4ZWZjNGYzYTEzNjJlNzhmODZkNmI3MGMyMTIzMjE=",
+      "date": 1410393600000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzU0OWZhOTFhM2IwZWYyNDQ0Yjk0NTI5OWQ2OTA5MzE=",
+      "date": 1389571200000,
+      "text": "Declara\u00e7\u00e3o de pobreza | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUwNjk0NzVjNzViZWYzMjczNTEwYTJkNjRjMjM0MGY=",
+      "date": 1389571200000,
+      "text": "Comiss\u00f5es 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDJlY2UzYTBmOWY5ODc4NjlhMDU0NWZlZjNlYWUzOWQ=",
+      "date": 1389571200000,
+      "text": "Comiss\u00f5es 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5NjRkMWJiMmQ1Njc1MDQyYjc0NjhlMTQ0YjY1YjY=",
+      "date": 1389571200000,
+      "text": "CCT 2012-2013 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTAyM2VlNzAxYjUwZWJmMjc3YjNiMzZiMWExZmE3ZDc=",
+      "date": 1398643200000,
+      "text": "Nomea\u00e7\u00e3o Administrador Judicial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI4NmJkYTA5NDEzYTMwODE4NjVkOTk3NjU0ODk2ODA=",
+      "date": 1392249600000,
+      "text": "Certid\u00e3o de juntada de CE | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2E1NjNiOTUwNzY5ZDE0NmIyM2YwNjE2N2Q1ZTllMWM=",
+      "date": 1389571200000,
+      "text": "Extrato banc\u00e1rio pagamento comiss\u00f5es | Extrato Banc\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmQ3ZTJlN2EyNjRmYjdhNjhkOWFmNDY4YjllYjc3ZjE=",
+      "date": 1400803200000,
+      "text": "Conclusos os autos para julgamento (relatar)",
+      "attachments": []
+    },
+    {
+      "id": "OGU4MGU2MjJmOGJjYzg5ZjIzOTBkZjc0YTM5NGY2NzI=",
+      "date": 1395014400000,
+      "text": "CE LOUREIRO N/P RONALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTBlZDFkOTk0NDc5ZjE2MjUyMTE1NmI1NDVmNDQyZjQ=",
+      "date": 1398643200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjNhYjg0NTczMDIzOWI2M2ViMGEzZGMxN2Y4ODdkZjg=",
+      "date": 1389571200000,
+      "text": "CCT 2011-2012 | Conven\u00e7\u00e3o Coletiva de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdjNjc3YjgxYTNiMzcyMzVjMDhiNzhhOGY5N2M5ZjY=",
+      "date": 1399248000000,
+      "text": "Contrarraz\u00f5es Recurso Ordin\u00e1rio | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTk0MzM2NzY0NmEzMGJlYjdlNTk5OTJlMGMxMjQ1YzY=",
+      "date": 1413244800000,
+      "text": "Certid\u00e3o de decurso de prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjRkY2UwZTZjZWMxOTk1MGIyZDU3YTA5MTA0OTYwMzE=",
+      "date": 1398643200000,
+      "text": "CE- recda - com \u00eaxito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNmM2YyOGZiZThkMTRiMDMwOTUwMDUzZDFkMTZiZWQ=",
+      "date": 1389571200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2NmNmFiZjg5MWUwZDk3YmMyYTk4ZDU2ZTUxODU3NTk=",
+      "date": 1412121600000,
+      "text": "Ac\u00f3rd\u00e3o DEJT | Ac\u00f3rd\u00e3o DEJT",
+      "attachments": []
+    },
+    {
+      "id": "ZTU4Yzc5ZmI1MjI2MGE2YTI2NjcyYmRiYzAxYmRmMTc=",
+      "date": 1392249600000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzlmYTZlZWY3MjY2NmFhYjg4ZTRmYjBiNzQxOTU3MDU=",
+      "date": 1399939200000,
+      "text": "ABA EXPD. | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjgyZTQ0OTk5YmM5ZGQyNTg0NTA3ZDVhMDFiMmY5OTQ=",
+      "date": 1412035200000,
+      "text": "Conhecido o recurso de LOUREIRO E CARVALHO LTDA - CNPJ: 65.326.803/0001-86 e provido",
+      "attachments": []
+    },
+    {
+      "id": "NDkwMGYzMzQ2YWQ0NTVhNmRmOWM3M2FkOGExZjI1NmI=",
+      "date": 1398643200000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2MzZDE5OTFjZTQwNTRmYTNlYWM0YTk5M2FhODdkMzA=",
+      "date": 1389571200000,
+      "text": "Holleriths | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzFhYzg2ZDEyNDllZGZjY2JkYjE1YjhhODk2YTdmZjk=",
+      "date": 1395014400000,
+      "text": "Certid\u00e3o de Juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,1505 @@
+{
+  "lawsuit": {
+    "id": "MjU4NDhiYmItYXV0b21hdGljOjAtMDAxMTY0OTAyMjAxNzUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 214,
+    "number": "0011649-02.2017.5.03.0084",
+    "value": 262000.52,
+    "subject": "Adicional de Horas Extras, Adicional Noturno, Adicional de Hora Extra, Adicional de Insalubridade, Contagem de Minutos Residuais, Horas in Itinere, Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "D. J. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Stenio Santos Santiago",
+            "cpf": "060.609.696-58",
+            "lawyerId": "Nzg3Nzg4NTItYXV0b21hdGljOjAtMzA0MWZjNGNjMjdjNGNmLXVuaWZpZWQ="
+          },
+          {
+            "name": "Savio Henrique Santos Santiago",
+            "cpf": "100.136.176-80",
+            "lawyerId": "OTRjZmRlNGQtYXV0b21hdGljOjAtNzc2ZDIzM2EyNzJkNzNkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1510147214000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Horas In Itinere",
+                "code": 1661
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Sal\u00e1rio por Equipara\u00e7\u00e3o / Isonomia",
+                "code": 2697
+              },
+              {
+                "level": 3,
+                "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+                "code": 2458
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Insalubridade",
+                "code": 10291
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1661-1663-2141-2697-10291-10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATOrd",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGIw",
+      "date": 1593043013000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTA5",
+      "date": 1521532941000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTE3",
+      "date": 1581940440000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTFk",
+      "date": 1516818871000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTFm",
+      "date": 1516818871000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (24/01/2018 15:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTAz",
+      "date": 1521630877000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGYx",
+      "date": 1583902443000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTBm",
+      "date": 1520482324000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 07/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTZl",
+      "date": 1571274478000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTFj",
+      "date": 1516819108000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTkz",
+      "date": 1566475179000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWRl",
+      "date": 1558031746000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTli",
+      "date": 1565839828000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGMz",
+      "date": 1588679722000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTg3",
+      "date": 1568051270000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGRh",
+      "date": 1584588113000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 18/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWE1",
+      "date": 1565714793000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTA2",
+      "date": 1521532941000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWMy",
+      "date": 1561471407000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTE5",
+      "date": 1519310928000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWNh",
+      "date": 1559843825000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTI4",
+      "date": 1513078568000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (30/07/2018 10:10 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWRi",
+      "date": 1558031746000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWQ0",
+      "date": 1559668437000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (C\u00e1lculos do Reclamante)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTVi",
+      "date": 1574133180000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 18/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTEw",
+      "date": 1520482324000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 07/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTYx",
+      "date": 1572280077000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTIx",
+      "date": 1516107709000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTcz",
+      "date": 1571255115000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGM1",
+      "date": 1588216632000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTk1",
+      "date": 1566343297000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTMy",
+      "date": 1576778481000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGJk",
+      "date": 1588796905000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWNm",
+      "date": 1559735729000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWQz",
+      "date": 1559705495000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 04/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTE1",
+      "date": 1519368029000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGRj",
+      "date": 1584502191000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OThm",
+      "date": 1567542698000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O C\u00c1LCULOS NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTc4",
+      "date": 1570726371000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado/",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGFm",
+      "date": 1593043075000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWU0",
+      "date": 1557953121000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTBl",
+      "date": 1583494547000,
+      "text": "Conclusos os autos para decis\u00e3o (gen\u00e9rica) a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWU2",
+      "date": 1557944193000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTY2",
+      "date": 1571974493000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 24/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWYw",
+      "date": 1539895386000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTk0",
+      "date": 1566475178000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTE1",
+      "date": 1581997186000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWEy",
+      "date": 1565714796000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGI0",
+      "date": 1592575070000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWZm",
+      "date": 1522210318000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A.                                                                                                                           em 27/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTFj",
+      "date": 1581705680000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Peti\u00e7\u00e3o (AGRAVO DE PETI\u00c7AO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTAw",
+      "date": 1522210318000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 27/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTIw",
+      "date": 1581508292000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Peti\u00e7\u00e3o (Agravo de Peti\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTFi",
+      "date": 1519310927000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTUx",
+      "date": 1574259321000,
+      "text": "Conclusos os autos para despacho  a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTI5",
+      "date": 1510155340000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTkx",
+      "date": 1567169154000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o aos C\u00e1lculos Per\u00edciais)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTk2",
+      "date": 1566343296000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTEy",
+      "date": 1582825337000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta (Contraminuta)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWE5",
+      "date": 1565622056000,
+      "text": "Conclusos os autos para despacho  a SIMONE SOARES BERNARDES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTNi",
+      "date": 1576075954000,
+      "text": "Conclusos os autos para despacho  a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWI5",
+      "date": 1561568115000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTVh",
+      "date": 1574187722000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (JUNTADA COMPROVANTE DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTI0",
+      "date": 1580743509000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) ( / \n Embargos \u00e0 Execu\u00e7\u00e3o) de DIVINO JUNIOR DA SILVA - CPF: 054.666.296-00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWI2",
+      "date": 1561696601000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTg0",
+      "date": 1568086305000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWVi",
+      "date": 1553871487000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGJm",
+      "date": 1588796905000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWM1",
+      "date": 1561433876000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGIx",
+      "date": 1593043013000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWUx",
+      "date": 1557953270000,
+      "text": "Iniciada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTky",
+      "date": 1567134297000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 29/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWUz",
+      "date": 1557953252000,
+      "text": "Transitado em julgado em 26/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTQ2",
+      "date": 1574726065000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWIw",
+      "date": 1562540907000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 05/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTRm",
+      "date": 1574262115000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTI1",
+      "date": 1513123435000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGQ3",
+      "date": 1587643558000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Expedi\u00e7\u00e3o de Alvar\u00e1)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTJh",
+      "date": 1510147214000,
+      "text": "Audi\u00eancia inicial designada (12/12/2017 09:05 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGY5",
+      "date": 1583902382000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGQx",
+      "date": 1588082257000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTI2",
+      "date": 1580268569000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 28/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTRj",
+      "date": 1574426087000,
+      "text": "Conclusos os autos para despacho  a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTI4",
+      "date": 1580268569000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 28/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGIz",
+      "date": 1593015111000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTM1",
+      "date": 1576076064000,
+      "text": "Iniciada a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGVh",
+      "date": 1584393624000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWMz",
+      "date": 1561433876000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTY5",
+      "date": 1571717407000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTlm",
+      "date": 1565783364000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTE2",
+      "date": 1581940441000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWFl",
+      "date": 1562540907000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 05/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTFh",
+      "date": 1581735878000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 14/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTEx",
+      "date": 1583267309000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta (CONTRAMINUTA AO AGRAVO DE PETI\u00c7\u00c3O NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTJk",
+      "date": 1578366458000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTNj",
+      "date": 1575515260000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 04/12/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTFl",
+      "date": 1581509960000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Expedi\u00e7\u00e3o de Alvar\u00e1)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTVm",
+      "date": 1572405753000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTMx",
+      "date": 1576778494000,
+      "text": "Conclusos os autos para despacho  a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTc5",
+      "date": 1570235291000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGI3",
+      "date": 1589917117000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OThh",
+      "date": 1567566427000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 03/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTAz",
+      "date": 1583509379000,
+      "text": "Recebido(s) o(s) Agravo de Peti\u00e7\u00e3o de NEXA RECURSOS MINERAIS S.A.                                                                                                                            sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWMx",
+      "date": 1561568114000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTNk",
+      "date": 1574873961000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o \u00e0 Senten\u00e7a de Liquida\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWU4",
+      "date": 1557942279000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTdh",
+      "date": 1570235291000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWU5",
+      "date": 1557927088000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTBi",
+      "date": 1521154247000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTBk",
+      "date": 1583509379000,
+      "text": "Recebido(s) o(s) Agravo de Peti\u00e7\u00e3o de DIVINO JUNIOR DA SILVA sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTBj",
+      "date": 1521154246000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTM0",
+      "date": 1576076089000,
+      "text": "Conclusos os autos para julgamento dos Embargos \u00e0 Execu\u00e7\u00e3o a JOAO OTAVIO FIDANZA FROTA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTBl",
+      "date": 1521138403000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTM3",
+      "date": 1576076006000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWM4",
+      "date": 1559969188000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTlh",
+      "date": 1566228807000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTY4",
+      "date": 1571946474000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O DEP\u00d3SITO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGM3",
+      "date": 1588216632000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWQx",
+      "date": 1559705495000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 04/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGUy",
+      "date": 1584393684000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTQw",
+      "date": 1574826642000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGVm",
+      "date": 1583946593000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Expedi\u00e7\u00e3o de Alvar\u00e1)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTJi",
+      "date": 1578366458000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTJl",
+      "date": 1578307684000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGEz",
+      "date": 1593228443000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTEw",
+      "date": 1583378403000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 04/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTI1",
+      "date": 1580743508000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTIz",
+      "date": 1516037217000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTJm",
+      "date": 1576790084000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTJi",
+      "date": 1510147214000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTRk",
+      "date": 1574392146000,
+      "text": "Decorrido o prazo de UNI\u00c3O FEDERAL (PGF) em 21/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTg5",
+      "date": 1568033056000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTZh",
+      "date": 1571717407000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OThl",
+      "date": 1567566427000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 03/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTIz",
+      "date": 1580743509000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) ( /  Embargos \u00e0 Execu\u00e7\u00e3o) de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWM2",
+      "date": 1560535522000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (IMPUGNA\u00c7\u00c3O C\u00c1LCULOS NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTQ0",
+      "date": 1574794421000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWM3",
+      "date": 1560344975000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o aos C\u00e1lculos da Reclamada)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTgw",
+      "date": 1568086305000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGJh",
+      "date": 1589301914000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 11/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTcw",
+      "date": 1571255158000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTZm",
+      "date": 1571274476000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWM5",
+      "date": 1559969187000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWI0",
+      "date": 1561696601000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 28/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTE2",
+      "date": 1519310928000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 800.00",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTMw",
+      "date": 1576790083000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTdi",
+      "date": 1570103104000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTU5",
+      "date": 1574259250000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGFi",
+      "date": 1593228443000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTY1",
+      "date": 1572272762000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGJi",
+      "date": 1589253518000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 11/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWFj",
+      "date": 1565183103000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) /VALDEMIR ANTONIO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGQy",
+      "date": 1588076290000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGNi",
+      "date": 1588082317000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTQ3",
+      "date": 1574726054000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTc0",
+      "date": 1571254522000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (uni\u00e3o concorda com o c\u00e1lculo)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTg2",
+      "date": 1568051271000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGU3",
+      "date": 1584393624000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGM4",
+      "date": 1588094032000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Dados banc\u00e1rios)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGNj",
+      "date": 1588082257000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTVk",
+      "date": 1572405753000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGMy",
+      "date": 1588773421000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWQ3",
+      "date": 1558419461000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGZm",
+      "date": 1583509440000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTFi",
+      "date": 1581735878000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 14/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTAy",
+      "date": 1583509379000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTEz",
+      "date": 1581997186000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWVm",
+      "date": 1542655250000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTI5",
+      "date": 1579616132000,
+      "text": "Conclusos os autos para julgamento dos Embargos \u00e0 Execu\u00e7\u00e3o a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTIx",
+      "date": 1580825643000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWY1",
+      "date": 1523047198000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTRl",
+      "date": 1574279621000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos \u00e0 Execu\u00e7\u00e3o (EMBARGOS \u00c0 EXECU\u00c7\u00c3O NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTNm",
+      "date": 1574826642000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWFk",
+      "date": 1564489635000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWZj",
+      "date": 1523032244000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWZk",
+      "date": 1522849114000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWNl",
+      "date": 1559843824000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTEx",
+      "date": 1520433345000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTIw",
+      "date": 1516107709000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGVi",
+      "date": 1584367693000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTI2",
+      "date": 1513123435000,
+      "text": "Audi\u00eancia inicial realizada (12/12/2017 10:05 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGQ4",
+      "date": 1584588113000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 18/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGY4",
+      "date": 1583902443000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWY4",
+      "date": 1523047198000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de DIVINO JUNIOR DA SILVA - CPF: 054.666.296-00 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGRk",
+      "date": 1584502191000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTNl",
+      "date": 1574873906000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (Impugna\u00e7\u00e3o aos Embargos \u00e0 Execu\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWRh",
+      "date": 1558419461000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTJh",
+      "date": 1579547250000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7AO IMPUGNA\u00c7AO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTcx",
+      "date": 1571255146000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWYy",
+      "date": 1524232044000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWYx",
+      "date": 1527255307000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTYw",
+      "date": 1572359526000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTIy",
+      "date": 1580825643000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTAx",
+      "date": 1583509440000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) NEXA RECURSOS MINERAIS S.A.",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTdj",
+      "date": 1568746848000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado/",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTdk",
+      "date": 1568258346000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGI1",
+      "date": 1589997108000,
+      "text": "Expedido(a) alvar\u00e1 a(o) DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGMx",
+      "date": 1588779237000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTdl",
+      "date": 1568258346000,
+      "text": "Decorrido o prazo de DIVINO JUNIOR DA SILVA em 11/09/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTI0",
+      "date": 1516035168000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (24/01/2018 14:00 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWU1",
+      "date": 1557952560000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTlk",
+      "date": 1565839828000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWRm",
+      "date": 1557953327000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OGZh",
+      "date": 1583902379000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWQ1",
+      "date": 1559659713000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (APRESENTA\u00c7\u00c3O C\u00c1LCULOS NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWVh",
+      "date": 1557758399000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTFk",
+      "date": 1581649177000,
+      "text": "Conclusos os autos para despacho  a CLAUDIA EUNICE RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTEz",
+      "date": 1519368029000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OWY5",
+      "date": 1523047197000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTYz",
+      "date": 1572280073000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTE3",
+      "date": 1519310928000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a DIVINO JUNIOR DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4YTEy",
+      "date": 1520013946000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTUy",
+      "date": 1574259262000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWVmOWMwMjUwNDA2NGIzYjQ5MTI4OTUw",
+      "date": 1574262110000,
+      "text": "Despacho",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

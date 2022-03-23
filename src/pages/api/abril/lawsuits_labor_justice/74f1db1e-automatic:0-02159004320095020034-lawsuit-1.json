@@ -1,0 +1,658 @@
+{
+  "lawsuit": {
+    "id": "NzRmMWRiMWUtYXV0b21hdGljOjAtMDIxNTkwMDQzMjAwOTUwMjAwMzQtbGF3c3VpdA==",
+    "activityCount": 99,
+    "number": "0215900-43.2009.5.02.0034",
+    "value": null,
+    "subject": "A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)",
+    "kind": null,
+    "district": "S\u00e3o Paulo",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Wagner Dionizio",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Mauricio Fernando dos Santos Lopes",
+            "cpf": null,
+            "lawyerId": "NmY3NWU2YmQtYXV0b21hdGljOjAtOGVkZmZkOTQxNDMzZDQzLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Abril Comunica\u00e7\u00f5es S/A + 1",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": null,
+            "lawyerId": "NjM4M2EzZmMtYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1254279600000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": null,
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YmVjOWY0MTU4ZDNhM2RjM2UyZjU2OWVlNGFjOWJiNWE=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 03761/2010 Rel:00099/2010 N\u00baReg: RL692528061BR Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "ZWNlYmY4ZDBlZDkwMWExNzUwMmQ2YjdkOTliMWY0YzE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O. N\u00famero do Protocolo: 73711 Vencimento: 13/09/2011 Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "NDRiOGZkM2UxODJlNzcxOGM3MWJiNzY2ZWI1MDhjZGI=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contra-arrazoar R.O. Para o(s) R\u00e9u(s) Ed.N\u00ba 2197 Sol.N\u00ba 4922",
+      "attachments": []
+    },
+    {
+      "id": "NTMxYmY3NTFiNmEzMDVhYTAyYTBhZGJmYjg5MzYwYjk=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de laudo pericial N\u00famero do Protocolo: 54208 Nome: PERITO VILDER F PALOMBO ALBERTO",
+      "attachments": []
+    },
+    {
+      "id": "YTIyYTc5Mjc5ZmNmNTc0YjA2OWVjYjc2MDljNDllNWQ=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contestar C\u00e1lculos Para o(s) R\u00e9u(s) Ed.N\u00ba 2811 Sol.N\u00ba 4117 Prazo Judicial 10 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "YWNiNDlmZTQ1NjBkNmRiYTQ5YWQzMDIyZjZhYzgxOGY=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Impugna\u00e7\u00e3o de laudo pericial N\u00famero do Protocolo: 7540626 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "MWVlNmM0ZTZlN2VmMGRkMmM3NjU0YTgzMWQzMzhhNjI=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 15/09/2014 - ANA CLAUDIA COSTA VALADARES MORAIS",
+      "attachments": []
+    },
+    {
+      "id": "Mzc3NzY2YTZmOTNjOGJlMDk1ODJlNDliOWY0MzQyZGU=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Carta Precat\u00f3ria Execut\u00f3ria Doc. : 00078/2016 Rel: 00001/2016 Envio: MALOTE Ju\u00edzo : Congonhas/MG",
+      "attachments": []
+    },
+    {
+      "id": "MzE4OTY5ZTc5YTdkZmE4NmU2M2I5NTBiN2U3Y2ZlYTI=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2799 Sol.N\u00ba 3160",
+      "attachments": []
+    },
+    {
+      "id": "OGU4N2FlMzc5MTkzMGFjZDE1NDE0NjcwMGQ1YmRhMzE=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Data prevista 07/01/2011 ANA CLAUDIA COSTA VALADARES",
+      "attachments": []
+    },
+    {
+      "id": "MTgyZWQzZjZhMjU1ODk2OTk0MjFjMTE4Yzk1NTAzZDU=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 12/02/2017 - VALDER LU\u00cdS PALOMBO ALBERTO",
+      "attachments": []
+    },
+    {
+      "id": "YzYzZDUzYTIyZTY3M2NkYjEwODBmMWYzYTg3MmZkNWU=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 05/05/2014 - ANA CLAUDIA COSTA VALADARES MORAIS",
+      "attachments": []
+    },
+    {
+      "id": "ZDk5NGM4ODc4YTVjOTJlYjQzYzVlMDBmMmRjMDVmMTI=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) ANA CLAUDIA COSTA VALADARES-OAB 299237/B-SP-Autor e (0011 )33937248, S\u00c3O PAULO-SP",
+      "attachments": []
+    },
+    {
+      "id": "MzBlM2NhNjRkMTdiMDE0MzEyZThhYTYzY2JkYzI4NGI=",
+      "date": -86400000,
+      "text": "Recebimento -2\u00aa Inst.(SRA/DF) A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Enviado para 2\u00aa Inst no Lote 2017/ 71",
+      "attachments": []
+    },
+    {
+      "id": "ODhkNmFkMzhjYWY0NmRjYjcxNGQwODFmYWIxYzRiNGE=",
+      "date": -86400000,
+      "text": "Proced\u00eancia em parte de A\u00e7\u00e3o Data Atualiza\u00e7\u00e3o: 12/08/11 Hora: 13:35:06 Juiz(a) : FERNANDO MARQUES CELLI",
+      "attachments": []
+    },
+    {
+      "id": "ZmY1ZjEzNTgxYTI4MzNmYTc2ZTFhMGE2NDkyNmM5MGI=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3176 Sol.N\u00ba 7098",
+      "attachments": []
+    },
+    {
+      "id": "MDYyZjVhNzM2NjM1MzQ1NzMzMTJhNGVmNjEyZGQ4MjA=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 14/03/2016 - ANNA CAROLINA DE AUGUSTO FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NGJlM2E0YTVhYTUxYzZmOWI5Nzc1NmNkNWQ3OWRkMGE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos Nome: MALOTE DIGITAL-VARA DO TRABALH CONGONHAS-3a.REGI\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "MjcxYmIzNDJiMThjM2Y0MmM0MWYzZTE1YTliYWNjZmE=",
+      "date": -86400000,
+      "text": "Recebimento -2\u00aa Inst.(SRA/DF) A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Enviado para 2\u00aa Inst no Lote 2011/ 144",
+      "attachments": []
+    },
+    {
+      "id": "MWI2MjhiYzkyOWExNWU5ZTljZjI5ODE5ZjkxNjY5MmI=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) PERITO VALDEIR LUIZ PALOMBO ALBERTO-Perito/Terceiro e (0000 )., .-.",
+      "attachments": []
+    },
+    {
+      "id": "NDZiNTY5NzA1OTQ4MmUzNmEwYjIxNWYxZTU4YjQ1YTI=",
+      "date": -86400000,
+      "text": "Remessa para 2\u00aa Inst\u00e2ncia de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Enviado para 2\u00aa Inst no Lote 2011/ 144",
+      "attachments": []
+    },
+    {
+      "id": "YmQyN2I3Y2ZkZDY5NjkwYmE3OGEyNGE4Yzc4NDE1MzU=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 13/06/2016 - ANA CLAUDIA COSTA VALADARES MORAIS",
+      "attachments": []
+    },
+    {
+      "id": "MDI5OTQ5ZmEwZmQ4OWI2MzZhMTMyMjRiN2EyOWViMjE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de procura\u00e7\u00e3o N\u00famero do Protocolo: 14162 Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "NDk4MDY4NDNhZmMxZDEzOTJlZDYyMjQ4ODJmYjgwZDE=",
+      "date": -86400000,
+      "text": "Distribui\u00e7\u00e3o de Mandado de Cita\u00e7\u00e3o de Execu\u00e7\u00e3o Doc. : 554/2016 Oficial de Justica",
+      "attachments": []
+    },
+    {
+      "id": "OTJjNzFhY2U5YzYxNjE2ZGRhMmZjYWFlN2NmNmIwMDI=",
+      "date": -86400000,
+      "text": "Extinta a Execu\u00e7\u00e3o/o Cumprimento da Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ZTg4NDljMDJjOGY2MWYzYmYzMThjYWQ0NWM3ZjI3MTM=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 07109/2009 Rel:00174/2009 N\u00baReg: RL392253868BR Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "OTQxYTkxMDlkMjU0NjljNDMzNGNhODljMTEwZDcwNGU=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de expedi\u00e7\u00e3o de alvar\u00e1 N\u00famero do Protocolo: 11962768 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "OTA5Mzc4Y2RlMTZkYjMyMmQxNmMxMDNiMjA2NDBiNWI=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) ANA CLAUDIA COSTA VALADARES MORAIS-OAB 299237/B-SP-Autor e (0011 )33937248, S\u00c3O PAULO-SP",
+      "attachments": []
+    },
+    {
+      "id": "OTI1NDhkY2Y0NjVkNjEzZjY1YTVkNWQwMGFiYmI1Mzk=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) VILDER FRANCISCO PALOMBO ALBERTO-Perito/Terceiro e (0011 )22758543, SP-SP",
+      "attachments": []
+    },
+    {
+      "id": "NWFmOTkxOWNkNzI2NzI1NDJmNTUyMWJhM2UxYTQxZjE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Aditamento \u00e0 Inicial Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "ZWViNWU4Y2FhZjQ3YjVmMGEyMjg2NzRlY2Q1NzBmMTU=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 02621/2010 Rel:00057/2010 N\u00baReg: RL656262879BR Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "YTYyNzRhN2MzYWE2NDEwOGY3YzNmMDU3NmY3MmQzNzg=",
+      "date": -86400000,
+      "text": "Recebimento de Recurso Ordin\u00e1rio Petic. : USUARIO - DEFAULT Juiz(a): THIAGO MELOSI S\u00d3RIA",
+      "attachments": []
+    },
+    {
+      "id": "ZWJiN2M5NWNlZDdhNjI1NWMyNGVmYzg4NjJiYWI4NjQ=",
+      "date": -86400000,
+      "text": "Pend\u00eancia de terceiros em Audi\u00eancia Una emenda da peti\u00e7\u00e3o inicial Juiz(a) : RICARDO MOTOMURA",
+      "attachments": []
+    },
+    {
+      "id": "MzFhZGZiZDEyYTcxZGRiOTJiMGViMmI3ZmM5ZDMyN2M=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3510 Sol.N\u00ba 4421",
+      "attachments": []
+    },
+    {
+      "id": "NDQ4MGY4YmE1M2Y2YWNjMThmZmJiMmFlZDU5Y2UyNzU=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 08/10/2014 - VILDER FRANCISCO PALOMBO ALBERTO",
+      "attachments": []
+    },
+    {
+      "id": "OGY2ZWUxYjM1Y2RhODBhMWIyZTQ5MTA2MGMxNDdlNzg=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 03762/2010 Rel:00099/2010 N\u00baReg: RL692528115BR Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "ZGFmNzc5MmFjYmE2NjFhY2M5YjIyMTExZmVhNjYyNjI=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substabelecimento Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "NDZmNGMzNDg3MGNjY2MxYWExMTJhYzZmZjMwMGYyMWE=",
+      "date": -86400000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una para: 07/12/2010 / 10:40 - Una",
+      "attachments": []
+    },
+    {
+      "id": "Nzg0ZjNjODE3OTE0ZDE4NmUzNTg4ZWFmZWJmNGU2ZDY=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2886 Sol.N\u00ba 3727",
+      "attachments": []
+    },
+    {
+      "id": "NWFkMzFhMzQyN2E1ZDFlZjg0ODFhZjJjMWE2ZTk5NTU=",
+      "date": -86400000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una para: 19/05/2010 / 10:30 - Una",
+      "attachments": []
+    },
+    {
+      "id": "YWYyOGY1ZmI4MWRmOTlkZjRmMTQyZjAyMzc3OWYzYjM=",
+      "date": -86400000,
+      "text": "Certid\u00e3o positiva de Mandado de Cita\u00e7\u00e3o de Execu\u00e7\u00e3o Doc. : 0554/2016 Oficial de Justica",
+      "attachments": []
+    },
+    {
+      "id": "NTNkNTkyZmVjYzVlNzVmZjNjOTgwNTdlODRmNDhmOTQ=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Ci\u00eancia Senten\u00e7a Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2183 Sol.N\u00ba 30018",
+      "attachments": []
+    },
+    {
+      "id": "NWU2NTZlYmNhYTU3ODdlOGQxMmE0OTlhOWZiYzY2ZTU=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Esclarecimentos do perito Nome: valder luiz palombo alberto",
+      "attachments": []
+    },
+    {
+      "id": "ZTlkMDlhYWE3MzUyODViMjM2MjY1M2MwMTlhYTI4Zjc=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) R\u00e9u(s) Ed.N\u00ba 3222 Sol.N\u00ba 7276",
+      "attachments": []
+    },
+    {
+      "id": "Y2MwZmFkOTUxZDIzMjAzZjY2YjdlODA5N2U4MzFiZTQ=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Agravo de Peti\u00e7\u00e3o N\u00famero do Protocolo: 11146205 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "NmMwMWYxMjA0YzZlOGIwZmQyNzY3Y2RlNzVjYjc2MTU=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 02620/2010 Rel:00057/2010 N\u00baReg: RL656262658BR Nome: COOPERAUTO Cooperativa de loca\u00e7\u00e3o de Ve\u00edculos de",
+      "attachments": []
+    },
+    {
+      "id": "ODk1ZDRjNzUxMWFjOWY4ZDY4YjlmYzU5NjliOGUzOTI=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal Doc. : 00353/2016 Envio: Em m\u00e3os Favorec: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "NTM2MDRmNGJlZjUyNmYyYmE3Y2EyZjQ3NzFkMTJhZjk=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 02622/2010 Rel:00057/2010 N\u00baReg: RL656262936BR Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "MDE2NDZiODBhNzM2MTA2YTc1ZjYwNDlmZWUzNDk5MWM=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de devolu\u00e7\u00e3o de prazo N\u00famero do Protocolo: 9678979 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "MmRjMTY2NmRlNWE4YzA3MGJkMjVhZTRjNTc0OTA3Mzc=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "YTBkZDk3Y2U1YjFjZGRhZTQzNjZiZDBhZTYyNzRjZGE=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Comparecer Secret. Para o(s) Autor(es) Ed.N\u00ba 3282 Sol.N\u00ba 2467 Prazo Judicial 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "MjI4OGZkZmNkMzQ5YjJlYzI2NTE5YzM2ZTFlYjM0ODA=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) WANDER PALOMBO-Perito/Terceiro e (0000 )22758543, SP-SP",
+      "attachments": []
+    },
+    {
+      "id": "ZWViN2M1MTE5MDdmZGQ0ZDliYmVmMDExY2EzMGQwZTE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o C\u00e1lculos Liquid. N\u00famero do Protocolo: 6858989 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "ZDg5M2M3MTgxMzYxOTg3NmQyNjc2N2JjMDJmZTRmNzg=",
+      "date": -86400000,
+      "text": "Recebimento de Recurso de Agravo de Peti\u00e7\u00e3o Petic. : USUARIO - DEFAULT Juiz(a): CAROLINE CRUZ WALSH MONTEIRO",
+      "attachments": []
+    },
+    {
+      "id": "YmYxNDg3M2E0MjAwNDkxYjYwZjZkMzdiYWNlZTdhNzQ=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 23/04/2015 - WANDER PALOMBO",
+      "attachments": []
+    },
+    {
+      "id": "NTBlYWE4MmJmNTRmZTZjNjllNTFiYmY5M2Y2NjY3NTk=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo N\u00famero do Protocolo: 9939513 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "NzQ3ZjkwNWZhMmI0MjhmNjY0OTM2NzhkMGUxY2FiMDk=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio N\u00famero do Protocolo: 469419 Vencimento: 24/08/2011 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "YjA4MWQzYjc3ZmNkZTY5YWQ0MjZkNGYwODRmZTE3MDA=",
+      "date": -86400000,
+      "text": "Recebimento do TRT de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Recebimento em Dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NmVkOTI3MjFkNjBlZDQ3MWI4NGVlNDBiNmY0ODQ2MTY=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de Documentos N\u00famero do Protocolo: 1032307 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "MjY4ZjM1NGMyZjM5ZDU1MGY3NDNhZmUzZmIyYmIxMzI=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Mandado de Cita\u00e7\u00e3o de Execu\u00e7\u00e3o Doc. : 00554/2016 Envio: Oficial de Justi\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MTRiMTUxMzI4MDQ4NmZlYTdiOTBiYWNlZDlhNjdkOTk=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio Vencimento: 24/08/2011 Nome: COOPERAUTO Cooperativa de loca\u00e7\u00e3o de Ve\u00edculos de",
+      "attachments": []
+    },
+    {
+      "id": "NzAxNWY0ZDlhMmJjNTJhNzczOThiNTBlZTBiMDI0YmM=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Para o(s) Autor(es) Ed.N\u00ba 1872 Sol.N\u00ba 7918 Audi\u00eancia Una: 19/05/2010 \u00e0s 10:30 hs.",
+      "attachments": []
+    },
+    {
+      "id": "NWVkODc4YjliZDY5ZTI5MmRlNTEyYTFiZWNmZTZlZjY=",
+      "date": -86400000,
+      "text": "Recebimento de Recurso Ordin\u00e1rio Petic. : COOPERAUTO Cooperativa de loca\u00e7\u00e3o de Ve\u00edculos de Juiz(a): THIAGO MELOSI S\u00d3RIA",
+      "attachments": []
+    },
+    {
+      "id": "NWU4OTgwZjQ2NTJjOTlhNmE4MDhhMWRjOTU1NTU5ZGI=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Aviso de cr\u00e9dito Origem do Cr\u00e9dito: 1/5905-6/49001203568181 Guia: 1068/2016 Data do Cr\u00e9dito: 17/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "YmIzYWIyNDViMTE1Y2M0M2Y5NWFiMTllZmVjMzdkYjc=",
+      "date": -86400000,
+      "text": "Pend\u00eancia de terceiros em Audi\u00eancia Una emenda da peti\u00e7\u00e3o inicial Juiz(a) : JEFFERSON DO AMARAL GENTA",
+      "attachments": []
+    },
+    {
+      "id": "OGI1NGU4M2ZiZWQ3ZmE5NTEwNDY3NTNhYzg5OGM3YWI=",
+      "date": -86400000,
+      "text": "N\u00e3o acolhimento em Embargos \u00e0 Execu\u00e7\u00e3o Petic. : USUARIO - DEFAULT Juiz(a): THIAGO MELOSI S\u00d3RIA",
+      "attachments": []
+    },
+    {
+      "id": "MDkzMTQ2MjEzZmQ3YTBkN2RhNTJlYTY2MjM5YTM2ZDY=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 04/05/2016 - PERITO VALDEIR LUIZ PALOMBO ALBERTO",
+      "attachments": []
+    },
+    {
+      "id": "ZjYxZjljYjg2ZTNjNmJkNDdlYTk5ODc2MGFlMjk2Njg=",
+      "date": -86400000,
+      "text": "Recebimento de Recurso Ordin\u00e1rio Petic. : Wagner Dionizio Juiz(a): THIAGO MELOSI S\u00d3RIA",
+      "attachments": []
+    },
+    {
+      "id": "YzAxODUxZWU2NTMyNWFlZDU4NmRlMzVhYWEyNmU4ZWQ=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 3470 Sol.N\u00ba 4633",
+      "attachments": []
+    },
+    {
+      "id": "Y2UwZjQwMWM4YzYwZTQ2ZDQwNjU2MDJkYWIzNzk3NWQ=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "ZGU5MzA1MmI5MjZjYTcyMmI0N2Y2YjMzZWU1NDQwNmU=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de Documentos N\u00famero do Protocolo: 10565019 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzOWVmNWRmYTQ1ZDFjNWE4ZjViYTAzYTI3ZGQ1YWI=",
+      "date": -86400000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento para: 12/08/2011 / 17:20 - Julgamento Juiz(a) FERNANDO MARQUES CELLI",
+      "attachments": []
+    },
+    {
+      "id": "NmQ0MDA4N2I1ZTQxMDQxZmZlN2M3YmUyMjQ4YTcxZGQ=",
+      "date": -86400000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Instru\u00e7\u00e3o para: 25/07/2011 / 13:00 - Instru\u00e7\u00e3o Juiz(a) ALEXANDRE REIS PEREIRA DE BARROS",
+      "attachments": []
+    },
+    {
+      "id": "MDdkYWM1OTBmMTNhYmUzMDZlYTk5NTZlZDc3YjU2MGY=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 2850 Sol.N\u00ba 3897",
+      "attachments": []
+    },
+    {
+      "id": "NWZmZTk0NjZmN2QzMjFiNmM0MjMxNmE5YTliZTY5OTI=",
+      "date": -86400000,
+      "text": "Iniciada a execu\u00e7\u00e3o trabalhista definitiva",
+      "attachments": []
+    },
+    {
+      "id": "MTY1ZWZkODZkNzIwMzY1NGVlMjI1MDU0YmE3ZGVmMDc=",
+      "date": -86400000,
+      "text": "Remessa para 2\u00aa Inst\u00e2ncia de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Enviado para 2\u00aa Inst no Lote 2017/ 71",
+      "attachments": []
+    },
+    {
+      "id": "NTVlYmIzYmNhYjQ5MGFlN2ZkMTE4YTk2NjBhYmRlY2M=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Para o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 1921 Sol.N\u00ba 5116 Audi\u00eancia Una: 07/12/2010 \u00e0s 10:40 hs.",
+      "attachments": []
+    },
+    {
+      "id": "NDgyZDI3ZjYwMDM4MGY2ZjVlMzI2ZmZhMTc1NjY4OTU=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) Ed.N\u00ba 3361 Sol.N\u00ba 3036",
+      "attachments": []
+    },
+    {
+      "id": "OWQ4MmZiMDU3NTc1MDllN2Q0N2JkN2NmZDFmMTE3MDI=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos N\u00famero do Protocolo: 7222643 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "MzhlNTliMGVjOGExNjc5MmNlYjM3NmUzOWE2OTk0MDc=",
+      "date": -86400000,
+      "text": "Adiamento de Audi\u00eancia Una para: 25/07/2011 / 13:00 - Una Juiz(a) ALEXANDRE REIS PEREIRA DE BARROS",
+      "attachments": []
+    },
+    {
+      "id": "MTlkMWJlYmM5OTkxNzExNTk0YWE5Nzg1OGZhOTM3ODU=",
+      "date": -86400000,
+      "text": "Recebimento do TRT de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Retorno em fase de execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmRjMmY2YWZhZmI4YTMyYTNhYWQwNGY0YmNhOTlhZTU=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Embargos \u00e0 Execu\u00e7\u00e3o N\u00famero do Protocolo: 10576549 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "OGRhYjU2YTY5ODI3Zjk1NTM5YTczMGY0Yzc0NmQ1YzA=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) ANNA CAROLINA DE AUGUSTO FERREIRA-OAB 286916/D-SP-R\u00e9u e (0011 )33712890, S\u00c3O CAETANO DO SUL-SP",
+      "attachments": []
+    },
+    {
+      "id": "ZDliNTU4OTRiNmVkM2ZmYzAyYjI4N2RmNjNiODhmM2I=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos Nome: perito Valder Luiz",
+      "attachments": []
+    },
+    {
+      "id": "ZDI3ZGVkYTk2NGY5NThjOTA3NGJkYzcyZTgwMWMwMTU=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de prorroga\u00e7\u00e3o de prazo N\u00famero do Protocolo: 10548258 Nome: Abril Comunica\u00e7\u00f5es S/A",
+      "attachments": []
+    },
+    {
+      "id": "YWE0ODExMDI5ZWUyYTJlMDRjMGJiOGFmODZlMWQ5NzE=",
+      "date": -86400000,
+      "text": "Distribu\u00eddo com marca\u00e7\u00e3o de audi\u00eancia 09/03/2010 / 14:10 - Una",
+      "attachments": []
+    },
+    {
+      "id": "Y2FhZjk4N2YyMjkyYmMxYmJlZThiNjgzMGZmNDNkNTg=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia Doc : 03763/2010 Rel:00099/2010 N\u00baReg: RL692528129BR Nome: COOPERAUTO Cooperativa de loca\u00e7\u00e3o de Ve\u00edculos de",
+      "attachments": []
+    },
+    {
+      "id": "YWE1N2RmMDQ5MzVjM2E3MzQ1MWQ0NWY2MTc2ODBlYmM=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio N\u00famero do Protocolo: 3043295 Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "NzFiNjQ1YTMyZThmY2IxZDFmMzE5YTdjZDQ3OGM4MTY=",
+      "date": -86400000,
+      "text": "Homologada a liquida\u00e7\u00e3o Em 04/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "YzMwYjc4NmVmMjY2YzQ0MmQyN2I4NzMwZTlmNmI2MGE=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo N\u00famero do Protocolo: 7486476 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "MThmNjI5YjVjYjNkNmU4YmRhODk4MWIzZjk0ZTJmNTQ=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contesta\u00e7\u00e3o C\u00e1lculos Liquid. N\u00famero do Protocolo: 37268 Vencimento: 23/05/2014 Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "YmQwZDU0ZWM1NTc1ZGNkNDZjNGQ1NzNlYmVlYWU5MDg=",
+      "date": -86400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Por devolu\u00e7\u00e3o em raz\u00e3o de carga/vista Prevista: 14/12/2015 - ANA CLAUDIA COSTA VALADARES MORAIS",
+      "attachments": []
+    },
+    {
+      "id": "MzkzNzRiNDAxYzg0NGQ1NjMyZTQ2M2EwMGQyN2M5Y2E=",
+      "date": -86400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) VALDER LU\u00cdS PALOMBO ALBERTO-Perito/Terceiro e (0011 )22758543, .-.",
+      "attachments": []
+    },
+    {
+      "id": "NWM4Y2Y4MDhjYjYyNjJiZGI0NDE0NzdiNGEwYzlmYzM=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de procura\u00e7\u00e3o Nome: Editora Abril SA",
+      "attachments": []
+    },
+    {
+      "id": "MDNiYWE3YThlMWVkM2MyZWRjOWJkYzgwNTc2YTNmOWI=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de expedi\u00e7\u00e3o de alvar\u00e1 N\u00famero do Protocolo: 8293876 Nome: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "MDFjMTgwMDA5ZWU0ZDFhNWZkODE1MzU3MDFlMTg3Nzc=",
+      "date": -86400000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho Para o(s) Autor(es) Ed.N\u00ba 3774 Sol.N\u00ba 512",
+      "attachments": []
+    },
+    {
+      "id": "OThlNDk5MDFmM2I5ZGZjOGZiOThkNmQwMTQ4MDRhM2Y=",
+      "date": -86400000,
+      "text": "Expedi\u00e7\u00e3o de Alvar\u00e1 Lev. Dep\u00f3sito Recursal Doc. : 00354/2016 Envio: Em m\u00e3os Favorec: Wagner Dionizio",
+      "attachments": []
+    },
+    {
+      "id": "MDEwY2YwNmJlM2FiNzE1YmQzNzAxYjJjMzllYzcwMGU=",
+      "date": -86400000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO) Nro da Rela\u00e7\u00e3o: 320/2018 Data: 21/11/2018 Qtde vols.: 6",
+      "attachments": []
+    },
+    {
+      "id": "ZTUxOWY0YzFhOGNmYzdhNTIzZWY0MGExN2MyMmNmNGM=",
+      "date": -86400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Esclarecimentos do perito Nome: PERITO VALDER LUIZ PALOMBO ALBERTO",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

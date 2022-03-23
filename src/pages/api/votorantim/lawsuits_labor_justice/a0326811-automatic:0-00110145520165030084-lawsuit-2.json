@@ -1,0 +1,376 @@
+{
+  "lawsuit": {
+    "id": "YTAzMjY4MTEtYXV0b21hdGljOjAtMDAxMTAxNDU1MjAxNjUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 38,
+    "number": "0011014-55.2016.5.03.0084",
+    "value": 227664.0,
+    "subject": "Adicional de Insalubridade, Adicional Noturno, Adicional de Horas Extras",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "L. F. P. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECORRENTE",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "Stenio Santos Santiago",
+            "cpf": "060.609.696-58",
+            "lawyerId": "Nzg3Nzg4NTItYXV0b21hdGljOjAtMzA0MWZjNGNjMjdjNGNmLXVuaWZpZWQ="
+          },
+          {
+            "name": "Savio Henrique Santos Santiago",
+            "cpf": "100.136.176-80",
+            "lawyerId": "OTRjZmRlNGQtYXV0b21hdGljOjAtNzc2ZDIzM2EyNzJkNzNkLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1490097073000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional Noturno",
+                "code": 1663
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Insalubridade",
+                "code": 10291
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Adicional de Horas Extras",
+                "code": 10303
+              },
+              {
+                "level": 3,
+                "text": "Sistema Remunerat\u00f3rio e Benef\u00edcios",
+                "code": 10288
+              },
+              {
+                "level": 2,
+                "text": "Servidor P\u00fablico Civil",
+                "code": 10219
+              },
+              {
+                "level": 1,
+                "text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+                "code": 9985
+              }
+            ],
+            "last_text": "DIREITO ADMINISTRATIVO E OUTRAS MAT\u00c9RIAS DE DIREITO P\u00daBLICO",
+            "last_id": 9985
+          }
+        ],
+        "id": "1663-10291-10303"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "ROT",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI3",
+      "date": 1478170620000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjk4",
+      "date": 1521084270000,
+      "text": "Decorrido o prazo de LUIZ FERNANDO PEREIRA SANTOS em 14/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjlk",
+      "date": 1520272220000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE3",
+      "date": 1495076508000,
+      "text": "Decorrido o prazo de LUIZ FERNANDO PEREIRA SANTOS em 17/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmIw",
+      "date": 1490214186000,
+      "text": "Conclusos os autos para julgamento (relatar) a S\u00e9rcio da Silva Pe\u00e7anha",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFh",
+      "date": 1493840224000,
+      "text": "Conhecido o recurso de LUIZ FERNANDO PEREIRA SANTOS - CPF: 550.284.035-20 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmEw",
+      "date": 1510884450000,
+      "text": "Decorrido o prazo de LUIZ FERNANDO PEREIRA SANTOS em 16/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE4",
+      "date": 1494299296000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 09/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjk5",
+      "date": 1521084096000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 14/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjlm",
+      "date": 1510884450000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 16/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjk0",
+      "date": 1530243059000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjlj",
+      "date": 1520272221000,
+      "text": "Recebido(s) o(s) Agravo de Instrumento em Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmEz",
+      "date": 1509565501000,
+      "text": "N\u00e3o admitido o Recurso de Revista de VOTORANTIM METAIS ZINCO S.A. - CNPJ: 42.416.651/0001-07",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmEx",
+      "date": 1510540856000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 08/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFm",
+      "date": 1493134918000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI4",
+      "date": 1476217268000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjli",
+      "date": 1520393480000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE5",
+      "date": 1494299296000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE1",
+      "date": 1508353837000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI1",
+      "date": 1487102366000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFk",
+      "date": 1493140879000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmIy",
+      "date": 1489430679000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE0",
+      "date": 1509565501000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjk1",
+      "date": 1527279373000,
+      "text": "TST - Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmEy",
+      "date": 1510540856000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjlh",
+      "date": 1520393480000,
+      "text": "Publicado(a) o(a) Despacho em 07/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFj",
+      "date": 1493176161000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 26/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjk3",
+      "date": 1526401064000,
+      "text": "Remetidos os autos para Tribunal Superior do Trabalho para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFl",
+      "date": 1493140872000,
+      "text": "Inclu\u00eddo o processo em pauta (03/05/2017, 09:00:00, Plen\u00e1rio 1 - 09:00 Av. Get\u00falio Vargas, 225 10\u00ba)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI5",
+      "date": 1470140808000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjkz",
+      "date": 1530291374000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI0",
+      "date": 1487618270000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmFi",
+      "date": 1493838473000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmI2",
+      "date": 1479830175000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmIz",
+      "date": 1487880628000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMjll",
+      "date": 1520267954000,
+      "text": "Conclusos os autos para despacho  a M\u00e1rcio Fl\u00e1vio Salem Vidigal",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmE2",
+      "date": 1495076871000,
+      "text": "Decorrido o prazo de VOTORANTIM METAIS ZINCO S.A. em 17/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwNWU5ZjgxMjNhZGY2NTI0ODAxMmIx",
+      "date": 1490097074000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,278 @@
+{
+  "lawsuit": {
+    "id": "MDk2ZGExMzMtYXV0b21hdGljOjE2MDQyODI0LTAwMDE5MzI0MDIwMTU1MDkwMDI4LWxhd3N1aXQ=",
+    "activityCount": 31,
+    "number": "0001932-40.2015.5.09.0028",
+    "value": "",
+    "subject": "Constri\u00e7\u00e3o / Penhora / Avalia\u00e7\u00e3o / Indisponibilidade de Bens, Liquida\u00e7\u00e3o / Cumprimento / Execu\u00e7\u00e3o, Repouso Semanal Remunerado e Feriado",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Dinap - Distribuidora Nacional de Publica\u00e7\u00f5es Ltda. e Outros",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Ativo",
+          "normalized": "Autor"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Dinap - Distribuidora Nacional de Publica\u00e7\u00f5es LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Passivo",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Serravalle Com\u00e9rcio de Publica\u00e7\u00f5es S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Passivo",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Abril Comunicacoes S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Passivo",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Treelog S.A. Log\u00edstica e Distribui\u00e7\u00e3o",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Passivo",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Denilson Oliveira Pena - Recurso Adesivo",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Passivo",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT09",
+    "courtSection": "TRIBUNAL REGIONAL DO TRABALHO DA 9\u00aa REGI\u00c3O - PARAN\u00c1",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MTAxODcyNjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NmJmOGY4NDc5NDYxZTctMTQ5MDA2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490065200000,
+      "text": "Recebido pelo Distribuidor autos para autuar",
+      "attachments": []
+    },
+    {
+      "id": "ODI5ZWQzNDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOTBmMTRkMDQ3MzQ5NTctMTQ5MDMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490324400000,
+      "text": "Autuado o processo",
+      "attachments": []
+    },
+    {
+      "id": "MTk1MzYxOWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNDU4ODIwNzM4YmM3NDUtMTQ5MDY3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490670000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YWQxN2VkYTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDcyZjkyNmRjNzU1ZjktMTQ5MTE4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491188400000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "YTYxZWRkNjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYjU3YjJmYTE2MDgxNzMtMTQ5MTE4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491188400000,
+      "text": "Conclusos os autos para julgamento (relatar) a",
+      "attachments": []
+    },
+    {
+      "id": "YjgwZDlhM2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ODU2ZmVmNDQ5OTAwNTYtMTQ5MzA4OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493089200000,
+      "text": "Remetidos os Autos para SE\u00c7\u00c3O ESPECIALIZADA .",
+      "attachments": []
+    },
+    {
+      "id": "YzVhMDA4YWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYzg4YmQwMWYwOGQzNjAtMTQ5MzE3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493175600000,
+      "text": "Recebido pelo Distribuidor",
+      "attachments": []
+    },
+    {
+      "id": "MmY5MGM4MzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDcyZjkyNmRjNzU1ZjktMTQ5MzY5NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493694000000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "MzYxM2E5N2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YTA4Y2I2NmYxNjg0M2QtMTQ5MzY5NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493694000000,
+      "text": "Conclusos os autos para julgamento (revisar) a",
+      "attachments": []
+    },
+    {
+      "id": "ZWFhZGFiMjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNDU4ODIwNzM4YmM3NDUtMTQ5MzY5NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493694000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MTg3MWRlM2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYjBmMmM1M2Y1MzFjNjYtMTQ5NDQ3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494471600000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "M2UwNzRjN2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ODU2ZmVmNDQ5OTAwNTYtMTQ5NDQ3MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494471600000,
+      "text": "Remetidos os Autos para SE\u00c7\u00c3O ESPECIALIZADA .",
+      "attachments": []
+    },
+    {
+      "id": "ZTE5NmMxNzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNDJjYzA1YTI0NGM3OTEtMTQ5NjI4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496286000000,
+      "text": "Inclu\u00eddo em pauta para 20/06/2017 09:20 - SE\u00c7\u00c3O ESPECIALIZADA.",
+      "attachments": []
+    },
+    {
+      "id": "YWEyNWY5ODEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOWZhMzRjMzZiNjFhMTctMTQ5NjM3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496372400000,
+      "text": "Publicado(a) o(a) pauta de julgamento em 02/06/2017 (Divulgado no DEJT em 01/06/2017).",
+      "attachments": []
+    },
+    {
+      "id": "NDFiNDY3ZWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hODhjZDIxNjgxZGQyNDYtMTQ5NzkyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1497927600000,
+      "text": "Conhecido o recurso de Abril Comunicacoes S.A. e outros e n\u00e3o-provido",
+      "attachments": []
+    },
+    {
+      "id": "ZDgwOWMxOTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kODM0NGI5NTUzODJhODQtMTQ5NzkyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1497927600000,
+      "text": "Conhecido o recurso de Denilson Oliveira Pena - Recurso Adesivo e n\u00e3o-provido",
+      "attachments": []
+    },
+    {
+      "id": "YzdmYjE2MmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMjY5MjE2OWNiZTA5OWMtMTQ5ODE4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498186800000,
+      "text": "Recebidos os autos para lavrar ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDhlZDNiNzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOTE1MmYxNGYyYjcwZjItMTQ5ODE4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498186800000,
+      "text": "Remetidos os Autos para Gabinete da Desembargadora Rosalie Michaele Bacila Batista .",
+      "attachments": []
+    },
+    {
+      "id": "N2I1ZDFlNDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNzY1NjFhNzQyZDE4N2UtMTQ5ODYxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498618800000,
+      "text": "Remetidos os Autos para SE\u00c7\u00c3O DE AC\u00d3RD\u00c3OS .",
+      "attachments": []
+    },
+    {
+      "id": "MjEyYzczZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNWQ5ZGRkYjA2ODJkYTMtMTQ5ODYxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498618800000,
+      "text": "Lavrado o ac\u00f3rd\u00e3o il\u00edquido pelo relator",
+      "attachments": []
+    },
+    {
+      "id": "YTkxNDVkMzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MTdkZjY3NjEzM2NkODktMTQ5ODcwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498705200000,
+      "text": "Juntada de Peti\u00e7\u00e3o de PEDIDO DE RECONSIDERA\u00c7\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "OWQyODc5MTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MTBiNDQwNmZkZTIyOTUtMTQ5ODcwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498705200000,
+      "text": "Recebida a peti\u00e7\u00e3o Pedido de Reconsidera\u00e7\u00e3o Treelog S.A. Log\u00edstica e Distribui\u00e7\u00e3o Protocolo n\u00ba 0052549 - (e-Pet)",
+      "attachments": []
+    },
+    {
+      "id": "ZjBiOTYwNjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDcyZjkyNmRjNzU1ZjktMTQ5ODcwNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498705200000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "MTc2MzhmNDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDcyZjkyNmRjNzU1ZjktMTQ5OTEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499137200000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    },
+    {
+      "id": "YzA3OGM5YjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZjg2ZDdmMzhiMmYxMTEtMTQ5OTEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499137200000,
+      "text": "Remetidos os Autos para COORDENADORIA PROCESSUAL .",
+      "attachments": []
+    },
+    {
+      "id": "ZTcyNWFjZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZjViNDE4OGM5ZmI1NWEtMTQ5OTEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499137200000,
+      "text": "Publicado(a) o(a) ac\u00f3rd\u00e3o em 04/07/2017.",
+      "attachments": []
+    },
+    {
+      "id": "MjI4ZjMxYWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MTdkZjY3NjEzM2NkODktMTQ5OTc0MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499742000000,
+      "text": "Juntada de Peti\u00e7\u00e3o de PEDIDO DE RECONSIDERA\u00c7\u00c3O",
+      "attachments": []
+    },
+    {
+      "id": "YzViMmEzOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZTE1NjM1OWMwOTdmOTAtMTQ5OTc0MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499742000000,
+      "text": "Recebida a peti\u00e7\u00e3o Pedido de Reconsidera\u00e7\u00e3o Treelog S.A. Log\u00edstica e Distribui\u00e7\u00e3o Protocolo n\u00ba 0055643 - (e-Pet)",
+      "attachments": []
+    },
+    {
+      "id": "ZjdiZTU2ODctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMTViNTMyNzczNmI4NTMtMTQ5OTgyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499828400000,
+      "text": "Transitado em Julgado em 12/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "YTYzOTU2ZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MGMxNmM3ZjUwOWQ2NjctMTUwMDAwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500001200000,
+      "text": "Remetidos os Autos para 19\u00aa Vara do Trabalho de Curitiba .",
+      "attachments": []
+    },
+    {
+      "id": "YWViNTc3MTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDcyZjkyNmRjNzU1ZjktMTUwMDUxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500519600000,
+      "text": "Recebidos os autos",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

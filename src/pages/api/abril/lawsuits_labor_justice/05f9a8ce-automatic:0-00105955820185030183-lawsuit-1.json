@@ -1,0 +1,258 @@
+{
+  "lawsuit": {
+    "id": "MDVmOWE4Y2UtYXV0b21hdGljOjAtMDAxMDU5NTU4MjAxODUwMzAxODMtbGF3c3VpdA==",
+    "activityCount": 20,
+    "number": "0010595-58.2018.5.03.0183",
+    "value": 33600.0,
+    "subject": "Sal\u00e1rio por Fora - Integra\u00e7\u00e3o, Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o, Licitude / Ilicitude da Terceiriza\u00e7\u00e3o, Trabalho aos Domingos",
+    "kind": "Trabalhista",
+    "district": "45\u00aa Vara do Trabalho de Belo Horizonte",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "I. P. A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Luciana Maria Barrote",
+            "cpf": "990.644.996-91",
+            "lawyerId": "MTUxMzA4N2MtYXV0b21hdGljOjAtZjgzNWNkOGIzNTFkYzM0LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "V. R. S. D. J. R. M.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Paulo Henrique Villas de Oliveira",
+            "cpf": "054.507.066-00",
+            "lawyerId": "NjE3ZGRjMjgtYXV0b21hdGljOjAtYjJmODVjZjcwMzhkNGUxLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1532097562000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Sal\u00e1rio Por Fora - Integra\u00e7\u00e3o",
+                "code": 2466
+              },
+              {
+                "level": 3,
+                "text": "Sal\u00e1rio / Diferen\u00e7a Salarial",
+                "code": 2458
+              },
+              {
+                "level": 2,
+                "text": "Remunera\u00e7\u00e3o, Verbas Indenizat\u00f3rias e Benef\u00edcios",
+                "code": 2581
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          },
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Anota\u00e7\u00e3o / Baixa / Retifica\u00e7\u00e3o",
+                "code": 5352
+              },
+              {
+                "level": 3,
+                "text": "CTPS",
+                "code": 1844
+              },
+              {
+                "level": 2,
+                "text": "Contrato Individual de Trabalho",
+                "code": 1654
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2466-5352"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "45\u00aa VARA DO TRABALHO DE BELO HORIZONTE",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjI2",
+      "date": 1533135529000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjI1",
+      "date": 1533562901000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFk",
+      "date": 1533649788000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjE3",
+      "date": 1534828141000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 20/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjMw",
+      "date": 1532097562000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFl",
+      "date": 1533649787000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 100.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFh",
+      "date": 1534828139000,
+      "text": "Decorrido o prazo de ISRAEL PEREIRA ARANTES em 20/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjE5",
+      "date": 1534828140000,
+      "text": "Decorrido o prazo de VG RIBEIRO SERVICO DE DISTRIBUICAO DE JORNAIS E REVISTAS LTDA - ME em 20/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjI4",
+      "date": 1532356726000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjIw",
+      "date": 1533649786000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFm",
+      "date": 1533649787000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ISRAEL PEREIRA ARANTES",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjJl",
+      "date": 1532343913000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a FERNANDA GARCIA BULHOES ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjIz",
+      "date": 1533586225000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFj",
+      "date": 1534537930000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjJk",
+      "date": 1532345707000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (07/08/2018 08:15 - 45\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjFi",
+      "date": 1534771424000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjI0",
+      "date": 1533585344000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjIx",
+      "date": 1533649785000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) realizada (07/08/2018 08:15 - 45\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjIy",
+      "date": 1533589040000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYxOGUzNGExMzQxNDNlYThjOTBiMjJj",
+      "date": 1532356725000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

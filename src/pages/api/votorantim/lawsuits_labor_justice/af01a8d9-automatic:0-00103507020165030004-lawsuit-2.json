@@ -1,0 +1,543 @@
+{
+  "lawsuit": {
+    "id": "YWYwMWE4ZDktYXV0b21hdGljOjAtMDAxMDM1MDcwMjAxNjUwMzAwMDQtbGF3c3VpdA==",
+    "activityCount": 71,
+    "number": "0010350-70.2016.5.03.0004",
+    "value": 35012.11,
+    "subject": "Tomador de Servi\u00e7os / Terceiriza\u00e7\u00e3o",
+    "kind": "Trabalhista",
+    "district": "4\u00aa Vara do Trabalho de Belo Horizonte",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "I. U. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Marcos Caldas Martins Chagas",
+            "cpf": "721.540.986-49",
+            "lawyerId": "NzMwNDU0MTYtYXV0b21hdGljOjAtNmNlOThjNzljZmE3ODNjLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. B. T. I.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Lucas Mattar Rios Melo",
+            "cpf": "074.932.806-14",
+            "lawyerId": "MTY2MWI0MjQtYXV0b21hdGljOjAtNWVkYmIwODliYmJiNTY1LXVuaWZpZWQ="
+          },
+          {
+            "name": "Pollyana Resende Nogueira do Pinho",
+            "cpf": "079.952.876-58",
+            "lawyerId": "NmRlYmM2OWQtYXV0b21hdGljOjAtMzRhNjhjMWE1Y2FjNzk0LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "E. G. L.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECORRIDO",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Fabricio Jose Monteiro de Souza Costa",
+            "cpf": "013.816.316-22",
+            "lawyerId": "N2ZiNDY5MmMtYXV0b21hdGljOjAtZjg5ZDc5YjU0MWY3M2NlLXVuaWZpZWQ="
+          },
+          {
+            "name": "Fernando Antonio Monteiro de Souza Costa",
+            "cpf": "013.475.326-76",
+            "lawyerId": "NTI1YTMxYWQtYXV0b21hdGljOjAtMWIwNTY4ZGRjMjM5MDcxLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1468242995000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Tomador de Servi\u00e7os / Terceiriza\u00e7\u00e3o",
+                "code": 2704
+              },
+              {
+                "level": 2,
+                "text": "Responsabilidade Solid\u00e1ria / Subsidi\u00e1ria",
+                "code": 1937
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2704"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Gabinete da Presid\u00eancia",
+    "nature": {
+      "raw": "RORSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTUw",
+      "date": 1468242995000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNk",
+      "date": 1485396572000,
+      "text": "Disponibilizado\n(a) o(a) Decis\u00e3o Monocr\u00e1tica no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNl",
+      "date": 1484918702000,
+      "text": "Baixado o incidente/recurso ( / Recurso de Revista)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTIy",
+      "date": 1501206757000,
+      "text": "Conclusos os autos para despacho  a Maria Stela Alvares da Silva Campos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNm",
+      "date": 1478710044000,
+      "text": "Homologada a ren\u00fancia pelo autor",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTFl",
+      "date": 1501557027000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTUx",
+      "date": 1468237755000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTEz",
+      "date": 1505936139000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM2",
+      "date": 1497282556000,
+      "text": "Conclusos os autos para despacho  a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI2",
+      "date": 1499981857000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJj",
+      "date": 1498619248000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 27/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM1",
+      "date": 1497295289000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTFk",
+      "date": 1501557027000,
+      "text": "Publicado(a) o(a) Despacho em 01/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE1",
+      "date": 1505922678000,
+      "text": "Conhecido o recurso de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A - CNPJ: 08.174.089/0001-14 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI1",
+      "date": 1500088199000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTFh",
+      "date": 1502478768000,
+      "text": "Conclusos os autos para julgamento (relatar) a Maria Stela Alvares da Silva Campos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTMx",
+      "date": 1498101169000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE4",
+      "date": 1504724035000,
+      "text": "Inclu\u00eddo o processo em pauta (14/09/2017, 14:00:00, PLEN\u00c1RIO 1, Av. Get\u00falio Vargas, 225, 10\u00ba andar)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQw",
+      "date": 1478710043000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTBi",
+      "date": 1513701918000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQ4",
+      "date": 1470236375000,
+      "text": "Conhecido o recurso de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A - CNPJ: 08.174.089/0001-14 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJk",
+      "date": 1498619107000,
+      "text": "Decorrido o prazo de ITAU UNIBANCO S.A. em 27/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTMz",
+      "date": 1497669170000,
+      "text": "Disponibilizado\n(a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM4",
+      "date": 1486173829000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 03/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTEx",
+      "date": 1506481980000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 27/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE2",
+      "date": 1504926948000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 11/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTUz",
+      "date": 1459957819000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTMy",
+      "date": 1497669170000,
+      "text": "Publicado(a) o(a) Despacho em 19/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNj",
+      "date": 1485396573000,
+      "text": "Publicado(a) o(a) Decis\u00e3o Monocr\u00e1tica em 26/01/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJh",
+      "date": 1499051183000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 30/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJl",
+      "date": 1498619107000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 27/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTBk",
+      "date": 1508959869000,
+      "text": "Transitado em julgado em 06/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM3",
+      "date": 1486173829000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 03/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTEy",
+      "date": 1506481980000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQ1",
+      "date": 1470366651000,
+      "text": "Publicado(a) o(a) Ac\u00f3rd\u00e3o em 05/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQ2",
+      "date": 1470366651000,
+      "text": "Disponibilizado\n(a) o(a) Ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNi",
+      "date": 1486173828000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 03/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQ0",
+      "date": 1471403424000,
+      "text": "Decorrido o prazo de ITAU UNIBANCO S.A. em 16/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTBl",
+      "date": 1507259144000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 05/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRm",
+      "date": 1469538867000,
+      "text": "Conclusos os autos para julgamento (relatar) a Lucas Vanucci Lins",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI4",
+      "date": 1499975196000,
+      "text": "Conclusos os autos para decis\u00e3o (relatar) a Maria Stela Alvares da Silva Campos",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTMw",
+      "date": 1498101169000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 22/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM5",
+      "date": 1486173829000,
+      "text": "Decorrido o prazo de ITAU UNIBANCO S.A. em 03/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE5",
+      "date": 1504709588000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTNh",
+      "date": 1486173829000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 03/02/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTFi",
+      "date": 1502334349000,
+      "text": "Decorrido o prazo de ITAU UNIBANCO S.A. em 09/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE0",
+      "date": 1505922678000,
+      "text": "Conhecido o recurso de ITAU UNIBANCO S.A. - CNPJ: 60.701.190/0001-04 e n\u00e3o provido",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTIz",
+      "date": 1501038243000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 25/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTIx",
+      "date": 1501285596000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTM0",
+      "date": 1497295289000,
+      "text": "Recebido(s) o(s) Agravo Regimental de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A - CNPJ: 08.174.089/0001-14 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTUy",
+      "date": 1464963108000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQx",
+      "date": 1477682144000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista a Ricardo Ant\u00f4nio Mohallem",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTIw",
+      "date": 1501285596000,
+      "text": "Determinada a requisi\u00e7\u00e3o de informa\u00e7\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI3",
+      "date": 1499981857000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI0",
+      "date": 1500088199000,
+      "text": "Publicado(a) o(a) Despacho em 17/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQz",
+      "date": 1471403424000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 16/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJm",
+      "date": 1498619106000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 27/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRk",
+      "date": 1469554944000,
+      "text": "Inclu\u00eddo o processo em pauta (02/08/2016, 09:39:00, Dr. Lucas Vanucci Lins)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQ3",
+      "date": 1470253394000,
+      "text": "Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTQy",
+      "date": 1471403425000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 16/08/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTEw",
+      "date": 1507258905000,
+      "text": "Decorrido o prazo de ITAU UNIBANCO S.A. em 05/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTBj",
+      "date": 1513701800000,
+      "text": "Alterada a classe processual de AGRAVO REGIMENTAL (1005) para RECURSO ORDIN\u00c1RIO EM PROCEDIMENTO SUMAR\u00cdSSIMO (11886)",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTFj",
+      "date": 1502334349000,
+      "text": "Decorrido o prazo de ALMAVIVA DO BRASIL TELEMARKETING E INFORMATICA S/A em 09/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRj",
+      "date": 1469554949000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTJi",
+      "date": 1498619248000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 27/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTBm",
+      "date": 1507259144000,
+      "text": "Decorrido o prazo de EDUARDO GUIMARAES LOPES em 05/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTE3",
+      "date": 1504724039000,
+      "text": "Disponibilizado\n(a) o(a) Pauta de Julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRi",
+      "date": 1469606413000,
+      "text": "Publicado(a) o(a) Pauta de Julgamento em 27/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRh",
+      "date": 1470236373000,
+      "text": "Conhecido o recurso de EDUARDO GUIMARAES LOPES - CPF: 125.078.326-73 e provido em parte",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTI5",
+      "date": 1499969858000,
+      "text": "Redistribu\u00eddo por sorteio  por ter sido declarada a incompet\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWYyNWQyOTc1M2M0MjgzZDQzZDkyNTRl",
+      "date": 1469539668000,
+      "text": "Recebidos os autos para incluir em pauta",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

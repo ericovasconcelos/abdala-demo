@@ -1,0 +1,866 @@
+{
+  "lawsuit": {
+    "id": "NjRjYmUxYTgtYXV0b21hdGljOjE2MDQyODI0LTEwMDE0NzY2MzIwMTY1MDIwNDcxLWxhd3N1aXQ=",
+    "activityCount": 132,
+    "number": "1001476-63.2016.5.02.0471",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Luiz Carlos da Silva Alves",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Diego Augusto Silva e Oliveira",
+            "cpf": "213.853.228-37",
+            "lawyerId": "OWE5NGI5MzktYXV0b21hdGljOjE2MDQyODI0LTBmYTI4YTM3OTNhYTEwOC1sYXd5ZXI="
+          },
+          {
+            "name": "Alberto Yerevan Chamlian Filho",
+            "cpf": "272.861.338-96",
+            "lawyerId": "ZTNjYjcwYTktYXV0b21hdGljOjE2MDQyODI0LTVkOWFiYjNkM2RlZDA4NS1sYXd5ZXI="
+          },
+          {
+            "name": "Alexandre Carlos Giancoli Filho",
+            "cpf": "284.715.868-51",
+            "lawyerId": "ODc0Njk5N2YtYXV0b21hdGljOjE2MDQyODI0LTA5MTMyOTE4YzQyM2FjOS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Comercial Oswaldo Cruz Limitada",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Itamar Mantovani",
+            "cpf": "278.429.858-20",
+            "lawyerId": "Y2JjODZlNWQtYXV0b21hdGljOjE2MDQyODI0LTYyN2U4OTMyODBlMzFjMS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NzM4YWMzYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMjUyOWFlZWNlNzNjNTAtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NGQzZDI4OGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMTY2ZTI4ZGFkYzc3NjMtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjU0ZTAxZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYWE2ZGJmODY4ZGQ3MmQtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Audi\u00eancia una designada (30/01/2017 10:10 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "YjU0NWViNjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NzVkNWVhYzZjZTQ4ZmMtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NmY4MGQ0N2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YmFmNDU4MmJiOWI1YmItMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Holerites | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRkNjFhMDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZTc1YTNlYzZlM2M2NGQtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmU2ZGEwMTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYmEwOGJhNWJlY2VkNmItMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Declara\u00e7\u00e3o de hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU3ODk5YWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ODRiYTkyMzcwNDA4MGQtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWM2ODg3ZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjg3MzcwZDQ4OGM5OWUtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdiMzE3OWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Mzg3NDMxMjg0ZmUyNTYtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "LUIZ CARLOS DA SILVA ALVES | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmY0YzFlMmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMmE5YjAxMjczMjJjOGYtMTQ3MjE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1472180400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjgxZDI3NzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MzUzZGE1ODU0MzQ2OTgtMTQ4MTc2NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1481767200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - PROCURA\u00c7\u00c3O E CARTA DE PREPOSTO | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM2M2YwNWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDZlN2FlODk4M2NkNmQtMTQ4MTc2NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1481767200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CONTRATO SOCIAL | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTk1NDAzM2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjg0ZGM4Y2I4ODFiYTMtMTQ4MTc2NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1481767200000,
+      "text": "Comercial Oswaldo Cruz Ltda. | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTI0NWVlMTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYjk4NjkwNWE5YTUyYjQtMTQ4MTc2NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1481767200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2QwYzczODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTczYTY4MTJjNjAxNzMtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Audi\u00eancia julgamento designada (17/02/2017 16:25 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ3MGNjMzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMzk5NTVmMWI0YjU5NDctMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Audi\u00eancia una realizada (30/01/2017 10:10 - 1\u00aa Vara do Trabalho de S\u00e3o Caetano do Sul)",
+      "attachments": []
+    },
+    {
+      "id": "Y2RjYWU0YmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YWY2ZGUyNzgwMTFkNzktMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YmQyOGE2NDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZDUzNjRmYjU2YjExNWYtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - COMPR. PAGTO. RESCIS\u00c3O | Comprovante de Dep\u00f3sito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNkODFhMGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDJjZTNjNGRmNmRmM2MtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - TRCT | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU0NDRkNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MzEzZTMxZGRmZjBiNDQtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - AVISO PR\u00c9VIO - DECLARA\u00c7\u00c3O | Aviso Pr\u00e9vio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjE2ZTYwZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMmY2ODNkZTgzZTczYzYtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - PEDIDO DEMISS\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI0NGJmMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZDI5ODcxNmI5NGU4NjMtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - FGTS | Extrato de Conta do FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2ZiMWJkNzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMmJjOTlmNzAxZWU3YmItMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - ADVERTENCIA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWVkZjEwOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDFkMjQ0ZGIwMjYyYTQtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CP04 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWJlZGNmMGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMTQyNWY5MTAwMzFhMzQtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CP03 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzYzNzk0NmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNWZmNWZmNzQ1ZWIyYmItMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CP02 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2JiNjkyMmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NTQyYjcwODY1NzkxOGEtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CP01 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcwMGRiYjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOTg5NzdmOWUyYzQxODctMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - H03 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmMyYzNmMGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOGRjMDQ1ZjRkMDljOGEtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - H02 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY1ZDc3MWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01ZDViNzE1MWFlNDZjMTMtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - H01 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTYwNGFjYTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wODdjYTk2M2I3ODQ4NmQtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - FE | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTdjYTFmNmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZjgzYzlhMDJmYzg2ODctMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. - CONTESTA\u00c7\u00c3O | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGNlNTFhNjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNzM3YTQ1MDVkM2E4NGEtMTQ4NTc0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1485741600000,
+      "text": "Comercial Oswaldo Cruz Ltda. | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjI2N2ExMmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMTA5MjI3Y2I5NzMyMTYtMTQ4NzI5NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1487296800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "ODRmNzdkYzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWI3NmExN2IwOTdmOTAtMTQ4ODY4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1488682800000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 160.00",
+      "attachments": []
+    },
+    {
+      "id": "ZDc1MjE0ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZDcxM2U0YjE0NGY5NmUtMTQ4ODY4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1488682800000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a LUIZ CARLOS DA SILVA ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MmNmNDAwNzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMDBkODM4MWNkM2FmZmItMTQ4ODY4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1488682800000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de LUIZ CARLOS DA SILVA ALVES",
+      "attachments": []
+    },
+    {
+      "id": "Njc3NjU3OGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTA5NTEzZDEwZTIwMTEtMTQ4ODY4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1488682800000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ1ZDNhOTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMmNlNTFiMmU1YzcwMjQtMTQ4ODY4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1488682800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ZTMwNDc4NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ4OTI4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489287600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTZlODIxOWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZTYwYjBhMWNjNDcwZDYtMTQ4OTI4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489287600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZGRlYmY2NWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNTc3NDNlNTM3Y2RiZWQtMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Conclusos os autos para despacho a ELISA VILLARES",
+      "attachments": []
+    },
+    {
+      "id": "YzI1NDIyMDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04Mjc0ZTBmOGNjY2Q5ZDMtMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Iniciada a liquida\u00e7\u00e3o por c\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "NGNlYjk1YTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MDM0MWRmYTZhZTVmZWMtMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Transitado em julgado em 15/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "Y2MxOTk1OTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGQ4ZTZhMTFmN2IzZDktMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 15/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzY0YzQ0OTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZGJjYjJlNTgzZTZjOGMtMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 15/03/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTNlMWVhYjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYzFkNmMxODY2MWJhNDQtMTQ4OTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489719600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFkYzY5NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDFlNDk5MDQ3M2NlZWUtMTQ4OTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489719600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Y2U5YTFkZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzIwYzEwNGUzMWVhODEtMTQ4OTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489719600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NTU4MjFmNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ5MDA2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490065200000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTdhZDAwYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYWVmZTY3MmQyMjEyZDgtMTQ5MDA2NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490065200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "NmEyMTA1OTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOGM3NTY1MzdjODc0YTItMTQ5MDc1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490756400000,
+      "text": "Comercial Oswaldo Cruz Ltda. - PEDIDO DILA\u00c7\u00c3O DE PRAZO | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI2N2U4NGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjg0ZGM4Y2I4ODFiYTMtMTQ5MDc1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490756400000,
+      "text": "Comercial Oswaldo Cruz Ltda. | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjkxOTZjZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYzFkNmMxODY2MWJhNDQtMTQ5MDg0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490842800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDYwOWY5MzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzIwYzEwNGUzMWVhODEtMTQ5MDg0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490842800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q2YmVmNWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDFlNDk5MDQ3M2NlZWUtMTQ5MDg0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490842800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NGM2ZjhkMGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNTc3NDNlNTM3Y2RiZWQtMTQ5MDg0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490842800000,
+      "text": "Conclusos os autos para despacho a ELISA VILLARES",
+      "attachments": []
+    },
+    {
+      "id": "YjIzYWNmMTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ5MTAxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491015600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OWVjY2RkMjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZTM4ZjIyMmE0NGRlODUtMTQ5MTAxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491015600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZTRkNTcwNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMTY2ZTI4ZGFkYzc3NjMtMTQ5MTQ0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491447600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzNhYTYzODctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNGE1NzNiMzQ4ODY0MzYtMTQ5MTQ0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491447600000,
+      "text": "entrega de TRCT, chave FGTS guia SD | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzAwMjY2ZDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ5MTUzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491534000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODMyYjBiZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNTFhMjJkODUzNWJiZDctMTQ5MTUzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491534000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "Zjk1ODg3N2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iOGU3OTc4NzQ0NDQzN2ItMTQ5MjQ4NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1492484400000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 17/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjZmYmY5MmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jODRlNWRiYTBiNDVkOWMtMTQ5MzA4OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493089200000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 24/04/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2ViYzM0MGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZTk1NGExYzU3MDU2NWQtMTQ5MzI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493262000000,
+      "text": "retirada de documentos | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTdiNWE2MzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZDgwYmRkZmQxZDNlMjgtMTQ5MzI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493262000000,
+      "text": "Peti\u00e7\u00e3o de juntada de subs - Luiz Carlos da Silva Alves | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjEyZWUxNDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMmE5YjAxMjczMjJjOGYtMTQ5MzI2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1493262000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTVlNzU1Y2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWFjYzU0ZDI1ZjdiZWUtMTQ5NDgxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1494817200000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY5OTZhZjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ5NTE2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495162800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ4YjM0YWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iODFlMjMyNzE5MmExYzQtMTQ5NTE2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1495162800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "YzZjNjUxYzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYzgzYWZjNTRkMmI2NzAtMTQ5NjE5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496199600000,
+      "text": "Luiz Carlos c\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWRmZGMyYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYmEyY2NkNjE0ZGJjODktMTQ5NjE5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496199600000,
+      "text": "Planilha | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzBiYTc2MWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MWNjNjk0MWYxYjAwYjItMTQ5NjE5OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1496199600000,
+      "text": "Apresenta\u00e7\u00e3o de c\u00e1lculos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjg1Y2MxMTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYjNkNjIyNTU5Yjg4NDQtMTQ5ODE4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498186800000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 22/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjQwOWQ1ZjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWFjYzU0ZDI1ZjdiZWUtMTQ5ODYxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1498618800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRiOGE1MjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTQ5OTMxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499310000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2JkMzAxZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OWUzN2I5ZDQ3MzM4YzUtMTQ5OTMxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1499310000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "MTQ5ZTMxZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jN2I5MjZiOTczM2U5ZWYtMTUwMDI2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500260400000,
+      "text": "Comercial Oswaldo Cruz Ltda. - IMPUGNA\u00c7\u00c3O DE C\u00c1LCULOS | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2UzN2E0MjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOGJiZGM5MGIxZmY4NTItMTUwMDI2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500260400000,
+      "text": "Comercial Oswaldo Cruz Ltda. | Apresenta\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTkwZDllNGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWFjYzU0ZDI1ZjdiZWUtMTUwMDM0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500346800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWUzOGJlMzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMGRhM2U0NjU5OWU1ZDctMTUwMDM0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1500346800000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 17/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTdhNzlmYmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTUwMTEyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501124400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWE0ZDZmYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNGVkZjc2N2Y5ZmMwYmYtMTUwMTEyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501124400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZjAzZWU5MmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTU4Nzg0NDBmNmM1ZjEtMTUwMTgxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501815600000,
+      "text": "Luiz Carlos manifesta\u00e7\u00e3o sobre c\u00e1lculos | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmVmMjgxMzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMmE5YjAxMjczMjJjOGYtMTUwMTgxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1501815600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDUxNjRiNWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kY2Q3YWY3NTgyZTllMTMtMTUwMjMzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1502334000000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 09/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTU1ZThmY2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYzFkNmMxODY2MWJhNDQtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjUwOTgxZDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDFlNDk5MDQ3M2NlZWUtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTNjNGYwZDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzIwYzEwNGUzMWVhODEtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGVmZDJhMDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjc5Y2RiOGY0NDkzOWQtMTUwNjU2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506567600000,
+      "text": "Conclusos os autos para despacho a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NTVmNzRmNDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTUwNjc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506740400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTMwMjhjMWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04M2U5YjFiOTlkZTcwNTEtMTUwNjc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1506740400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "MmI1ODE0NjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZTYzZmFhNzZhYmQxZDEtMTUwODIwNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508205600000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 16/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzFkMzcxNjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZDRmY2QzNzg4NTUxYzctMTUwODcyNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1508724000000,
+      "text": "vencimento de prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTYyMTBkOWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZjNlYjc1OWQ2YTg4OWYtMTUxNzk2ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517968800000,
+      "text": "Iniciada a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2NlMDUzYmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYTg5YWU4N2Y1OTdkZjMtMTUxNzk2ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517968800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzE1NGMwNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNTJjNDY5MjdiZjNjZTUtMTUxNzk2ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517968800000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjEzNDM5ZmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMWM2NmY4NmUzMGMyZTctMTUxNzk2ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1517968800000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "NmZmZjk0Y2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZTE4M2U4ZGMzMzVmYTYtMTUxODA1NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518055200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NzIyZGU5MTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OTE4ZmM4MWRmNjhiZjMtMTUxODA1NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518055200000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "Zjg5YmQ1MzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mYzU5NmEyZmQ3ZGU2NTQtMTUxODA1NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518055200000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "MjNkNGY0ZjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMTlkMTc4NjE5N2UxYWYtMTUxODA1NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518055200000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTI1NzQ4NmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2M3NzA3M2NiZWE4ODAtMTUxODA1NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518055200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWFiM2EwZjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTUxODE0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518141600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTJjZGZjMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZWY0YjAzMjJmYWI1MjUtMTUxODE0MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1518141600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "MzdjNzc1NmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjhjODA2NjQ5ZTgzNGMtMTUxOTAwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519009200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - COMPROV. PAGTO. CUSTAS PROCESSUAIS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZjNDk0N2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZTAzZTQ3NmNjOTRjZmItMTUxOTAwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519009200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - COMPROV. PAGTO. INSS | Guia da Previd\u00eancia Social (GPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDY0OGEzNDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MTYwNDY2YjExYmQ2MDItMTUxOTAwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519009200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - COMPROV. PAGTO. EXECU\u00c7\u00c3O | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGRjNTU0YjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zODU1ZDk5NjgyMzFhMWUtMTUxOTAwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519009200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - PETI\u00c7\u00c3O COMPROV. PAGTO. EXECU\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDlhMDk4NjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOTU3MDZhZjhhZTU3MGMtMTUxOTAwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519009200000,
+      "text": "Comercial Oswaldo Cruz Ltda. - PETI\u00c7\u00c3O COMPROV. PAGTO. EXECU\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY0NDhkNGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMTc4ZDU0MjlhZDM1NGMtMTUxOTI2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519268400000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 21/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2RjZjk2OWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYjA4MTAyMDVkYWJiY2QtMTUxOTM1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519354800000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "ZjIyZmQ5MDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNTRjZGNjNTQwMzkxYzctMTUxOTM1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519354800000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQyZDc2MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kOTkzYjEwZjZhYjI3M2MtMTUxOTM1NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519354800000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID ca930e4 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZlOGJjNzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNjhhZmMzNzIwZmY5ZDAtMTUxOTc4NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519786800000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 27/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjA5MDA3ZjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMTQ2NTE5YTVhNWE0ODYtMTUyMTY4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1521687600000,
+      "text": "decurso de prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDExOWY2MzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzIwYzEwNGUzMWVhODEtMTUyNTkyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1525921200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWZhY2E0YmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDFlNDk5MDQ3M2NlZWUtMTUyNTkyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1525921200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDg2OTk1ZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNjc5Y2RiOGY0NDkzOWQtMTUyNTkyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1525921200000,
+      "text": "Conclusos os autos para despacho a LUCIA REGINA DE OLIVEIRA TORRES JOSE",
+      "attachments": []
+    },
+    {
+      "id": "Zjc4Y2IwZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2M3NzA3M2NiZWE4ODAtMTUzMjQwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1532401200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDcyYmI4N2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTUzMjQ4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1532487600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YmJiNDNlNTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YjdkNjBiZTFhMzFmMjMtMTUzMjQ4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1532487600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "NzIyZGJiOGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iY2EzNTc5ZTg5YTZiMjctMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Decorrido o prazo de COMERCIAL OSWALDO CRUZ LIMITADA em 01/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NmUxNDdhM2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMjRiMWYzNTA2Y2Y4NWYtMTUzMzE3ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533178800000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 01/08/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDZlNGIyOTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZThiYjVlMDMwOWVlODItMTUzMzY5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533697200000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "YThlZWVkNWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2M3NzA3M2NiZWE4ODAtMTUzMzY5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533697200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjYyMGY4NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMzUyZWEwMDdhZGI4ZTgtMTUzMzY5NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533697200000,
+      "text": "emissao alvara siscondj recte | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjkyYzlhMzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDEzYTk2MDBlNTdmMmEtMTUzMzg3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533870000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjllOWQ5ODctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mN2U2YjRjNGM0Mzc5ZGItMTUzMzg3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533870000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/08/2018",
+      "attachments": []
+    },
+    {
+      "id": "ODIyYjNmOWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZDdhYzNmZDhiOTY5NzUtMTUzNDQ3NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534474800000,
+      "text": "Decorrido o prazo de LUIZ CARLOS DA SILVA ALVES em 15/08/2018 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

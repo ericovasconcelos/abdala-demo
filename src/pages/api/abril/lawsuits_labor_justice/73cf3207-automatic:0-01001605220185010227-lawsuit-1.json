@@ -1,0 +1,340 @@
+{
+  "lawsuit": {
+    "id": "NzNjZjMyMDctYXV0b21hdGljOjAtMDEwMDE2MDUyMjAxODUwMTAyMjctbGF3c3VpdA==",
+    "activityCount": 32,
+    "number": "0100160-52.2018.5.01.0227",
+    "value": 13338.17,
+    "subject": "Multa de 40% do FGTS",
+    "kind": "Trabalhista",
+    "district": "7a Vara do Trabalho de Nova Igua\u00e7u",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "M. C. R. O.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "RECLAMANTE",
+          "normalized": "Reclamante"
+        },
+        "lawyers": [
+          {
+            "name": "Andre Luiz da Silva Soares",
+            "cpf": "024.234.577-82",
+            "lawyerId": "NTJkOTI5M2YtYXV0b21hdGljOjAtZTliN2YyMDgyODRmMDI0LXVuaWZpZWQ="
+          },
+          {
+            "name": "Fabiana da Silva Soares Calazans",
+            "cpf": "047.648.147-30",
+            "lawyerId": "NjcyZDlkZDgtYXV0b21hdGljOjAtMGVkZjM0ZTUyYzY5MzJmLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. D. P.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Andrea Maria Vasconcellos dos Santos Guimaraes",
+            "cpf": "094.721.167-52",
+            "lawyerId": "YjgyMzdmYzktYXV0b21hdGljOjAtMDg5ZDdkN2U3NjkzNDBhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Djair de Souza Rosa",
+            "cpf": "011.399.868-64",
+            "lawyerId": "NDUyYjAyZTQtYXV0b21hdGljOjAtOGI0YjRhOTMzOGUzZDE5LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "D. D. N. P.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Denise Fontes de Faria",
+            "cpf": "923.918.427-91",
+            "lawyerId": "ODRjYjhiMzQtYXV0b21hdGljOjAtNWI0MzUyNmMwMmZjMWYwLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "A. C. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "RECLAMADO",
+          "normalized": "Reclamado"
+        },
+        "lawyers": [
+          {
+            "name": "Osmar de Oliveira Sampaio Junior",
+            "cpf": "255.057.218-18",
+            "lawyerId": "NmQ5NjNhNTItYXV0b21hdGljOjAtYWIyZWVmMTFjYmVjZTBhLXVuaWZpZWQ="
+          },
+          {
+            "name": "Denise Fontes de Faria",
+            "cpf": "923.918.427-91",
+            "lawyerId": "ODRjYjhiMzQtYXV0b21hdGljOjAtNWI0MzUyNmMwMmZjMWYwLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1520539431000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 4,
+                "text": "Multa de 40% do FGTS",
+                "code": 1998
+              },
+              {
+                "level": 3,
+                "text": "Verbas Rescis\u00f3rias",
+                "code": 2546
+              },
+              {
+                "level": 2,
+                "text": "Rescis\u00e3o do Contrato de Trabalho",
+                "code": 2620
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "1998"
+      }
+    ],
+    "court": "TRT1",
+    "courtSection": "7\u00aa Vara do Trabalho de Nova Igua\u00e7u",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE4",
+      "date": 1524678487000,
+      "text": "Conclusos os autos para despacho  a CARLOS HENRIQUE CHERNICHARO",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE1",
+      "date": 1525453910000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (01/08/2018 13:15 - 7\u00aa Vara do Trabalho de Nova Igua\u00e7u)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE5",
+      "date": 1520689145000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDA4",
+      "date": 1556047897000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (solicita\u00e7\u00e3o de habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDA0",
+      "date": 1556227414000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a MARGARETH CONCEICAO RODRIGUES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2M2Zj",
+      "date": 1591123723000,
+      "text": "Transitado em julgado em 25/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBk",
+      "date": 1533937720000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2M2Zl",
+      "date": 1557373439000,
+      "text": "Decorrido o prazo de DINAP - DISTRIBUIDORA NACIONAL DE PUBLICACOES LTDA em 08/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDEx",
+      "date": 1533140989000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (24/04/2019 09:20 - 7\u00aa Vara do Trabalho de Nova Igua\u00e7u)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDA1",
+      "date": 1556227414000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2M2Zm",
+      "date": 1557373439000,
+      "text": "Decorrido o prazo de AR DISTRIBUIDORA DE PUBLICACOES LTDA. em 08/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDAw",
+      "date": 1557373439000,
+      "text": "Decorrido o prazo de MARGARETH CONCEICAO RODRIGUES DE OLIVEIRA em 08/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBl",
+      "date": 1533765945000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBj",
+      "date": 1538414752000,
+      "text": "Conclusos os autos para despacho  a CARLOS HENRIQUE CHERNICHARO",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDFj",
+      "date": 1520539431000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE3",
+      "date": 1524701358000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDEz",
+      "date": 1533066039000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2M2Zk",
+      "date": 1557373440000,
+      "text": "Decorrido o prazo de ABRIL COMUNICACOES S.A. em 08/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDAx",
+      "date": 1556227415000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE2",
+      "date": 1524701359000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDAy",
+      "date": 1556227414000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 200.00",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDEy",
+      "date": 1533069236000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBm",
+      "date": 1533148638000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDE0",
+      "date": 1532463839000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDEw",
+      "date": 1533148638000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) realizada (01/08/2018 13:15 - 7\u00aa Vara do Trabalho de Nova Igua\u00e7u)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2M2Zh",
+      "date": 1591123741000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDFh",
+      "date": 1520689145000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBh",
+      "date": 1538478605000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDBi",
+      "date": 1538478605000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDFi",
+      "date": 1520689079000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CARLOS HENRIQUE CHERNICHARO",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDA2",
+      "date": 1556227413000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (24/04/2019 09:20 - 7\u00aa Vara do Trabalho de Nova Igua\u00e7u)",
+      "attachments": []
+    },
+    {
+      "id": "NWY0MDZkMTg0NmNmOWE2NDIwMjc2NDA3",
+      "date": 1556048092000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Procura\u00e7\u00e3o (Apresenta\u00e7\u00e3o de Procura\u00e7\u00e3o)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

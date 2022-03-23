@@ -1,0 +1,282 @@
+{
+  "lawsuit": {
+    "id": "OTRiY2QzNDAtYXV0b21hdGljOjAtMDAxMTExMzU0MjAxODUwMzAwODQtbGF3c3VpdA==",
+    "activityCount": 31,
+    "number": "0011113-54.2018.5.03.0084",
+    "value": 10510.0,
+    "subject": "Adicional de Hora Extra",
+    "kind": "Trabalhista",
+    "district": "1\u00aa Vara do Trabalho de Paracatu",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "W. V. S.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "AUTOR",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Carlitos Cordeiro Ferreira",
+            "cpf": "335.217.439-34",
+            "lawyerId": "OTA0Yzc0ODAtYXV0b21hdGljOjAtYzY1NTNlNmIyOTE3M2NiLXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "N. R. M. S. A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00c9U",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Leila Azevedo Sette",
+            "cpf": "161.958.766-15",
+            "lawyerId": "YTFiOWVmYjUtYXV0b21hdGljOjAtNzU5OTgzNTM4MmY2MWM2LXVuaWZpZWQ="
+          },
+          {
+            "name": "Luanna Vieira de Lima Costa",
+            "cpf": "030.452.826-95",
+            "lawyerId": "N2QzNTQ1MTAtYXV0b21hdGljOjAtMzA0MTIyMjNjNzdlMGFlLXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1544102958000,
+    "stateAcronym": null,
+    "normalizedSubject": [
+      {
+        "items": [
+          {
+            "subjects": [
+              {
+                "level": 3,
+                "text": "Adicional de Hora Extra",
+                "code": 2141
+              },
+              {
+                "level": 2,
+                "text": "Dura\u00e7\u00e3o do Trabalho",
+                "code": 1658
+              },
+              {
+                "level": 1,
+                "text": "DIREITO DO TRABALHO",
+                "code": 864
+              }
+            ],
+            "last_text": "DIREITO DO TRABALHO",
+            "last_id": 864
+          }
+        ],
+        "id": "2141"
+      }
+    ],
+    "court": "TRT3",
+    "courtSection": "Vara do Trabalho de Paracatu",
+    "nature": {
+      "raw": "ATSum",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ5",
+      "date": 1550254332000,
+      "text": "Conclusos os autos para despacho  a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmUy",
+      "date": 1548099747000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) realizada (21/01/2019 16:10 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNm",
+      "date": 1550913494000,
+      "text": "Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ0",
+      "date": 1550573251000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNh",
+      "date": 1551273763000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente  para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQz",
+      "date": 1550644102000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQy",
+      "date": 1550644103000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNk",
+      "date": 1551104113000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmU0",
+      "date": 1547815014000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ1",
+      "date": 1550492742000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ4",
+      "date": 1550283473000,
+      "text": "Decorrido o prazo de WANDERLEI VITORINO DE SOUSA em 15/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmU2",
+      "date": 1544459314000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRj",
+      "date": 1549367835000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a WANDERLEI VITORINO DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmU3",
+      "date": 1544102961000,
+      "text": "Audi\u00eancia una (rito sumar\u00edssimo) designada (21/01/2019 16:10 - Vara do Trabalho de Paracatu)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmU1",
+      "date": 1544789043000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRk",
+      "date": 1549367834000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / \n ) de WANDERLEI VITORINO DE SOUSA",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRl",
+      "date": 1549367831000,
+      "text": "Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQw",
+      "date": 1550855293000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmUw",
+      "date": 1548099923000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a \u00c9ZIO MARTINS CABRAL J\u00daNIOR",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmU4",
+      "date": 1544102958000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQx",
+      "date": 1550770927000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (contrarraz\u00f5es RO. autor)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNl",
+      "date": 1550913496000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de NEXA RECURSOS MINERAIS S.A. - CNPJ: 42.416.651/0001-07 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRi",
+      "date": 1549367835000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 120.00",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRh",
+      "date": 1550251201000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (RECURSO ORDIN\u00c1RIO NEXA)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNi",
+      "date": 1551164387000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmRm",
+      "date": 1548704160000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ3",
+      "date": 1550288850000,
+      "text": "Decorrido o prazo de NEXA RECURSOS MINERAIS S.A.                                                                                                                            em 15/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmUz",
+      "date": 1547815193000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmNj",
+      "date": 1551164387000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmQ2",
+      "date": 1550492740000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWYwMzA3OWNiZWI5NDk0M2VjYTM3ZmUx",
+      "date": 1548099749000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}
