@@ -37,9 +37,7 @@ const ChartLawsuits = ({seriesData, categoriesData, type, isDate}:ChartLawsuitsP
             bar: {
                 horizontal: true,
             },
-            area: {
-                fillTo: 'origin',
-            }
+           
         },
         dataLabels: {
             enabled: false
