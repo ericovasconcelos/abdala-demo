@@ -1,0 +1,646 @@
+{
+  "lawsuit": {
+    "id": "YTQ0YWE2NzctYXV0b21hdGljOjE2MDQyODI0LTAwMTA2OTI5NzIwMTU1MTUwMDk2LWxhd3N1aXQ=",
+    "activityCount": 91,
+    "number": "0010692-97.2015.5.15.0096",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "MRS Logistica S/A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Raquel Nassif Machado Paneque",
+            "cpf": "252.204.698-51",
+            "lawyerId": "ZTI2M2VlNjYtYXV0b21hdGljOjE2MDQyODI0LWI4MTdjOGE2NWI2NWJhMC1sYXd5ZXI="
+          },
+          {
+            "name": "Maria Helena Villela Autuori Rosa",
+            "cpf": "074.032.108-08",
+            "lawyerId": "NzUwYjMwOTUtYXV0b21hdGljOjE2MDQyODI0LWQ2ZTViNzc2YTFhNmE1ZS1sYXd5ZXI="
+          },
+          {
+            "name": "Ana Paula Fernandes",
+            "cpf": "269.122.238-18",
+            "lawyerId": "MDEyMWIyZmMtYXV0b21hdGljOjE2MDQyODI0LTRjY2M0MjRjMDIyNTg5Yy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Uni\u00e3o Federal (Pgf)",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Cooperativa Mista Cons Prest S Transp R Coopertran LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Fernando Lucindo Flores Pinto",
+            "cpf": "041.240.766-30",
+            "lawyerId": "NjQ5M2M0NWMtYXV0b21hdGljOjE2MDQyODI0LWFlYmZhZTYwNTBlZGRhNS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Elias Gomes de Faria",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Carlos Alberto Duarte",
+            "cpf": "093.532.638-32",
+            "lawyerId": "MTdhZDAxNjMtYXV0b21hdGljOjE2MDQyODI0LWE0NTY4Njg0MjNlN2I4NS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1420120800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT15",
+    "courtSection": "Gabinete do Desembargador Jos\u00e9 Carlos \u00c1bile - 1\u00aa C\u00e2mara",
+    "nature": {
+      "raw": "Agravo de Peti\u00e7\u00e3o",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YTQ0OGM4YzYyZDQ1MzA5MGM4YjllNjdjYmMzNWY2NzQ=",
+      "date": 1462147200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRjNjZkYjk3YzM1N2MyOTcwZjZmYTE3OWM2OGM3ZTA=",
+      "date": 1462233600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NDhjMzgyZTUyNGFiYzNjNDNkZjMyODFjNDljNDk4ZGE=",
+      "date": 1453420800000,
+      "text": "Ac\u00f3rd\u00e3o-0010184-21.2012.5.03.0055 | Acord\u00e3o Paradigma (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDVkMzZkYTJiYTBkZmUxMmFkYjI1OGQzYjM3Y2I2YjI=",
+      "date": 1470614400000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "Y2E2ZmYzYjFiNTZjNjAxZWE0ODNlZTYzOTUxOTJhNzI=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-001208.2003.03.00-4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTEzN2NkMDZiYTBkODc5NGEzNTc3ZWYyZDRiMjA4NjM=",
+      "date": 1450051200000,
+      "text": "ata de elei\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDFkMTJjZGFhOWE2MjFkNWFmMzFjNzdlNjdiMGIzN2M=",
+      "date": 1453420800000,
+      "text": "Dez-2010-Cooperados-Autorizando-Contrata\u00e7\u00e3o-MRS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTBjODgwZmMwOThjNDZiM2Y5ODE1ZTBmZWYzNDljOWU=",
+      "date": 1426723200000,
+      "text": "Audi\u00eancia una designada (26/01/2016 10:45 - 3\u00aa Vara do Trabalho de Jundia\u00ed)",
+      "attachments": []
+    },
+    {
+      "id": "NjM2NDRjMDAwYTcxZDU3Yzc1YzlmNGUzYjYzOTY1NWM=",
+      "date": 1453420800000,
+      "text": "TST-AIRR-28-44 2012 5 03 0064 | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjE2YTY0Y2NkOGJmMWM5YTk3Zjg0NGJmZTdlZThmYmE=",
+      "date": 1453766400000,
+      "text": "ATA 0010690-30.2015.5015.0003 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTlkYmNkYTY4Y2Y5YThlNTM3YjkyYjBkMmEzN2EwZWE=",
+      "date": 1457913600000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a PATRICIA MAEDA",
+      "attachments": []
+    },
+    {
+      "id": "YTc1MGEzYTcyNzI1OTZkOGQ5YWJiNDdlOTljN2FlY2Y=",
+      "date": 1453420800000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTAxZDU5MThkMDNmZWIxMTYxMzNmMjM1MmM5YTk3NmU=",
+      "date": 1453420800000,
+      "text": "Recolhimento-GFIP2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQzYTFhMWJjZjM5ZDc5ZjllMDEwNDIxZmRmNmFjMTc=",
+      "date": 1463011200000,
+      "text": "Decorrido o prazo de CARLOS ALBERTO DUARTE em 11/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjliNmY5MmNiNGRjZjhkZGRiNjJlNjZlMmRmMGJiMTU=",
+      "date": 1454630400000,
+      "text": "custas R.O. 2 | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ0NTI2ZGM5OWUwZThlOTQ0OThmNzA0MDJjZWZjYTI=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-0173-2010-10\u00aaRegi\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGM2YTJkODIzOGFkNzJmYTRjYWQ3ZDQzZDE5MzJiMzg=",
+      "date": 1426723200000,
+      "text": "ACT 2009-2010 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzBiMWRkZmZkM2E0YWJjZjUxNTkzOWY5ZWZhNjJjNmM=",
+      "date": 1453420800000,
+      "text": "AGO-Elei\u00e7\u00e3o-Conselho de Administra\u00e7\u00e3o-2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGY2Yzg2ZDJmZGIwYTJjYTQ4NGE2MzIxNmM0MWYyYmM=",
+      "date": 1450051200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTk0YjM3NDM2YzFhNTZiMTM0MmYyNWQxMzRkNzExNDM=",
+      "date": 1453420800000,
+      "text": "Ac\u00f3rd\u00e3o-0001921-17.2012.5.03.0114-data-20131007 | Acord\u00e3o Paradigma (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGY1ZWJhNDI5NTdjYzAwNDQ3ZWY1MzM5OWJiODhiNDc=",
+      "date": 1453420800000,
+      "text": "Encerramento-Contrato-Cooperados-Reuni\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjYzZThlNmQ4YmNmMmMyNDIzZjJhZmUyZjI1OTA3NDU=",
+      "date": 1453420800000,
+      "text": "Arq.Inqu\u00e9rito-1997 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTA0ZmZjNjQxY2YwYzJmZDFjYmZlNzg4M2U4ODk1MTI=",
+      "date": 1453420800000,
+      "text": "Preposi\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjNkZDRlNjY5ODU0ZDZlYjdkNzQ2N2M1MWUwOWQ1NjI=",
+      "date": 1453766400000,
+      "text": "ATA 0010679-32.2015.5.015.0021 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQwMDg5NDBiYjZiN2EyMzA4Mjk0MWNlOWZjMzA1YWM=",
+      "date": 1455494400000,
+      "text": "Carta de preposi\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZiMGMzMWNiYWFmYWQ4NjcwYmU3NTI2YTY5N2IzZDM=",
+      "date": 1454630400000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mzc5NTRmNTMyNGE2Mjg5YjZjY2U0ZmRkYTg4MTQ5NDM=",
+      "date": 1434326400000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2VmZmQzM2NjMTQ5YTdjN2FlZjBmNDBiNDU4ZWEzNjM=",
+      "date": 1434326400000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MTA1NjMxMzEzMTJmZjgxMDRjZjBhODI1ZDUwMDZiMWI=",
+      "date": 1453420800000,
+      "text": "Ac\u00f3rd\u00e3o-Abra\u00e3o | Acord\u00e3o Paradigma (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODVmOWUwZDBjNGEyODY1Nzc1MTIzZDE2ZDM3NGQwMGM=",
+      "date": 1453420800000,
+      "text": "Recolhimento-GFIP1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTBlMDNhYzZmZDU4MmZhODE0NjYxMzgwMDY4ZDEzZDg=",
+      "date": 1453420800000,
+      "text": "FUNDO NATALINO E DESCANSO ANUAL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MThmMzViMDA5NWE3M2Y4MjYzZDM5MjcwMWM4ZDVlZmE=",
+      "date": 1453420800000,
+      "text": "AGE-Seccionada-Itaqua-2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTIxZmY2YTUxNzc3NDEyOWM5MzIzODBlMjY5MDIyZGI=",
+      "date": 1426723200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "N2YxZDIwZjhlM2ZhOTg1OTlmMGQ4MDYxNTdjNGFkNmU=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-001378.2013.03.0009 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODA1MTM0MzFjM2NiNjFmODg3YzAxZmE0OWZlOTRkOWU=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-001208.2003.03.00-4(completo) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjI0MmM0MDIzMzYyYjA3NjY1NDNhNGQ5YzAxNjBkMDA=",
+      "date": 1426723200000,
+      "text": "RG CPF DOC DIVERSOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTRkOWNhZjA2NDRmYzgzNGIzZmYyNDYwMmMyNTI4MzY=",
+      "date": 1453766400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NDEwY2FjZDAwYTViNGU3MjQxZWI1NDA3OWQwZWZiMGY=",
+      "date": 1453420800000,
+      "text": "Fotos-Assembleia | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2M2MjM3MGYwOGExNDM3ZTVhOGQ1ZmU1MmE5MDM2ZTQ=",
+      "date": 1440720000000,
+      "text": "1\u00ba aditivo_CTR 23485_2012 - Assinado | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTMxODMxOGU3NWU1N2Y4YTQ2MDZiNDIwZWIwN2ExZTM=",
+      "date": 1462233600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "OTA2OWRlNTFlNmM1MzE4YWVlNzFjMTIxOGRkODFmMGY=",
+      "date": 1454630400000,
+      "text": "CUSTAS R.O | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZlZDFiYmE2YWFkODYwYjk1NWMyZTlhNzgxODZhOTM=",
+      "date": 1453420800000,
+      "text": "CONTESTA\u00c7\u00c3O | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBiOTc5N2MzZGNkZmZhNjk5NDlmMDEzMzI2MjQ5Yjk=",
+      "date": 1453420800000,
+      "text": "Fotos-Assembleia.1 | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWNhYWU4MjU2MTc4YmJjOGZlNzA4NTdiYWI4YzAyYmU=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-001978.2015.03.000-6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTYzNzk5MWY1NTEwYjIyZWQzZWNiZTExN2RjNjM2NTY=",
+      "date": 1453420800000,
+      "text": "AGE 2015 + ESTATUTO ALTERADO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM3NDI4OGJhYWZmMGQxMjI2MTliNmExNjllMDkwNmQ=",
+      "date": 1453766400000,
+      "text": "JUNTADA DE ATAS DE AUDIENCIA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWNlZGFiNWJiMTJmZDliY2Q3NTU2YjAzNmZjZjI2MDg=",
+      "date": 1453420800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "ODYzMzczYzE0NDU5NDRkMTMwZGJkNGI4NGMyMjU3NDA=",
+      "date": 1426723200000,
+      "text": "ACT 2012-2014 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Q5MjQ4ZWUxMmQzNzVmNzdkMGJkZWE1ZDQ3N2RhYzY=",
+      "date": 1454025600000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de ELIAS GOMES DE FARIA",
+      "attachments": []
+    },
+    {
+      "id": "ZDMwMzcyY2I3MDU4OTExMTZiNTc5NGJmNzM5MDI2NTQ=",
+      "date": 1509321600000,
+      "text": "Baixado o incidente/recurso ( / Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "NWRiMjdkMWIwZDQ1YjZkNTI3NzA5MWEwYmUxMWNjZWU=",
+      "date": 1453420800000,
+      "text": "FUNDO BENEF\u00cdCIOS SOCIAIS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDc1YzAzODI3Mzg4MDljMWZmNGNlMjgwOWRlYzU5MTg=",
+      "date": 1458000000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTAzNGY3ZjE4MzBhMzEyYTA3Y2NhYmVjOTg4ZDY2ODU=",
+      "date": 1453420800000,
+      "text": "Defesa - 26 01 16 Elias x Coopertran | Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "YTZiMjY5YTY3M2QxMTg5NGY4ZTlhNDYwMzdkZGYyYzk=",
+      "date": 1450051200000,
+      "text": "estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTEwNjYwMWZlODJjM2RmMWUwYzU1OGM0NWJkM2Y0MWU=",
+      "date": 1453420800000,
+      "text": "Liquida\u00e7\u00e3o-Fundos-Cooperados-Reuni\u00f5es | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNkNjFmOTgzYzczZGU1M2MyMzQ2ZjZmYmZjNjAxNDI=",
+      "date": 1453420800000,
+      "text": "Gest\u00e3o-Contrato-Democratica-Cooperados-Reuni\u00f5es | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmY3YzM3ZGY0NDY5YWUyZWY2MTkxMDk2ZDlmY2FjZDY=",
+      "date": 1426723200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmFlY2QzMWQ1ODE0Y2QxOGU4MzBmNTM4ZDUyN2M2MzI=",
+      "date": 1453420800000,
+      "text": "Docs-Reclamante | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg5Y2RmMjNjZDA1MTJlMWUzNDA1MmIxNTMwZTYyOTY=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-001049.2012.17.0007 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU4MjA3Zjk2Y2FhNjU3NTYwMTJhOGY5M2VmMGY2MmM=",
+      "date": 1463011200000,
+      "text": "Decorrido o prazo de FERNANDO LUCINDO FLORES PINTO em 11/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTMzNDQ3ODgxMTI0MzAyNWUyODBjMTc3ZWQxMzE5OTc=",
+      "date": 1462233600000,
+      "text": "CONTRARRAZOES RECURSO ORDINARIO | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTNkY2QwZWJlNDNiMDJhYmRlNDM3ZWM2MTQwY2NjNWE=",
+      "date": 1426723200000,
+      "text": "ACT 2010-2012 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTdiNGVlMTU5ZGUyMWJmNTIzYWExNGQ1YzNjOGExNTI=",
+      "date": 1450051200000,
+      "text": "procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDYyZTJhNGVjZTM3NGQ4ZjNhNTliZDg3NTllZDQzNzg=",
+      "date": 1455494400000,
+      "text": "juntada dos anexos carta de preposi\u00e7\u00e3o e substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ1MWRkYzdkMmFkNmNhODBlMmE4NTBkN2E3NzkzYzM=",
+      "date": 1461888000000,
+      "text": "juntada de procura\u00e7\u00e3o e substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI3NGY3YjczZGQ4NjlhOGU3NmM1Y2YxNmUzZDM1NDA=",
+      "date": 1453420800000,
+      "text": "Demonstrativos de repasse - Elias Gomes de Faria | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGI2NGI5ZjRkODE2Yjk3OTQzYjM5OGMwYmZhZTQxM2U=",
+      "date": 1454025600000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a PATRICIA MAEDA",
+      "attachments": []
+    },
+    {
+      "id": "OTY3M2JkNGU3NTc4YjQ2ZWFkZWU4NWRkZmVhOWEyYmE=",
+      "date": 1453420800000,
+      "text": "Ac\u00f3rd\u00e3o-TRT1-0001273-2012 22.10.13 | Acord\u00e3o Paradigma (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzhkODhmYmRmMTVmZTkyMzZjMzczZGMwNDM3ZTYzMmE=",
+      "date": 1462233600000,
+      "text": "0010745-69.2015.5.15.0002 ACORD\u00c3O TRT-15 | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODFjNjkzMjllMzFlOTgzZjc1ODAxZWRlNTU1ODFiNjg=",
+      "date": 1453420800000,
+      "text": "Ac\u00f3rd\u00e3o-Proc.0010183-36.2012.5.03.0055 | Acord\u00e3o Paradigma (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA4MjQzNDUyNzkyNDI0MzliZDUxNzIyNmVjNzBhMjM=",
+      "date": 1455494400000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjliM2NkZTY0ZTc0YWY2ZDgyZTFjZWYwNDNlYzcyOWE=",
+      "date": 1440720000000,
+      "text": "Procura\u00e7\u00e3o MRS | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2E3NDhkOTUwY2MzYTgwMDIwNTJjNGIwYjMxN2Y1MzM=",
+      "date": 1453420800000,
+      "text": "FUNDO AQUISI\u00c7\u00c3O DE VE\u00cdCULOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzU2ODA1MWY5MGYxOGQ3YjY3Y2Y4MTczMGYxOGMyODE=",
+      "date": 1454025600000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 500.00",
+      "attachments": []
+    },
+    {
+      "id": "YTM4ZTM2MzM1YzY3OWEzNDFkMzZlNWQ1MjI2NDMwM2M=",
+      "date": 1462233600000,
+      "text": "parecer 0010690 COOPERATIVA-2 | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjFhODk4NmNlNWZmNmY2MTY1OTY4ZjJkZTdiMzA4YmM=",
+      "date": 1453766400000,
+      "text": "ATA 0010683-69.2015.5.15.0021 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjhjODJlYTc3MTYzNDJmZWY3MzcwNGUxNzMwNjI5OGI=",
+      "date": 1453420800000,
+      "text": "Convoca\u00e7\u00e3o-AGE-Outubro de 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjAzMjA0ZDYzZDc5YTFhZDYwOGQ3NjNjM2M0MTBlMWU=",
+      "date": 1454025600000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NTVkYTM5NjNiMGY5MmM0YTM0ZTg0OTEwOTA5YWRjMzk=",
+      "date": 1440720000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDE1NTI1MDI3NzVhM2IzYTE1NmM1MmI5OGJiMzkxNTY=",
+      "date": 1453420800000,
+      "text": "Arquivamento-IC-000176.2008.10.0002.10\u00aaRegi\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTVjYTgwYTYwYjVlY2UxMzczZjk2ZWI4NTAzNmFkMmY=",
+      "date": 1453420800000,
+      "text": "Participa\u00e7\u00e3o-Reclamante-Reuni\u00f5es | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODg1YWE1ZDczMzAyYTM5M2QzMjIzZDQ4MTlhOTQ3Njk=",
+      "date": 1454025600000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ELIAS GOMES DE FARIA",
+      "attachments": []
+    },
+    {
+      "id": "NTRiYWM3NTgzZTZmN2NmYjQ5YjVjODk0NTNkY2RiMjQ=",
+      "date": 1426723200000,
+      "text": "ACT 2007-2008 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjcwZGVjMzBhZmY0ODAwZTIyOWNiODRmMzhjMDVkZmI=",
+      "date": 1453420800000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2FjOTI1ZDA2NDlhMmExZWM2ZmI0NjllNGFmNTgyZTA=",
+      "date": 1453420800000,
+      "text": "AGEs-Liquida\u00e7\u00e3o-Fundo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjUxMzY4N2JmZWFkYjg0MWNiZmMwNzZlZGQxMGNmZmY=",
+      "date": 1453420800000,
+      "text": "FUNDO COBERTURA RISCOS E MANUTEN\u00c7\u00c3O CONTRATUAL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDZiOWJjNTczOGVlYjdmNzE2YzFlODVkYWU2Y2IzYzM=",
+      "date": 1453420800000,
+      "text": "Fotos-Assembleia1a | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhmMDFjMDMyNjlkNmNlYTk0OTg2ZmEyY2ZlNjM4NWY=",
+      "date": 1453766400000,
+      "text": "Audi\u00eancia una realizada (26/01/2016 10:45 - 3\u00aa Vara do Trabalho de Jundia\u00ed)",
+      "attachments": []
+    },
+    {
+      "id": "OWI5YTljYTFiMTMwZjc4NmExNTM5MWJjNzA5Y2E5NmE=",
+      "date": 1440720000000,
+      "text": "Estatuto Social | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDg5Njc3M2Q2ODdhYWVjYWE0YjNhMDdmN2JlZDYxYTM=",
+      "date": 1453420800000,
+      "text": "Quita\u00e7\u00e3o-Fundo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmY3ZWI4MzNmMzg4ZGM1NWE0MTA5ZGQ0ZThhYTJmMzE=",
+      "date": 1461888000000,
+      "text": "Procura\u00e7\u00e3o Autuori B 2016 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

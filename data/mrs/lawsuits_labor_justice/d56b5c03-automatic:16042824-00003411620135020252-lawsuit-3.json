@@ -1,0 +1,214 @@
+{
+  "lawsuit": {
+    "id": "ZDU2YjVjMDMtYXV0b21hdGljOjE2MDQyODI0LTAwMDAzNDExNjIwMTM1MDIwMjUyLWxhd3N1aXQ=",
+    "activityCount": 25,
+    "number": "0000341-16.2013.5.02.0252",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Dr\u00e1usio Apparecido Villas Boas Rangel",
+            "cpf": "",
+            "lawyerId": "ZmE0M2Q2NjktYXV0b21hdGljOjE2MDQyODI0LTRmNDQ0ODE5NWNlOWJhZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Walter Souza Figueiredo",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. F\u00e1bio Borges Blas Rodrigues",
+            "cpf": "",
+            "lawyerId": "MWI1ZDU2OTgtYXV0b21hdGljOjE2MDQyODI0LTIyY2M1NDc0M2RiOTA2OS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MTI5NTVhYWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mZWM1MzM3NmEzZTMxZDItMTQ1OTkxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459911600000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "Nzg4YmRiNWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzQ5YTE4MGViY2UzZDQtMTQ1OTkxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1459911600000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZjZmMTFlYjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzMyMzQyYTBkYmU4ZWYtMTQ2MDA4NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460084400000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "ZGM3NzIwMDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NmMyMmJiYTNhYTA5YzgtMTQ2MDUxNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460516400000,
+      "text": "Recebidos os autos para triagem",
+      "attachments": []
+    },
+    {
+      "id": "ZWVhY2Y1NzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NmJjNDJjZWIyNGYxYjAtMTQ2MDUxNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460516400000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ZTU0MzAxOTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MjVmZjZiNTlmZTFiMmQtMTQ2MDUxNjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460516400000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "ODdlYjFiZDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNTI4Zjg5MmJlMmMwZGQtMTQ2MDYwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460602800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Jo\u00e3o Batista Brito Pereira)",
+      "attachments": []
+    },
+    {
+      "id": "MmYwZjIzMjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NjExYTBhNzg0Mjc5ZDItMTQ2MDYwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460602800000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro BP - T5 em 14/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NDk4NTJmYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZjMxMWM4ZjhlYWZhMmQtMTQ2MDYwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1460602800000,
+      "text": "Recebidos os autos - triagem cancelada",
+      "attachments": []
+    },
+    {
+      "id": "NWIyM2E2ZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNDdmNmZiODg4ZTNkZWYtMTUxOTQ0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519441200000,
+      "text": "Remetidos os Autos para Secretaria da 5\u00aa Turma para redistribuir por sucess\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZTI1MGRkMWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZTA4OWE0MTJkOGY0NzMtMTUxOTcwMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519700400000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Ives Gandra da Silva Martins Filho)",
+      "attachments": []
+    },
+    {
+      "id": "Y2NhMjNkYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNTdlM2U2MjcxYWQ0ZTAtMTUxOTcwMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1519700400000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o ao Exm\u00ba Ministro IGM - T5 - art. 109 do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "N2NhNGU0YzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YjViYWQyNmRhOWVmZWYtMTUzMzc4MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1533783600000,
+      "text": "Remetidos os Autos para Secretaria da 5\u00aa Turma para redistribuir",
+      "attachments": []
+    },
+    {
+      "id": "Y2YwZjE0YmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNTgwZWJlMTg1MjM2MzYtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Emmanoel Pereira)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ1NDQ3ZjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MzM4ZmU3NmM2ZTBkNTUtMTUzNDM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1534388400000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o ao Exm\u00ba Ministro EMP - T5 - art. 107, \u00a7 1\u00ba do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "NTQ0MjNhMzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZjZmMmY5MWY2NGY1YzUtMTU1MDYzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550631600000,
+      "text": "Remetidos os Autos para Secretaria da 5\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "YWMwZmY0MzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NmRiMmRkZGU4MjFjNzAtMTU1MDgwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1550804400000,
+      "text": "Disponibilizado(a) PAUTA DE JULGAMENTO no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTU1MTEyYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNmQwN2EwNjRiZjE5ODEtMTU1MTA2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1551063600000,
+      "text": "Inclu\u00eddo em pauta o processo para o (de 12/03/2019 a 19/03/2019 00:00 vinculado \u00e0 6\u00aa Sess\u00e3o Presencial de 20/03/2019 09:00).",
+      "attachments": []
+    },
+    {
+      "id": "M2I3MTk4MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NDRjZjY5ZGM5MTRkODUtMTU1MjAxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1552014000000,
+      "text": "Inclu\u00eddo em pauta o processo para o -Excepcionalmente, os processos com pedidos de prefer\u00eancia ser\u00e3o remetidos para sess\u00e3o presencial do dia 27/3/19, \u00e0s 9h.",
+      "attachments": []
+    },
+    {
+      "id": "ZjcwN2JkNGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmUzYmRhYTEyNjQxNjYtMTU1MzA1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553050800000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "YmVhNjM1YjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMGVkZDg4OWYyY2IzYjEtMTU1MzEzNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553137200000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTc1NGJiZjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZjgzYzI2YWM3MmI4M2EtMTU1MzIyMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1553223600000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 22/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "YmE0NTdmOGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMzNlOTEzM2JkYTQ3M2QtMTU1NTk4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1555988400000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 2\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "Mjc1YWNlMGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iYjQ2MDNkNTRlYTM0NjEtMTU1NTk4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1555988400000,
+      "text": "Transitado em Julgado em 12/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "Y2I5OGM2ZTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYmI3Y2E5Y2VhZGMyOGEtMTU1NjA3NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1556074800000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

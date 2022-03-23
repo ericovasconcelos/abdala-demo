@@ -1,0 +1,784 @@
+{
+  "lawsuit": {
+    "id": "Y2U0ZDAzZGYtYXV0b21hdGljOjE2MDQyODI0LTEwMDExMDA3MTIwMTk1MDIwMzQyLWxhd3N1aXQ=",
+    "activityCount": 120,
+    "number": "1001100-71.2019.5.02.0342",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Elton Souza Xavier",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Fernando Andrade Vieira",
+            "cpf": "333.529.708-31",
+            "lawyerId": "NTg4MmJjNmEtYXV0b21hdGljOjE2MDQyODI0LWI2YTRlNDA4YzJhYmQ4Yy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Engeseg Empresa de Vigilancia Computadorizada LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Luciana Fernandes D Oliveira",
+            "cpf": "286.957.298-00",
+            "lawyerId": "MzZjYTkxNGEtYXV0b21hdGljOjE2MDQyODI0LWM4YWNlOGYxZWZiNTY0Mi1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "2\u00aa Vara do Trabalho de Itaquaquecetuba",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NTFkZGE5YTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02YzU3YTVlYjkxYWRjZTEtMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Audi\u00eancia una designada (14/11/2019 10:40 - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "OGMwMTdhNDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNGI0MDliMTc3OTQ2OWQtMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NmRiOTczMWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMmVkZTZkNTkwZTk4MDktMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) | Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE2NmVmM2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTJhZjUzMTZjNTBhNjQtMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGI5OGZkNDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZGE3ZTJhZDUzOWE4OTMtMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDhlNTJiZmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZDEwNmViZWFmOWE2NDktMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Fotografia | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWIwYjE5M2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YmUyOWI0NjdjNmZiNGItMTU3MTcxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571713200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDk5N2EwZDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YzBmZTBhNDY2NzkxMTMtMTU3MTg4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571886000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2ZiODEwMWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGVjNGQ1ZDUwZTRkODItMTU3MTg4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571886000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2FjZjg4MDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzIzNjQwOGNlY2NkMjYtMTU3MTg4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571886000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NDVhNGRkMjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMDI3YzdiNTVhM2FlOTAtMTU3MTg4NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571886000000,
+      "text": "Conclusos os autos para despacho a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "NWYzMGRhNDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU3MTk3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571972400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTc1NzQzNTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YjM0MmEwMjkxNzE4NDUtMTU3MTk3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1571972400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NmE3MWQ4NGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjU5MDdmNWVhYzExYWQtMTU3MjE0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572145200000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTBkMTk1NzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZmQyODE5NmRmZjBjYjEtMTU3MjE0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572145200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7\u00e3o de juntada de CTPS)",
+      "attachments": []
+    },
+    {
+      "id": "MDAxNzI5MGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOTc0Zjk0NDFjYjk5ODYtMTU3MjE0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572145200000,
+      "text": "Peti\u00e7\u00e3o de juntada de CTPS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODJkZjYwYmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MzRkMGEwY2I2N2QzZGQtMTU3MjIzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572231600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u/",
+      "attachments": []
+    },
+    {
+      "id": "NjY3ZjhkZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZTkwMDQxZmVlYzhkMWYtMTU3MjIzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572231600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2JlN2Y4OWEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YmUzZGY3YzM2NThhZGQtMTU3MjQwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572404400000,
+      "text": "Procura\u00e7\u00e3o MRS | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjA1YTM4ZDctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYzMyM2I1NGMxMjNjNTItMTU3MjQwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572404400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Pedido de Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "Yjk1NDYwN2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMDQ5ZmY0NTg5N2Y0NjEtMTU3MjQwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572404400000,
+      "text": "Pedido de Habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDE2NGU2NzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YzU5YWU0MDcwZDVhODMtMTU3MjQwNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572404400000,
+      "text": "Decorrido o prazo de ELTON SOUZA XAVIER em 29/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "M2E2ZmQ0NTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZGE3ZTJhZDUzOWE4OTMtMTU3MjkyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572922800000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQwZTY4ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmE2NzgwZjcyYzQ3ZWItMTU3MjkyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572922800000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTg1ZDRiYTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjdkZDg0ZjFkNTRmMDMtMTU3MjkyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572922800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (ato cionstitutivos)",
+      "attachments": []
+    },
+    {
+      "id": "ZmM2MmE4OGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZmMyOTM1YzllZWY3ZjctMTU3MjkyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1572922800000,
+      "text": "ato cionstitutivos | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDNmNjY3ZTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMDI3YzdiNTVhM2FlOTAtMTU3MzA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573095600000,
+      "text": "Conclusos os autos para despacho a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "ZTQwYzNkYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTIyMTMzODA1MTZjN2QtMTU3MzA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573095600000,
+      "text": "Audi\u00eancia una cancelada (14/11/2019 10:40:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg1YWRjNDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YTFkYTdiYjkzNTVhYzgtMTU3MzA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573095600000,
+      "text": "Audi\u00eancia una designada (04/12/2019 10:20:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "OWI3NDRjNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yODIxMDQ5ZmQ3Yzg3OGMtMTU3MzA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573095600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Redesigna\u00e7\u00e3o de audi\u00eancia)",
+      "attachments": []
+    },
+    {
+      "id": "MzBiNDQyM2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NzA3YjU1ZGYxMTM4YjUtMTU3MzA5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573095600000,
+      "text": "Redesigna\u00e7\u00e3o de audi\u00eancia | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQzYjdhZmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YzBmZTBhNDY2NzkxMTMtMTU3MzE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573182000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjFjNGJkYjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGVjNGQ1ZDUwZTRkODItMTU3MzE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573182000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MmZmZTk2MjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzIzNjQwOGNlY2NkMjYtMTU3MzE4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573182000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmNhMTI2YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU3MzI2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573268400000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDQ5YjQ2MTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTJkMDY2YWFmMjg2NTMtMTU3MzI2ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1573268400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZjE5MThkNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NGU5ODAzZDU5NTZkMzgtMTU3NTM0MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575342000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YWM0NzQxZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mOGE4ZmE4MmRmZWYxNGEtMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Audi\u00eancia una realizada (04/12/2019 10:20 - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "YzlkY2FkZjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hODEyZjU5MjAwMWU4MzMtMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YmEwZjMyNGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNGYyMDc2YTliOWJmYWYtMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Audi\u00eancia una cancelada (04/12/2019 10:20:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "NmE2ZTNjYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYzMxZTFjMWE1OWI0MzItMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Audi\u00eancia una designada (29/01/2020 10:20:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M5Y2UyZjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NGU5ODAzZDU5NTZkMzgtMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NTIwMzUwN2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NWNhMjgyOTgxYjNiODItMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGMwZTExNTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYzkwZjlhM2JmYTM2ZWItMTU3NTQyODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575428400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NDk4ZDkyMzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMWE1ZGQxZjliYjYyNTAtMTU3NTg2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575860400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Emenda \u00e0 Inicial (Peticao_Elton_Souza_Substitutiva)",
+      "attachments": []
+    },
+    {
+      "id": "NWU1ZDgwOGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01N2RjN2VkMjc1M2MwMDgtMTU3NTg2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1575860400000,
+      "text": "Peticao_Elton_Souza_Substitutiva | Emenda \u00e0 Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM3YWZhYWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMmVkZTZkNTkwZTk4MDktMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) | Conven\u00e7\u00e3o Coletiva de Trabalho (CCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBkMDExMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xM2EwMmU1MDNlNjI5NGEtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmUwZjEwYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZTU4NjI3YmY1YTZhZGUtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Extrato de FGTS | Extrato de FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2IyNGRlMzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMjQ0ZjI0NzE0MTVlNjEtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZlNjRjMjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZjBmNDY5OGVjNWFiMDItMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzUxYmU1NTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGRlNmZjNWIzOTY4MTUtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA2MDc3ZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZGE5MDMyMzAwMTllMGEtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ0OTUxOGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zZGE3ZTJhZDUzOWE4OTMtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRiMzliMjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmE2NzgwZjcyYzQ3ZWItMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTEzYjkyMTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NTIyODIzMDIxNGJmZjYtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGRlOTY3ODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NGU5ODAzZDU5NTZkMzgtMTU4MDE4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580180400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "OWIyMTk4MzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZDhhY2I0YmJlYjU5YjQtMTU4MDI2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580266800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "Zjc3NWVkOWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kM2FjMmQ0NWU3N2U4MDItMTU4MDI2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580266800000,
+      "text": "Audi\u00eancia una realizada (29/01/2020 10:20 - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "MjRlY2JmMTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hODEyZjU5MjAwMWU4MzMtMTU4MDI2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580266800000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NDMyOTI2NTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYWRmNzM5MjRjNDU0NWQtMTU4MDI2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580266800000,
+      "text": "Audi\u00eancia de julgamento designada (28/02/2020 15:41:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "NzFmZTdlZDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNjU0YjlhYzY5YTdlNTEtMTU4MDI2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580266800000,
+      "text": "Audi\u00eancia una cancelada (29/01/2020 10:20:00 Sala Principal - 2\u00aa Vara do Trabalho de Itaquaquecetuba)",
+      "attachments": []
+    },
+    {
+      "id": "ODdlODg5ZWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Mjc5YmEyZDE3NGY2NDgtMTU4MDc4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580785200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (R\u00c9PLICA)",
+      "attachments": []
+    },
+    {
+      "id": "Yzk1NjNmMDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Mzg4ZjVmOTJkMWMzM2UtMTU4MDc4NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1580785200000,
+      "text": "R\u00c9PLICA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWU4ZDBmNmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMzEwNTVmZDFlOTQyMTctMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQxOWY0MjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTNhNmU3OGU1MzRiZDgtMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 300.00",
+      "attachments": []
+    },
+    {
+      "id": "NDY3MTBkNjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YWU2NjdhMjdmMjgxNDQtMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / \n ) de ELTON SOUZA XAVIER",
+      "attachments": []
+    },
+    {
+      "id": "NzIzZmQ0ODItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZjI2YzU3YjVjODQ4MTctMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a ELTON SOUZA XAVIER",
+      "attachments": []
+    },
+    {
+      "id": "OWE2NDUwODgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTNmNGRiNDJkNmI5ZDYtMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ODJhYjVjYzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU4MjA4MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1582081200000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmY1MDljMDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hODE4NzAxNjMxMjVkOTYtMTU4MjA4MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1582081200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/02/2020",
+      "attachments": []
+    },
+    {
+      "id": "OTE4Mzk2ZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YzQ5MjljZWMyYmZkMzEtMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "COMPROV GRU | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDQ5N2UzNTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OWZlODdhYzZiMmI0ZDktMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "GRU | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjRkOGFiNmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01OGFiZTMxZDdjNzAzNzEtMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "apolice | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDYxYTUwNTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MWY1ZTgxNjkyNzdlMzQtMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "certid\u00e3o regulariedade Pottencial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2Y5YzNkNDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MTA1OGVmY2Q1Yzk4NDAtMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "registro apolice susesp | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJmMmM5ODItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDJkNzQ3ZDk2MjE2YjItMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWVhYjlmNjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kYTZjYjJlOTcxYzg3ZmYtMTU4MzM3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583377200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "OWY5NzJjYzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYTEzNTMzYzUzNDFmNWEtMTU4MzQ2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583463600000,
+      "text": "Decorrido o prazo de ELTON SOUZA XAVIER em 05/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZTM4MTMyMWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xN2YzZjAwNDAyYWQ3MzYtMTU4MzQ2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583463600000,
+      "text": "Decorrido o prazo de ENGESEG EMPRESA DE VIGILANCIA COMPUTADORIZADA LTDA em 05/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "ODMwZWZkYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YWIxYjRjYmRkOWQ2NGYtMTU4MzgwOTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583809200000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do recurso a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "NmRiNmNlZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTQ3ZmQ3NzI0ZDRkNDgtMTU4Mzg5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583895600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ELTON SOUZA XAVIER",
+      "attachments": []
+    },
+    {
+      "id": "OGQ0NWQxZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Njk0MmU3ZjQzOTU1ZDUtMTU4Mzg5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583895600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ2MjJlZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wY2VhNjIwMjI5ZWZmY2QtMTU4Mzg5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583895600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGRlODczYzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNzM4Y2UzZTk4MTMyOTMtMTU4Mzg5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583895600000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ENGESEG EMPRESA DE VIGILANCIA COMPUTADORIZADA LTDA sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "N2RjYjAzOWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU4Mzk4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583982000000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTkzNGU4YzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNzU4NmQ0ZGNlYzg3ZmYtMTU4Mzk4MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1583982000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/03/2020",
+      "attachments": []
+    },
+    {
+      "id": "M2JmNjc3YzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYzgxZTVmYTUyZGE1NjctMTU4NTE5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585191600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Adesivo (Recurso Adesivo)",
+      "attachments": []
+    },
+    {
+      "id": "YzNhMjhkYjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTNlNDk4NDNiYzVkMTgtMTU4NTE5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585191600000,
+      "text": "Recurso Adesivo | Recurso Adesivo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTI1NmMyZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05MGVlMmFjZDA1ZmUxZjktMTU4NTE5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585191600000,
+      "text": "CONTRARRAZ\u00d5ES AO RECURSO ORDIN\u00c1RIO | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcyNWVhYTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYTQwMTBiZGFlMThjZDktMTU4NTE5MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585191600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (CONTRARRAZ\u00d5ES AO RECURSO ORDIN\u00c1RIO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQyNDg1NjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZmQzMTQ2ZDllYmQ2YmYtMTU4NTcxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585710000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ENGESEG EMPRESA DE VIGILANCIA COMPUTADORIZADA LTDA",
+      "attachments": []
+    },
+    {
+      "id": "YjcxNGQyMWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Njk0MmU3ZjQzOTU1ZDUtMTU4NTcxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585710000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjNmMDY2NTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wY2VhNjIwMjI5ZWZmY2QtMTU4NTcxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585710000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MWViZTJlMjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNWVlYjllYmZkZjdlOGEtMTU4NTcxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585710000000,
+      "text": "Recebido(s) o(s) Recurso Adesivo de ELTON SOUZA XAVIER sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "ZDk4MGMzMjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYTE0ZDA1MjZlYjc5ZmItMTU4NTcxMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585710000000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do recurso a DIOGO DE LIMA CORNACCHIONI",
+      "attachments": []
+    },
+    {
+      "id": "Mzk0YWZiNzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU4NTg4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585882800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWU2MDA4ODctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2NkODgyYjhhYWIzYzAtMTU4NTg4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1585882800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "YmYzMWVjYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNTQxYTRiMWMxNjI4MjgtMTU4NjY2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586660400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O)",
+      "attachments": []
+    },
+    {
+      "id": "MjY4MDk4ZDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYmYxZWMyNTg4YjE5YmUtMTU4NjY2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586660400000,
+      "text": "MANIFESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTc2MjY4Y2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTQ3ZmQ3NzI0ZDRkNDgtMTU4Njc0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586746800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ELTON SOUZA XAVIER",
+      "attachments": []
+    },
+    {
+      "id": "YzMxZGZlYzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Njk0MmU3ZjQzOTU1ZDUtMTU4Njc0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586746800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzU5ODU1NDEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGVjNGQ1ZDUwZTRkODItMTU4Njc0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586746800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzFiMDUyYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMzIzNjQwOGNlY2NkMjYtMTU4Njc0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586746800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OWQxMjg1OWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjExMTYyNzNlZGY2YWMtMTU4Njc0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586746800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "MWJhZDVjNzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU4NjkxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586919600000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MWNiNTQ5YjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2NkODgyYjhhYWIzYzAtMTU4NjkxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1586919600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjMwNzFiZjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYzgxZTVmYTUyZGE1NjctMTU4NzM1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587351600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Adesivo (Recurso Adesivo)",
+      "attachments": []
+    },
+    {
+      "id": "Mzk0Yjk1MzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTNlNDk4NDNiYzVkMTgtMTU4NzM1MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587351600000,
+      "text": "Recurso Adesivo | Recurso Adesivo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjdkM2NhNDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xYTQ3ZmQ3NzI0ZDRkNDgtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ELTON SOUZA XAVIER",
+      "attachments": []
+    },
+    {
+      "id": "YjZlMWJhYzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZmQzMTQ2ZDllYmQ2YmYtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ENGESEG EMPRESA DE VIGILANCIA COMPUTADORIZADA LTDA",
+      "attachments": []
+    },
+    {
+      "id": "OTBlNDZmOTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00Njk0MmU3ZjQzOTU1ZDUtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjZmMTdjYjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wY2VhNjIwMjI5ZWZmY2QtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YzQ1MzMwMjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNWVlYjllYmZkZjdlOGEtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Recebido(s) o(s) Recurso Adesivo de ELTON SOUZA XAVIER sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "Y2NjODcyZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YWIxYjRjYmRkOWQ2NGYtMTU4NzUyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587524400000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do recurso a BRUNO ANTONIO ACIOLY CALHEIROS",
+      "attachments": []
+    },
+    {
+      "id": "ZmNkNTM1YzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03YTRlOTkxY2JmMGQ1ZWEtMTU4NzYxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587610800000,
+      "text": "Disponibilizado\n(a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGEzODk4ZTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05M2NkODgyYjhhYWIzYzAtMTU4NzYxMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1587610800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjQ1NzI2M2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNGNiNGExNzk2ZWJiODYtMTU4ODA0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1588042800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es ao Recurso Ordin\u00e1rio Adesivo)",
+      "attachments": []
+    },
+    {
+      "id": "ZGM3YTExZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NDhhYjY0ZThjNTcwM2ItMTU4ODA0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1588042800000,
+      "text": "Contrarraz\u00f5es ao Recurso Ordin\u00e1rio Adesivo | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI4YjNjZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZTVkYWIwODU3MzdlOGMtMTU4ODczNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1588734000000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

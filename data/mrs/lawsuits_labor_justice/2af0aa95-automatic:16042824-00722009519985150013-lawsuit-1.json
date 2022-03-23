@@ -1,0 +1,170 @@
+{
+  "lawsuit": {
+    "id": "MmFmMGFhOTUtYXV0b21hdGljOjE2MDQyODI0LTAwNzIyMDA5NTE5OTg1MTUwMDEzLWxhd3N1aXQ=",
+    "activityCount": 15,
+    "number": "0072200-95.1998.5.15.0013",
+    "value": "",
+    "subject": "ROPS - RECURSO ORDIN\u00c1RIO EM PROCEDIMENTO SUMAR\u00cdSSIMO",
+    "kind": "",
+    "district": "S\u00c3O JOS\u00c9 DOS CAMPOS",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Rffsa - Rede Ferrovi\u00e1ria Federal S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Recorrente",
+          "normalized": "Recorrente"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "MRS - Log\u00edstica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Recorrido",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Francisco Pereira dos Santos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Recorrido",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [
+      {
+        "id": "9045",
+        "items": [
+          [
+            {
+              "code": 9045,
+              "text": "Recurso",
+              "level": 2
+            },
+            {
+              "code": 8826,
+              "text": "DIREITO PROCESSUAL CIVIL E DO TRABALHO",
+              "level": 1
+            }
+          ]
+        ]
+      }
+    ],
+    "court": "TRT15",
+    "courtSection": "VARA DO TRABALHO",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "OGViMDQ5ODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYmQ2MjAzNTU5ZjRhMTktOTM1Mzc3MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 935377200000,
+      "text": "Autuando",
+      "attachments": []
+    },
+    {
+      "id": "NWMzMDA0ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MGY1ZmY2NWVmMTUyOWItOTM1NjM2NDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 935636400000,
+      "text": "Procuradoria Regional do Trabalho - para parecer",
+      "attachments": []
+    },
+    {
+      "id": "ZjgwZDE3NTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTdjYjI3ZDlkMWI5NmMtOTM2MDY4NDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 936068400000,
+      "text": "Aguardando Distribui\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "M2M3NjdkZDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNDY0MWM5N2RiMzg1MTctOTY4NjQxMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 968641200000,
+      "text": "Pendente de verifica\u00e7\u00e3o rito sum\u00e1rio.",
+      "attachments": []
+    },
+    {
+      "id": "ZjBiN2JlZGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jOTdjYjI3ZDlkMWI5NmMtOTY5MjQ2MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 969246000000,
+      "text": "Aguardando Distribui\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTRjNzUxODItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMTA4ZmJjNjU1MzhmYzQtOTcxNjYxNjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 971661600000,
+      "text": "Ao Juiz Relator EMILIO ALVES FERREIRA JUNIOR na Segunda Turma, em 16/10/2000, por distribui\u00e7\u00e3o normal da classe Recursos.",
+      "attachments": []
+    },
+    {
+      "id": "Mzg2NDdiNGMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMWJkODdiNTdjZGZkODAtOTc1NDYzMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 975463200000,
+      "text": "Pr\u00e9-Pauta",
+      "attachments": []
+    },
+    {
+      "id": "YzkzMzA4ODktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZjk5M2QwOTgwNzFmY2ItOTgwMTI4ODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 980128800000,
+      "text": "Em pauta extraordin\u00e1ria da Segunda Turma do dia 07/02/2001 sob n\u00famero 5.",
+      "attachments": []
+    },
+    {
+      "id": "NWRjYWU2OTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMTM1YjFhYmUwYjFmZGItOTgxNTExMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 981511200000,
+      "text": "Processando Ac\u00f3rd\u00e3o/Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjYyMmI0YzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iODU3ZjczNDM1YTQ5OWMtOTgxNTExMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 981511200000,
+      "text": "Processo Julgado - Lavrando Ac\u00f3rd\u00e3o/Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NmIxNDE5ODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MzJhNzY1ZDAyZmE2ZGEtOTgxOTQzMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 981943200000,
+      "text": "Aguardando Intima\u00e7\u00e3o do Ac\u00f3rd\u00e3o/Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTNkMTE2M2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZjE3ZTAyZGFhZDhlYjItOTgzNzYxMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 983761200000,
+      "text": "Decis\u00e3o: 006082/2001-SPAJ por maioria de votos, negar provimento ao recurso, mantida, na \u00edntegra, a r. senten\u00e7a de fls. 352/357, por seus pr\u00f3prios e jur\u00eddicos fundamentos, n\u00e3o havendo ofensa direta \u00e0 Constitui\u00e7\u00e3o Federal e nem a S\u00famula do C. TST., vencida a MM. Ju\u00ecza Regina Dirce Gago de Faria Monegatto que reconhecia a sucess\u00e3o de empresas. Ficam mantidos os valores fixados pela r. decis\u00e3o de primeiro grau, para efeito de dep\u00f3sito recursal e custas (Resolu\u00e7\u00e3o Administrativa n\u00ba. 06/96, do E. TRT da 15\u00aa Regi\u00e3o). \u00edntegra do documento",
+      "attachments": []
+    },
+    {
+      "id": "ZjgwOGIyZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZmIwY2RjZTdmYzBmY2UtOTgzNzYxMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 983761200000,
+      "text": "Ac\u00f3rd\u00e3o/Decis\u00e3o Publicada - Aguard. Prazo (REC)",
+      "attachments": []
+    },
+    {
+      "id": "ODJkODRhODgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDE2MDQyMTUwNzNlNTMtOTg0NzExNjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 984711600000,
+      "text": "Remetido ao \u00f3rg\u00e3o de origem por Se\u00e7\u00e3o de Processamento de Recursos , sob rela\u00e7\u00e3o n\u00ba 1327 / 2001.",
+      "attachments": []
+    },
+    {
+      "id": "MDUyZjQyNjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NjMwNjNhMTFiZmZkZTctOTg0NzExNjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 984711600000,
+      "text": "Baixa normal requerida por Se\u00e7\u00e3o de Processamento de Recursos.",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

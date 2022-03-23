@@ -1,0 +1,1476 @@
+{
+  "lawsuit": {
+    "id": "ZWY2ZDQ2ZmUtYXV0b21hdGljOjAtMDAwMTE0MDQ3MjAxNDUwMzAwNzQtbGF3c3VpdA==",
+    "activityCount": 232,
+    "number": "0001140-47.2014.5.03.0074",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Gustavo de Souza Fortunato",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Antonio Cezar Goncalves Pereira",
+            "cpf": "008.550.306-15",
+            "lawyerId": "NjA3ZWQ4YjYtYXV0b21hdGljOjAtYzhlNWRmNjYxYzAzNjc0LWxhd3llcg=="
+          },
+          {
+            "name": "Tales de Carvalho Pereira",
+            "cpf": "050.164.906-94",
+            "lawyerId": "ODU2NGZhMmYtYXV0b21hdGljOjAtZDM5ZmRjMGZiZTc4NGI0LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Fernando Caetano Moreira Filho",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Paulino Fortunato Neto - ME",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Tiago Nunes Ferreira",
+            "cpf": "056.993.696-94",
+            "lawyerId": "ZTlkNGY1YmYtYXV0b21hdGljOjAtMWExYjgwNzRmMDU3YjIxLWxhd3llcg=="
+          },
+          {
+            "name": "Erikarla Lopes Gomes",
+            "cpf": "978.271.266-34",
+            "lawyerId": "NDJlMDVjYzAtYXV0b21hdGljOjAtZGEyMWQzNzcyMDFhYTk4LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1388584800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Vara do Trabalho de Ponte Nova",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MTFkNzZjY2M4ZjRhNzE4ZDg4ZTI0MDFkY2RiZjU5ZmY=",
+      "date": 1494288000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 09/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZmI5ZjAzZjliNzY0N2U0NDIyNDI3ZDdiN2E4MGM0YmQ=",
+      "date": 1449619200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Recebidos os autos para julgamento em mesa - ED",
+      "attachments": []
+    },
+    {
+      "id": "MDM3ODRlMGVkYzI3NjliZGJkMzY2NjhmMjIzODIwY2Q=",
+      "date": 1440115200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 08027/15 Em 21/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4ZWVjOWFiYTEyNmE4NmJkNzcwMGIwODBjYzYwYWM=",
+      "date": 1427241600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 02432/15 Em 25/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "N2Q5NWM0NzE5ZjVlY2UyZjAwZTExNWQ2NWNjNGYxYWQ=",
+      "date": 1491177600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Pra\u00e7a Designada Para 05/06/2017 Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "YjcyODA3NzY2MGUwYmUyYTIyNjcxMzk5OWMxN2U4MGY=",
+      "date": 1474329600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 05865/16 Em 20/09/2016 - Para 127402Mg Jhonatt Felisberto Pereira (Adv. R\u00e9u(s) 1)",
+      "attachments": []
+    },
+    {
+      "id": "NWM4ZTAyMWZiYzEwY2Q4YjRmNjk2NTc3NDk5NmMwMTA=",
+      "date": 1467158400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Auto De Arremata\u00e7\u00e3o 00004/16 Em 29/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZDRkMWU0YWI4MTEyNzA1MTkwZjQ0M2M0N2IxZmU1NGI=",
+      "date": 1447113600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Mandado: Cumprido Com \u00caxito Parcial 00768/15 Em 10/11/2015",
+      "attachments": []
+    },
+    {
+      "id": "MGFiODFkZjg4OGFmZTBmMTk4MTAyOWFjM2Q1M2VmNDM=",
+      "date": 1425427200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Improcedentes Em 04/03/2015 Doc.: - Dra. Ana Carolina Sim\u00f5es Silveira - Doc: 00460/15",
+      "attachments": []
+    },
+    {
+      "id": "Yjk3OGU3YzcxMjMwOTFmMGE4N2QxMTk4ZTU3ODY1MTc=",
+      "date": 1457481600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 09/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "YWYxN2JmZjc2NmRhNWIyMDA1NDJhZGMxMTVkN2IxMTI=",
+      "date": 1462838400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Tribunal Superior do Trabalho Tr\u00e2mite Processual: Remetidos os autos para Tribunal Superior do Trabalho para julgar Agravo de Instrumento em Recurso de Revista - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "ZGY0OWVlODAyOWE2YmEwN2I5MzYzZmI3NWM1ZWJiZWQ=",
+      "date": 1466985600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 28/06/2016 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 27/06/2016) - Vista Da Peti\u00e7\u00e3o De F. 181/182, E Dizer Se Tem Interesse Em Adjudicar O Bem Pelo Valor Da Avalia\u00e7\u00e3o, No Prazo De Cinco Dias.",
+      "attachments": []
+    },
+    {
+      "id": "Y2I0ZWNkMjkxMmM4ZTJjNDYzNDdiOTljYTg1MGZmNWM=",
+      "date": 1413936000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 22/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZjNlZGE3YTUyZDVmODkxMzk4OTkyZmI3MDg1ZTY5NDI=",
+      "date": 1469750400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 18/08/2016 \u00c0s 08:45 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "YWI5MzJlOGU2MjI0Y2EzMTBhZTI2YmZiOWQzYzk2NmY=",
+      "date": 1497916800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Execu\u00e7\u00e3o Encerrada Em 20/06/2017 - Outras (Obriga\u00e7\u00e3o De Fazer,remiss\u00e3o,...)",
+      "attachments": []
+    },
+    {
+      "id": "Yjc0ZTMyOTNjYWE0MzBiZWZhODE0YTRhNDE4NjMxN2Q=",
+      "date": 1416268800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 12367/14 Em 18/11/2014",
+      "attachments": []
+    },
+    {
+      "id": "YTkwMGY0MjgyNzZhNTAwZDQzZDRiMGI1MDhhYjA3NGY=",
+      "date": 1449014400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Remetidos os autos para Turma Recursal de Juiz de Fora para julgar em mesa - ED",
+      "attachments": []
+    },
+    {
+      "id": "ZDgyODlmMjViYjFkNDBlZWJlN2U3MjZjMmJlMDcxNDY=",
+      "date": 1470009600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 02/08/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 01/08/2016) - Processo (Art. 5\u00ba, Lxxviii, Da Cf C/c Art. 765 Da Clt), Bem Assim Considerando Que A Concilia\u00e7\u00e3o \u00c9 A Melhor Forma De Resolu\u00e7\u00e3o De Conflitos De Interesse (Art. 764, \u00a7 1\u00ba, Da Clt), Determino A Inclus\u00e3o Do Feito Na Pauta Do Dia 18/08/2016 \u00c0s 8H45 Para Tentativa De Concilia\u00e7\u00e3o (Art. 772, I, Do Cpc). Intimem-se Partes E Procuradores.",
+      "attachments": []
+    },
+    {
+      "id": "ZDczMjRlZTQ4N2U4YTJmYTgwZGJiOGZiOWY4NjIzZGE=",
+      "date": 1432771200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 29/05/2015 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 28/05/2015) - Devolver Autos Em24 Horas, Sob Pena De Perda Do Direito De Vista, Nos Termos Do Art. 196 Do Cpc.",
+      "attachments": []
+    },
+    {
+      "id": "MWU2ODk0NTMwNzcxYzJkY2U3YzMzZDVlNjJiYWRkMDA=",
+      "date": 1411430400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Inicial Para 08/10/2014 \u00c0s 08:00 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "OTk2YTE0ZWM5OWRhODk2MTBjM2E1YWE2ODVjMmU0NTM=",
+      "date": 1488412800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 00238/17 Em 02/03/2017 - Comparecer \u00c0audi\u00eancia Para Tentativa De Acordo Designada Para O Dia 14/03/17 \u00c0s 08H55 .",
+      "attachments": []
+    },
+    {
+      "id": "MzI5ZDU4NjI4MzViMjEwOTcwZGE4Y2JkZGIwNzA0MjU=",
+      "date": 1457654400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 14/03/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 11/03/2016) - Execu\u00e7\u00e3o Provis\u00f3ria Convertida Em Definitiva Vistos Etc. Inicialmente, Revoga-se O Despacho Ordinat\u00f3rio De F. 168, Que Determinou O Arquivamento Dos Autos. A Execu\u00e7\u00e3o Provis\u00f3ria No \u00c2mbito Da Justi\u00e7a Trabalhista Tem Sua Base Sedimentada Na Norma Do Artigo 899, Clt, Cujo Teor Destaca O Limite Da Penhora Como Avan\u00e7o M\u00e1ximo No Patrim\u00f4nio Do Executado",
+      "attachments": []
+    },
+    {
+      "id": "MzIyYjM4ZmRjZjllYTcwYWJlZTM5OWNiYjM4NzMxY2M=",
+      "date": 1416182400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 17/11/2014",
+      "attachments": []
+    },
+    {
+      "id": "ODhkZjU0OGUzOGUxMjc0MjFhMjNiNTFlMDQyNjRmNmY=",
+      "date": 1491264000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Edital/expediente/portaria Publicado(a) Em 05/04/2017 Para Null (Data Da Divulga\u00e7\u00e3o No Dejt: 04/04/2017) - Pra\u00e7a Em 05/06/2017 \u00c0s 13:00",
+      "attachments": []
+    },
+    {
+      "id": "OTU5YjA5ZDNhYWFjMzExY2ZkZTE5NWMzYWI4MWRhNmM=",
+      "date": 1433203200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 05185/15 Em 02/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "NTM2ZDIxYTRhZjNiODYxZmM2YTY2NmQ2MTk2NTIzMjU=",
+      "date": 1505952000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 03336/17 Em 21/09/2017 - Para 046130Mg Marco Tulio Salomao Lanna (Sem Parte)",
+      "attachments": []
+    },
+    {
+      "id": "ZWMzMTYwMWM2Y2NmOThhZDRiMDYyMDQzOTc4ZWZkYWU=",
+      "date": 1440720000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Mandado De Texto Livre 00768/15 Em 28/08/2015 - Mandado",
+      "attachments": []
+    },
+    {
+      "id": "M2VhZDI3MmFiMjk1OWVlZGEwZjY1MDdiOTdlYjA0NGQ=",
+      "date": 1450224000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Disponibilizado(a) o(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico em 17.12.2015 (Caderno Judici\u00e1rio) - ED",
+      "attachments": []
+    },
+    {
+      "id": "OTY4M2JmNjc1NTc1OTM5NWNiMjkyOWVhZDVlNTY1Y2Q=",
+      "date": 1445558400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Recebidos os autos para incluir em pauta - AP",
+      "attachments": []
+    },
+    {
+      "id": "YTM3MjcwYWI5OThjN2ZlNzI5NDFmZTI4YzU3YjE1MjY=",
+      "date": 1449100800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Recebidos os autos para julgamento em mesa - ED",
+      "attachments": []
+    },
+    {
+      "id": "ZDBkZmU2YTQzNjgzYzc4NWZiODU1NDQ5YWVkYzU3MTU=",
+      "date": 1466985600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 03787/16 Em 27/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ODdiMDE2ODkxNmI0OTNhODEzMzY2MTc3ZGE1MjE2N2Q=",
+      "date": 1480464000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Mandado: Cumprido Sem \u00caxito 00226/16 Em 30/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "NzYzMzk5YTg3MjQzOTEyOTQwMTBjOGRhMGQ0M2QxMDQ=",
+      "date": 1449014400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Recebidos os autos para relatar - ED",
+      "attachments": []
+    },
+    {
+      "id": "MGQ2NGJiNjZjZTE2MTY5ZjRhMzVmOTRkMDQzZjcxMWY=",
+      "date": 1427241600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 14/04/2015 \u00c0s 13:28 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "NWRkZWJjNWVkMzdlMWQ1YTJiNjg5NGNjYjljZWQ0ZmQ=",
+      "date": 1496880000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 02574/17 Em 08/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "M2M0M2NjMzM2NjcyOGIwNjU3MDg2MWY2Mjg3ZGM1NzQ=",
+      "date": 1440720000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carta Precat\u00f3ria Expedida - Devolu\u00e7\u00e3o Pelo Ju\u00edzo Deprecado 00165/14 Em 28/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "MGY5ZGFlNzFhNmI2YzBiNTc5NjRkMWU3N2UyZTAyY2E=",
+      "date": 1471910400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos \u00c0 Arremata\u00e7\u00e3o Interpostos Em 23/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "OGEwMjVjODZhMjcwZmU1NmQxZTNmOTlkNmI4NzQ5ZDE=",
+      "date": 1448496000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Protocolo 02 Tr\u00e2mite Processual: Embargos de Declaracao; peti\u00e7\u00e3o n\u00ba 650164/15, assunto EMBARGOS DE DECLARACAO, enviada a Recursos 02 - AP",
+      "attachments": []
+    },
+    {
+      "id": "NjM0MDRmZDVhMDZmNGJjZWVjYjQzMDZlY2MxMDVkMTU=",
+      "date": 1466985600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 27/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "MjMyMjE3OTRhMTk1MjFmYmZhMTdiZDk0YjQ3NjIwMzM=",
+      "date": 1456704000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 00915/16 Em 29/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "MDQwYTlmY2I5YmYzYzkxZmIxMWU2ZTBlY2U2YTIzZDg=",
+      "date": 1449446400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Remetidos os autos para Turma Recursal de Juiz de Fora para julgar em mesa - ED",
+      "attachments": []
+    },
+    {
+      "id": "NzlmOWVjMjI1NGM3NTdhMmNhMTc5NzQ3OTc3YjgxYWI=",
+      "date": 1449014400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Embargos de Declaracao encaminhados ao Juiz Relator - ED",
+      "attachments": []
+    },
+    {
+      "id": "MjRiM2Q5NTYyYTM0ZTU2YTEzM2Q1NWVkYTYyMTU4N2Y=",
+      "date": 1467331200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ARREMATANTE Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 01079/16 Em 01/07/2016 - Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDY5MjE1YzZlN2FlYWNmYzhhYjYwNzU5OTQ1ZjU3N2Q=",
+      "date": 1480464000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Retorno Do Mandado \u00c0 Secretaria/setor De Mandados Judiciais 00226/16 Em 30/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "MTY0MTc5ZjAwOWViM2Q0ZjYxODAxZWZhZTcwY2UwOGY=",
+      "date": 1491177600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 00314/17 Em 03/04/2017 - Tomar Ciencia Da Designacao De Praca E Leilao Do(s) Bem(ns) Penhorado(s), Para O Dia 05.06.2017, As 13H E 13H15min, Respectivamente, Nesta Vara Do Trabalho.",
+      "attachments": []
+    },
+    {
+      "id": "MDNjZjY1MGJjZTg1MDI1YWJlNGFjODA4M2ExNDhhZWQ=",
+      "date": 1458518400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Edital/expediente/portaria Publicado(a) Em 22/03/2016 Para Null (Data Da Divulga\u00e7\u00e3o No Dejt: 21/03/2016) - Pra\u00e7a Em 06/06/2016 \u00c0s 13:00",
+      "attachments": []
+    },
+    {
+      "id": "NjM3NzAxNjUzYWE3NTc0NzY0MGMzNTE2MGEzNWYxZmU=",
+      "date": 1427241600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Cancelada Ap\u00f3s A Decis\u00e3o Em 25/03/2015 - Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 14/04/2015 \u00c0s 13:28 Horas",
+      "attachments": []
+    },
+    {
+      "id": "NDkwYjVjZmE2OTFhNmUwZTkzNTBlNDc5NDk2MzFjNWU=",
+      "date": 1445472000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Remetidos os autos para Turma Recursal de Juiz de Fora para incluir em pauta - AP",
+      "attachments": []
+    },
+    {
+      "id": "OTMyNWU0MTM0NWNjMWQ4MjdiZDYyMzAxYTQ3YTEwNGI=",
+      "date": 1465257600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 07/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NmE3OTlhMTJmZGI1YjY4MjkwM2RmOGE3YTZkYjllYTM=",
+      "date": 1469750400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Notifica\u00e7\u00e3o De Audi\u00eancia 01401/16 Em 29/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZWMxYzQwNjQ5NjllNGFlZmVkMWI0ODIyNTYxNmYxYmY=",
+      "date": 1411430400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Notifica\u00e7\u00e3o De Audi\u00eancia Inicial 03497/14 Em 23/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZjI1NDVlMjM3NzhiNzk2MTMyNWVhNmRmYWNkMGJiODU=",
+      "date": 1415836800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 12220/14 Em 13/11/2014",
+      "attachments": []
+    },
+    {
+      "id": "NjcxZTUwNTczMWVkZmU5ODZkYmNkNTBjYzUzYzkzMzI=",
+      "date": 1494288000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 09/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "OTRiZjFiYjMyMDE0OGNkZDc0YWQ3YTdlZjAzYjljNzI=",
+      "date": 1466726400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 03648/16 Em 24/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZWRlYTljMWQ4NjAwY2MxZGYxNjI1MjM4ZGJjYzNjZDY=",
+      "date": 1474934400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Mandado De Texto Livre 00226/16 Em 27/09/2016 - Mandado De Penhora E Avalia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NGZlMjUwNzAyYmM1NDMxMjQwOTE2ZTc2ZDJlNGE2OWM=",
+      "date": 1450396800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Recursos 02 Tr\u00e2mite Processual: Publicado(a) o(a) ac\u00f3rd\u00e3o em 18.12.2015 - ED",
+      "attachments": []
+    },
+    {
+      "id": "ODBhYmYxMzc5MjQ2YmNkY2I2YzgwYTE2ZjE0OTU2YTU=",
+      "date": 1416355200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 20/11/2014 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 19/11/2014) - Deferida A Dila\u00e7\u00e3o De Prazo Requerida Pelo Reclamado, Para Comprova\u00e7\u00e3o Do Adiantamento Dos Honor\u00e1rios Periciais, Por Mais Dez Dias.",
+      "attachments": []
+    },
+    {
+      "id": "YTk5MjU0YjI0OTcxMDRiMzFhNWM0ZThkZTY3Njg0NDQ=",
+      "date": 1442880000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 09255/15 Em 22/09/2015",
+      "attachments": []
+    },
+    {
+      "id": "OGEyM2VjZjQyMDM3N2U2ZDM3NjBjZjEyYzgzODI0YWI=",
+      "date": 1425427200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Interpostos Em 04/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "Zjk1ZjNjMDBjZmE3NDJhYWQyYzE5Y2Y2YzYzNjAyMDU=",
+      "date": 1460937600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Sec de Dissidios Coletivos e Individuais Tr\u00e2mite Processual: Disponibilizado(a) o(a) despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico em 18.04.2016 (Caderno Judici\u00e1rio) - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "ZGY2ZWYzZjVmNDc1NTM3ZjE4YTVjNmQxMTAxNWMyNmQ=",
+      "date": 1425340800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Juiz Em 04/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "NDdkYjA3ZmM0N2RjMmY4ZWM2MmVlZjU3YWUwZjI5ODc=",
+      "date": 1480032000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 28/11/2016 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 25/11/2016) - Receber Alvar\u00e1, Em Cinco Dias.",
+      "attachments": []
+    },
+    {
+      "id": "ZjJiMDJlZDc5ZDhiZGI3MGFjNmNlYWJjNmY0NDNjNTE=",
+      "date": 1471910400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos \u00c0 Arremata\u00e7\u00e3o N\u00e3o Conhecidos Em 23/08/2016 - Dr. Marcio Roberto Tostes Franco - Doc: 00521/16",
+      "attachments": []
+    },
+    {
+      "id": "YTZjNzc4NjZmMGYwZGI2ZDM1YjNkOGUzZjgwYWYyNWM=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Em Fase De Execu\u00e7\u00e3o Em 13/10/2015 - Execu\u00e7\u00e3o Iniciada",
+      "attachments": []
+    },
+    {
+      "id": "MTE1NzkzNDQyOTAwZGQ0YmY5NzNjN2M1YTk3ZTcxNTE=",
+      "date": 1413504000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 17/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "ODhlNmQ0ZTE0MmM4NWE5NWEwYTJhOTIwYzJmNzNiZDk=",
+      "date": 1495411200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 22/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "MzcwOTc4NDQ0MTVhOTk0NTYyZmEyMDcxNzZmNTkzYjA=",
+      "date": 1505952000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 21/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "MWM0MGQ5NWU5NjdjYmU2OWYyNGU2ODQxOTgyNGRkMzg=",
+      "date": 1447718400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Disponibilizado(a) o(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico em 18.11.2015 (Caderno Judici\u00e1rio) - AP",
+      "attachments": []
+    },
+    {
+      "id": "YmJmZGQ1NzRjZTJhZGZhNDdkN2ZmZWZmZjY1MTdiNzY=",
+      "date": 1459209600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Juntada a peti\u00e7\u00e3o de Agravo de Instrumento em Recuso de Revista - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "MzA4NjA3YzhkZmU0YmEzOWJiMDYxMzdiNTk4ZGRiNDk=",
+      "date": 1444867200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Distribuicao - Juiz de Fora Tr\u00e2mite Processual: Remetidos os autos para Distribuicao - Juiz de Fora para distribuir - AP",
+      "attachments": []
+    },
+    {
+      "id": "MTY0MWUzMjA3OWFhYmYxMTBmNjBhYmY4ZWQxNTVkMjM=",
+      "date": 1471996800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 24/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "MGM4ZmJiNTdiOTg2ODIzOWZiMmY3YWIzODU4NzFhYjA=",
+      "date": 1509408000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 03501/17 Em 31/10/2017 - Para 010905Mg Antonio Cezar Goncalves Pereira (Adv. Autor(es) 1)",
+      "attachments": []
+    },
+    {
+      "id": "YWNlZWNiZTIyNjIwYzk5ZjI3M2I0ZGQ0OTM0OWY1MGI=",
+      "date": 1455753600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secao de Remessa Eletronica Tr\u00e2mite Processual: Juntada a peti\u00e7\u00e3o de Recurso de Revista - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZWU5OTljZmQ4ZmM1MGIyZWYzYjdhY2RjNjhjMmUwMmE=",
+      "date": 1457568000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 01224/16 Em 10/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NjkyODZlMjM2YzhhMTkzNGZjZDk4NzYwMzc4MTM5NWU=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Agravo De Peti\u00e7\u00e3o Interposto Em 13/10/2015- Recorrente: R\u00e9u - R\u00e9u(s)",
+      "attachments": []
+    },
+    {
+      "id": "OWFhZDQ1NzBhNjAzMmUzMjRmNmRlMzIzN2RmYzRhMzY=",
+      "date": 1487894400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 02/03/2017 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 24/02/2017) - Aprovo A Atualiza\u00e7\u00e3o Dos C\u00e1lculos. Tendo Em Vista O Princ\u00edpio Da Razo\u00e1vel Dura\u00e7\u00e3o Do Processo (Art. 5\u00ba, Lxxviii, Da Cf C/c Art. 765 Da Clt), Bem Assim Considerando Que A Concilia\u00e7\u00e3o \u00c9 A Melhor Forma De Resolu\u00e7\u00e3o De Conflitos De Interesse (Art. 764, \u00a7 1\u00ba, Da Clt), Determino A Inclus\u00e3o Do Feito Na Pauta Do Dia 14/03/2017 \u00c0s 8H55 Para Tentativa De",
+      "attachments": []
+    },
+    {
+      "id": "NmZmNDhjNjJjMWY0ZjJjNDIxZTUyYTVjZWNkMmJkYmQ=",
+      "date": 1441670400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 08699/15 Em 08/09/2015",
+      "attachments": []
+    },
+    {
+      "id": "YWVkZjgzYjJkZjRjNzA0MWVhMDIyMjUwYzRjYWY0YjU=",
+      "date": 1413763200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 11495/14 Em 20/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "MzM3ZmVjM2Q5ZjA5YTY0MzYzOWM1ZGQ1MmY2MTVkZDk=",
+      "date": 1488412800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 00239/17 Em 02/03/2017 - Comparecer \u00c0audi\u00eancia Para Tentativa De Acordo Designada Para O Dia 14/03/17 \u00c0s 08H55 .",
+      "attachments": []
+    },
+    {
+      "id": "ZDI4ZDhhYTM1ZWQ0MzU2MDU4MTAxMDRlZWUxMzM1Yjg=",
+      "date": 1467763200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 07/07/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 06/07/2016) - Face A Manifesta\u00e7\u00e3o Da Arrematante, Expe\u00e7a-se Mandado De Entrega De Bens \u00c0 Arrematante, Conforme Auto De F. 190. De Outro Lado, Intimem-se As Partes Para Manifestarem-se Sobre A Peti\u00e7\u00e3o Do Leiloeiro Oficial, No Prazo De 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "YjFhNTBiZDNjODQ4NzIwZTNmMDJkNDc1N2QxOGEzOGE=",
+      "date": 1413244800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 11352/14 Em 14/10/2014 - Para 010905Mg Antonio Cezar Goncalves Pereira (Adv. Autor(es) 1)",
+      "attachments": []
+    },
+    {
+      "id": "NjI2MGVlMmU3NGVkYjIyYjc0ZjE1ODQzNWZjZDBlNmE=",
+      "date": 1415923200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 17/11/2014 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 14/11/2014) - Tomar Ci\u00eancia Da Designa\u00e7\u00e3o Da Audi\u00eancia Para Oitiva Da Testemunha Na 29A Vara Do Trabalho De Belo Horizonte, No Dia 15.12.2014 \u00c0s 8 Horas, Nos Autos Do Processo 01987/14 Daquele Ju\u00edzo.",
+      "attachments": []
+    },
+    {
+      "id": "Y2NkZTUzYTM1MzRiYzAyYWZiNWNiMGUwYmQ5OGQ2NjE=",
+      "date": 1474329600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 20/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZjdjN2MwYmFkNzU3M2MwYTU3NWYwMDk2ZDA3NjRkYWU=",
+      "date": 1439769600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 17/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "MWQxODE4OWNiZDA3ZWI1MmZiMTVmMDkyYjRhYmI3NmE=",
+      "date": 1455753600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secao de Remessa Eletronica Tr\u00e2mite Processual: Autos fisicos remetidos a VT origem-Ordem Servico TRT 3/10 - AP",
+      "attachments": []
+    },
+    {
+      "id": "NTY1OGEyNjA2ZmYyMTQyOGJhZWZhN2VjMjE4MDQ2YmI=",
+      "date": 1447286400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Recebidos os autos para publicar o ac\u00f3rd\u00e3o - AP",
+      "attachments": []
+    },
+    {
+      "id": "YTZjZDkzZDY0NTUxZjhjMjlkNzY0ZGFmYWM4MDUzOTg=",
+      "date": 1468540800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 18/07/2016 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 15/07/2016) - Indefiro Os Requerimentos Formulados Pelo Executado, Tendo Em Vista Que J\u00e1 Foi Conclu\u00edda A Expropria\u00e7\u00e3o De Bens Do Executado, Inclusive Com Emiss\u00e3o Do Autos De Arremata\u00e7\u00e3o E Mandado De Imiss\u00e3o Na Posse. I.",
+      "attachments": []
+    },
+    {
+      "id": "MzNmZjFmODI0OTg4OTc4Njk4MmU1NWMzMjcxNTgzMGU=",
+      "date": 1462492800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 06/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ0Zjk2MTczNWJlOTYzYzQ0OGRjZTQyMzJjYjExYWU=",
+      "date": 1439942400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 20/08/2015 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 19/08/2015) - Convolo Em Penhora Os Dep\u00f3sitos Judiciais De F. 116 E 117 Para Os Fins Do Art. 884 Da Clt. Face A Manifesta\u00e7\u00e3o Do Autor, Indefiro A Nomea\u00e7\u00e3o De Bens Realizada Pelo R\u00e9u. Expe\u00e7a-se Mandado De Penhora E Avalia\u00e7\u00e3o De Tantos Bens Quantos Bastem Para A Integral Garantia Desta Execu\u00e7\u00e3o, Observando-se A Peti\u00e7\u00e3o Do Autor De F. 118.",
+      "attachments": []
+    },
+    {
+      "id": "YTIyODQyNzNmMGRhYTQyZjc3M2Y4NDhkOTg1ZGEyZjM=",
+      "date": 1454544000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secao de Remessa Eletronica Tr\u00e2mite Processual: Remetidos os autos para Central de Digitalizacao para digitalizar pe\u00e7as processuais - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZWUxNDU3OGE1ZGJjOWE3ZDZiOTk3ODQ3ZjZiYzQwYjM=",
+      "date": 1489449600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Prosseguimento Da Execu\u00e7\u00e3o Em 14/03/2017 Doc.:00047/17",
+      "attachments": []
+    },
+    {
+      "id": "MTRkMzhlNGI4Y2RiMzU1MGRhNTU1M2JjMmEwNTljNWE=",
+      "date": 1432684800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 04844/15 Em 27/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "YTg3YTNhNmNmODgwZGQyYWI3ZDViZTI2ZTVkMDFiMTA=",
+      "date": 1437004800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 06717/15 Em 16/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "NTVjNjczZjJmZGQ1MDk2ZjRhNzg1YTIzZjUxZWE2NmE=",
+      "date": 1433289600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 05/06/2015 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 03/06/2015) - Homologados C\u00e1lculos Do Reclamante, No Importe De R$128.246,80, Efetuar O Pagamento Da D\u00edvida, No Prazo De 15 Dias, Sob Pena De Incid\u00eancia De Multa De 10% Sobre O Valor Exequendo, Prevista No Art. 475-J Do Cpc, Ou Garantir A Execu\u00e7\u00e3o, Sob Pena De Penhora (Art. 884 Da Clt).",
+      "attachments": []
+    },
+    {
+      "id": "Yzc5Mjg2ZTZmY2RkZGQ3ZDFiN2M4YjY2MmEwNTdhZmM=",
+      "date": 1437436800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 22/07/2015 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 21/07/2015) - Execu\u00e7\u00e3o Definitiva De Senten\u00e7a \u0096 Desconsidera\u00e7\u00e3o Personalidade Jur\u00eddica 1- Frustada A Garantia Do Ju\u00edzo, Em Dinheiro, Pela Empresa/devedora Principal, Diante Do Princ\u00edpio Da Grada\u00e7\u00e3o Legal, Deve O Ju\u00edzo, Inclusive Ex Oficio, Proceder \u00c0 Desconsidera\u00e7\u00e3o Da Personalidade Jur\u00eddica Da Empresa, Por For\u00e7a Do Disposto Nos Artigos 769 E 889",
+      "attachments": []
+    },
+    {
+      "id": "OWUzYTNkOWFiMWZiY2VjNGMyM2YxNjI4ODJiZDIyYTM=",
+      "date": 1431388800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 04146/15 Em 12/05/2015 - Para 010905Mg Antonio Cezar Goncalves Pereira (Adv. Autor(es) 1)",
+      "attachments": []
+    },
+    {
+      "id": "NjFjYmY3NmQ3NzI4NzlmNmQ2ZjAxMTA3YjE5MGE1ZDQ=",
+      "date": 1414454400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carta Precat\u00f3ria Inquirit\u00f3ria 00165/14 Em 28/10/2014 - Ju\u00edzo Deprecado: Mm. Juiz(a) Distribuidor(a) Do Foro De(o) Belo Horizonte",
+      "attachments": []
+    },
+    {
+      "id": "ZWM3NGU3ZWRkZGM4Y2RjYmRiZjBjNmFjMWFhNjIzYTY=",
+      "date": 1487808000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 14/03/2017 \u00c0s 08:55 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "MjVhYWZhNTIyY2MxNjcxMjg5YTc4NDE0ZTdiMzRiNTk=",
+      "date": 1412726400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia De Instru\u00e7\u00e3o Para 11/02/2015 \u00c0s 15:20 Horas Doc.:02563/14",
+      "attachments": []
+    },
+    {
+      "id": "MjEwNmYzODA0YWYyMmNkMGQ1YTVhNWY0MDRjMzZkY2M=",
+      "date": 1433116800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 01/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "MGFjZGFjYzVhY2IzMjJlYzMyNmVjODE4YTY5OTM2YmQ=",
+      "date": 1496966400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 12/06/2017 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 09/06/2017) - Certificado O Tr\u00e2nsito Em Julgado, As Fases De Liquida\u00e7\u00e3o E Execu\u00e7\u00e3o Definitiva De Senten\u00e7a Seguir\u00e3o Em Meio Eletr\u00f4nico, Mediante Convers\u00e3o Em Processo Eletr\u00f4nico M\u00f3dulo Cle Deste Autos F\u00edsicos, Nos Termos Da Resolu\u00e7\u00e3o Conjunta Gp/cr N. 69, De 07/02/2017 Deste Regional. Providencie A Secretaria O Cadastro Deste Processo No M\u00f3dulo Cle",
+      "attachments": []
+    },
+    {
+      "id": "NmQ2OGE4MzgwZDljZjg1ZjY3NzAzNmYxNzA3ZGQ3ZWM=",
+      "date": 1475280000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Turma Recursal de JF transformada em Decima Primeira Turma - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "MTQyYTZiYmM5YzIzNzkwNjdjZjg0ZTk0NmY5OTFlMzk=",
+      "date": 1443052800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 25/09/2015 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 24/09/2015) - Vir Receber Alvara No Prazo De 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "OTVjNjI2YmMzOGQ1OTY5YTZmNmNkODczMDQ2M2EzZjk=",
+      "date": 1438646400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 05/08/2015 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 04/08/2015) - 1. Vista Ao Reclamante Do Bem Indicado \u00c0 Penhora (F.113). I. 2. Comprove O Reclamado, Em Cinco Dias, Sua Titularidade Sobre O Bem Im\u00f3vel Indicado \u00c0 Penhora (F. 113). I.",
+      "attachments": []
+    },
+    {
+      "id": "MzdlMTkxNWNiZTU3NTQ2YzI5NTY1Y2VhYzZkYzlkZjU=",
+      "date": 1471996800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 25/08/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 24/08/2016) - Tomar Ciencia Da Decisao Proferida",
+      "attachments": []
+    },
+    {
+      "id": "MTYxOTcwMmUxYzliZjc4NmQ5ODdlODk4ODJmOWRlODE=",
+      "date": 1449187200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Conclusos os autos para julgamento (relatar) - ED",
+      "attachments": []
+    },
+    {
+      "id": "NTU0YmU4OWU3OWIzNGRlNDQyNmYxNWEzMTFiOTkwNWI=",
+      "date": 1472428800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 29/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "OTM2ZjEwOTE5ODE2Njk1NTgwMGUzYTUwMGVlM2Q4NmY=",
+      "date": 1470096000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: OUTROS Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 01407/16 Em 03/08/2016 - Elisabete De Cassia Freitas, - Intima\u00e7\u00e3o Para Audi\u00eancia Tentativa De Concilia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTA5ZDQ3ODk5OTgwMjEyZWU1ZWNjMGJjNTI4YzQ5MTA=",
+      "date": 1411430400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Distribu\u00eddo Em 23/09/2014 \u00c0s 15:24 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "NWU1MTZlMGZiOGE0NzNiM2NlYjViYWFlNDVlNTZmNjU=",
+      "date": 1450051200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Lavrado o ac\u00f3rd\u00e3o il\u00edquido pelo relator - ED",
+      "attachments": []
+    },
+    {
+      "id": "ZWZhMWU0NjNlOTJkNTdlZDk2YTZhYTQxMTg1ZjY0NmU=",
+      "date": 1449705600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: N\u00e3o acolhidos os Embargos de Declara\u00e7\u00e3o de PAULINO FORTUNATO NETO - ED (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "ODBkZDExMjg0NTczODhmNGFlNjdjMjNiOWJiNzQ3MGY=",
+      "date": 1441670400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 08/09/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWQ2ZDZkOWY5YzNmYTk0NWEzYWM3MzNmZTZlZjY4MzM=",
+      "date": 1470096000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 04615/16 Em 02/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "YzI0Mjc5MWM0NjFhYzg5MDg1ZjllYjU2ZjgxNGQ4MWM=",
+      "date": 1444176000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 08/10/2015 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 07/10/2015) - Intime-se O Procurador Do Reclamante A Devolver Os Autos Em 24 Horas, Sob Pena De Perda Do Direito De Vista, Nos Termos Do Art. 196 Do Cpc.",
+      "attachments": []
+    },
+    {
+      "id": "MTI0MDVhODZjZTE2NjMzMDUwMjdlYjk2ZTgzODNhNjk=",
+      "date": 1470873600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 11/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTNiMDYyMGZmZTY0YWUwZWFmZTBlYzQxNTJiM2RlYTc=",
+      "date": 1487808000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 00928/17 Em 23/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZmYwNmYxYTRhYWI1MDMzNmE5NDQzMzE0NDkwZWYyNGI=",
+      "date": 1491264000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 05/04/2017 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 04/04/2017) - Tomar Ciencia Da Designacao De Praca E Leilao Do(s) Bem(ns) Penhorado(s), Para O Dia 05.06.2017 As 13H E 13H15min, Respectivamente, Nesta Vara Do Trabalho.",
+      "attachments": []
+    },
+    {
+      "id": "ZjM3MjZlM2MxNWRkYzEwMDQ3OTNjMjc2MGRmMGY2NmE=",
+      "date": 1447200000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Recebidos os autos para lavrar ac\u00f3rd\u00e3o - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZGZlMmEyMDVlN2MwZTAzNWY2M2U3Zjc1OGY3YjY4YTE=",
+      "date": 1459209600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Sec de Dissidios Coletivos e Individuais Tr\u00e2mite Processual: Remetidos os autos para Assessoria da Diretoria Judiciaria para prosseguir - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "OWJkMmE1NDljNjU1NGJlZjY2NWQ0Yzk5MGY0Mjg5ZDA=",
+      "date": 1474329600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Audi\u00eancia Para Tentativa De Concilia\u00e7\u00e3o Para 20/09/2016 \u00c0s 14:01 Horas Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "NjRhZTIyNjhiZjIyYmIzNGE2YzcwNDE1YWZhZTg2YTQ=",
+      "date": 1430697600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 05/05/2015 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 04/05/2015) - Apresentar C\u00e1lculos De Liquida\u00e7\u00e3o Em 10 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "ZmM4NDI5NzhjNmMwODdjMWZlYWRiNTlhZWY3NGQ1Yzk=",
+      "date": 1437350400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 06856/15 Em 20/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "ZDNkYjhjNjY3NTVjNjZjNDE5ZDUzM2EzMDYwNzRiNmQ=",
+      "date": 1444953600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Recebidos os autos para relatar - AP",
+      "attachments": []
+    },
+    {
+      "id": "YWFmYjAxM2RlYWNjYThiN2VkZWExY2EyMjc1MTk5MTU=",
+      "date": 1439510400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 14/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "YWVmZWY1ZWY4YTVhYjE0YzdmYzljNzg0NGM4NGY1MmE=",
+      "date": 1457481600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recurso de Revista Tr\u00e2mite Processual: Disponibilizado(a) o(a) despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico em 09.03.2016 (Caderno Judici\u00e1rio) - AP",
+      "attachments": []
+    },
+    {
+      "id": "NDVhMmIzYzA5OTFhOTFlOTkyZGY1NDc0ODMyOTAwMzY=",
+      "date": 1467676800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 03992/16 Em 05/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "MTkyMTAyZjg2NGJmZTk0OWE4NDMwMTJlN2QyYTBiMDg=",
+      "date": 1438300800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 31/07/2015",
+      "attachments": []
+    },
+    {
+      "id": "Yjk2ODMyOTVlM2VkMTUzYzI3NjY2Y2U3Zjk5ZTk5ZjI=",
+      "date": 1462406400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Juntado(a) o(a) Certid\u00e3o - AIRR (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "MmZjMjZjNzMzNWMyNGQ1ZGExMTliODBmNTAwNjZiODU=",
+      "date": 1424736000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 24/02/2015",
+      "attachments": []
+    },
+    {
+      "id": "N2E1YTJlMzgxZjgwNGNmNmNhMjdlMGJhOWVjOTY5Njk=",
+      "date": 1414022400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 24/10/2014 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 23/10/2014) - Deferida A Dila\u00e7\u00e3o De Prazo Requerida Para Comprova\u00e7\u00e3o Do Adiantamento Dos Honor\u00e1rios Periciais, Por Mais Dez Dias.",
+      "attachments": []
+    },
+    {
+      "id": "NTJmZmRiOGNiNWYyYTYzMWU1NTg2MWQyNjdjODg2MTk=",
+      "date": 1447286400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Remetidos os autos para Turma Recursal de Juiz de Fora para publicar o ac\u00f3rd\u00e3o - AP",
+      "attachments": []
+    },
+    {
+      "id": "YTc5ZWQzNzRlNzY1YTQ5ZTc0YjJmZmI5N2MwZjExODU=",
+      "date": 1445299200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Dr. Heriberto de Castro Tr\u00e2mite Processual: Recebidos os autos para revisar - AP",
+      "attachments": []
+    },
+    {
+      "id": "YjY0OTk2YzI2OWIxOTM4YWUwYWViOGEyNjk3OGQ0M2U=",
+      "date": 1457481600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Trt Em 09/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "MTQ2OTc3OWI2Njg0NWY0ZmUwZmIyZjEzN2ZlMWQ5MmY=",
+      "date": 1439856000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 07896/15 Em 18/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "ODhjMmFlNmM1MGUwOGVjZmI0Njc4MGI1ZGNjMTYyNWI=",
+      "date": 1471910400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos \u00c0 Arremata\u00e7\u00e3o Conclusos Em 23/08/2016 - Dr. Marcio Roberto Tostes Franco",
+      "attachments": []
+    },
+    {
+      "id": "NDg3M2U3MGZlNjljYmJhOTNjZmNmYjVhM2YwZTllNzA=",
+      "date": 1423699200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Juiz Em 12/02/2015",
+      "attachments": []
+    },
+    {
+      "id": "MGE4NDc0OTEwMDgxNTEwODE2Njc0MzY1M2Y0M2VhNmI=",
+      "date": 1447286400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Lavrado o ac\u00f3rd\u00e3o il\u00edquido pelo relator - AP",
+      "attachments": []
+    },
+    {
+      "id": "MjEzMjMxMWRkODYyZDg4OGYyNTkxYTBjMTVmN2Q4OWU=",
+      "date": 1468454400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 14/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "MzBlZjRjYmFjYzMwZmU4ZDkxZGI0Y2MzYjRjYTBhMjM=",
+      "date": 1444953600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Conclusos os autos para julgamento (relatar) - AP",
+      "attachments": []
+    },
+    {
+      "id": "NGIxZDM1MWM5ZmNlYzE3ZWU5NDYyOTUwNTIyZTczYjk=",
+      "date": 1449100800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Protocolo 02 Tr\u00e2mite Processual: Embargos de Declaracao; peti\u00e7\u00e3o n\u00ba 635055/15, assunto EMBARGOS DE DECLARACAO, enviada a Decima Primeira Turma - AP",
+      "attachments": []
+    },
+    {
+      "id": "MjJlMDg1MGE5MmUzN2M1NDY1NzRhM2Q5NGI0ZWM0ZjU=",
+      "date": 1424649600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Juiz Em 23/02/2015",
+      "attachments": []
+    },
+    {
+      "id": "OGRkNWI4YmFmMWIyYmFhZWM1YjdiZTcyMTE5ZDQxMDI=",
+      "date": 1444089600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 09771/15 Em 06/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "NDI2N2RjOTllMzQ4NGUxZTFlNGQ4NDY5YmQ4OTEzNjY=",
+      "date": 1446595200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Inclu\u00eddo em pauta o processo (Data: 10.11.2015, Hora: 09:00, Local da sess\u00e3o: Turma Recursal de Juiz de Fora) - AP",
+      "attachments": []
+    },
+    {
+      "id": "Y2I2YmE2N2E4NWE0ZjhiN2EyYTc1MGViN2Y3ZjUxMTE=",
+      "date": 1469750400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 04563/16 Em 29/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "MDhiYWZmNTRkODViYWNhOTE3OTYwY2JmMDUzY2NiZTE=",
+      "date": 1450396800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Recursos 02 Tr\u00e2mite Processual: Remetidos os autos para Recursos - Juiz de Fora para prosseguir - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZWExYjNjYTQzNjlhNjBiOWM2MjYxNjMzYzU5YTE1OWQ=",
+      "date": 1457568000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recurso de Revista Tr\u00e2mite Processual: N\u00e3o admitido o Recurso de Revista de Paulino Fortunato Neto - AP",
+      "attachments": []
+    },
+    {
+      "id": "N2YzMTJlY2QwMmNiM2RkMjg2MDQ3MDNhMzQ3YzU2MGU=",
+      "date": 1413936000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 11578/14 Em 22/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "YWJlZjY0YWZlNjRjZmJjYjNkNTFkYTkyMjc4ZTM3OTE=",
+      "date": 1474243200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 05847/16 Em 19/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "NmI0Y2VjMzI4MmI2NjI4ODgzMmE3NWFjZDA1MTM5OWY=",
+      "date": 1468454400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Mandado De Entrega De Bens 00160/16 Em 14/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWFmNDNhNWQ3ZTY5OTAxZTdhNTczZjMzYTU2ZWUyOTM=",
+      "date": 1446595200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Publicado(a) o(a) pauta de julgamento em 04.11.2015 - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZGIyNTVkYzYwNzdlMjNmYTZlODJiNTVhMDBhM2U1NTA=",
+      "date": 1445299200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Dr. Heriberto de Castro Tr\u00e2mite Processual: Conclusos os autos para julgamento (revisar) - AP",
+      "attachments": []
+    },
+    {
+      "id": "ODc1ZmM0YjdlZWE1NzM1MTliZDFjN2Q1YjdmNTQ0OGU=",
+      "date": 1443657600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Pagamento Ao Autor Em 01/10/2015 Doc.: - Espont\u00e2neo",
+      "attachments": []
+    },
+    {
+      "id": "NGRmZDcyNGQxYzMxMTgxMjI1N2VjNTk2NzlhMjRlZDg=",
+      "date": 1457568000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Publicado(a) o(a) despacho em 10.03.2016 - AP",
+      "attachments": []
+    },
+    {
+      "id": "YWUyOGYzMmJjY2M4N2JkOGE3NGVlMDU4OTM5ZDAxM2I=",
+      "date": 1425513600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 06/03/2015 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 05/03/2015) - Tomar Ci\u00eancia, No Prazo Legal, Da R. Decis\u00e3o Proferida Em 04.03.2015 Que Conheceu E Julgou Improcedentes Os Embargos De Declara\u00e7\u00e3o Aviados Pelo Reclamado. I.",
+      "attachments": []
+    },
+    {
+      "id": "YjdkZGNhYWI5NTM5YmJiNDM1NDM3NzYzYmRmMDllZGY=",
+      "date": 1425340800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 03/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "Y2M1MWY3NzJkMGZjMDU4YjA2OGQzM2Y2OTUwNzI2M2I=",
+      "date": 1449187200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Remetidos os autos para Gab. Dr. Antonio Carlos R.Filho para relatar - ED",
+      "attachments": []
+    },
+    {
+      "id": "NDdkZmMxZDI4OTllMmQ4ZmNlYTM5MDlhMjAzYTNjNTc=",
+      "date": 1455753600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recurso de Revista Tr\u00e2mite Processual: Remetidos os autos para Assessoria Juridica da Presidencia para prosseguir - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZTcyZWQ0NzNkMjhjNDhhZDA2MGY1OTBiZDZhMTQ0YmU=",
+      "date": 1417478400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 02/12/2014",
+      "attachments": []
+    },
+    {
+      "id": "MmQyNWNjYTU0ODQxMzc2MTVlZTc3NjZjNGVkNDY2NjI=",
+      "date": 1487808000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 23/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "MmM5NzViZjIwNzE5MTBkZDg5OGVkZTYyZGY0MDliODE=",
+      "date": 1467072000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 29/06/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 28/06/2016) - Reconsidero O Despacho De N. 3648/16. Face A Certid\u00e3o Supra, Homologo A Arremata\u00e7\u00e3o Realizada Para Que Produza Seus Jur\u00eddicos E Legais Efeitos. Expe\u00e7a-se O Competente Auto De Arremata\u00e7\u00e3o.",
+      "attachments": []
+    },
+    {
+      "id": "Y2E2YzhlNGM0Y2MyMmM1ODlhMmEzNWQ5ZjcxN2RiMzc=",
+      "date": 1433116800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 01/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "MzI5ZDYwZmRkMjdjYzI5OWMyNWEzMTQ0NDY0MjBmNDY=",
+      "date": 1413849600000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 22/10/2014 Para Advogado Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 21/10/2014) - Determino Ao Reclamado Que Apresente Os Documentos Necess\u00e1rios Para Forma\u00e7\u00e3o Da Requerida Carta Precat\u00f3ria Inquirit\u00f3ria Em Arquivo(s) Digital(ais), No Formato Pdf, No Tamanho M\u00e1ximo De 1,5 Mb Por Arquivo, Devendo Ser Direcionado Via E-mail (Vt.Pontenova@trt3.Jus.Br). A Parte Dever\u00e1 Apresentar O Cpf Das Testemunhas, Dado Necess\u00e1rio Para",
+      "attachments": []
+    },
+    {
+      "id": "MDY2OTFmZjg1NTIxNmZmODNjMzJiYzIwNTM2MDMyNzc=",
+      "date": 1469577600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 27/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "MmNiYjA4ZGI5MGI0NDVlMGJkZmJkYmIxNjYzN2JmM2Y=",
+      "date": 1447113600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: N\u00e3o conhecido(s) o(s) Agravo de Peti\u00e7\u00e3o de PAULINO FORTUNATO NETO - AP (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "MjQ4MTAwMTY2MDM3MmI2YzI3MGNiMzlhMjAyMzNlZjc=",
+      "date": 1465344000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Pra\u00e7a Realizada Em 06/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NDU4ODA3MTkzNmI4OTAwMDg2MGM0ODgwNDM1NmIwZmI=",
+      "date": 1423612800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Instru\u00e7\u00e3o Encerrada Em 11/02/2015 - Decis\u00e3o Para 23/02/2015 \u00c0s 17:57 Horas Doc.:00284/15 - Dr. Ricardo Luis Oliveira Tupy",
+      "attachments": []
+    },
+    {
+      "id": "MDE3NDU5ZTBjYjk3YTlhMTM1NzEwMDUyOTg3NDY1OTc=",
+      "date": 1486080000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Mandado: Cumprido Com \u00caxito 00226/16 Em 03/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "NDIyODBmMTAyMWE3Njg4ZDcwNzg1NDI2NDExMTUwOWY=",
+      "date": 1453766400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Recursos 02 Tr\u00e2mite Processual: Peticao - Recurso de Revista; peti\u00e7\u00e3o n\u00ba 19264/16, assunto RECURSO DE REVISTA, enviada a Recursos 02 - AP",
+      "attachments": []
+    },
+    {
+      "id": "MzliNzg4YjRhZmU5MjIwNDk4Y2VjY2NiYzI4ZDc2Zjg=",
+      "date": 1474329600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Prosseguimento Da Execu\u00e7\u00e3o Em 20/09/2016 Doc.:00584/16",
+      "attachments": []
+    },
+    {
+      "id": "ZDc4NjQ1NGJiZTI1NzZmM2IyMDU2MzFlNDI2MzMwMDE=",
+      "date": 1481068800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Pagamento Ao Autor Em 07/12/2016 Doc.: - Espont\u00e2neo",
+      "attachments": []
+    },
+    {
+      "id": "NTY4Mzk3ZThkMWU5ODM5ZjNjOGUzZjNlMjYzN2Y4NTE=",
+      "date": 1471478400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Prosseguimento Da Execu\u00e7\u00e3o Em 18/08/2016 Doc.:00512/16",
+      "attachments": []
+    },
+    {
+      "id": "MmFhOTU2Yjc1MGUwZjNjNTU4MjcxYjlmMDQ2NmI2Zjc=",
+      "date": 1462406400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Expedido(a) Certid\u00e3o a(o) ju\u00edzo de origem - AIRR (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "ZGU1ZmEyNTI5OWM0NTM3YmViN2FjYmE1NGZhMGM0NWM=",
+      "date": 1468972800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 20/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "YzI0NzIwZWRmMTYxMDBmODJmNDI1ZWZhYzZjNmZiMjk=",
+      "date": 1424736000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 24/02/2015",
+      "attachments": []
+    },
+    {
+      "id": "NjhkMDQxZjA5OWY4OWNjZDM2YTE2OWY1ZDdlOTlmNzk=",
+      "date": 1425340800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 01548/15 Em 03/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "ZTdhZTlhOTY5NmMwMjdjNDkyODc0YjBjYmJiYWZmOGI=",
+      "date": 1427328000000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 27/03/2015 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 26/03/2015) - 1.Ficam As Partes Intimadas Do In\u00edcio De Liquida\u00e7\u00e3o De Senten\u00e7a, Conforme Despacho Transcrito, Ficando O Reclamado Intimado, Neste Ato, A Apresentar C\u00e1lculos De Liquida\u00e7\u00e3o, Nos Exatos Termos:.......................................... Intime A(o) Executada Para, Em 10 Dias, Improrrog\u00e1veis, Apresentar Seus C\u00e1lculos",
+      "attachments": []
+    },
+    {
+      "id": "ODY0NGNkNzM1NDM4Y2NlMGRkOWZhNjRkZDQ5OWYwMWM=",
+      "date": 1465344000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 08/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWE4ZjQyOGZhNzdmMmUyNDAwMDliOTY5YTdiYjVlZmQ=",
+      "date": 1458172800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Pra\u00e7a Designada Para 06/06/2016 Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "ZTgxODI2ZmRiNzRkZGYxYWE2MTE2YzE4NTNmODJjN2Q=",
+      "date": 1462406400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 05/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "MDIzM2IwZWYyZjNjMGI0NDAwODk2NzFkNmFjMzkzZTM=",
+      "date": 1446508800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Decima Primeira Turma Tr\u00e2mite Processual: Disponibilizado(a) o(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico em 03.11.2015 (Caderno Judici\u00e1rio) - AP",
+      "attachments": []
+    },
+    {
+      "id": "OGY0NjA0NWQwZTczZDVmMDMzNzI5Yzk5YjA0NTFiMDg=",
+      "date": 1513036800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 12/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NmQ0MTY1Y2UwMTYzYzFjMjA1ZDZmYmI0ZDU1NTZiZDc=",
+      "date": 1462838400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secao de Remessa Eletronica Tr\u00e2mite Processual: Juntado(a) o(a) Certid\u00e3o - AIRR (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "MTliMDg2NzkyZDE1MTk2OTZkZDU0MzE5MzgwNmJmMjk=",
+      "date": 1466121600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 17/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "MWE1OTcwYTcwNzA1NDhkODQ0MDcyODg5Y2VmNGZlZjE=",
+      "date": 1497916800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Autos F\u00edsicos Convertidos Em Processo Eletr\u00f4nico 20/06/2017 Doc.:",
+      "attachments": []
+    },
+    {
+      "id": "MjdjY2Y1YTIzMTMwMzdjNmM4NTRhNzRmNmIzZjE4ZDk=",
+      "date": 1438560000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 07415/15 Em 03/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "ZWQwNmNiZDRlMjg4NDE2NjY4YjkzYTRjZWM3NDA2NjI=",
+      "date": 1445299200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Dr. Heriberto de Castro Tr\u00e2mite Processual: Remetidos os autos para Gab. Dr. Heriberto de Castro para revisar - AP",
+      "attachments": []
+    },
+    {
+      "id": "N2M5ZjdmNGExMThmZWIwYTlkY2M2MmIwMDVhMjVlMjA=",
+      "date": 1444953600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Remetidos os autos da Distribui\u00e7\u00e3o para Gab. Dr. Antonio Carlos R.Filho para relatar - AP",
+      "attachments": []
+    },
+    {
+      "id": "Y2U2YjAxMzU5MWFjM2Y4M2ViMDM1MTNhNGMzNjJlOTc=",
+      "date": 1417651200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 05/12/2014 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 04/12/2014) - Considerando Os Termos Da Peti\u00e7\u00e3o De F. 70, Desnecess\u00e1ria Se Faz A Realiza\u00e7\u00e3o De Per\u00edcia Documentosc\u00f3pica. D\u00ea-se Ci\u00eancia Ao Reclamante Da Referida Peti\u00e7\u00e3o. Aguarde-se A Audi\u00eancia De Instru\u00e7\u00e3o.",
+      "attachments": []
+    },
+    {
+      "id": "NWIzZTRjZTk1YzFhZjE2ODI2MmE2NTA4YmJkYzIxYjk=",
+      "date": 1449014400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Recursos 02 Tr\u00e2mite Processual: Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o - ED",
+      "attachments": []
+    },
+    {
+      "id": "YTkzOGFkZjIzOThiODM2MmJkNWZlNjkwZjI1ODE5ZGM=",
+      "date": 1470787200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 10/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3NTJmYzZiYWY0ZWQzOTMyMjdiMWQxZWRlYmI3MDU=",
+      "date": 1415750400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 12/11/2014",
+      "attachments": []
+    },
+    {
+      "id": "YzNlOTE5MzZkNGRkMjE4YmI3MDk3Nzc3NmMxODc5NWM=",
+      "date": 1414368000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 27/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "OTZjZGIwYWE3ZjgwY2QzY2NjMWY4YTYyZjkyMDJlNzA=",
+      "date": 1496793600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 07/06/2017",
+      "attachments": []
+    },
+    {
+      "id": "MTMyNDI2NDRmYmM3Yjc4ZTY0MDk5MDczZDI5ZTU4NDk=",
+      "date": 1458259200000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o / Notifica\u00e7\u00e3o Texto Livre 00408/16 Em 18/03/2016 - Tomar Ciencia Da Designacao De Praca E Leilao Do(s) Bem(ns) Penhorado(s), Para O Dia 06.06.2016, As 13H E 13H15min, Respectivamente, Nesta Vara Do Trabalho.",
+      "attachments": []
+    },
+    {
+      "id": "ZTMzZjkyOWY1ZmJiNjEzYmI4ZDg1NzE1ODVhMGNjOTI=",
+      "date": 1441929600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 08828/15 Em 11/09/2015 - Para 010905Mg Antonio Cezar Goncalves Pereira (Adv. Autor(es) 1)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk4NzA4Zjk2NWNlYjA4OTk1NTE1Zjc1NzM3ZTI3OTA=",
+      "date": 1474329600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 05863/16 Em 20/09/2016",
+      "attachments": []
+    },
+    {
+      "id": "MzRjYmVmMjkzOGEyZWI0YTgxMDc5YjEyYWJhZGMxYzA=",
+      "date": 1413763200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 20/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZTJlMmQ3MjgyY2UxYjM2NWYxZmE0MDFlNTViMTRmOTc=",
+      "date": 1449187200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Recebidos os autos para relatar - ED",
+      "attachments": []
+    },
+    {
+      "id": "ZjdiYmZlYWNlMDA1ZWZjOTc5OWE4ZTNiODlhMWExOTA=",
+      "date": 1458518400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADOS DO AUTOR E DO R\u00c9U Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 22/03/2016 Para Advogados Do Autor E Do R\u00e9u (Data Da Divulga\u00e7\u00e3o No Dejt: 21/03/2016) - Tomar Ciencia Da Designacao De Praca E Leilao Do(s) Bem(ns) Penhorado(s), Para O Dia 06.06.2016, As 13H E 13H15min, Respectivamente, Nesta Vara Do Trabalho.",
+      "attachments": []
+    },
+    {
+      "id": "ZTNmNDU0Nzg1ZGY1YTRjMTI5MjA4M2YxZDg1ODg0Zjg=",
+      "date": 1442793600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 21/09/2015",
+      "attachments": []
+    },
+    {
+      "id": "NWUzNTk3OGU5MTc2YjNkZWQ5N2E1MjE4M2ZlNTA3NmE=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Senten\u00e7a Transitou Em Julgado Em 11/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "YjI3YTg0MjcxZDliNzVjMmRkNjMzY2VkMmQwZjRjMzg=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Advogado Em 13/10/2015",
+      "attachments": []
+    },
+    {
+      "id": "MWJhYWQ1Y2FjMWQ5NzhmMDczMTcwNGRmMWFhMTk4ZGM=",
+      "date": 1469577600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Mandado: Cumprido Com \u00caxito 00160/16 Em 27/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZDA1NWU0NTVmZTU1OTE1YTExZjgxMjQxNGM3NmRmMTM=",
+      "date": 1442880000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Autoriza\u00e7\u00e3o Para Movimenta\u00e7\u00e3o Em Conta 00519/15 Em 22/09/2015",
+      "attachments": []
+    },
+    {
+      "id": "N2U3YzE1NTE3ZTVhY2JjODVmZDBhYWY1NmY0MjI3NjI=",
+      "date": 1472083200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 25/08/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTUwYTUxODkwMDE3ZDc1NzAyNWNhNzE2MzllMTM4MDQ=",
+      "date": 1496102400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Conclusos Para Despacho Em 30/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ3NGMwNGY3ZDIzNDE5YjIyZTkwODAyNDY1ZjhkNTc=",
+      "date": 1444867200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Protocolo 02 Tr\u00e2mite Processual: Autuado o processo - AP",
+      "attachments": []
+    },
+    {
+      "id": "YjM3ZGRkM2NlMDA2Mzk1YzE3OWUzMjBkYTQ2MzU4MmQ=",
+      "date": 1468972800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Carga De Advogado 04368/16 Em 20/07/2016 - Para 127402Mg Jhonatt Felisberto Pereira (Adv. R\u00e9u(s) 1)",
+      "attachments": []
+    },
+    {
+      "id": "MTJmMzJiOGE3YmZkZmRhN2ViODIyOTM2NWM5OWU2OGE=",
+      "date": 1461024000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Publicado(a) o(a) despacho em 19.04.2016 - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "ZjgzNTVjMjA2YmVkNDZkMzFhYzQ1ODQ5NTczOGE0YTE=",
+      "date": 1447891200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Recursos 02 Tr\u00e2mite Processual: Publicado(a) o(a) ac\u00f3rd\u00e3o em 19.11.2015 - AP (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "YThiZWEwMzVlOTg2OWU2MWQ2OGI0NTJkMGRmMGJmMTk=",
+      "date": 1469750400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: AUTOR Tr\u00e2mite Processual: Notifica\u00e7\u00e3o De Audi\u00eancia 01400/16 Em 29/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTRkMTkyMjYxMDQ4YTI2MjcwNzgwMzc3OThkNmEzZTY=",
+      "date": 1425427200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Embargos De Declara\u00e7\u00e3o Conclusos Em 04/03/2015 - Dra. Ana Carolina Sim\u00f5es Silveira",
+      "attachments": []
+    },
+    {
+      "id": "ZDI5MGE2YjY4ZTg5NTgzZDI2OGIxMDBjZTk1OTMzZTU=",
+      "date": 1496102400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Retornou Do Conclusos Para Despacho Em 30/05/2017",
+      "attachments": []
+    },
+    {
+      "id": "NDg1ODY3ZjI4ZTc3ZjliMjNkNWE5NDljMmViMWM3YjI=",
+      "date": 1461024000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Sec de Dissidios Coletivos e Individuais Tr\u00e2mite Processual: Juntado(a) o(a) Certid\u00e3o - AIRR (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ1YTc1OWM0ODJkNzkxOTc2N2Q0YzJjMzQwMmQzOWY=",
+      "date": 1487808000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 00925/17 Em 23/02/2017",
+      "attachments": []
+    },
+    {
+      "id": "YzM4OTYwNWZlMDA5NjQ0YzUxZWIwNGU3Mjc5MzgzZWY=",
+      "date": 1425427200000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Devolu\u00e7\u00e3o De Carga De Juiz Em 04/03/2015",
+      "attachments": []
+    },
+    {
+      "id": "MzAwOGNkNzU2YTRmY2NkOGE0YjU5N2U1OWYwNzU5ZDU=",
+      "date": 1441756800000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: ADVOGADO DO AUTOR Tr\u00e2mite Processual: Intima\u00e7\u00e3o Publicada Em 10/09/2015 Para Advogado Do Autor (Data Da Divulga\u00e7\u00e3o No Dejt: 09/09/2015) - De Ordem Do Mm. Juiz E Nos Termos Da Port. 01/2006 Desta Vara E Do Par\u00e1grafo 4O Do Art.162 Do Cpc, Intime-se O Autor Para Apresentar Contraminuta Ao Agravo De Peti\u00e7\u00e3o Apresentado Pelo R\u00e9u, Pelo Prazo Legal.",
+      "attachments": []
+    },
+    {
+      "id": "MGI1NDBmYzk3NTdhYzNkNGY1YzZhOGQ3YWU3MDUyNTE=",
+      "date": 1468454400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 04217/16 Em 14/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "NmYxNjQ5N2U1ZmRkOWI5OThjMTBjYTA0MTRmY2VlOTE=",
+      "date": 1457568000000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recurso de Revista Tr\u00e2mite Processual: Juntado(a) o(a) Certid\u00e3o - AP (Doc. com Ass. Digital)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM4YjhlMTg2OGIzY2Y4N2RjYjc1NDFiNjFjYTQyNmI=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Destinat\u00e1rio/Local: R\u00c9U Tr\u00e2mite Processual: Agravo De Peti\u00e7\u00e3o Admitido Em 13/10/2015 - R\u00e9u(s)",
+      "attachments": []
+    },
+    {
+      "id": "YjgwZjE4MDQ3NjViMjY5NjAzNWIxNGEzNjVkYTc1Mzk=",
+      "date": 1444953600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Distribuicao - Juiz de Fora Tr\u00e2mite Processual: Distribu\u00eddo por sorteio - AP",
+      "attachments": []
+    },
+    {
+      "id": "ZGEzNGRmNTMxMzE5YTdiMTM1OTJlNTE4MTZiZWYwZTU=",
+      "date": 1449014400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Conclusos os autos para julgamento (relatar) - ED",
+      "attachments": []
+    },
+    {
+      "id": "MDc4YWZkMDgzMTA5NmVhZWQyODQxYmUzZTI4ZTYyNjY=",
+      "date": 1447113600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Gab. Juiz Convocado Ant\u00f4nio Carlos Rod Tr\u00e2mite Processual: Remetidos os autos para Gab. Dr. Antonio Carlos R.Filho para lavrar o ac\u00f3rd\u00e3o - AP",
+      "attachments": []
+    },
+    {
+      "id": "MWZmZWExMTQzNzNiNDVmYjc3YTgzMTI5YWUyNWNkZTI=",
+      "date": 1417564800000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 12821/14 Em 03/12/2014",
+      "attachments": []
+    },
+    {
+      "id": "NmI3NDhlZjU3M2FiYmE5NmUyNzViM2RjZmIzNGVkZTQ=",
+      "date": 1424649600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Proced\u00eancia Parcial Em 23/02/2015 Doc.:00330/15 - Dr. Ricardo Luis Oliveira Tupy - Senten\u00e7a N\u00e3o L\u00edquida",
+      "attachments": []
+    },
+    {
+      "id": "NGYxNWM5ODZiNTgzNzI2ZjY0NWZkODM1OWUzMzZiZDA=",
+      "date": 1479945600000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 06938/16 Em 24/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "OTk3YTE2Mzk3ZjUxOTVhMzVmNWYxMWM4MWQwNGQzNGM=",
+      "date": 1444867200000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Protocolo 02 Tr\u00e2mite Processual: Recebido pela Distribui\u00e7\u00e3o (autos) para autuar - AP",
+      "attachments": []
+    },
+    {
+      "id": "MTE3ODQxZWQzMWE5NGI0ZjJiZTk3NjRkMDg3Yjc1M2M=",
+      "date": 1462406400000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secao de Remessa Eletronica Tr\u00e2mite Processual: Remetidos os autos para Central de Digitalizacao para prosseguir - AIRR",
+      "attachments": []
+    },
+    {
+      "id": "NmExOTI0NzY3MDE5M2M5OTRkNWQwNTRiMDI3ZmVlMDA=",
+      "date": 1458172800000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recursos e Atendimento Tr\u00e2mite Processual: Agravo de Instrumento em Recurso de Revista; peti\u00e7\u00e3o n\u00ba 101950/16, assunto AGRAVO DE INSTRUMENTO EM REC. DE REVISTA, enviada a Secretaria de Recursos e Atendimento - AP",
+      "attachments": []
+    },
+    {
+      "id": "MDEwY2QzOTk1MWVhNjAzM2ZjNWZlZTZkYTQwNmNlYmU=",
+      "date": 1435104000000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Despacho 05998/15 Em 24/06/2015",
+      "attachments": []
+    },
+    {
+      "id": "OWZiZjgzYWY4ZWQxMTNlNDNiZmFmMzQzZTBmMjEyZWE=",
+      "date": 1444694400000,
+      "text": "Inst\u00e2ncia: 1 Tr\u00e2mite Processual: Processo Enviado Ao Trt - Recursos Em 13/10/2015 - 01 Volumes",
+      "attachments": []
+    },
+    {
+      "id": "MDJmNzgwMTYxNTJmZTVmMDZlNDI0ZTFhZGIxZjcxNTE=",
+      "date": 1455753600000,
+      "text": "Inst\u00e2ncia: 2 Destinat\u00e1rio/Local: Secretaria de Recurso de Revista Tr\u00e2mite Processual: Conclusos os autos para decis\u00e3o de admissibilidade do Recurso de Revista - AP",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

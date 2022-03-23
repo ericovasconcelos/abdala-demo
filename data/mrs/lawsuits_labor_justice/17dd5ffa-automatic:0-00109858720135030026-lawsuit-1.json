@@ -1,0 +1,1588 @@
+{
+  "lawsuit": {
+    "id": "MTdkZDVmZmEtYXV0b21hdGljOjAtMDAxMDk4NTg3MjAxMzUwMzAwMjYtbGF3c3VpdA==",
+    "activityCount": 254,
+    "number": "0010985-87.2013.5.03.0026",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "MRS Logistica S/A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Washington Luiz Ferreira de Medeiros",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Eva Aparecida Amaral Chelala",
+            "cpf": "274.517.556-49",
+            "lawyerId": "NWMzNjkzOGEtYXV0b21hdGljOjAtY2M3YTRlZDRmOTZlMmM4LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1357048800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Gabinete de Desembargador n. 44",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MDI4NjAwMzgwNWU1ZDk1NzkxNTI3MDliNzBjYTJjN2Y=",
+      "date": 1408838400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ0MTllMGRmYjg5MDdmMzVjYzQxZjc3ZTMyOTExZDM=",
+      "date": 1415059200000,
+      "text": "PETI\u00c7\u00c3O INFORMANDO CUMPRIMENTO DE OBRIGA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjA4OWMwN2U4NGY2ZWFkNzc0ZjkwNGY2YWJmZWFiZjg=",
+      "date": 1373932800000,
+      "text": "PPP | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTMwZTZmYWQ4NGRkMzMzODZkOThkMzk1MjAyNmJhZGY=",
+      "date": 1407369600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NGI1YjY2YzNjOGQ3M2Y2YTFhODg2MWI5YTllNDA4MjI=",
+      "date": 1402358400000,
+      "text": "C\u00c1LCULOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGEwYTJhMDg0NWZjMDViM2M5ZjBiODFkNWIzNjBhZWU=",
+      "date": 1415577600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmIyNDA2M2FhMDFiOTM5MmZlYTkzY2FjYmY0MTM4ZGI=",
+      "date": 1406332800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "MDMyYzA2NDdjMjk5OWIxOWU1YWZlZjVkZTRkNmVjZjQ=",
+      "date": 1396224000000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 0.01",
+      "attachments": []
+    },
+    {
+      "id": "MjI4ZTY2NmNkN2NmNDU1YTg4ODU0NzRmZDMzZWNkM2Q=",
+      "date": 1394409600000,
+      "text": "CARTA DE PREPOSI\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWJlNGVlOWFmYTRhMjU0MjZjOWJjMjE1OTE3ZGQwZGI=",
+      "date": 1402272000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZGU0YWI5OTZmMzJjMjI2NDliOWMwNmY2MTBhNDNkZGQ=",
+      "date": 1372291200000,
+      "text": "06Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmEyNGYyNDY0YjMwMzY3MGQ2MGQ5YzQ0ZWZjMjdkNzQ=",
+      "date": 1408838400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NTNhZmJmZTEwZmU0ZGFhM2U5Y2YwMzM0OGE0OGZmNWI=",
+      "date": 1372377600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "YjFjZmE2NjI2YjU2ODIyM2E3OTYzZTAzNDg4NGY2ZmQ=",
+      "date": 1402531200000,
+      "text": "MEMORIAS DE CALCULO DE LIQUIDA\u00c7\u00c3O DE SENTEN\u00c7A | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmU5YTAxNjg3NmVhNWQ5ZDRhMzM0NDYxOTM4ZjM4MmY=",
+      "date": 1414627200000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 30/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZjQ0MGY2NWQ5NGMyNzgxYzVkMDEwMGRhNzZkZWQyY2M=",
+      "date": 1372377600000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjM4OTI1M2M3YWI2MzYxNjRiYzUzZTMwZWVlMDIwMzA=",
+      "date": 1413763200000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NGQ5NTA5NDQ4ODQzNDRlZGQ2NTA2ODUxYzc2OWI4YmY=",
+      "date": 1414454400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDIwZTc5N2VkNTFhMzk2N2U2Yjk4NDQ2YWNiMDQxNWI=",
+      "date": 1414454400000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDA1MjUwOGIzOTE0NTBjZjI2YWYwNGEzYjdkYmY2MTk=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 6 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc4ZGY2ZWYxMTVmNTk2OTljMzhiM2I4MDcxNmJjZjI=",
+      "date": 1409529600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRkNjZkMTFkNDMzYzdhYzM0NjgyNTNlN2Q3MTM2YTQ=",
+      "date": 1410912000000,
+      "text": "Atualiza\u00e7\u00e3o - word | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGEzNWI1NjhiMWRiY2Y4YjFmMzZiNzBhZGUxMDU1OTA=",
+      "date": 1372377600000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MWZjOGQ4YmIwYWMzYzc0MzkzZjIyYTJhYzg5OTMzM2I=",
+      "date": 1372291200000,
+      "text": "08 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWU5MTFjOWNlOTdhNTcxZDM4MWI0YzU3NDYxNzc3ZWQ=",
+      "date": 1407456000000,
+      "text": "COMPROVANTE DE LEVANTAMNETO DE VALOR | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWE0MjQyZjJlNGZkYTU2NTgwZjU4NzRkYzdiOWVmNzU=",
+      "date": 1407888000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDY2MDg3NjEzY2NjZWJhMjg1MzkzZjM2Nzc5NDQ5NjY=",
+      "date": 1396310400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA4MTkyMGM0YzY3ZTBhYmI4MWIxMTdjZDU2ZTJiNmQ=",
+      "date": 1407888000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzYyMmQzNDk2OTIyZTg1ZTM5OWUxZTI3ZWI0YTc5Y2I=",
+      "date": 1401321600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmIyYzc0ODkwMzFmMTUxMjkyNDBiMWQ0NGE0ZjQyYjc=",
+      "date": 1533254400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "YmYyM2VlODZjODJhYjdjMWEzZjYzMGFiYWZiZThkODY=",
+      "date": 1411344000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODk1NGY3YjEwOWFkOWQ3OTU4MGVmZjEwNWRmNGRiNWE=",
+      "date": 1400112000000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTcyOGU3MGM0MjdkZTYzYmE5MmJiMDIzMDVkZDVkNzQ=",
+      "date": 1408838400000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NzJhZTdmYTRmMTNmZGJlMmNlODBhYWRkNWVmM2QyZWU=",
+      "date": 1402531200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZGM0YTk0MjE2MjQ5MGYyY2M1ZmQ4YTljNjYyNDc4OGQ=",
+      "date": 1398124800000,
+      "text": "contra raz\u00f5es do recurso | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDEyM2MwMjQ3OTgwMjU4NjYxOTc1NWNmMzJlMTEzMmE=",
+      "date": 1406332800000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MGMxNjdlYTcxMWE2YjhmYjY5M2Y1NjY2YmNhNDk1NGU=",
+      "date": 1372291200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "ZmZjOTkzY2ZiYTljZDY0MDBkMjcyMTFmMmJhNjU0ZTA=",
+      "date": 1409616000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MThiNWUxNDY5MTQyNTU0ODQzNzdmYTJhYjg4ZTU0ZWU=",
+      "date": 1415577600000,
+      "text": "Guias da Previd\u00eancia Social-GPS | Guia da Previd\u00eancia Social - GPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNjNWU1OTdmMzBjNWJjMDMwYmI5MWUyYjFkYjBjYjU=",
+      "date": 1410912000000,
+      "text": "Atualiza\u00e7\u00e3o | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjkwNDczOGYwYmNiMWFhZDg2NmRkNjVkNWFjMzU5YjI=",
+      "date": 1372291200000,
+      "text": "13 Coordena\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTI4NDQ5YzQ2YjNlMDA1ZTk2ZTlhMGQxYzcyZTljMjE=",
+      "date": 1404000000000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDg0YjkzYmI4YTRjM2E3OGUwMmVkMGQ1OGJiMGEzNjU=",
+      "date": 1373932800000,
+      "text": "Procura\u00e7\u00e3o - parte 2 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDlkN2VkY2Q4MzA3OTc3NTkwMjRhZTk5YTZjMDBhNWI=",
+      "date": 1413676800000,
+      "text": "Expedido(a) of\u00edcio requisit\u00f3rio a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWQ0ODI3YjJhMmE0MDg4NzI3N2I1OGFkN2U2ZTkyYzg=",
+      "date": 1404259200000,
+      "text": "email | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTRlNTI3NGY0NzRlNTJhNjM5OTdjZWU0NzI5OGJmNmU=",
+      "date": 1410825600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "N2Y5NTZhNjcwY2I1M2UyZmMwNDhkMWFhZDZkZWQxOTY=",
+      "date": 1374624000000,
+      "text": "impugna\u00e7\u00e3o a defesa apresentada pela reclamada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTJlNWI0YzdkYmQ5NWQwMDMyY2Y4NGYwNjc5MzE5NDA=",
+      "date": 1374537600000,
+      "text": "Juntada de carta de preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjEyZTFjNzdjNThiZDNkYjI0ZjUzNTdmNGQ0MDVjMzE=",
+      "date": 1412899200000,
+      "text": "Criar expediente de secretaria | Alvar\u00e1 (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDcwZjFmZDkxMDMyYWI4M2VlZmUxNzZkMTVlMDM3Nzk=",
+      "date": 1407888000000,
+      "text": "Atualiza\u00e7\u00e3o | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWZjMzM0YjA1NzU0MGYxZTc1ZTQyZTc5NTQwODkzNWU=",
+      "date": 1404259200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZGNkN2ZjYTU5YmQ1YTA1YzIyNTY1NjI4YmE2MDg3MzE=",
+      "date": 1410912000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWUzYmMzZGUzNzM4MTlmMjZkYThhYTY0ZDcwZWU4YmY=",
+      "date": 1372291200000,
+      "text": "02 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmRmMjRlMjhjMGQ5MDcyMGJlMGUyMTgwM2QyMjI1MDY=",
+      "date": 1373932800000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjMxZDdlMmJjNWJkZDc2NjZkZmM1ZjBiNjAyNDQ3MTM=",
+      "date": 1409011200000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJiMGEwMDE5NzEzNTU5MGFiNDkzMzY1NDM0MmI1NDA=",
+      "date": 1406160000000,
+      "text": "Expedido(a) alvar\u00e1 a(o) advogado do autor",
+      "attachments": []
+    },
+    {
+      "id": "M2E2MTgzY2UzMTAzNTUxZjgzYTA4Y2VlMDU4ZDgxYTA=",
+      "date": 1401321600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJhMDliZjhkYjY4NWIzNWVjOWE3YmMwNzM0MTI3MTc=",
+      "date": 1372377600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZTVjNzY0OWY1NWYzZjViZDE3ZTVjODkwM2RiNTc3Njk=",
+      "date": 1398124800000,
+      "text": "contra raz\u00f5es ro | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTIwZjYzYTgxYTUwYTc1MzkwYzE3NWI1Y2I2ZjJiYTc=",
+      "date": 1413849600000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2Y0NzhjMDg0ZGQ0MjUwYjJlMjdiODBhYzRkOTBiNTE=",
+      "date": 1412553600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTRiMmJkMDE2MjQ1MTliNzI1ZGNlZGI4MWY2MDk2YTk=",
+      "date": 1404000000000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 24/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "YTEzNTZhMjBkYjcxODkxODhhZmQwYTMyYTVmMTY4ZGY=",
+      "date": 1372291200000,
+      "text": "04 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmZmOGRiYWNlNmM5MWM2NDk4ODA1MzJlNTcyMTM3OGM=",
+      "date": 1407456000000,
+      "text": "certidao | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODRmZDIyNGQ5NmFiYmQ3NGUxMTI2ZmUzMjUxNzYxMmI=",
+      "date": 1414368000000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzZmZGJlYjc1NjZiYTI0M2FkYjY1Y2UzYjM5MzBiNDc=",
+      "date": 1415059200000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "OWUwYmM5NDJlYzIyNjdmMmZjZWQ5NjYxZDUzY2E3NWY=",
+      "date": 1409616000000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "NTJhOWE3NzZhNDAyZDVjMTk3N2JhY2EyMGY3NzMxYTQ=",
+      "date": 1413849600000,
+      "text": "e-mail enviado \u00e0 perita Cristina Ritti - receber cr\u00e9dito | e-Mail / Correspond\u00eancia Eletr\u00f4nica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTA3YzllNzNmYmJiMjZjNTZkZGFhYzUxZTAxMmZmMTg=",
+      "date": 1409529600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "NjMzMjY4Y2NjOTNlMmFlZTJlNWYyYmNlYWFjOGEzMjU=",
+      "date": 1372291200000,
+      "text": "18 Extrato Bancario | Extrato Banc\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQwNmM2YTNhYzU4NWJkN2Q4NWU4NWU3MjJiZmZkNDk=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 1 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTA1MWVjMzlkOTIzM2RiNTZkZGJlMjIzZjlkMjJmNTM=",
+      "date": 1411516800000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 24/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "YTRmM2Q5MmZhMTRjNWRhNmU0YzIyMzMxMTM0NTk3MjI=",
+      "date": 1402272000000,
+      "text": "PETI\u00c7\u00c3O REQUERENDO DILA\u00c7\u00c3O DE PRAZO | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM4ZDg1YzVkZDczNmY5MTc3ZjNmYzcwN2Y5ZWMwNTA=",
+      "date": 1406332800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJmM2U5NTNmNDgyNzI0OTYyNzdhZDVhZTRmMDE0Mzg=",
+      "date": 1409097600000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRlNmNkNzEyNGNiNTA1NWFlYzZlZWZmNWZiZDcwYTU=",
+      "date": 1394409600000,
+      "text": "JUNTADA DE CARTA DE PREPOSI\u00c7\u00c3O | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGI4MGYzOTMwZjA4NzU0ZTFmNTEwYmY4YjQ0NWJiODI=",
+      "date": 1404950400000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 14/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "NTM2ODJhOTNiN2NjZTU2NmY1MDkxZmNiMjBjYjU4NGE=",
+      "date": 1409702400000,
+      "text": "e-mail \u00e0 perita Cristina Ritti. atualiza\u00e7\u00e3o de c\u00e1lculos | e-Mail / Correspond\u00eancia Eletr\u00f4nica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGMyOWY4NjdlMjYzNjg1MTlhMDYzNzcwNTY3NDllYzA=",
+      "date": 1373932800000,
+      "text": "Procura\u00e7\u00e3o - parte 1 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE0MjY2MzE0YjM4YzUyYjhlZjA5MTY1NGQ5OWFmMGM=",
+      "date": 1374019200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "Y2I0YmFkMzRiN2ZiNTE3N2FkNGU0MTA4ZTI1ZGU4ODM=",
+      "date": 1402272000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGVmZmVlMzU5ODU1ODA1MmYxNmI1ZmYzMDkwYmE3MWM=",
+      "date": 1397088000000,
+      "text": "GRU - RO | Comprovante de Dep\u00f3sito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzBhOWY1ZGM3YjEzYmQ0NTI5OWZhODc0MjQzNGY1YTc=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 7, evolu\u00e7\u00e3o funcional e lota\u00e7\u00e3o | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThjMTQxZTM0MzllNTY0YjY0YjBmM2U1MzIxYmY2NjI=",
+      "date": 1406073600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZjMDJhMjk2ZTk4NzBlYzM3ZWNkMjgwZTNjMjgwMjI=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 1.1 e registro de empregado (cont.) | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTI3YmI4Yzc5YmFmZTkwYzQ5OWZmNzAzMjU1NjI5M2Y=",
+      "date": 1372291200000,
+      "text": "Conclusos os autos para despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzMzMjUzYWU0ZjI4OGMwZjUyZDk2ODNlZjFmMTk5OTM=",
+      "date": 1372291200000,
+      "text": "17 Coordena\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDZmZDRiMWY0MjM2ZTNlY2FmM2MwNTZmNWI0N2VkY2U=",
+      "date": 1373932800000,
+      "text": "Atos constitutivos | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzcwOThhN2E2MDNlZGQ1NWMwMzE4NmIxMDNkYjlhYjc=",
+      "date": 1406073600000,
+      "text": "Laudo - word | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTYwNTdhMzYwZmI4N2NlNDk4YjdjMjA1YmI4YmEzMjA=",
+      "date": 1404259200000,
+      "text": "e-mail \u00e0 perita Cristina Ritti. | e-Mail / Correspond\u00eancia Eletr\u00f4nica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2NjYWEzZDAzYjNjMmQ2YjIwZTcwOTk1NDBmYTEwOGY=",
+      "date": 1372291200000,
+      "text": "16 Coordena\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTkxNTE2YTIxM2YzYTgyMjY0ZDVlYzIxOWMyM2Q5OTY=",
+      "date": 1413676800000,
+      "text": "Criar expediente de secretaria | Of\u00edcio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWMxNWM0NTdiNjNlZGU0NzY3YThjZWNlMDAzNGI5ODc=",
+      "date": 1394064000000,
+      "text": "Conclusos os autos para julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "MTM0OWFkMzkzNDNhNGNkZTBkMjZjNDVmMTA2MDc5ZjI=",
+      "date": 1415664000000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWExMjFhMzYwNDczODI4NmM4NjU1MTJhYjhhN2VmMjQ=",
+      "date": 1372291200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGNhMWMxZmRmZTQyNzQ1MzZmZDI1MzdhNDc2NWE3OWQ=",
+      "date": 1409616000000,
+      "text": "COMPROVANTE DE LEVANTAMENTO DE VALORES | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGY2NTE2NzJmM2FkYWViYTUxMDg1MjkwZGZlOTgzYWE=",
+      "date": 1394928000000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 500.00",
+      "attachments": []
+    },
+    {
+      "id": "OWViOTJhOTJhZmU1ODBhNjM0MDcxOTEzOGIxMzExMzI=",
+      "date": 1413763200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "YTgyYjBiZWFhMDBlZjAzYTQ0ZGRmNjIzZmFhYzNjYjE=",
+      "date": 1410998400000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2UyZDE4YjZlZGYxOGMyZDA4ZWY0Mjk0YTljMTUxMzY=",
+      "date": 1372291200000,
+      "text": "09 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGYxNTI3YzRjZTkyMTBjNDg5ZTcxMDJhYmVhMzlmMmU=",
+      "date": 1409097600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NDlkMTEwZTk4NWZhZDJlMDFkNzkwYzM1MjI3M2M2ZWE=",
+      "date": 1407369600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OWFkODRlNmU3YWVmNjQ2YzBhNWNjN2EwODEyNmY3Zjc=",
+      "date": 1373932800000,
+      "text": "ACT 2010/2012 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkyZTI4NGIyMjRhNmZiYjdjNmVkMzRmOTU3YWM5MjI=",
+      "date": 1372636800000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTBlNDUxYjgyMTNlYjVhNTc2M2E2YThhYzVmODZlN2Q=",
+      "date": 1402358400000,
+      "text": "APRESENTA\u00c7\u00c3O DE C\u00c1LCULOS | Apresenta\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNmZDJjNGY0N2U5NTkwNDZjOGJhNTIwNzE5NDIwYTI=",
+      "date": 1404691200000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NWViNWE2Y2UwZTUzMzE1N2U3NGNhMzU1MDZjNTM4YWM=",
+      "date": 1373932800000,
+      "text": "Contrato de concess\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjk5NmE1YWY4NGNhOTQ0ZjA1YzFhMGQ3YzMzNmQ1NjA=",
+      "date": 1401321600000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "MjI3MGE0NTliYmU5ODc4OWMxYjQ3YzdhOGM3NjM0ZWU=",
+      "date": 1409011200000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDhjNjM4MDYzOTRiY2FkOTgxMjQ1OTI3NWMxM2FlODI=",
+      "date": 1372291200000,
+      "text": "12 Escala Sobre aviso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTAxNDI1Zjc5YzQ3ZDRiZmU4YWEzODk2ZjUwZDllZjI=",
+      "date": 1413849600000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 21/10/2014",
+      "attachments": []
+    },
+    {
+      "id": "MmMzNTI1YWQ4MmIxNjcyZDg1OTBlM2U1NGYwYTY5Njg=",
+      "date": 1372291200000,
+      "text": "10 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTIwNmVmNDU1MmFhYzRiZWZiOTk4M2Q2ZWFjYzc3MTg=",
+      "date": 1372377600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YWM5NDAwZDk2MDRlYmY4ZTFiYWIzZmYxNjlhNGJlMDI=",
+      "date": 1412553600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "MjQ1NzAxNjgwZDMyNjRlNmJkODExYjRlOWEzM2E4MDM=",
+      "date": 1413158400000,
+      "text": "Criar expediente de secretaria | Alvar\u00e1 (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjhhYWUzMmJhYmE1ZWRkMTI0MzBjM2NmMjE2YzVmMDU=",
+      "date": 1409011200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "ZDJkYTY1ZjFmYTQwMzgwZmJkYWE5MDIzODFiZjg0OTY=",
+      "date": 1372291200000,
+      "text": "19 Declara\u00e7\u00e3o de Hipo. | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTJlZWVjZmFhMjNiZTBmMThiZDU0ZDViZGIzMzZmMWE=",
+      "date": 1404432000000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 19/03/2014",
+      "attachments": []
+    },
+    {
+      "id": "MGEwNjgwYWVhNGMzOWMzNWY4NDk1ZTg1NzNiMTI1Mjc=",
+      "date": 1394928000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a WASHINGTON LUIZ FERREIRA DE MEDEIROS",
+      "attachments": []
+    },
+    {
+      "id": "OGEyN2I4NjU0ZWY5NWJmZTBlYjViMjcwMTI1ZDc5OTM=",
+      "date": 1533081600000,
+      "text": "Desarquivados os autos para prosseguir na fase de cogni\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzI1ZjZmYjlmM2I2N2FlNzkzOTdjNmJjYjg0MWNhOTE=",
+      "date": 1395619200000,
+      "text": "peti\u00e7\u00e3o | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDg0MGU3NGQzN2E3ZjE1OTQ1N2MyZmE0OGVhYzUwNDE=",
+      "date": 1397174400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzlhNjRhMDA1ZGMxYTM0NTRhYmFlN2FhYTM1Njc4Mjk=",
+      "date": 1406073600000,
+      "text": "Laudo - excel | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ3N2RlNGZhYjU2OTRjZDJmMTBmYmI3MzVlZWVmMjU=",
+      "date": 1533254400000,
+      "text": "Transitado em julgado em 27/05/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZTg4MDBjMTAzMmYwMDJmMjBkOTAzYjE1OGRkODZlNGU=",
+      "date": 1406073600000,
+      "text": "Laudo pericial | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTA0NjM3MDAyNTY3MWM0NWNjNDE5OGE0MTIxMDMxN2M=",
+      "date": 1404259200000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzU5ZjBjYzUxYTRjM2EwNmU0MzM4N2FhMDQ2MThlNDc=",
+      "date": 1373932800000,
+      "text": "Ficha financeira 2012 (cont.), informa\u00e7\u00f5es cadastrais e registro de empregado | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzlkMmVkNDAyYTI3MTc5MzYzODM4MWFkNmIwZTZlMjY=",
+      "date": 1413763200000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjZmMDdhYTJlZDBjNDVhZGY0MDA3ZTRhZWJjY2NmZjU=",
+      "date": 1409011200000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 26/08/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZjhkODBlNjBhNjVhZDU2MGQyYzM0ZTEzYmQ3MmIwYjc=",
+      "date": 1411689600000,
+      "text": "GUIA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGY2OTlmOWEyN2Y1ZDcxOGE2YmIzNDllYzIyYjA5Y2Y=",
+      "date": 1372377600000,
+      "text": "Audi\u00eancia inicial redesignada (17/07/2013 08:45 - 1\u00aa Vara do Trabalho de Betim)",
+      "attachments": []
+    },
+    {
+      "id": "OTVmMTMyMTFlMWMwN2U5NTkyMmYyMDM2ZGJhMzgxODc=",
+      "date": 1406073600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjdiM2UwN2RhZDJjZjY1MWI4OWM3YTkxZTMzYjc4NDE=",
+      "date": 1407456000000,
+      "text": "COMPROVANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU1ODI4ZDExNGE0NWUxMTQwMTk1YjEwNWVlMmRkNjU=",
+      "date": 1413763200000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWNlNTIxMGJhN2VlYTA0MDA5MTdhMDVkNGU4NWU5NTM=",
+      "date": 1373328000000,
+      "text": "SEED | Aviso de Recebimento (AR) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkyMTFlYTM2MmI2MDUwYTVlM2UxZDkxMjg4MzJmOTg=",
+      "date": 1408665600000,
+      "text": "Expedido(a) alvar\u00e1 a(o) advogado do autor",
+      "attachments": []
+    },
+    {
+      "id": "YTI4NTM0MmE3MTlmNGYxZDJiOTkwNzNiNzBjZGQ2ODc=",
+      "date": 1414454400000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "MTQ2YTgxODJlYjUwM2ZiMTgwZTMxODA5Mzg3ODU4Yjg=",
+      "date": 1373932800000,
+      "text": "Fichas financeiras 2011 (cont.) e 2012 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGMwNTdiNzI0NTI4M2YwYjM4NjE3OGRlZGY1MWE3MjA=",
+      "date": 1398297600000,
+      "text": "Guia expedientes TRT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ4YmU0YzcxMzY4Nzg0ZWFjNjVmZTY5NTQwNzE4Nzk=",
+      "date": 1408492800000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDE0NDY4ZDM3OWM3OWRjM2Y4NjYzMDVkZGJiM2VjYTc=",
+      "date": 1410825600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OWRlMjMzOWRmZDgxNWE2ZTc1NDdmZjRlYWUyYWVkOGI=",
+      "date": 1409616000000,
+      "text": "COMPROVANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmI2MDMyZDRmZWJjNzAwNmYzOGVmYzE4ZDE0OTZhYjY=",
+      "date": 1408406400000,
+      "text": "PAGAMENTO REMANESCENTE | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDQxYWJjY2U3MmI0YjAxNmI0MWQyMTQ3MTQ0Yzg3ZDg=",
+      "date": 1415145600000,
+      "text": "Email enviado a CEF | e-Mail / Correspond\u00eancia Eletr\u00f4nica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjdmNmFkYzRlNDJhNDBhNWViOWQ3OTIxOGEzMjgxOGU=",
+      "date": 1411344000000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "MTU0NGY4NWZhMzM4NGNhMjM5MGNjZDIzMzY3NzFiODQ=",
+      "date": 1372291200000,
+      "text": "14 Guia de servi\u00e7o social | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWZjODQyMmE2OTU4YTVhZWIxZWI0NjVlZGJmNTk3NjE=",
+      "date": 1411344000000,
+      "text": "DILA\u00c7\u00c3O DE PRAZO | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFkZGJkYzA2MWMwNDE0Nzg5YmQyZWYzZjM1MGE2NTM=",
+      "date": 1395619200000,
+      "text": "Conclusos os autos para julgamento (proferir senten\u00e7a)",
+      "attachments": []
+    },
+    {
+      "id": "NDY5OTBhZDIyZDlmNWY4YjZhNzhmMDMxMWRhODE1MzM=",
+      "date": 1408492800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YjVhYzRmODdhNjg2NmFhMzZhZDdiMTU3MDQ0MTBjYzc=",
+      "date": 1408665600000,
+      "text": "Alvar\u00e1 | Alvar\u00e1 (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ2YjMwYTg5MjQzYTQxYTBiMjg0NjNhZjczMjczYzM=",
+      "date": 1406160000000,
+      "text": "Criar expediente de secretaria | Alvar\u00e1 (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWViMGY3NDdkZTdiNGUzMjBlMGQwODk3MDhiYmFjYjQ=",
+      "date": 1408406400000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "ZGI5ZDc0YjJhYjA1NzhlNzAwYWZhYzk4ZGMyODI4ZjI=",
+      "date": 1409616000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YzA1OTA3MGRjOTkxZDJlNGM0YjNiNGVlZTdmZmZjMjg=",
+      "date": 1396224000000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NTRjZjQ4NzM2MThhMWVlNjIxYzRhNWVlMGRlNDMxMjQ=",
+      "date": 1372291200000,
+      "text": "05 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNmOTUyMzY1YTMzYmFhMmNhZDkwYjgyZDdiMjk5NTc=",
+      "date": 1372291200000,
+      "text": "07 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDUzMjdlZjA3YjQ2ZjJjYWVlYTBlMjQ1OWUyZjViNjY=",
+      "date": 1373932800000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTU5MGVhMmIzZmVmYTc4OThmMzVjNWY4ZTkyN2MwOWI=",
+      "date": 1395014400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmRhZjZjMzU5MmU2NTFiMDAxZTBmNmQ4OWYxMDZmMTU=",
+      "date": 1373932800000,
+      "text": "Fichas financeiras 2010 e 2011 | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhjZmE3OTYxNmE5Y2Y4YTU3YjFjNTFlNDA1MmQzMGM=",
+      "date": 1398124800000,
+      "text": "Conclusos os autos para decis\u00e3o (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NzkwZGE3YzI2MTBjM2Q4MjA4ODRlZWRkN2NmNzMxYTQ=",
+      "date": 1404691200000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 02/04/2014",
+      "attachments": []
+    },
+    {
+      "id": "NTBiZDJhYzJkNWIwMGE5MzNmZGI5ZTBmYzQ0MDU1ZTM=",
+      "date": 1372291200000,
+      "text": "Audi\u00eancia inicial designada (16/07/2013 08:40 - 1\u00aa Vara do Trabalho de Betim)",
+      "attachments": []
+    },
+    {
+      "id": "NjhhYzA0NmMxZmZjYmE1OGI5ZDllZWNkYjk3YjA5OWI=",
+      "date": 1407456000000,
+      "text": "COMPROVANTE DE LEVANTAMENTO DE VALOR | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRjNGMxMjM1ZGFjNDQ5OTY0MjMxNGQ3ZWMyZTU1ZDQ=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 3 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc2NWYwNmUyMmI2YjQ3NDdiZjUyYzEwZmViMmExN2E=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 2 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDg4YzI3NWJjZjMxMTdmN2NiNGMxYjFmYzhmZDNlZTA=",
+      "date": 1410912000000,
+      "text": "Atualiza\u00e7\u00e3o -excel | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjEzY2IwZWNhNzk4MGNhNzliYWEzOGRlZWU0MjYzZmI=",
+      "date": 1413763200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTRhZWE0MGEzMTk0ZTkyZDkzNWI1YzU1NWEzMDJmZGI=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 4 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmU3NGYxYTFmZDJjZGE1MDBkMzM4NTE2ZWRjMGUyMTg=",
+      "date": 1414627200000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2VkOTE1NjI4MmNmNWM2YzUxNzBkODQ4MDdlODdiZTg=",
+      "date": 1410825600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWU5ODJiZGZlZDZiZTBjYzRiZDkyZDQ3YjY1ZWI0NDA=",
+      "date": 1410912000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MjFkODQ0YTM0N2RmYjJjZGMzOWU1MzhjNmY2M2QzNDQ=",
+      "date": 1394064000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (06/03/2014 10:40 - 1\u00aa Vara do Trabalho de Betim)",
+      "attachments": []
+    },
+    {
+      "id": "Y2UwYWFmN2UxNDRjZjNhZmQ0NDk1MmY2YWYwMWEwMjY=",
+      "date": 1401321600000,
+      "text": "Certid\u00e3o de transito em julgado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU1Mzg4YWQ5ZDhmNDliODgxNDI4NmEwZmIwNWU1ODg=",
+      "date": 1415664000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Yzc3Mzk0ZTBkMjkxOTVkMTQyMDNkOGM3ZTllY2ZjODQ=",
+      "date": 1406332800000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDgwYWVkZGY1MjliZjM2MjU3OGQ4ZWE3ZmNkNjlhNTM=",
+      "date": 1398211200000,
+      "text": "Minutar decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjFlYjI5ZmZiM2U1YTllYjJmN2E3YWEwMjhiNzgwMmU=",
+      "date": 1397088000000,
+      "text": "RECURSO ORDIN\u00c1RIO | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjg3ZjM0N2NkNmU5YzdkN2EzYjBiNTQ0ODkxMDliZjU=",
+      "date": 1372291200000,
+      "text": "01TRCT | Termo de Quita\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjM2YzBjNDlkY2MzY2I2MzRhMGFjYmNmNWI1Zjg1YjM=",
+      "date": 1397088000000,
+      "text": "GFIP RO | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRiMTZjZDEyMWM0NGE2MTUzMTEzYWQxYjExMjM2ZDY=",
+      "date": 1412899200000,
+      "text": "Expedido(a) alvar\u00e1 a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NDczNzc5ZDMyZjFlMzQxZWYxNDE2YTg4ZDViMTdhZTM=",
+      "date": 1415577600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "YzY2ODFiM2YyM2QwODRhNzIxOTk2MGQ0YTE3NTZiMzY=",
+      "date": 1372291200000,
+      "text": "20 procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTEwYWQ5ZTZlZGY2NmVkYjFlOTBmZDE0NGEyNDU0ZGQ=",
+      "date": 1402531200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTM3N2FkOTBmMmY4NzQwNDYyYTBkN2I0ZTM5MThhZDA=",
+      "date": 1394928000000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YWMyMTc3NWZkNmYzODg2NTg4YTY3YjJhYmM1NWE2ZWM=",
+      "date": 1410912000000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "MzhmM2ZiNzI2MGJlNGVmZmUwNjk2MjQ2MWQwZDQwMWU=",
+      "date": 1409702400000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 03/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZmMwODg5MGEzY2E5ZjYwMzAyZWE1YWJhMzZjZDE4ZDE=",
+      "date": 1413849600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2NkZDQzNGFhZjQ0M2U4M2Y2YTA3MDJiYWJkYmU0MGY=",
+      "date": 1372291200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTc5NzRhMTdjMmU0NjI3NWNjNWI4MmNkZTQ2ZWY2ODY=",
+      "date": 1373932800000,
+      "text": "Cart\u00f5es de ponto - parte 5 | Controle de Frequencia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTU3NGE1MmZlNDI4ZjNhYTA1ODYyMjAyNTc5YmMyZGE=",
+      "date": 1413158400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) perito",
+      "attachments": []
+    },
+    {
+      "id": "ZjcwYzI4ZDc2NzMyYzE1NTgwZjY2ZmU1NzExZjljMzg=",
+      "date": 1402272000000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "NmJkZGU0MWQyMDUzYTk3Nzc0ZjAwOWQ2NDZmMWUwOTY=",
+      "date": 1407888000000,
+      "text": "word | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDdlNTU2NzJmNWQ0N2I1ZTYyMTIxNjIxMTFlZTMyYTU=",
+      "date": 1394928000000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / #N\u00e3o preenchido#) de WASHINGTON LUIZ FERREIRA DE MEDEIROS",
+      "attachments": []
+    },
+    {
+      "id": "OTgyOWFmNjNjZTdjOTIxZjQ1ZjRhNGFhYmI2OTZiNmI=",
+      "date": 1398297600000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "YjRkY2YzNThkOWFhYjkzNTUyN2NkNzhiNjMxMmIzYTQ=",
+      "date": 1373932800000,
+      "text": "ACT 2009/2010 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDdkM2RmNzRiZTk2YzYyM2Q2OWY0N2NjZWQwZjljZTY=",
+      "date": 1372291200000,
+      "text": "03 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njc4MTY0Y2YwM2EwMjQ4NTA1MTgyNGQ3MjA2Y2Q4NzI=",
+      "date": 1372291200000,
+      "text": "11 Contra Cheque | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjZjOTBlZmQ4NzQ3MzZlOGYwNjg5NzA4Mjc2NDczMTI=",
+      "date": 1415145600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDcwOGVkNjQwYzUzNGU5ZDVhODEwZDNkNDJhOGMyMDE=",
+      "date": 1408838400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTJhODA2MzBkMjgzNWQyYmNmMDk1ZDE0YjY2NWVlZmE=",
+      "date": 1406073600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "ZjIxNThhMmViM2YzYzlmYTYxNDNhYzQwNGY2ZGFhZGY=",
+      "date": 1372291200000,
+      "text": "15 Atestado | Atestado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTJiYzI4NGFhYzI5NTM5YTU4MmZkODVjZDI1MDU3MjM=",
+      "date": 1408838400000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "OTA3MTM2ZTFiMmM4MDIzYTNlY2Q5YjExZjUwYzNiYWI=",
+      "date": 1415145600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjFhMzRhZDM4YThhMzg0YTIzMjQ1Mjg5ODlmYTgwOGE=",
+      "date": 1404432000000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWYyZTdhNDQ0MDY1NTg5YjE0NmNjNTM4MDY0MjIxYWU=",
+      "date": 1372377600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU1NmE2MzlkMjIzOGMyMjIyODIwYjIyZTk4YjNjNmI=",
+      "date": 1412553600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTA3YmUzMjZhZDdiZTAwNzdhYmQ2NDgxMDUxZTI5NmY=",
+      "date": 1401321600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Peti\u00e7\u00e3o (outras)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q1ZWM0ZjU1Y2YzOWJmMzMzYTM0ZDlkZTQ0MTkxOWU=",
+      "date": 1407888000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NDA0YjIxOTgyNGRhNzNhYWIzYzFkZDY1MDA3N2NiOWQ=",
+      "date": 1407888000000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "ZGIxZTU2YjE3OTg5MGMyMTY3MDBlZTZiY2VlMmM1ZTA=",
+      "date": 1414368000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "NjRiZTNhMDY1NTE2YWY0NTUzNzU2NTAzOTk2OWJiMTE=",
+      "date": 1398297600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdiYjQyM2ZkZWE0MmUwM2UyZTMyMGRjODJmNGU5OTc=",
+      "date": 1401321600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2VlYTZjNjdhMjdhNTI1MTlhZmU3MWNlZWUyMmUzNzE=",
+      "date": 1404950400000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDljZWFkMzQyZTYxMGNkYjdmMDM2OGRjN2IyNzY3NTc=",
+      "date": 1404259200000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "ZWEyM2E3NGI1NWU4OWUyYzdkYjgxNzVjYjQyMWUxZDA=",
+      "date": 1373932800000,
+      "text": "Descri\u00e7\u00e3o de cargos | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDI2ZjJjMjI3NzExZDAxOTRlY2JmMWI1MTI5NDZhOTc=",
+      "date": 1415145600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY5ODEwMTcyNjJjYjdmNGFjYjU1MWM0N2IzYTNmNTc=",
+      "date": 1396224000000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / #N\u00e3o preenchido#) de WASHINGTON LUIZ FERREIRA DE MEDEIROS",
+      "attachments": []
+    },
+    {
+      "id": "OGU1NTljMzZiMDI0MDExYjE0NmM2YTg5MjZiM2U4YjU=",
+      "date": 1372291200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGRkZDJkZjk5ZTQ1NDQzYTMyOWFlYjY4ZTM0M2ViNTM=",
+      "date": 1409702400000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODdlODZhODYyMTNmYmQ5MjczNzNhZjE1YjcxNDQ3N2Q=",
+      "date": 1407456000000,
+      "text": "Email enviada a perita Cristina | e-Mail / Correspond\u00eancia Eletr\u00f4nica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzRiYmU4Y2YxOGZkNjRiYTFjYWQ3NTk2Mjc5OWQzZGU=",
+      "date": 1374019200000,
+      "text": "Audi\u00eancia inicial realizada (17/07/2013 08:45 - 1\u00aa Vara do Trabalho de Betim)",
+      "attachments": []
+    },
+    {
+      "id": "NDJhMjk1ZjhlZjNhNzUzZDc5MGEwNDlhMjQ2MDAzMTI=",
+      "date": 1408060800000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 15/08/2014",
+      "attachments": []
+    },
+    {
+      "id": "NzJkOTFmMzJjOTllYzBkMTk2N2YxYzQzNjFjYjU3NTc=",
+      "date": 1373932800000,
+      "text": "TRCT, contrato de trabalho | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjRiNWZmM2M4Mjg1OGZiMjM2NDZlNWM1MWMzZDMzNDU=",
+      "date": 1406332800000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "OWFlY2Q3MDgzMmQ2MmQ0ODliMTBmODZiNzVmMDk1YmI=",
+      "date": 1402531200000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "MjE5NjY4ODY3ZDhhMjRhYjJjNWEwYjZmODg2NjJmMWE=",
+      "date": 1402272000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGY3MGM0ZGIyN2E5ZGMxZTFlNzQwOWRkYjk4NDdkOTA=",
+      "date": 1409529600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODY0NDI2ZWVkMjllOTU2NmVmY2M0YTNjN2NkOWNjZjU=",
+      "date": 1414454400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWFlMWQwYjVlNTBhZTdhODE0NTg2NjQyMTJiYjYwNjg=",
+      "date": 1374537600000,
+      "text": "Carta de preposi\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmEwODQ5ZjI2ODBjMmZhZmNiNjFhZWUwNWJjYjIwNWE=",
+      "date": 1409702400000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjE4NTMxOGY1ODA3ZThiOGRiZWRhODIzOWNkMTZhNDQ=",
+      "date": 1410998400000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 18/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZGIyMWM4MDU2MWQ3N2VjMjZlNTY1MjJiYzdkYmY2MzY=",
+      "date": 1406764800000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "NWU2NzZiOWI1MDNlOTA2YTg4MzE4Yzg0OTM3M2EzNjQ=",
+      "date": 1410912000000,
+      "text": "Disponibilizado (a) o(a) #N\u00e3o preenchido# no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGU3N2E5NjY1MTFkNGRiNjA5YTlkMWE1OWZkOTE4MWQ=",
+      "date": 1408060800000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2QyMjZiNTg5MTBhNWQ3YzU4NGUxNWY0N2IyYjRmYzg=",
+      "date": 1411344000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzU1MjM1ZmJkOThhYzQxNTE3ODIyYWY3ODNkOTEwZmU=",
+      "date": 1411689600000,
+      "text": "JUNTADA DE GUIA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDQ0MjQ5MjBmZDQwZjRiMTE5MGMwMTA5YWM4YzIyMDQ=",
+      "date": 1402531200000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTk2NzMzMTgyMmE1ZDgzYWMwNmVmOGE3NzUyZjQyMDM=",
+      "date": 1401321600000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "NDYwN2NlYjdlMDFjNGI1OTM1NzM0NDg5YTdiMTVmYWU=",
+      "date": 1398211200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY0N2Y3ZGE1MWI2ZTE5Yzk4NjkzMTg2YjE2ODU5Njc=",
+      "date": 1410912000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDQwYjQ4NDMwZjc1ZThjNWJhN2FmNTE5YjA0NzY2OTQ=",
+      "date": 1373328000000,
+      "text": "CERTIDAO | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjJmMWFjMTE2NmM0ZDJiMzRlMzE1ZmFjYTUyMGFjNTE=",
+      "date": 1407369600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "ODAyMWM2ZTQzYjRkMWIxODM0ZTExZTQ5ODlmZjY1ZDE=",
+      "date": 1406764800000,
+      "text": "Dilig\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmE2ZDY5M2ZjYjU0ODYxNjNkZWM0NWFiYmVlNGQ4ODQ=",
+      "date": 1372377600000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZWRkZmEwMjhlMWQzMGYxMmM2ZTA4M2M3MjExNjNjNzk=",
+      "date": 1411344000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTMzODQ1Yjc0MDVkNDNjOTEzNWQzNTk3ZTZjYzYwZTU=",
+      "date": 1411516800000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGJhMTczZjQxMzE2MWZkZmQ1ZWIxOTc2NTlkNDhlMTI=",
+      "date": 1415664000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWY4MTVjMDRlYTVhMTEyNjYyZjAwM2FlZDgzODg0NzM=",
+      "date": 1409529600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MjQzZTRmZjZiZDMxYjY1ZjhjZjUzYTA2NmNkMzE1MDI=",
+      "date": 1396224000000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a WASHINGTON LUIZ FERREIRA DE MEDEIROS",
+      "attachments": []
+    },
+    {
+      "id": "N2ZmMzc5YjVlZDQwMzhlZWQwMTMwY2U3MmI0NzUwYTg=",
+      "date": 1402531200000,
+      "text": "JUNTADA DE CALCULO DE LIQUIDA\u00c7\u00c3O DE SENTEN\u00c7A | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGU4NTU1ZWZiM2Y2MjZkNzAyYjIzYzQ3ODE5ZjhmZDg=",
+      "date": 1398211200000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MRS LOGISTICA S/A - CNPJ: 01.417.222/0001-77 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "N2E0NWM3MzIzYjlhNWNhOWEzZjMyNTM3OTg3MGU1M2U=",
+      "date": 1407888000000,
+      "text": "Excel | Planilha de C\u00e1lculos de Liquida\u00e7\u00e3o Elaborada por Perito (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzE1MTljZDBkYzczMTVlMTRkZTZlNGM4MmU5ODlhYjY=",
+      "date": 1406851200000,
+      "text": "PETI\u00c7\u00c3O | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjI3MzhlYzY0MzZiNWUyNWIzN2RlYzRiMTg0ZmFlNDg=",
+      "date": 1374019200000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (06/03/2014 10:40 - 1\u00aa Vara do Trabalho de Betim)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

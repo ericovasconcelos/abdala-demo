@@ -1,0 +1,176 @@
+{
+  "lawsuit": {
+    "id": "MzcxNjA5OWYtYXV0b21hdGljOjE2MDQyODI0LTAwMDA0OTI4OTIwMTE1MDMwMDM2LWxhd3N1aXQ=",
+    "activityCount": 17,
+    "number": "0000492-89.2011.5.03.0036",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Fl\u00e1vio Bellini de Oliveira Salles",
+            "cpf": "",
+            "lawyerId": "OWU4ODk4NzMtYXV0b21hdGljOjE2MDQyODI0LWI0MDY5YmMyY2VhNDM5MS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Jos\u00e9 Carlos da Silva",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Webner Lessa de Freitas Carvalho",
+            "cpf": "",
+            "lawyerId": "NjQ0ZjU1OGItYXV0b21hdGljOjE2MDQyODI0LWViZjg3MTM4MWQ5OGMzMS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "OS Mesmos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YWU0NTYxMzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNTJkOGRmNDRlMWE5NGEtMTM5NjMyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396321200000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "MmZlZmQ2YzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NjNhN2FiNDVlMjc0YTMtMTM5NjMyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396321200000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODc4MzliN2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNTVkOGUyMTlmMzVkNDQtMTM5NjQwNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1396407600000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "Nzc3YmVkMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjlkODkzNGZiOWU5ZDEtMTM5ODc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1398740400000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "MmI1OWQ4YjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYTE1M2E5Yjc2M2ZlZjktMTM5ODc0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1398740400000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmNjOGNjZTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYmYwZTEwMTJlNDhiMjMtMTM5OTQzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1399431600000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Augusto C\u00e9sar Leite de Carvalho)",
+      "attachments": []
+    },
+    {
+      "id": "YzRmMjJhOWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMTdhODUyNGRmZTYwODgtMTM5OTQzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1399431600000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro ACC - T6 em 07/05/2014",
+      "attachments": []
+    },
+    {
+      "id": "MWY5YTUyMjctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODVjM2IzZTBmMjlhYTktMTM5OTQzMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1399431600000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ZTYyZjMwYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZGFhODM4ZjFlMTJhMjItMTQ2MTcyNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461726000000,
+      "text": "Remetidos os Autos para Secretaria da 6\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "MWFiMjUwMGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZGQyOTZhM2FlZTM5ZWUtMTQ2MjMzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462330800000,
+      "text": "Disponibilizado(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmMyOGQzOWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00ZDA4ZTMzNDhhZTBhODYtMTQ2MjQxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462417200000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 11/05/2016 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "NDFiYTVmYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MTNmNTVkMzliZTU3NTItMTQ2MjkzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1462935600000,
+      "text": "Negado provimento a ambos os Agravos",
+      "attachments": []
+    },
+    {
+      "id": "NDJjZDZkZGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Mzc1YjhmZjdkZDFhMDktMTQ2MzAyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1463022000000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTM0ZWI4NDUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGZlMGJlODI2MmUxNGYtMTQ2MzEwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1463108400000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 13/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "MTcxZTRlYWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMDVjOGVhNzA3ZjYyZGEtMTQ2NTUyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465527600000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "YTQ0ZDM1MDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01Y2ViMmFhNzc2YjMwNGUtMTQ2NTUyNzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1465527600000,
+      "text": "Transitado em Julgado em 06/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ODFlNDIyMTktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lNGViNmUwYmVjODI4NDktMTQ2Nzg2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1467860400000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

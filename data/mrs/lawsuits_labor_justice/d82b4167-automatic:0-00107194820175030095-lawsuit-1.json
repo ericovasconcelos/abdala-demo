@@ -1,0 +1,2376 @@
+{
+  "lawsuit": {
+    "id": "ZDgyYjQxNjctYXV0b21hdGljOjAtMDAxMDcxOTQ4MjAxNzUwMzAwOTUtbGF3c3VpdA==",
+    "activityCount": 375,
+    "number": "0010719-48.2017.5.03.0095",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Aline Ramos de Oliveira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ilton Martins Soares",
+            "cpf": "636.457.856-04",
+            "lawyerId": "ZjNkYWE5NTEtYXV0b21hdGljOjAtNDUzZjA3NzMzZDZhYzEwLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Ananda Ramos de Oliveira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ilton Martins Soares",
+            "cpf": "636.457.856-04",
+            "lawyerId": "ZjNkYWE5NTEtYXV0b21hdGljOjAtNDUzZjA3NzMzZDZhYzEwLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Deisiane Ramos do Vale",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ilton Martins Soares",
+            "cpf": "636.457.856-04",
+            "lawyerId": "ZjNkYWE5NTEtYXV0b21hdGljOjAtNDUzZjA3NzMzZDZhYzEwLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Rodrigo Youssef Abrahao Guerra",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Industria de Papel e Papelao Sao Roberto S a",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Thales Bittencourt de Barcelos",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Irani Papel e Embalagem S.A.",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Joel Heinrich Gallo",
+            "cpf": "976.408.080-49",
+            "lawyerId": "MmRjODY5YTAtYXV0b21hdGljOjAtZjc0NzcwNzBkOGVkOGU0LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Vara do Trabalho de Santa Luzia",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YTdjYjdjYjU5MzJhMzAyYmNkYjhkNDc2OTMyZjM3MmY=",
+      "date": 1494288000000,
+      "text": "ESP\u00d3LIO DE HENRIQUE lucianoDECLARA\u00c7\u00c3O DE HIPOSSUFICI\u00caNCIA | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGEzNjY0YWVjNTkyOGVjMzQxMDBmYmI3NzZlOTQ0NjM=",
+      "date": 1525910400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 10/05/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZDc0MGZjNjQ0YzA3MDM4ZWQ4NDVhMTFmOGU2ZDQ1NzY=",
+      "date": 1547510400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "MjFmOTc4YTViOGVkNjg3MmRkYWY2NGMzNjg5Njg0NTU=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Decis\u00e3o Previdencia 1 | Desist\u00eancia - Requerimento de desist\u00eancia da a\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjllMjhkNjY2MWJiODIxZWI0ZmVhZjFjOGQwMTc1YTQ=",
+      "date": 1494288000000,
+      "text": "Tomografia Henrique Luciano | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTU3MDA1MWRkMTQ3YTE0NTcwNWVlM2NhYTgxZDQ4NTQ=",
+      "date": 1542412800000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 16/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTkzNjQ2MzQyNDM4YmIxMDE4YmNkZTJiNzAzZGVkMTU=",
+      "date": 1565568000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTYyMzExMjhhOGU4YzcwOTYyOGE1MzE2MWNiMTQwYWQ=",
+      "date": 1505174400000,
+      "text": "28. Controle de Ponto 16.10.12 a 15.11.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQ4OWUyYzNiMTNiNjZiNTdkNjZjY2EzZDIyYTM5YzM=",
+      "date": 1540944000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos",
+      "attachments": []
+    },
+    {
+      "id": "MzViNDU5YjViNTdmZDM1YjlmYmI3MDIyZjFmYzM0ZmY=",
+      "date": 1526601600000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 17/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTBiOTMwMWI0ZTgzNzg2OGQyYTdmYmM3OTFkYjUyZDE=",
+      "date": 1547510400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzlkYTZiMjBhYTVmNDZhMDgwNzUxMmM1ZWZiNWRjNWI=",
+      "date": 1506211200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWY0YjYyNjgxOGJlN2Y2NzA2MGE1ZDM1NmNlMDA0Y2Q=",
+      "date": 1510790400000,
+      "text": "Laudo T\u00e9cnico de Condi\u00e7\u00f5es Ambientais (LTCAT) | Laudo T\u00e9cnico de Condi\u00e7\u00f5es Ambientais (LTCAT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDdjZmE0NmE3NTEyYzM1NmNmMzRiZTE4OWM5ZTQ0YjA=",
+      "date": 1542672000000,
+      "text": "Conclusos os autos para despacho a JESSICA GRAZIELLE ANDRADE MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "YWNlOTZkNzQxNjAyMmVlMmVmOWYxMzBiNzc0YjVkYzg=",
+      "date": 1505174400000,
+      "text": "4. Solicita\u00e7\u00e3o de Vale Transporte | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjhiZGI5NjYxMWFlNTRhNDhkZjkxOGFhM2IxNzA1Yzc=",
+      "date": 1560384000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o (Embargos de Declara\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWYwYWViNWYxYWQ3NGIzMzc2YjQ2NDQ4YTcyMjE4NDA=",
+      "date": 1564444800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjJkYjBkZTVkMDMwNTdiNWMzYzdhMjRlN2RjMjI2NTc=",
+      "date": 1505174400000,
+      "text": "48. Pedido de Prorroga\u00e7\u00e3o INSS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ0ZDVlZGIyYjg3YzE3YWJiN2NlZDRlZDAzNjllMTA=",
+      "date": 1548720000000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 28/01/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzliMGU5YmM2NDc4ZDQ5NWE1ZDE5NjgyNWFlMTNlNDc=",
+      "date": 1559606400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NGQyYTY0NDEzNjM1NjgwODIzZDJlN2I4OWQwYjg1NTc=",
+      "date": 1521072000000,
+      "text": "MANIFESTA\u00c7\u00c3O DA AUTORA SOBRE LAUDO | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU1YmM2YzNhNmEwYjlhM2FlODBmMDYzNmIzODc0NDQ=",
+      "date": 1550188800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MThjNGFhMmU3OGZjNzVkZGZiMmZkOGVkODZhM2ZjODg=",
+      "date": 1564272000000,
+      "text": "N\u00e3o acolhidos os Embargos de Declara\u00e7\u00e3o de DEISIANE RAMOS DO VALE - CPF: 109.214.326-23",
+      "attachments": []
+    },
+    {
+      "id": "YWZlMzg5MzNlODliODE4YWM1ZDRiYmQ2NTFhNzFlOWM=",
+      "date": 1523577600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OWU4MTk2YWVlOWRmZWVmOTI0Njg1ZDRhMjcxMjEzNDg=",
+      "date": 1506297600000,
+      "text": "Quesitos e assistentes t\u00e9cnicos - Esp\u00f3lio Henrique Luciano x Irani | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ5MTAwNzAwZDM5MWU5YTdkNTg3MWY5OTNmM2UyOWY=",
+      "date": 1548720000000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 28/01/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjQ5OGY5NDE2MGYxOGVhZTU0ZDBlMmUwYjY1ZGFiMzc=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY4OTc5ODVhZjMxY2I4ZDFlNzcwZWQ3YWE4YzllNjQ=",
+      "date": 1541376000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Indica\u00e7\u00e3o de Data de Dilig\u00eancia Pericial",
+      "attachments": []
+    },
+    {
+      "id": "ZmJlYzU2NGRkYzJhZDYzYjJhNzQ3OTk5YWFlYjc4Nzg=",
+      "date": 1511049600000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 17/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NmRhM2RhNmE3ZmM5ZDI1M2MwZjZhNzIwNTE1ZTQwZjA=",
+      "date": 1505174400000,
+      "text": "21. A.C.2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODkwZTE5MzE2NGNkYzQzMGFjYzBkZDk1ZjVjOTNjZmY=",
+      "date": 1550707200000,
+      "text": "Manifesta\u00e7\u00e3o do Autor | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTMyZDE2MWYyYmEzYzQ0MzIzZDI4Y2M0YTViYWMzOGQ=",
+      "date": 1494288000000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNjODdiNDE1YTFhZGUxZDU1Y2JhMmZkMGU0NzcwZDQ=",
+      "date": 1494288000000,
+      "text": "CTPS Henrique Luciano p2 | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzU5ZWQxYTc0MzgyYjgxMjY4Y2Q0N2RiMDZlZDYzNTU=",
+      "date": 1559692800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDVlMDY5YjdiZTVkMWMzZjYzNTU3YjNmYjdmMjkyYTI=",
+      "date": 1521417600000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 16/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTdjZGRjYmE3M2I5YTNmNDNhNTYyNTAyMTUzMWQwODY=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Ananda RG | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQ4Y2ViNWY0OWEyM2IxMzcwZDViZTMzMGJlMzNkOTI=",
+      "date": 1505174400000,
+      "text": "9. Acordo Coletivo - jornada - Turnos fev 2011 a fev 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc5MGQ4NDQxNmFjMDMyODA5NWVmYWFiMWVhOTk2MTk=",
+      "date": 1521158400000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 15/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTQyNjExNWEzMDRjYmU3Yzc5NTIyYWE2YmUwMzg3NzI=",
+      "date": 1505174400000,
+      "text": "32. Ficha Financeira 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGRiNDE2NTZmZTMyZGYxMjlkZjJkZDYwYTU5MWMwY2I=",
+      "date": 1566518400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "ZjNmNWYxZmJiYjcyNThhOWZlYTQxZmViMTljYjFkNmU=",
+      "date": 1549584000000,
+      "text": "Manifesta\u00e7\u00e3o ao Laudo Complementar Irani | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY0ZjUwMzZmZDIxMzUyMjFiZTg2MjI4YTU0YWMyZWI=",
+      "date": 1505174400000,
+      "text": "33. Ficha Financeira 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2UzYTFmMmM1ZWEwYWY5ZGFkZGYzNjRlOThmYzFkNmY=",
+      "date": 1542585600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Indica\u00e7\u00e3o de Data de Dilig\u00eancia Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NzIwZmQ3MTU0MDQwNzI2ODViY2QyNTk4OGIwNDc2YWE=",
+      "date": 1550188800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzQwNDIzODY2YTE2NTk2NWM1NzNiM2MwNjExMWI5NTA=",
+      "date": 1558483200000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ANTONIO CARLOS RODRIGUES FILHO",
+      "attachments": []
+    },
+    {
+      "id": "ODUxNzY0N2NiNWExNTkxNTg0NmEwNTMwMTE3Mzg4ZTE=",
+      "date": 1547164800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDk5Y2IyMDk1MjNjNTlmODQ0NjAzODgzNzU3YjhhOWM=",
+      "date": 1494288000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "ZGUwMzgyZTE2NzYxZTdmMDFhZmNmNmI3ZGQ4ZDQ0ODE=",
+      "date": 1494288000000,
+      "text": "Biopsia Henrique Luciano | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc4YTE5ZjRlNjRlY2FiZjJlNDgxNTdlMDcxYTY3YTg=",
+      "date": 1505174400000,
+      "text": "16. Acordo Coletivo 2011.2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNlOGE0M2E2MzQ5MmVjZTMyMDRjZjQ0OTE5YjQ1OWI=",
+      "date": 1560384000000,
+      "text": "Conclusos os autos para despacho a ANTONIO CARLOS RODRIGUES FILHO",
+      "attachments": []
+    },
+    {
+      "id": "YjMzNzcwYjU1NjFlMDVjYTU2MDQ5YmY2YWJiODhhODE=",
+      "date": 1506470400000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 26/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTI4YzBiOTBkYmIyY2JlNTVlODgyYmJhMDFiMGY3NDI=",
+      "date": 1542672000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmIyZTg2MzQ0MWZjZWQ0MzUxOGNjOTllOTJiODRkZjM=",
+      "date": 1505174400000,
+      "text": "25. Controle de Ponto 16.07.12 a 15.08.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWQ2Zjc2YzBlZTYwMjk0YmFiNmJjZmFhYzQ0MjE0ZTU=",
+      "date": 1566777600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YmU1MzFlYmQzMzg4NTFkYTBkNWRlNGRjZmQwMWE2ZWI=",
+      "date": 1549324800000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 04/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTU2NWQwY2EyMjMxZjU1NDZiOTgxNzgxNTNkOWQ2M2M=",
+      "date": 1511308800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjE2Y2RmODIwMWQwNGEyMjA4NTBhZjc3YThhMGUzODQ=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Decis\u00e3o Previdencia 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTFjMzIzYmRlMzc2MDY2NjUyNDE2MzI4YWJjOGNlMjg=",
+      "date": 1505174400000,
+      "text": "34. Ficha Financeira 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJmOWViYjg1N2RhNWJjN2ZlMWU3ZmYyYjAwYjQ4YTA=",
+      "date": 1523577600000,
+      "text": "Conclusos os autos para despacho a ANTONIO CARLOS RODRIGUES FILHO",
+      "attachments": []
+    },
+    {
+      "id": "MThhNmNkYWMwYThiNDEzZmMzMDJmYjNkZDgyMjUzZmM=",
+      "date": 1565308800000,
+      "text": "Recurso ordin\u00e1rio autor | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjE5NzY5OGIzOGMxYjNlNTY0ZjA2MzlhNTE1ZWQ4MDk=",
+      "date": 1560816000000,
+      "text": "e Guia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGExNzk4Y2E5Y2I3MjhkYTY5ZjAzMGMyZDRmMTA0ZDk=",
+      "date": 1566518400000,
+      "text": "Contrarraz\u00f5es | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc4MGVmMDdjMTNjYjlhYjYxODA1NjI0MWYxZGYzYmI=",
+      "date": 1496361600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q2Mzc2ODI1MjdhMTNiYTY3NTRiOTBjOTMwODcwY2Y=",
+      "date": 1547510400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjdiNWQ5MWZmYmI5MjRkYTlmODA2Zjg1ZmViZmNlYTc=",
+      "date": 1523491200000,
+      "text": "junatade de laudo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJmOTlmZTY1ZTYwMGFhYmJlY2E4OGZhOGNiMWRmNjU=",
+      "date": 1505174400000,
+      "text": "17. Acordo Coletivo 2013.2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWMzMTFmMjhlYjczMjU0ZGNlYmM3YzZkMjkwNzdhNGI=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Previdencia Social 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTgyMDM2MzFiNDUyMzE5OGU2NzQzYTMxNzM3MzMzMWE=",
+      "date": 1523923200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGJjZDllMGVmZTc4YmNlYzBmOGE2YzVmOWQ3NmU1Yzg=",
+      "date": 1505260800000,
+      "text": "Audi\u00eancia inicial realizada (13/09/2017 12:55 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "N2Q0ZWQ3MGNiNDEyZDg1M2IxNWE0MmY2NjU5MDRjMDE=",
+      "date": 1542672000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGNkYjIyYjNiZjAwYzIyZTg4NmNkMjhmYWE1MDJhZjM=",
+      "date": 1565308800000,
+      "text": "Certid\u00e3o de juntada de guia judicial trabalhista. | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTllMzVlY2ZlY2ExZDI3OTNiZDU3MjlmNWQ0NTRiZmE=",
+      "date": 1560816000000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 17/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTQyYjhkYjkyMDJkMGY4YjZmNzM4YTcwYmYyOGUwNzE=",
+      "date": 1560384000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTg5NGY4MGQxMDk0ZmVkMTNiZmY4MmM0NDJlZjE5Njc=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjRlMjdjODc2ZTFiYzlkNDE3OTVmZDI0NDFkMmViMzc=",
+      "date": 1561420800000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGI0ZWYxM2YwZjViNWE1ZjNmOWU4OGVhM2IxMWUxNjU=",
+      "date": 1540944000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTg3NzkzMjQwMWEzYzQxYWE1ZDU5Nzg1OWI3NjRiYjU=",
+      "date": 1561420800000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTczNjFjMjQxNTgyODdkMDVhNmEzYmM3OWYzNDU0NmQ=",
+      "date": 1523491200000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 11/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MmE1OGNjY2Y2ZGUzMWM5ZDk2ZTY1NzIwZmEyMWZlOTI=",
+      "date": 1505174400000,
+      "text": "43. PPRA 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM5MDZiZGYxOTcxMzkyMTQ0NmVjYjQ2ZTg4NmJkMzU=",
+      "date": 1505174400000,
+      "text": "31. Ficha Financeira 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmEwMDkyN2JmNzRkZjdlNGVmY2Q0MDUyY2UwOWEzOWU=",
+      "date": 1496016000000,
+      "text": "Aline Apostila Doencas Ocupacionais por agentes Qu+\u00a1micos | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTUxM2ExMmU4ZjZhOGIxYzFmMWQyODA0NzExZGI3MGI=",
+      "date": 1534464000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWU0NTc3NWNiMGE4ZWMwNTAzOWQ4ODFlOGIxMDc2NWU=",
+      "date": 1550707200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o do Autor)",
+      "attachments": []
+    },
+    {
+      "id": "NTJjYmQ4OTMwNGZmYjI5MmU3ZThjY2ZlMmRmNTY1NzM=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzgwYjY4ZDUzZGJiNzljNDM4YjZkOTNkNzMzYzUwZWY=",
+      "date": 1520380800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTk2OTJjMGI3ZDdlZWIwODEwNGYxOWE0MmQ0YjFhOGQ=",
+      "date": 1561420800000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGZmMDhlY2MwM2RkYzQyZDI1NDliMGFhYzJiZGEzMzc=",
+      "date": 1559088000000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzZjYmUwYzAxYzI5ZmNkOWZlMTAzNjVmNmI2OTFiZjg=",
+      "date": 1542412800000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 16/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjJmNTk4YjQ1MDBkMGY3YWQ1OWRlNzdiZjM5MGFhMzU=",
+      "date": 1549152000000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjNmNjk4NGVkZjg4ZWU3ODY1ZTk5ODA1NmJmYTcwNzk=",
+      "date": 1505952000000,
+      "text": "Conclusos os autos para despacho a AUGUSTO PESSOA DE MENDONCA E ALVARENGA",
+      "attachments": []
+    },
+    {
+      "id": "NDU4M2IzODM4M2FlNDdhYjg5YzFkOWQ1ZGY4ZjkwYzM=",
+      "date": 1496102400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjZmZjUyYTQwMmUzOGNhNDJjNDIwOGQ0YTQ1ZTgyODI=",
+      "date": 1524614400000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 24/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDdhNjY2MDRiMjIyMjkwYzI3ZmRjYjgzYWYxYjZkZmY=",
+      "date": 1550188800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTc3NmI3NzI0OGIxMmViOTgwNjBjOTZmNDBmMzM5NDI=",
+      "date": 1558396800000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "M2RlZjdlMTJlMTI1Y2I3MGJkZGI4NjU4MWQ2NzRkYjc=",
+      "date": 1521158400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjUwOTcwNzczNWU1NDc2ODc3OGIyZGEyZWIwMDM5YmI=",
+      "date": 1505174400000,
+      "text": "36. Ficha de EPI 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDg0MGNlMjBmNTc4YWQyM2JjYmNjMTZiMmU4NTZhOTg=",
+      "date": 1505174400000,
+      "text": "30. Espelho de Ponto 2013 a 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmRlZGM2ZTJmMTg0NzFkNjZjOWE1NzQ0NmZhMWViNDM=",
+      "date": 1520467200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ2OTNkY2QzOTRkNmZhNjQ2ZTU4YTFjOTBiYjVjOGQ=",
+      "date": 1523577600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTE0ZTY5ZWI3ODE5ZDdlNWZiZTUwNjBiZjcxN2NlYjA=",
+      "date": 1560384000000,
+      "text": "Embargos de Declara\u00e7\u00e3o | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmY2NjE1NjYxYjY3MmYxNGY1NWI0MDg3NGYzZWExNTM=",
+      "date": 1505174400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ3M2RkYmRjM2RjMWVmYzBlMTRlMDQwMGJiZjE4ZWQ=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO caderno2 risco quimico | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDliOGZmYjA3MDA4MzFkYmIzMjdiNmQzMDNiMDhiY2E=",
+      "date": 1524182400000,
+      "text": "Conclusos os autos para despacho a ANTONIO CARLOS RODRIGUES FILHO",
+      "attachments": []
+    },
+    {
+      "id": "N2ViNzRiOTA1NTEwNDJmZmIwNmQ1YWY2YThiNzc3NmI=",
+      "date": 1505260800000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (22/10/2018 15:30 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "MmMyNzA4M2JlN2NjOWVmZmY5YTkzOGE5MDc2YmI5Zjk=",
+      "date": 1565654400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGUxZGEzMzE0ZTIxYThhMWMzMGQ0MGZiMWJhY2MxNzg=",
+      "date": 1566777600000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ALINE RAMOS DE OLIVEIRA - CPF: 158.190.206-93 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "ODE2MjQ0MmVkOTdmYWEyYWY1NjE3MTBiMGNmMDM5ZDI=",
+      "date": 1559520000000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de DEISIANE RAMOS DO VALE",
+      "attachments": []
+    },
+    {
+      "id": "MGE0OTBjMjdjNDNkNDUzZmJkMDgwNGJkNjdlZWQ2N2E=",
+      "date": 1565568000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u/",
+      "attachments": []
+    },
+    {
+      "id": "ZGVlYTMxZGU4YWQ1NzFlM2Q1NzUyM2Q2MDJmNjBlYzI=",
+      "date": 1505174400000,
+      "text": "1. Contrato e Contrato de Transferencia Celulose Irani (1) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTM5ZWY1YzQ5NTk4NzUwMjU0NmQyMzAxMTQ1NWMzYmI=",
+      "date": 1542326400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "NDkyZTZkMjY2M2I5N2Q1NTM2MWI3NmQ5NGFlNDZjNzY=",
+      "date": 1505174400000,
+      "text": "49. Certid\u00e3o de \u00d3bito Henrique | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDgyZDc1NWIzODRlZGE1M2E2Nzk0ZTk1MTFkMGYwMzM=",
+      "date": 1534377600000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (17/10/2018 15:00 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "NDYyMDJkMDhhY2Y2NTNjMTA0YTg2N2M3Mzg4MzIxNzA=",
+      "date": 1559520000000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de A. R. D. O.",
+      "attachments": []
+    },
+    {
+      "id": "NTYzNzc5MWNiY2NkZGFkNjhiZjg2NzA0YTgwOTZhMmM=",
+      "date": 1521072000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Yjc3MjUzYjMwMzIyODUwNjYzYWNhNTc1NjU2NGRiZmM=",
+      "date": 1544140800000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 06/12/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmEwODAyNWNlNDA5Yjk1ZmM0ZTUxNzI2MzRhZDU3Mzc=",
+      "date": 1522800000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "Zjc0NTAxNjU1NzUzZmVlN2I4NzE3OWI0OTBjYzQyMjM=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Cintilografia ossea03052017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjIyYmRmNTU3MzljNDE1ZGEwYWFhMzIyZDQ4N2ZhODU=",
+      "date": 1561075200000,
+      "text": "Manifesta\u00e7\u00e3o do Autor | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2RjNjNjODJiOGE5OTI0MGJlOTM5YTc2YmY1ZmEwNTc=",
+      "date": 1550102400000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 13/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWYyNjYzZjk4ZGUxNWNiYTc0MDVhMzMwYzA0ZDc3Yzc=",
+      "date": 1559520000000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "OTllN2I2OGJmMzhlOTViMTM4YjMxZWQwNDY5Nzg5NGY=",
+      "date": 1558396800000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (21/05/2019 15:30 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "MGMwZTg4OWE2MDU4Y2RhMTdkZjk0NjQzYmQzYmMzNTU=",
+      "date": 1549238400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWJlNWNjYmE5MjNmYTNmYzczYmJjZWQxM2FlMjYxNzY=",
+      "date": 1549584000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTEyOTQyYjI5NDNkNWJlNzEyYzc2MjBhMDU5ZGFiYmE=",
+      "date": 1523404800000,
+      "text": "Peti\u00e7\u00e3o de Impugna\u00e7\u00e3o do laudo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjNiNjAxZWFkZjNiNDY4MGRiYmYxOGMwYjE1YWYwNTQ=",
+      "date": 1565308800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso ordin\u00e1rio autor)",
+      "attachments": []
+    },
+    {
+      "id": "YmMxNjU5MzE3MzhmNzE5ZjQ1MTJjZDFkZDBmZmUzZDI=",
+      "date": 1547164800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzlmNzAwNTFjMWVlYjRjM2RlM2Y2MTZkNTcxMGNkZjM=",
+      "date": 1565395200000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 09/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZjJkMDUyZWMwOGZiNjBmMGJkNmExMGE3MGE1Y2UyZTg=",
+      "date": 1496102400000,
+      "text": "Conclusos os autos para despacho a AUGUSTO PESSOA DE MENDONCA E ALVARENGA",
+      "attachments": []
+    },
+    {
+      "id": "ZDk0M2E3MTdhMjA2ZmFmYWI1NGRjYzcxOGExYjUzZGY=",
+      "date": 1541980800000,
+      "text": "Peti\u00e7\u00e3o do Autor | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjc2Y2Y3YmJhY2Y3YjdhYWIyMmQ0ZGYxNDU1MGY4ODk=",
+      "date": 1505174400000,
+      "text": "27. Controle de Ponto 16.09.12 a 15.10.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNmNzczNmQzOTI5MDAxODc2Nzk3MDQ3MDJjZjdiMWY=",
+      "date": 1505174400000,
+      "text": "5. Acordo Coletivo - jornada - Turnos fev 1999 a fev 2001 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzllODA3M2VkOWRiMGM0MjliNWY5OTM2NGJiNWMzMWM=",
+      "date": 1541548800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2JkNzA1MmVmYWVmMjM0MjU2MTA2NzhlNjU2NjVjNWQ=",
+      "date": 1521072000000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzMzZGE0ZDE3NWMyMjFiMWZmZWM2Yjc4ZWU2NGI1Yzk=",
+      "date": 1494547200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGM4NjlkODQxYzE1YjEyMjhjYTI3MzFiOTJmOWQzM2Y=",
+      "date": 1561334400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "YmNmYjFmMDExMDY0ZDJiYTU0OTM5ZGJmYzM3YTEyMWU=",
+      "date": 1565395200000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 09/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZjBhOWZlZWQ0NjM3MTJjMWRmNTUxMzBlMWFlMjRhNGE=",
+      "date": 1521158400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGEwZTQ5ZGE1NWU2MzRkNTRhNDEwMThmMjlhODhmYmE=",
+      "date": 1505174400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTk1ZTRiODBiYTNmZWJmZmY5ZDZhMDBmMmYyYWJiODU=",
+      "date": 1547164800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YjQxNWY3MTRjNjA2MTA0ZTRkZDgzNzkzOGFhNGM1NGE=",
+      "date": 1550102400000,
+      "text": "Conclusos os autos para despacho a JESSICA GRAZIELLE ANDRADE MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "NmZhNjkxMDliNDczYjE3MjgyNDFhZmQ4MmZmZTZkOGY=",
+      "date": 1522627200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDBlZGQ5ZTBlODZiODhhOWE1OWM2N2MwM2ExZDkwOTA=",
+      "date": 1542412800000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 16/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Yzc5NTA5YTBlZTlmMGJmYTU1Njk5OTFhNGJlYTQ4NGY=",
+      "date": 1505174400000,
+      "text": "3. Ficha Henrique Luciano de Oliveira S\u00e3o Roberto | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGU0MDA2NzlhNTIyMjJhNmJhOGJjMjJlOWU4NWRmMTU=",
+      "date": 1505174400000,
+      "text": "29. Controle de Ponto 16.12.11 a 15.01.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzY0NTc4MWEwY2E2MmJmMjQwNjgwZWI5Y2RkODFhZjM=",
+      "date": 1560297600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o (Embargos de Declara\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NWVlMmU0MWUyYmUyN2ZkYTEyMDc1YjFlMWQ0MzVkNzI=",
+      "date": 1560816000000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 17/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Mzg0YjFlODdmYzQzZGQxYWZlYjY2MWQwMTEyOGFkNTM=",
+      "date": 1539820800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIzZmM0ODBmOTFjNDVjM2M1Y2I2NTg0NDFlODk1ZDA=",
+      "date": 1540944000000,
+      "text": "Apresenta\u00e7\u00e3o de quesitos m\u00e9dicos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGNiMTFmZDBiZWE5MTNjNTMyNTU3MzNkYjc3Zjk4Yzk=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Videoendoscopia03052017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzRhYjc5YzkwNzg1MGYwZGUxMzBhYTRkNTlkN2RkYTA=",
+      "date": 1541635200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "M2FjMGE2ZDVhYmQwNjU0M2QwNDMwZjg0ZTJjMGRhMTQ=",
+      "date": 1548720000000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 28/01/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Zjg0MDhkM2ZlMjdkY2VkMTYzNjgxMDk3MTMwOTFlZjg=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Laudo Ultrasonografia henrique Luciano03052017 | Laudo M\u00e9dico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWM3ZDNkMGUxNTI1YzgwZGEyZGM1YzU5MzhmNmQ0NDc=",
+      "date": 1506211200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 25/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "NWQ4NjEwMjkwMzcwZmRlMDgwYjViY2FjYmVjNjU4MzE=",
+      "date": 1541462400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzJjYjFkNmM5OTcwZGViZTIxOTM3YjMyOGUwOGVjNDA=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmFhYjFkNjIzNjFhYjQ0MDNhZTAyMGVlNjY0NDAxMjY=",
+      "date": 1505952000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MmI3MTcyNDM1NDBhNjkxNDc2ZThiMmJhNTgyZTU1ZTE=",
+      "date": 1559606400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjgzZmYzODk2ZjA3MTRmYjY0ZGExMWVhNDM4ODcwN2U=",
+      "date": 1505174400000,
+      "text": "50. TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NThlZTcyNjI2M2U1MzhjNWM0ZGY5YzdkYWY5YjNlYjM=",
+      "date": 1505174400000,
+      "text": "26. Controle de Ponto 16.08.12 a 15.09.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzZiNGMxYjcxOWZiOWY4YjQwZTNmZmM1YWQ2ZWFjOTg=",
+      "date": 1505174400000,
+      "text": "14. Acordo Coletivo mai 2012 a abr 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGY2YjVmOTVmYTE1NGIwOTYxYmRlZDIzZDU0M2IwMzQ=",
+      "date": 1523836800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTY4MGZlZTljY2U1YWY5ODZlMjExODYwNjhiNmMwMTA=",
+      "date": 1505174400000,
+      "text": "46. Certificados de Curso CIPA e Operador de Empilhadeira | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjRkMzJkYTAzMzgzZGI4MzVhYmM3NTk4Yjk0YzUyZDY=",
+      "date": 1523923200000,
+      "text": "Peti\u00e7\u00e3o: Manifesta\u00e7\u00e3o Autor | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg2Y2U5MGUxYmRkZTIxYzQ5Yjc2YTNjZjlmZWViMTg=",
+      "date": 1541376000000,
+      "text": "Perito m\u00e9dico solicita intima\u00e7\u00e3o das partes | Indica\u00e7\u00e3o de Data de Realiza\u00e7\u00e3o de Dilig\u00eancia Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTlhMTc5NjJlNmFlMzdmMDEwM2U4NjM4NWRhZjBkNjk=",
+      "date": 1566864000000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 26/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzA1MzE0NDE3ZjNkODkwMGVmYWM2N2FhYzZjMmMzMjQ=",
+      "date": 1550016000000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 12/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTdiNmY1ZmZhNmIwZmIzN2Q5NWQ2NTNmMjhmYzM2YmM=",
+      "date": 1524700800000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 25/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Y2JhMjY2ZWVjODZlMzY1YzkxYjc3Mjc2NTk5MmRmOGI=",
+      "date": 1505692800000,
+      "text": "Henrique | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjE5NjA5NTc3NTAyZTNhMWQ3NmIwMmY1ZTE3YzllOWY=",
+      "date": 1564272000000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de CELULOSE IRANI S.A. - CNPJ: 92.791.243/0001-03",
+      "attachments": []
+    },
+    {
+      "id": "MjdiM2I1N2MxOTUwNDgwMTI4N2ZlYjgyODBkMDdmZDQ=",
+      "date": 1534464000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZlMTFjYTM1M2YxYTg3MGE5ZmU0YTNlZDlmNGY0Nzc=",
+      "date": 1505174400000,
+      "text": "12. Acordo Coletivo mai 2010 a abr 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDJjOGNiN2UyNzVjOGM1OGJhNjI0YzRiYzJkMmFlNmQ=",
+      "date": 1550016000000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 12/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTA5ZWY4ZDU1NTEzMWM3NWJkNmM5NjA5ZGIxY2I0NDY=",
+      "date": 1548460800000,
+      "text": "Manifesta\u00e7\u00e3o da autora | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGMwNTRhN2I5MmE1NzAyNTZlZDQ5YzJlOWFhOGQ5M2Q=",
+      "date": 1525824000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTRjZDFkNThjY2M4NjlkOTg0YTg1NDljZGNhMTNkY2M=",
+      "date": 1521158400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Y2QzMDA0MjU3YTU4MTVmZDU4MjdiY2IyMTUyNWQ2NmQ=",
+      "date": 1506297600000,
+      "text": "Manifesta\u00e7\u00e3o da Autora | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDc5MDQxMjJlMmJkNDdmOTYwZTA1YWQ0NTJkMmQ0Y2U=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Previdencia Social 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjU5OWE4ZjU0NjUxYzBjYTgwNDlkNmY1MDEwM2M4ZTk=",
+      "date": 1565740800000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 13/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "OGEzMjM2ZGQ3MWY1YmVlNTA2MmY2Mjg4MjhjMTQxYTE=",
+      "date": 1559088000000,
+      "text": "Peti\u00e7\u00e3o de Juntada de Carta de Preposi\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWJmN2QxMzZiODIwOGY4Y2Y3ODU2YTg5NWJiNzVmM2M=",
+      "date": 1548633600000,
+      "text": "Conclusos os autos para despacho a JESSICA GRAZIELLE ANDRADE MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "N2YyZTQ1MGU1NjdkMjJjNzUzMmFhMGNiZTAxYTQ0MDA=",
+      "date": 1524528000000,
+      "text": "Manifesta\u00e7\u00e3o ao Documento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTk4MDNmY2RlZjA2Y2I5MjllNDgwNzI5YzMzMDkyOTE=",
+      "date": 1505174400000,
+      "text": "42. PPRA 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODU2MWU5NDBiN2Y1YjNjZGZmMWY5ZDg0M2NlNzkwYzU=",
+      "date": 1559520000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a DEISIANE RAMOS DO VALE",
+      "attachments": []
+    },
+    {
+      "id": "ZTBjZmQ5MzkzYjM5MTFmOTViMDkzOTc1MDhhNGFkNDU=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Certid\u00e3o de Nascimento Aline | Certid\u00e3o de Nascimento (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTljMTYwYTc5NGZlOGY0NjFkZjkxOGQ3OTljZjdlNzI=",
+      "date": 1539734400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "M2E2OWY2ODgzNDlhNzgyMzE5YjAzYTVjYzdkZjY1MmQ=",
+      "date": 1494288000000,
+      "text": "ESPOLIO DE HENRIQUE LUCIANO - PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2U3MDQ0NzQ1Njk1NDU4MmNkNzM0YTdhNDc4YzE0MTg=",
+      "date": 1559692800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NDFkN2QxMWVmYjRiYjk2MzRmYTYwNjVkMjIxNmQ5Mzc=",
+      "date": 1520467200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2M4MmZkMGYxZDdlYjY1MTZkMDllMWM5OTQxYzhiMDk=",
+      "date": 1523491200000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 11/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODkzYmVlNGUxY2RlNDYxM2E1NTVlNzU1ZTg1Y2FmNjg=",
+      "date": 1525392000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NmQ0YTNiMjdjMGRiZDYxZTdkNjZlOTBjMmNkZWMwMDA=",
+      "date": 1526601600000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 17/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzYwYWRiY2E5MGU0OGQ4MWU3OTViMjQzOTA3ZDVlMTQ=",
+      "date": 1521072000000,
+      "text": "Impugna\u00e7\u00e3o Laudo Concord\u00e2ncia | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWIwOTdjMzAzZjRjY2Q0MjliOTM0YmVhNDk5NDk2ZTM=",
+      "date": 1550016000000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 12/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjE2NGNlNDQxM2I0MjU5NWVkZDkxMzlmYzA0Njc5ZDc=",
+      "date": 1539734400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (21/05/2019 15:30 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA4MmFmMjhiYjA1N2UyNDY2MjQ2NTA2OTc4YWJlZWE=",
+      "date": 1540944000000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos Reclamada | Apresenta\u00e7\u00e3o de Quesitos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2Y3ZTkxYmU5OWIzNDNmZDAzNWUyOGMwYzdjN2Q3NmM=",
+      "date": 1505692800000,
+      "text": "Pet. junt. CP | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2U2MWNmZWY5YzQzYzI4ZGRlZTYxNTM0MTZmNTAyNDM=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Diagn\u00edstico03052017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY2M2FlZjQzZDJkYWRhYmFmOGJjODQ0YmRlNGUxZjU=",
+      "date": 1505174400000,
+      "text": "Defesa - Esp\u00f3lio Henrique Luciano de Oliveira x Irani III | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ5OGE5N2VhYWRkZjIwYjE4MmFkYjUxOGVjYzg4Nzk=",
+      "date": 1560816000000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 17/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjNiMDJlNTExNDRkMzM4MjEzOWJiYjBjMTNhMGFkOTU=",
+      "date": 1549238400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZTgyMjdjYTE0MmU1ZDQwOTVlNGM1Y2RiODVlMTEyNDY=",
+      "date": 1560470400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjBlMzY5ZmVmMmU0MmI4NTZlM2IyNmE2MzdiYmM1Y2U=",
+      "date": 1494288000000,
+      "text": "Henrique Luciano apostila4papelecelulose | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDM1NjE4ZjQzNzIxODg1NDlhYjBkZmJlN2MyOGI4YjA=",
+      "date": 1549152000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "OWQ0Nzk5YTAyZjQ2N2UxODJlZDA2ZDk2OTRiY2EzMjI=",
+      "date": 1505174400000,
+      "text": "AGE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzAyN2YxNDgzYTczM2U3NjYyNDQ4ZTVlOWNmNzk5ZTU=",
+      "date": 1560384000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "MzdiMmIwNmEyNzMzYjgwZmM2N2VjYmRiZDNmZTdhZmI=",
+      "date": 1566777600000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a PEDRO MALLET KNEIPP",
+      "attachments": []
+    },
+    {
+      "id": "Yjc3Yzc3NDllNjZkODBhMjI2N2Q4MzliYWY3MjI0NTM=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjc4OTQxNTRlZTA0YTZkZGRmYWFiNjAwNTY5NzRmOWQ=",
+      "date": 1523491200000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 11/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDM4N2QxODQzNTU1OTYzYzAzNDliZmY2OGZjYmM0OTA=",
+      "date": 1526342400000,
+      "text": "Manifesta\u00e7\u00e3o Autor | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzNTE5YzIwNjQyZGUyYjE0ODY1NmEzMDI4MmMyMjU=",
+      "date": 1559520000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a A. R. D. O.",
+      "attachments": []
+    },
+    {
+      "id": "ZDQyNjE5NDBhMDkzYmFlYTg3ZTdmY2FkYmNlZGZjYWU=",
+      "date": 1520294400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "ZjdjN2Y1MTA5N2JmZGM5Yjc3Y2ZkMTEzYmQ4NTQ4NDA=",
+      "date": 1560384000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTAxYTUyMzVhOTcxOWIzNWU4NzA1ZmNmZDVmZWI2M2E=",
+      "date": 1523491200000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 11/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODIyZmI2NmE3NTE0NGRlNDA2ZjVmMTlkMmU4Y2RjZTY=",
+      "date": 1549324800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDM2ZWJiYTQ2N2JkYjliMDVjZGYwNDNlODNiZWE3M2M=",
+      "date": 1545696000000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjAzZWVhZjRiZDM5N2VkOGQ0Y2NlYWFlYzhiZmQwZDQ=",
+      "date": 1505174400000,
+      "text": "8. Acordo Coletivo - jornada - Turnos 20092011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDMyOGM0Nzk0NzE5MzQzNjMwNmY2YmVlYmYzM2UxNzk=",
+      "date": 1505174400000,
+      "text": "13. Acordo Coletivo mai 2011 a abr 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjljNTk3NThmZDQ4YjIxYjdiMWIxNzE3NWY1ZmJhMzU=",
+      "date": 1549929600000,
+      "text": "Manifesta\u00e7\u00e3o da Reclamante laudo complementar | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODJlNDgyYjk0ODgyM2E1ZjVhNjEzZWFiYTRlNDYwYjY=",
+      "date": 1548720000000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 28/01/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjU0MTBmYTA1YjUyMDQ3MzQxODI5YmUyZmRkM2NiMzI=",
+      "date": 1523491200000,
+      "text": "laudo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmFjOWVkN2VmM2I5ZWVjYjU0NzczODcwYTExYjAxNDc=",
+      "date": 1541980800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2NkOWQ3MzIxOGJkYmQ4M2VmYjYxYjg1OWM0NjNkMDU=",
+      "date": 1560816000000,
+      "text": "Certid\u00e3o de juntada de guia judicial trabalhista. | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUyZjc3OTE1Y2I0ZmU2OTY1ZWM4Y2ZmOTBmMzNhNDA=",
+      "date": 1505174400000,
+      "text": "47. Solicita\u00e7\u00e3o de Beneficio INSS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmZhMWMxZjEwYjA4Nzc1ZWM3NjczYjkzMjNjNjFhOWE=",
+      "date": 1545696000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "YzlmNTE0ZTNmNGYzOTNiNDhhMTUzZWEyOGJlYTA3Yzk=",
+      "date": 1505779200000,
+      "text": "PETI\u00c7\u00c3O DE PER\u00cdCIA M\u00c9DICA DEISIANE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBjMzRjNWYzYzQxNzkyMzkxNGU3YzJkMmExOGI2MjE=",
+      "date": 1551398400000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 28/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTZlN2I1ZGFhZjkwYTJkMDZlZmM4Njg0MzgyMzUxN2Y=",
+      "date": 1542153600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjUyZDViMjk0MzJlMzdjYmRjMDkyMWZmMTcyN2JjNGY=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Ata Notarial - Uniao Est\u00e1vel | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQwYjAyOTAzYzExMTkyYjkzMjA0YmExYmQyNzRlNjU=",
+      "date": 1513036800000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 11/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzU1ODQzNTBmYzc3YWQyY2M5YmNhMzUzMmJlMWQzMjc=",
+      "date": 1496102400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTdiZWIzZmVkNTJiNGVkMTk5YWFkNGYzNzhlODk5NmM=",
+      "date": 1505174400000,
+      "text": "Defesa - Esp\u00f3lio Henrique Luciano de Oliveira x Irani II | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzZmMzllYmVkYzZhNWUzNjQ4ZWMwOWZjZmI2ZDk0ZDE=",
+      "date": 1505174400000,
+      "text": "23. Controle de Ponto 16.05.12 a 15.06.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTk3MGRjNGJiOTY4NGU1ZTQxMzdmYWU1M2U4MmE1ODg=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO FGTS - Previdencia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTFkNDk1MWQwMDJjOGIyMTJlMGY2Zjc1ZTRmZTQ1ZmI=",
+      "date": 1541548800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "YWU3MTU1ZGQ0ZDc5ZDllY2Q0MWI5Zjc4NzE1Y2RlOTA=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Aline RG | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTExYzk5YzhlMzQ3MTAyNmQ1MjE5MmE0ZmY5Zjg2NTI=",
+      "date": 1505952000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjlhMTM5Y2ViODVmY2NlMGM3Njk1NjQxYzZkYjAwMWI=",
+      "date": 1548720000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "ZjRiYzhhMGUxMzBlN2MyM2YwNDQ2YWYzYzdiYjQwMDA=",
+      "date": 1524441600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTY2OGIzNjg4YWRjNDFmZDU4ZGE5ZGZmNTg3MTQ0ZDk=",
+      "date": 1542412800000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 16/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzY3OGM2YTFhMTFhMDIyNDMwYTUwY2MwMjQ1ZmQxMWE=",
+      "date": 1505692800000,
+      "text": "Pet. CP - Henrique Luciano de Oliveira | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWEzZjM5ZWY1MzUyMWYwYWJiYzI4ZDRjZjQ3MzE2MTE=",
+      "date": 1564272000000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGFmMGY2MmUwNDFkM2EyNjliMzYyNjc1MDM0ODExM2M=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO TRCT Henrique Luciano | Termo de Quita\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFkMmRjMTQ0YTgwN2U3OGJiM2ZlYjgxNmRhMWRhOGI=",
+      "date": 1559520000000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQ5NzI4YmE0YTM0YWI2YjY0NTA3NmUxZTlmNzFmNzM=",
+      "date": 1560384000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjlhMWY2YzBiOGRhYjI4YmMyMDFkYmJkZjlkMWViNDg=",
+      "date": 1564444800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "MTE3ZGI5YWY4ZWI2NGRiMjNkMWU5NWIyMTZkYWNlNDQ=",
+      "date": 1524441600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZGIzNDA4YjYwZjRiMGE2ZTlkYzcyNDM5N2EyMjg2YWQ=",
+      "date": 1505174400000,
+      "text": "44.1 Atas e reuni\u00f5es CIPA 2014 x 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM2MWM4MjY0NmVlZmM0MzdhMWVkNmM1MWVkNjE5Njk=",
+      "date": 1564099200000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a PEDRO MALLET KNEIPP",
+      "attachments": []
+    },
+    {
+      "id": "YjJlMDkzMjQzNWY1OTkyYzhiYTE1NWQ4N2ZjNDNmNDc=",
+      "date": 1526601600000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 17/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGI0ZGE3NGFkNjJiYjJmMjBjNTNlMTgwZWM5ODBlZTc=",
+      "date": 1521158400000,
+      "text": "Conclusos os autos para despacho a JESSICA GRAZIELLE ANDRADE MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "MTUzYWYzY2Q4NzE1MzljZWFlMGJiYTQ4NWI4ZmUwMTQ=",
+      "date": 1511222400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTJjMmY5M2UxZGY2ZTkxYmE5YWJhOThkYzIwYTI5NzM=",
+      "date": 1505174400000,
+      "text": "45.1 Atas e reuni\u00f5es CIPA 2015 x 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWExZWYxZmMyMTE0NGRkMTQ5NWJlZmFlYWY4ZmZkODA=",
+      "date": 1496016000000,
+      "text": "Peti\u00e7\u00e3o | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTAzNDNlNzRlZWU2MWFmYmRiOTFlODYwOTI3MDg0MjQ=",
+      "date": 1494288000000,
+      "text": "CTPS Henrique Luciano p1 | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWRhMzA4ZDZjNWVlMjRjNzIxMDk1ODg5Njg5YTQzZTQ=",
+      "date": 1534464000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDJkMjdlMzUxMTA4MmFlODhhYzdmNTM4ZmVlNzExMzI=",
+      "date": 1505174400000,
+      "text": "7. Acordo Coletivo - jornada - Turnos fev 2007 a fev 2009 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmIzNGIxNDg4Mzk1NDhmYjY1ZWJkMjU1Y2QwOWJlZTI=",
+      "date": 1522022400000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmE4Y2NmOWU4OGVhODE2MmRjNWJmNWY4Zjc1ZDNhM2E=",
+      "date": 1548374400000,
+      "text": "Manif. Laudo M\u00e9dico Irani | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQzNWQyYWM1NzU4Yzc1NTQ3OWFkYjBjYzQxZTJlMWU=",
+      "date": 1505174400000,
+      "text": "6. Acordo Coletivo - jornada - Turnos 2004 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3MzNlZTc5MDEzMThjNjBkZTVjODIzYjgyOTQzNDc=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Decis\u00e3o Previdencia 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM4NzUyZGNjOGQwZGNiYzM4MWQxNGE1YzAwNDE2ODQ=",
+      "date": 1496361600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MmRlZGExZGQ0YWZiODAwNmY5ODMxMDIzNmY1ZjkyYzQ=",
+      "date": 1505174400000,
+      "text": "Pet. Habilita\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmFmMTVkMDhhMmE3OTRiYjFjY2I3ZTYzYTdjYjIwYWM=",
+      "date": 1524441600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTYyNTY5NGVlODkyNmEzZTI5ZjE5NjE1YTczYmI5ZTY=",
+      "date": 1560470400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDExYjM0Y2ZlYTQwMTIwMzRjZDhhZGQ4YjhiYjAwN2Q=",
+      "date": 1548460800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2RkOTE5ZTg3YWRlYWNkNjZjZGU3OWMzYzZlMzg3M2Y=",
+      "date": 1560384000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmM0ZGY4MTliMmJhMTIxZDU0NGYyYmNmYjczZGFkZmY=",
+      "date": 1560297600000,
+      "text": "Embargos de Declara\u00e7\u00e3o | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIyNDdjOGI1ZmJiOTA0NzYxZTEzNWUyZGM4OWM5Mjk=",
+      "date": 1521158400000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 15/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDhkNWNmNGE2YjdlNGMxN2MzYmIxNGIzNWRjMWM1Yjc=",
+      "date": 1505433600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjViYTZkMjZkNDUyYWQyMGE4MDI0NWE4OTE0MzljNmU=",
+      "date": 1559520000000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MGRkZTAyZGU2YzcwMjkxN2M3NWVmZjAxMzMyNTc5OTQ=",
+      "date": 1550793600000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 21/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2M1ZWFhYTFjNWRjZjUxYzg0YTljNTgyZjEwZDUwMDk=",
+      "date": 1523404800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2RiYTdhZGRmNzI1MWJhNzllMTIxMWU5MzVlMWU4ZTU=",
+      "date": 1546992000000,
+      "text": "Conclusos os autos para despacho a ANTONIO CARLOS RODRIGUES FILHO",
+      "attachments": []
+    },
+    {
+      "id": "NjFiYjRjOGZjOGU3ZjAzMDY1MjhhYmM4ZGFhZTMxY2U=",
+      "date": 1560816000000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 17/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZGQzODQ3ZTE3NzQ4OWU0MzAxMzE3ZGFjY2IzNzZiZjg=",
+      "date": 1524528000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YmJlM2Q5NDIzNmEyZTVjY2VhZTAyZWZkMTE1ZmFiMWY=",
+      "date": 1521158400000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 15/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmZhYzA5YzFhM2YyOTNiZDQxNmQ5MDI4OGQ5ZTYwZTk=",
+      "date": 1506297600000,
+      "text": "Quesitos e Assistente T\u00e9cnico | Quesitos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTBhOWE4M2NlNzNjNTk5ZDY0NmNlNTBmZjNlMGJiYjk=",
+      "date": 1543276800000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 26/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTg2MGI2ZTRjOTM4YzQ0Y2ZlNjU1YWY5Y2FiZjc1NGM=",
+      "date": 1548720000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzIxY2M2NzZhOWMyMTdmZjVlMTdiMTAzZjU4YzFiNzg=",
+      "date": 1566950400000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 27/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "MTY0ZTAyNzg1Y2Y0YTY2NjJkYmFjMjgzZWNiMTJkZDk=",
+      "date": 1505174400000,
+      "text": "45.2 Atas e reuni\u00f5es CIPA 2015 x 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ4ZGY0MDdjZmNmYzBkY2ZhMTkzYzkyZDZiOWRkZmI=",
+      "date": 1506124800000,
+      "text": "Impugna\u00e7\u00e3o \u00e0 contesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTJmMjZiNzE5ZWE1YTI3NGY2MjdiZDM1Zjk0ZGYzODY=",
+      "date": 1525910400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmY5NDgyOGMzNWZjYjU5OGQ2NjFhOGFiZGQ5ODdlYzU=",
+      "date": 1561420800000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 24/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmJjYjZkMjhlMDFjYzgyYzlmNjJmNjc3OWE0NTZlMzI=",
+      "date": 1565395200000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 09/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NGQ0NmU4M2MzYTcyNmNiMDE2YTY3OTlmZDJiOTBjNzE=",
+      "date": 1523577600000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 12/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2JlNGMwOTU2MGNkMWQ3YjVkMTQzNmM5ZDFkMzM4ZTY=",
+      "date": 1548633600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MzUzNDY0OTdkZDQ4YWYyYWZjN2JjYjg4ZDZhYTQwYTk=",
+      "date": 1542672000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODllODAzZTNkMjcyOWFhODkwZjI0NzkyOTJiNWU0MmM=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO CPF deisiane | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODg2MDgxZmQxZjg2MmY4NzlkMGZjMzYxMjAxZjNiZmI=",
+      "date": 1547510400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/01/2019",
+      "attachments": []
+    },
+    {
+      "id": "M2FmODY5N2IwYTM2NjYxNGJjZDA0YzJiODZiOTFiNzM=",
+      "date": 1550016000000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 12/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWQ4ZGIyMWQyZTBmNGFkOTgyMjMyMGVhZDM3ZDIwY2U=",
+      "date": 1541376000000,
+      "text": "Conclusos os autos para despacho a FERNANDA CRISTINE NUNES TEIXEIRA",
+      "attachments": []
+    },
+    {
+      "id": "ZjdmY2FiMTVlZTc3ZWM4NDMyMjI3Mzc1YWU3MjFjMTQ=",
+      "date": 1542326400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWU1YmI0NzNmOTdiODQzZmQ5NDI5NjMxMTRiMjFmNmM=",
+      "date": 1505779200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzU0MGMwMTYyMmRjMGY3OTA1NjUzYzA2MWI3M2EwODA=",
+      "date": 1539734400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (17/10/2018 15:00 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "NzQwMWI4Mzg3MjIzMzVlNjk0NjY2Y2M3NmVkMzM5M2M=",
+      "date": 1522022400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "MDQ1NjMxMDQ1OGY5ODQ3NWI3NTRjMmQyNThjNGYwM2E=",
+      "date": 1505174400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY4YzhjODI4OWE0NDA1NGVlMTQ2YTkyNzk3ZTA3MjY=",
+      "date": 1511136000000,
+      "text": "Conclusos os autos para despacho a PEDRO MALLET KNEIPP",
+      "attachments": []
+    },
+    {
+      "id": "OGZmOTM2ZTQxMzFlMzZmZDk0MDliMzgzNWEyMjdmNDY=",
+      "date": 1541462400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzY5ZjM4MzMyMmNlZGRhZDlhZjJlODM2M2ZkOWE4MmI=",
+      "date": 1505174400000,
+      "text": "51. Extrato FGTS e Chaves de saque | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWNlMGU2ZjYwMjgxNWRhMTAxYWRkNGUzYWZhZWUzZGY=",
+      "date": 1521158400000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 15/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzZjYzVhM2ZiZDYwYWU2ZGRlOGNlZDI5OGU3NDVjNjU=",
+      "date": 1548374400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjhkYzY0YWU3ZmVkNWI3NGQ4ZTI2MmE1MGFjOGNkYzc=",
+      "date": 1505174400000,
+      "text": "40. PPRA 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU1MTkzODFhOTM4ZWJkYjk5ZDJiZmYzMmYzMzIyYzc=",
+      "date": 1523577600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmI1OGYzY2Q0ZDI5ZmM3ODFkZDM1N2E3NzFmZGZiYmQ=",
+      "date": 1505174400000,
+      "text": "38. ASO Admissional e Periodicos | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY2ODkzNzUxYWUxN2Q4M2VlNjAzZmY5ODgzY2M0M2I=",
+      "date": 1505174400000,
+      "text": "18. A.C. 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNlNmNhODMwOGUwODZhZmI0Y2RjNWVlYjY1ZDk0NzY=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p7 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTZkOWMwNjFkMTJjOTllOTI5NzkxOTQ0ZjFlZWI5ZTM=",
+      "date": 1560902400000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 18/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmYxOWVjMzRmMmY5NTUzNjY2YjI1NTg2MjEwNjdlYTI=",
+      "date": 1526601600000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 17/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDUwMjBmMWRkZTgyMDk5M2RhOTg5MDQ2YTJkNjdhMjI=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Relatorio Radioterapia03052017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWNjNWY3OWM5OGRkMWViMGI4Yjk3YjNiMzYzOTNjZjk=",
+      "date": 1523923200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZTcxZjdkOTI1Yzg1ZDQxY2E3OGM1NmQ4NzJlNjllNWI=",
+      "date": 1505174400000,
+      "text": "19. A.C.2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQwMjNlNDJjYjI3NDYwYmI0YzZiYTMxZjMzOWEzOWE=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Certid\u00e3o de Obito | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTY0M2RlMDc0NDlmZWJhMDQ2NTg3ZTU5ZTJjMjBiZTQ=",
+      "date": 1494547200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ODM4N2IwYjkyMGU2YWE4MThjYmZjODgyYjU1YjQ3Yzc=",
+      "date": 1505433600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "OTI3ZTE5MzYxNzQwNTg0NjFhY2MxOGI5YzA2MTI1YTQ=",
+      "date": 1522800000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTI3YmM1MjA4MWZlNzZhZmZjZmM0YWE3OTUyMmZlMzA=",
+      "date": 1548633600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q1OWVhMWNiYmE0OTE1NmQ5NDI3OTFhZjQ3NGYyYTM=",
+      "date": 1541635200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 08/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZWE3NTQ3MDc0OWFiY2MxMzE0NWJjMTRkZjY0MDFiNWY=",
+      "date": 1505174400000,
+      "text": "Defesa - Esp\u00f3lio Henrique Luciano de Oliveira x Irani I | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDFiNGIwYjM5MWE1NGUyODRmYjdjNTdiZDkzNDQzZmI=",
+      "date": 1505952000000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3MjVlMzg0OWEzYjgzZDBhMTJmMGQ2YTE0MTMyYTk=",
+      "date": 1505174400000,
+      "text": "20. A.C.2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDYwMWU1ZjFhMDRjYTJkZTc2YzFiZDRlMWYxYjBmNzU=",
+      "date": 1505174400000,
+      "text": "24. Controle de Ponto 16.06.12 a 15.07.12 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzI5Y2IyMDI5ODQzMGNjOGRmNTYzYTYzMTk1NjE0MGI=",
+      "date": 1505952000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg1MmU3YmY4ODBlZWM3YmU0YWY2MGIwMWMyMDhmYzg=",
+      "date": 1510790400000,
+      "text": "COMUNICADO DILIGENCIA PERICIAL | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzUwMzA3ZTY4ZmIzMTQwODNmZjVlZjdjZTZlZmQ5YWM=",
+      "date": 1505174400000,
+      "text": "45. Atas e reuni\u00f5es CIPA 2015 x 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGViMjZjNjk3Y2Q3YjgyOTkxNmJhMWYwYmI5MTMyNmY=",
+      "date": 1565654400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NTE1M2M2ZGExY2RmZDE1ZDJhMDdjMDIwNTFlZjU0MDE=",
+      "date": 1564444800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u/",
+      "attachments": []
+    },
+    {
+      "id": "Mjk0OTA4M2M4ZGFhNjg0YzdiY2I5YzQwZmZlYzNjNTQ=",
+      "date": 1505260800000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZjU2NDM3MGE2ZWE2NDM0Y2ZiNDI1YmIwMjg5YmJkZmE=",
+      "date": 1541462400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3ODM5M2NkODk1OWRlYWRlNWE0OTU2YjMyMzUwZDQ=",
+      "date": 1505174400000,
+      "text": "44. Atas e reuni\u00f5es CIPA 2014 x 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGEzM2VkOGFlM2U5N2RjZGNiMGQ1OWJhNzk1NTYyZGE=",
+      "date": 1505174400000,
+      "text": "22. A.C.2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWU1NWU2MTk0NDc2ODg3MGNjYmE1MjllZGU4YTliNDU=",
+      "date": 1526601600000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 17/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTE3ZTNlNzY1ZmJhMmU2OGYyNzNiMWY1OWU1NTg0NTQ=",
+      "date": 1494288000000,
+      "text": "Audi\u00eancia inicial designada (13/09/2017 12:55 - Vara do Trabalho de Santa Luzia)",
+      "attachments": []
+    },
+    {
+      "id": "NWZkOGFkOWYyZGE0NWFkNDdhMTcxYmU0NmJjMjM0MzU=",
+      "date": 1549929600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o da Reclamante laudo complementar)",
+      "attachments": []
+    },
+    {
+      "id": "ZDdiODc3NDAxNTVhYWQ5MzU4ODg0NDJkMTlhZDdiNDQ=",
+      "date": 1511222400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDg0NjU0MGQzMzRiZGZjMGQ5YzJjNDM2MzUxOWU4Mzg=",
+      "date": 1542067200000,
+      "text": "Conclusos os autos para despacho a FERNANDA CRISTINE NUNES TEIXEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NGM2MDhmYzU0MzE0NmFiZjE4NzdhMDU0Nzc1N2UwZjY=",
+      "date": 1561075200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o do Autor)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ2NTI2YWVlYWQ3NmVmOWJlNTliNDU1MzUxMWU2ZDE=",
+      "date": 1505174400000,
+      "text": "37. Ficha de EPI | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWY1M2E2NGZkMGUwNDEwMmY5NDVkMThiYzIwMWVmYjc=",
+      "date": 1523923200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjQxY2E2ZjMxYWMxYWYxNGIzZjk2YzBkYWUxM2ZlMWU=",
+      "date": 1494288000000,
+      "text": "diretrizes vigilancia cancer trabalho p6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDc2OTU5ODBjN2ViNzdlOGZhODczYWEzNGFhYTRlYWE=",
+      "date": 1534464000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q1ZjA4ZWZiMGJmZjg2M2JjMTRkYmYwZTc5NjMxY2Y=",
+      "date": 1523491200000,
+      "text": "Decorrido o prazo de DEISIANE RAMOS DO VALE em 11/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTQ0YThjNTRlYzRhZDcwMzMwMDJhMjllYWY0Njc1ZDQ=",
+      "date": 1561507200000,
+      "text": "Decorrido o prazo de INDUSTRIA DE PAPEL E PAPELAO SAO ROBERTO S A em 25/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTMzZmM4NzgyZGQzMzRlNGQ4Zjc5MWQ0YzU5MWFhNGU=",
+      "date": 1559088000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Peti\u00e7\u00e3o de Juntada de Carta de Preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUwYzUyM2E0MWU2ZTI2NmVkNTNhYTIzNjc0M2Y1NGY=",
+      "date": 1542153600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWFmYWIyOTAzZjc1MmY2ZTRiOTYxMjcwZmE2MmY5NmE=",
+      "date": 1505174400000,
+      "text": "39.1 PCMSO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTkyNGQ4OWQyNjFiNWM2ODVmOTY1ZDIyYTRhNTc1ZTY=",
+      "date": 1542153600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "M2Y1N2RmNjBkYzU0MWUxNDExNGQyZWUwYmQ5MjA1NzI=",
+      "date": 1549324800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmQ5NWM2NzhkN2FkNmFjNzcyZTVhNjI3ZWRlMTEwOTI=",
+      "date": 1523491200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODcyYjE1MmZmNzgzZDJjYTQwMjNmZTg1ZjM5MWVhYjQ=",
+      "date": 1525392000000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWEyNzM5MWZjNTFmNTdhMWU0NjQzZjc5ZDk3YTc0ODQ=",
+      "date": 1506470400000,
+      "text": "Decorrido o prazo de ANANDA RAMOS DE OLIVEIRA em 26/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzIzYzcxMjRmNzkyNTZjODU5ZjQ1ZTU4NTNhNzUxYTE=",
+      "date": 1534377600000,
+      "text": "Conclusos os autos para despacho a JESSICA GRAZIELLE ANDRADE MARTINS",
+      "attachments": []
+    },
+    {
+      "id": "OWJiYmU2OWRkOGQ3ZTUxMjkxMmRlZjczMDMzN2VkZTE=",
+      "date": 1520294400000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjdhMTQyOTlkZjcxNzJlNGViNTFmYjMyMjA5YzAwZmE=",
+      "date": 1526342400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZjNzc0MTFhODQ1ZjQyODVjNGNiNzA0NDlkMmIyZWM=",
+      "date": 1564272000000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "M2VjZTA3MGJkNTAzYWQ2MjVjZWE1Y2UyNmFmNjMwNDc=",
+      "date": 1505174400000,
+      "text": "41. PPRA 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDc5YWE2ZmVkZGE1YWI2ZDljZTNiODU1NWFkOTQzMGM=",
+      "date": 1565395200000,
+      "text": "Decorrido o prazo de CELULOSE IRANI S.A. em 09/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "MWQ3OGRiYWUzZDFjMTg5NmVjYTgyZDQwMGJkZDg2YzU=",
+      "date": 1505174400000,
+      "text": "15. Acordo Coletivo mai 2013 a abr 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGVhNmRlYzQ4NjBlNzZkNjE2ZTdlYWVkMzgwYzRlZWQ=",
+      "date": 1494288000000,
+      "text": "HENRIQUE LUCIANO Certid\u00e3o de Nascimento Ananda | Certid\u00e3o de Nascimento (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTA0YzkyODkyMGVhNjgyYTk0MDAwOGFmNzJhMjAyMGU=",
+      "date": 1505174400000,
+      "text": "10. Acordo Coletivo - jornada - Turnos fev 2013 a fev 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDdmYmIzNDBkYTI2NDY5ODZkYzQ2ZDdjMGQyYjUwZGM=",
+      "date": 1565308800000,
+      "text": "e Guia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmUzZjU3ZGFlMjg4MGQ2OWQyZGJmMTE3ZmIyNmMyMTA=",
+      "date": 1506470400000,
+      "text": "Decorrido o prazo de ALINE RAMOS DE OLIVEIRA em 26/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjZjNDEzZGU3ZDlhYTdiMzgwNjAwMzg3ODMwYTgxMzM=",
+      "date": 1561334400000,
+      "text": "Contrarraz\u00f5es | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdjNmRmYjQyMDNmY2VkMjM5MGQ4NWY5NWQ3NWVjYTY=",
+      "date": 1542672000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OWNmOTk5NmM4ZTE0ZDBhZjM5NTdjYzc0MDA0MTEyNzA=",
+      "date": 1505174400000,
+      "text": "Substabelecimento Jean | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDlmYTliOTIxYjU3MTJmMDIyMmNhM2ZhMGFlYTFiNWI=",
+      "date": 1542585600000,
+      "text": "Pelo perito m\u00e9dico | Indica\u00e7\u00e3o de Data de Realiza\u00e7\u00e3o de Dilig\u00eancia Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmNmYmIwZGIzNDk3Zjc5YmFlNWFhMzQ1NGY5N2Y0OTg=",
+      "date": 1542672000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "M2Y1YzBjODJiYTJhY2UxMzk2YTNiNWNjYzRhODI2NGQ=",
+      "date": 1567728000000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "OTZjMmNjMzFlNzAwNWI5ZjcxODdlOWNkM2U2MGVmMTc=",
+      "date": 1505174400000,
+      "text": "35. Ficha Financeira 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTIyMmE1OGQzZTUxNmRmYjdmYThhZjVhZGFhNTc3MGQ=",
+      "date": 1505174400000,
+      "text": "2. Ficha Henrique Luciano de Oliveira Celulose Irani | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWZiNGY0MzJhODZmOWM1ZTdjYzIyOGRiNjk5ZWIwMWQ=",
+      "date": 1505174400000,
+      "text": "Substabelecimento | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQxNjVmNmQ2ZDBmN2E1MjQ2Yjg0MWZiZDM3YzI3ZDc=",
+      "date": 1564444800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NmI1NjhiZGYwMTI0YzMzMjQwZjM4YTIzYTMxMWM5MjE=",
+      "date": 1505174400000,
+      "text": "11. Acordo Coletivo - jornada - Turnos fev 2015 a fev 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTlkZWEwMzAwOGNlN2ZlNWFlY2M1MTBmZTQ3ZDk0M2I=",
+      "date": 1505174400000,
+      "text": "39. PCMSO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmZjMmIxYWIzYWE5NzA0MjQ5NzRmZGJhN2YyNzM2ZjY=",
+      "date": 1506124800000,
+      "text": "Quesitos da per\u00edcia Autor | Quesitos (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

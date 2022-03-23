@@ -1,0 +1,284 @@
+{
+  "lawsuit": {
+    "id": "YmE2ZDEyOTYtYXV0b21hdGljOjAtMDAxMjI4Mzc5MjAxNTUwMTA0MjEtbGF3c3VpdA==",
+    "activityCount": 37,
+    "number": "0012283-79.2015.5.01.0421",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": "1a Vara de Barra do Pira\u00ed",
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A.",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Thiago Papera da Silva",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Embargado(a)",
+          "normalized": "Embargado"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Dra. Mariana Carraca Pinto da Costa",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "Advogada",
+          "normalized": null
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1420120800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "8\u00aa Turma",
+    "nature": {
+      "raw": "ARR",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQz",
+      "date": 1540350000000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQ1",
+      "date": 1538103600000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTMx",
+      "date": 1564974000000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 14/08/2019 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM3",
+      "date": 1556161200000,
+      "text": "Disponibilizado(a) \"ato disponibilizado\" no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTJi",
+      "date": 1567393200000,
+      "text": "Classe Processual alterada para Embargos de Declara\u00e7\u00e3o - (reautuado)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNh",
+      "date": 1553828400000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 29/03/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTFk",
+      "date": 1574823600000,
+      "text": "Transitado em Julgado em 25/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNm",
+      "date": 1551927600000,
+      "text": "Remetidos os Autos para Secretaria da 8\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM5",
+      "date": 1554433200000,
+      "text": "Peti\u00e7\u00e3o: 79970/2019 - Agravo Regimental",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTIy",
+      "date": 1571799600000,
+      "text": "Rejeitados os Embargos Declarat\u00f3rios",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTJm",
+      "date": 1565838000000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQ0",
+      "date": 1538362800000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQy",
+      "date": 1540954800000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM0",
+      "date": 1557975600000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Maria Cristina Irigoyen Peduzzi)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQ4",
+      "date": 1538103600000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTJj",
+      "date": 1565924400000,
+      "text": "Peti\u00e7\u00e3o: 192698/2019 - Embargos Declarat\u00f3rios",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTIz",
+      "date": 1571022000000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 23/10/2019 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTJh",
+      "date": 1567393200000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Maria Cristina Irigoyen Peduzzi)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNi",
+      "date": 1553742000000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQ2",
+      "date": 1538103600000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTE3",
+      "date": 1574823600000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 1\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNl",
+      "date": 1552618800000,
+      "text": "Disponibilizado(a) PAUTA DE JULGAMENTO no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTJk",
+      "date": 1565924400000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 16/08/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM1",
+      "date": 1557198000000,
+      "text": "Peti\u00e7\u00e3o: 107359/2019 - Contrarraz\u00f5es",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNj",
+      "date": 1553655600000,
+      "text": "Negado provimento ao agravo do reclamante e n\u00e3o conhecido o recurso do (s) reclamado (s).",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTMz",
+      "date": 1564455600000,
+      "text": "Remetidos os Autos para Secretaria da 8\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTIw",
+      "date": 1571972400000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 25/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTMy",
+      "date": 1564714800000,
+      "text": "Disponibilizado(a) PAUTA DE JULGAMENTO no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTMw",
+      "date": 1565751600000,
+      "text": "N\u00e3o conhecido o Agravo",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTI1",
+      "date": 1570590000000,
+      "text": "Remetidos os Autos para Secretaria da 8\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTIx",
+      "date": 1571886000000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTI0",
+      "date": 1570762800000,
+      "text": "Disponibilizado(a) PAUTA DE JULGAMENTO no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM4",
+      "date": 1555988400000,
+      "text": "Classe Processual alterada para Agravo - (reautuado)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTM2",
+      "date": 1556247600000,
+      "text": "Publicado \"ato publicado\" em 26/04/2019",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQw",
+      "date": 1540954800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Maria Cristina Irigoyen Peduzzi)",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTQx",
+      "date": 1540954800000,
+      "text": "Distribu\u00eddo por sorteio \u00e0 Exm\u00aa Ministra MCP - T8 em 31/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "NjAwOWE0ODNhZjFjZWE2M2I3MjYxZTNk",
+      "date": 1552878000000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 27/03/2019 \u00e0s 09:00.",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,1453 @@
+{
+  "lawsuit": {
+    "id": "YzBhODk3ODYtYXV0b21hdGljOjE2MDQyODI0LTAwMTA2ODQwNzIwMTM1MDEwNTQxLWxhd3N1aXQ=",
+    "activityCount": 216,
+    "number": "0010684-07.2013.5.01.0541",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Carlos Andre Rodrigues",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Simone Matos Seixas Vitoretti",
+            "cpf": "041.816.637-44",
+            "lawyerId": "MjlhMTg4NjQtYXV0b21hdGljOjE2MDQyODI0LTAwMzA1NzQzNTA4OTQ3MS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Jose Carlos Braga Guimaraes",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Marco Antonio Affonso",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "CSN - Companhia de Sider\u00fargica Nacional",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Bruno Carvalho da Silva",
+            "cpf": "141.609.957-30",
+            "lawyerId": "OTFiNWNjOWYtYXV0b21hdGljOjE2MDQyODI0LWU0Nzg0YWVhNDUxYzZjOC1sYXd5ZXI="
+          },
+          {
+            "name": "Ana Gabriela Burlamaqui de Carvalho Vianna",
+            "cpf": "018.637.367-86",
+            "lawyerId": "NjU3YWJhOTktYXV0b21hdGljOjE2MDQyODI0LTE3NjU1ZmY5MzI4MWE0My1sYXd5ZXI="
+          },
+          {
+            "name": "Carlos Augusto Pinto de Vasconcellos Junior",
+            "cpf": "124.833.747-60",
+            "lawyerId": "YzNjMGJmODMtYXV0b21hdGljOjE2MDQyODI0LWM4NDI4ZTNhMjI1YzVkYy1sYXd5ZXI="
+          },
+          {
+            "name": "Bernardo de Magalhaes Burlamaqui",
+            "cpf": "084.403.337-57",
+            "lawyerId": "NDM5M2EyNTQtYXV0b21hdGljOjE2MDQyODI0LWE0NzExZmM1NTVkYmI3Mi1sYXd5ZXI="
+          },
+          {
+            "name": "Marcelo Gomes da Silva",
+            "cpf": "055.151.887-13",
+            "lawyerId": "ZjBhODVkNGEtYXV0b21hdGljOjE2MDQyODI0LTMwMTM1MDFmY2Y4NjY2Yy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "FCA Ferrovia Centro-Atl\u00e2ntica",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Marcone Rodrigues Vieira da Luz",
+            "cpf": "012.000.086-50",
+            "lawyerId": "Nzk4NDA1MzMtYXV0b21hdGljOjE2MDQyODI0LTY5NGNkOTRkODdkZDk4OS1sYXd5ZXI="
+          },
+          {
+            "name": "Marciano Guimaraes",
+            "cpf": "457.937.516-53",
+            "lawyerId": "MTNiMjE2NzgtYXV0b21hdGljOjE2MDQyODI0LTk4N2Q1N2RiYmQ5Y2U2OS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "EIF Engenharia e Invest. Ferrovi\u00e1rios LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Carlos Alberto Noel Junior",
+            "cpf": "083.733.797-62",
+            "lawyerId": "OGYzMjcxMDgtYXV0b21hdGljOjE2MDQyODI0LWNiYjBhZjI1MzZkMDUzNC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Log\u00edstica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Raquel Bellini de Oliveira Salles",
+            "cpf": "037.584.536-40",
+            "lawyerId": "M2M0MjM2MzEtYXV0b21hdGljOjE2MDQyODI0LWFmODFjNzU4MTRmYTRjZC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1357048800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT01",
+    "courtSection": "1\u00aa Vara do Trabalho de Tr\u00eas Rios",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NDZmMjQ4MDRmN2M3MTk4Y2FhZjg2NGY5ZDFmYzMwYjU=",
+      "date": 1370995200000,
+      "text": "NOTIFICA\u00c7\u00c3O DE DISPENSA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGFhM2MzMjk1MmU2NzZjNGYyNzE2YjMwNzU0OGEzODI=",
+      "date": 1379289600000,
+      "text": "LAUDO PERICIAL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDFlMGRlMTUwZGZhZTZlMDcyNTgwY2I5N2E3M2E0ZTg=",
+      "date": 1502668800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzRiMTI2ODlhMzIwODk2OGM3YjU0ODk0Y2RiYTVhMzI=",
+      "date": 1506902400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODY2NGJkNTU3MjQ3MDk4YWU5YTVhYjRmNzY5ZDVjZTI=",
+      "date": 1377561600000,
+      "text": "Preposi\u00e7\u00e3o | Credenciais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTA5N2M4ZjdhNGRjNTk1ZGUzOTFkYjg4MjRmZjE0NmY=",
+      "date": 1370995200000,
+      "text": "CNIS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzJkOTQ5NjgzZDVmYTdhNzQ1NTU5NjcwNTY1ZjExNGE=",
+      "date": 1527120000000,
+      "text": "Conclusos os autos para despacho a NATHALIA THAMI CHALUB PREZOTTI",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4Yzc2MGY0YjQ4N2ZiMzA4MGYxMjMyZGZkYTE2OTU=",
+      "date": 1375056000000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NThkZTc1ZTJmNGM0ZTFjMTJhZTJkMWNmNmU1YTNhMGE=",
+      "date": 1377820800000,
+      "text": "CARTA DE PREPOSTO FCA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDRmMjhmNjJiZDhhMjg2ZTIzMmU1ZmVkNTk4N2ZkMWE=",
+      "date": 1535500800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODA4Yjg2NTgzNzA3Mjc0NzFhM2MzNTNmN2EyYjNjNjY=",
+      "date": 1377475200000,
+      "text": "Carta de preposi\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjZmMDE1N2ZmYTIxYmI1MWMwMDU3Nzk0ZDNjMWNhMGY=",
+      "date": 1400025600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjA1OTYyYTI0Yzg3ODM4MmQ2N2MwNjJmMTk0ZGQ1NjY=",
+      "date": 1552953600000,
+      "text": "Conclusos os autos para despacho a GLENER PIMENTA STROPPA",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5ZWIzYzEyMzA4N2UyZmNlMmUzMGFjMTJkM2Y1NjM=",
+      "date": 1488499200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ3M2VkZWE4M2YwNjE5MzIzNzQ2MGExMGQ5MTRlNmE=",
+      "date": 1501372800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 31/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZTk2Yjc5YTQ3OGRlMTAwYmIzNTI5NWFmMmU3ZjBhZDM=",
+      "date": 1415750400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjRjYzMxNTUzYWE2OTI4NDkzMTQyMTVmN2E1OTIxOTU=",
+      "date": 1504569600000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 04/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Yzg1MmJmZmNiYmNlMTk4NzI0NWY3ODI1YWIyZWM2ZDc=",
+      "date": 1406246400000,
+      "text": "Decurso de Prazo do Perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjhhZTM1MjI4MGI0MzA5NDFlNDliMjRiZDI1YmExMmI=",
+      "date": 1377561600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhlOGM2OWMwYjQwMzg3NjI4NmRkYzk0MDk5NDQ4MjE=",
+      "date": 1377475200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZlZDc0MTI4NmI3NmFmMDVkMTUwNmRjMmI0MzA3ODI=",
+      "date": 1550016000000,
+      "text": "Certid\u00e3o de prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjg2Y2ZiYzljZWYyOWJkYTg5ODM2N2IyNzU0YjYxYTY=",
+      "date": 1544486400000,
+      "text": "Intima\u00e7\u00e3o ao perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGM4NTYxMDEwMmY5ZWZhMmMwMWMyNTEwM2E4MWQ1M2U=",
+      "date": 1501372800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzU0ZWU1OWFhMWYyZDMzMzI5NjcxOTJmZTVlNTgyNmY=",
+      "date": 1501804800000,
+      "text": "MANIFESTA\u00c7\u00c3O DO RTE. LAUDO PERICIAL | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGFmNGY2ZGRhODcxZmU0ZThiNTBlZWJkNWFlNTNjOTM=",
+      "date": 1415145600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGVjZjllNDBlZTJkMWZmYzY1NTM4ZjA3ZDQ0NzQ3NDg=",
+      "date": 1377561600000,
+      "text": "Documenta\u00e7\u00e3o EIF CARLOS ANDR\u00c9 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2IyOGM1Njg2OTg2MGVkMTJlN2QzNDQwZDFiZWM3ZjY=",
+      "date": 1464825600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODcyYWU4MDZjMmY4MGIyNGJjMTNjZDg2MWZlNWRlZTk=",
+      "date": 1439769600000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OGJjODI5MDY2OGM3ZDk2YzcxMzg4OWIyMDVkOWFiOWE=",
+      "date": 1410652800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/09/2014",
+      "attachments": []
+    },
+    {
+      "id": "ZDdlZjU2ODdiZWQwMDk1ZGQ1MDlhNDMwMDlkNDcwNmI=",
+      "date": 1527206400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzRhMmY3MmVkZjNhZDBiOGFmYjVhOTRiZWFiMDY5ZTE=",
+      "date": 1495065600000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 17/05/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ2YmM0NGFiZWZiYmI1ZmE3MDI4MTQ3MzQ2MDFkYWE=",
+      "date": 1377561600000,
+      "text": "Procura\u00e7\u00e3o interna CSN | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzgyMDEyYTAyMDVmZTQzMjRhYmM1YzljY2JjNjU4M2Q=",
+      "date": 1436918400000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDFhMTkzZTI1YjcwYWYyMjY1ZWVlNWU5YjUxNzMyYmM=",
+      "date": 1473811200000,
+      "text": "Decorrido o prazo de FCA FERROVIA CENTRO-ATL\u00c2NTICA em 15/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDJjYjdiZTQyZDhjOWJjNDYwMmU0Zjc2YTJhYjQ3YWY=",
+      "date": 1375056000000,
+      "text": "Substabelecimento - Ximenes | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDZhZTY2ZWIzMDY4YzZjMzRhY2QwODI3MzAwY2Y1MWY=",
+      "date": 1370995200000,
+      "text": "COMPROVANTE DE RESID\u00caNCIA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTAyMWU4ZGM1MDkzNWI1YWExYTFkODRiNGE3MDdhM2Q=",
+      "date": 1377475200000,
+      "text": "Jurisprud\u00eancia | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBhYTZhM2U1NWQ4OTkzMzlkMjJmNzUxZjIzODU4ZmQ=",
+      "date": 1372291200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "OTNmMGI1M2I0ZDQ5NTM4MzZhNmE1YzMyZGJlZTYwNDg=",
+      "date": 1377475200000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzRiYmVmZTJiYjg3NjE0YTRjYzgwYWMxY2MyODhiYWI=",
+      "date": 1455494400000,
+      "text": "Peti\u00e7\u00e3o de Honor\u00e1rios | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzRkZWE5NDU1YzJmNzI3YmFjYmU3YWI0ZWJmZTA1YmE=",
+      "date": 1502409600000,
+      "text": "Decorrido o prazo de CARLOS ANDRE RODRIGUES em 10/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODNjMzdjZGRmMWRmYzNmNTQ4YzA4ZTM3YmY2OGYzNzQ=",
+      "date": 1370995200000,
+      "text": "CONTRACHEQUES | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzg4OGFmNzkzZTQxOGRkYTZmOTJjMTI1ODI2ZDM0Yzc=",
+      "date": 1496793600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTJmZTYxNDRmYTQ2NWFmYmEwYjEzMjU0YWE1ODkyODM=",
+      "date": 1415664000000,
+      "text": "Peti\u00e7\u00e3o de Honor\u00e1rios | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTQ5N2Y1ZjFlNDg5OWU5ZGExYjdlYTI0ZTkzMGEwY2Q=",
+      "date": 1418601600000,
+      "text": "PETI\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWViMGJkMGJhNTkxNDFkMDY0NzFmMjdkOTZmNjRkYmQ=",
+      "date": 1457395200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZDQxODVjM2Y1MDk4ZmZjOTliOGFjMTE2YTQ3YjJmYTg=",
+      "date": 1401321600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MGNmZDhlYzBmOGQzN2QwMDVlZmYyNTIzNmM0ZWY5MjM=",
+      "date": 1377561600000,
+      "text": "PPRA 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDIxMWU3YmVlMzRkZTNkM2RjMmIzZTdlM2QyN2UyYmM=",
+      "date": 1370995200000,
+      "text": "SAQUE FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDJiZmQ2YWIxYzMzNWJmYzkxNzk3MmFkZDM2OGEzMWM=",
+      "date": 1502668800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NDkyZmI5NWViNjI2NDFhOGVhNjk2ZjcyZWI3YWU2NzI=",
+      "date": 1502323200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjJkZmE0MjE1NmQ4MTU1NGExOGY0MWNjOGQxODQ0Mzg=",
+      "date": 1415664000000,
+      "text": "Peti\u00e7\u00e3o de Honor\u00e1rios | Laudo Pericial - Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmJjNjVlYTc3NzFjZjBkMTdhN2NjZjdmZTdmODE0NTc=",
+      "date": 1415145600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MjliN2ZlYTdhMmUzYzhjZjE4NzAxMTA1MGZhZjYzODY=",
+      "date": 1370995200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NTgzNjRlNGQ0ZDhkYTFhMGRiM2E5M2M2YjQ5Yjk5MTY=",
+      "date": 1410480000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjliYTEzNDdiYTg4ZDk1YzMzODA5NzMyYjIzZDRmOWQ=",
+      "date": 1527206400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzNjZGYwMjU5ZGQxZDk1NTY4NGJhODU0ZDYxZTgyZDk=",
+      "date": 1370995200000,
+      "text": "EXTRATO FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZmNGZhZTc5NmIxNDk2ZGI0N2JlMGY5NGQ0NmY3NTY=",
+      "date": 1519257600000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 21/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTJjOTlhNGUyMTQwOGZhMzY3OGNlZDM0ZjFhYzVhZDQ=",
+      "date": 1370995200000,
+      "text": "TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTY3N2ZhNTBlM2YyMTM3NDA2Yzc0ZTYxMzcwMTU4ZGY=",
+      "date": 1535500800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWVjNWFlMDAyODliNDNiNWZlODMxNWI0NDEyODgyOGM=",
+      "date": 1502409600000,
+      "text": "Decorrido o prazo de CSN - COMPANHIA DE SIDER\u00daRGICA NACIONAL em 10/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2ZlZTdkMGY1YTBhZTA3Y2VkYTAyZWUwYzQ3ODA4Njk=",
+      "date": 1417996800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/12/2014",
+      "attachments": []
+    },
+    {
+      "id": "YzE5ODMwYWNiMzUwMTQyNWY5OTI0YzBmYjBkMTJlNGE=",
+      "date": 1421971200000,
+      "text": "Decorrido o prazo de FCA FERROVIA CENTRO-ATL\u00c2NTICA em 21/01/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Mzg3Mjc5ZDU2OGU3NWE4Yjc1Nzc5NzU0NmY2N2QxZWI=",
+      "date": 1380758400000,
+      "text": "MANIFESTACAO | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzIyZGFjOGFmYjc3NTM1OTg2OWQ4YjVkMmExYjY1NWM=",
+      "date": 1406246400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzI2MzQwYWZiMGQ3ZjY4ZWMyYTM4NjY4NWZjZWRjY2Q=",
+      "date": 1507161600000,
+      "text": "0.1 - ATOS CONSTITUTIVOS CSN 12.2017 | Ata de Assembl\u00e9ia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNiY2MyMzI0ZWJhYjk0MTkzN2M3ZDA3ZDhjYzg0ZjU=",
+      "date": 1457913600000,
+      "text": "Manifesta\u00e7\u00e3o sobre proposta de honor\u00e1rios | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZlMWMzNDczYWQwNWY4MzgzMjJmNjljYzBmNTYyN2U=",
+      "date": 1377475200000,
+      "text": "CONTESTA\u00c7\u00c3O FERROVIA CENTRO ATL\u00c2NTICA | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODVlYTcwMmI0NTU1NjE0MmFlZWU0ZjQwMDJjOTI0ODE=",
+      "date": 1464307200000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmFhMzlhNWU2ZjI0Y2E5OTBlNzIzMWQ0ZWNlMzY0NjY=",
+      "date": 1488499200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjA0MWFmMzU1NmQwMjdkNWMxZGVjODYyZGY0MDQ5YjU=",
+      "date": 1499731200000,
+      "text": "laudo pericial 10684 | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2VmZDI0ODAyN2U0NWE1YTIzNTVmZjI0M2NiMzNiYjM=",
+      "date": 1413244800000,
+      "text": "MANIESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY0NjIyZTIyZTExZjczNmZiNWNhZGVmYjQ3NGRhNmM=",
+      "date": 1377820800000,
+      "text": "advogado indicado por CSN na defesa n\u00e3o \u00e9 cadastrado no PJe | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzgzNjE2N2M0Zjc5ZTlmYTgyZWRjMDAxNzVhMmZkODE=",
+      "date": 1510531200000,
+      "text": "decurso do prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmFiNTRjYTk4ZTFlYzgxNDA1YTcwZmVhODIwODdkYmY=",
+      "date": 1457481600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTYxMWEzZDE2MGIxNDRmYWYxNjdhNmQ5ZTgyMWU5ZjI=",
+      "date": 1506902400000,
+      "text": "decurso do prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTk5ZWRkYmUzNjFhMmNkMTkyZTdhNzQ3NGQ5MmVlYmQ=",
+      "date": 1535500800000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NjM1ODA2MDQwMDE5ZTEyMTdkOGI4YjZjODQxZGFmMGE=",
+      "date": 1377561600000,
+      "text": "ATA DA REUNI\u00c3O ORDIN\u00c1RIA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTg0NTg1MTAwOTkyMWY4ODBhZTQ3MDVmYWY1NjQwYzA=",
+      "date": 1499990400000,
+      "text": "Conclusos os autos para despacho a NATHALIA THAMI CHALUB PREZOTTI",
+      "attachments": []
+    },
+    {
+      "id": "YmJjYjk2NWM0NDA5MzI0ODY5MDU5NTM0YTcwMGFkMjc=",
+      "date": 1448236800000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "ZjViYWNjN2I4NDA5OWY5ZmFlZjAwNWM0ZmY1ZDBmODA=",
+      "date": 1466640000000,
+      "text": "autua\u00e7\u00e3o requisi\u00e7\u00e3o adiantamento dos honor\u00e1rios periciais | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTJlYjRmOWUzYzJhYTYxZjE1N2I4M2Q5OTFiOTY5OGU=",
+      "date": 1496707200000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "YzBkMWYxNmRlNTYyOTFlNWE5NDViZjlhZjkzNTliZDk=",
+      "date": 1377561600000,
+      "text": "PPRA 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ2NDcyOGJiMmRiMzY5MWE4ZGQ3NzYwMGExMGFkYTE=",
+      "date": 1496707200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmFhNjJkZjQ5ZDAzMmQxMDkwZmExMGY2NzA1OTQ5ZTY=",
+      "date": 1510531200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YWFmMjI2MDQ4ZmFjZjc1ZTRhZTRiMjNmMmY1YzMyYzU=",
+      "date": 1473811200000,
+      "text": "Decorrido o prazo de EIF ENGENHARIA E INVEST. FERROVI\u00c1RIOS LTDA em 21/01/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWY3YjFhYmJkYTFiNTY1OTA5YTNkNDgzZmFjNmRkMzY=",
+      "date": 1418169600000,
+      "text": "MANIFESTACAO FCA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjUwZTlmYzBjMTYyNTQxOWI1ZjQxZjdkNzAxNDJjNGM=",
+      "date": 1377734400000,
+      "text": "Aviso de Recebimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWU1OGQ5NDM0NjE1YTA0MTA1MDU3NTU4MDFhZWVkMDc=",
+      "date": 1464566400000,
+      "text": "Conclusos os autos para despacho a NATHALIA THAMI CHALUB PREZOTTI",
+      "attachments": []
+    },
+    {
+      "id": "MjRlNzg0MDg4YWRhNWJiZTJhNDg3MDBkYWUyMDNhYWE=",
+      "date": 1458000000000,
+      "text": "Decorrido o prazo de EIF ENGENHARIA E INVEST. FERROVI\u00c1RIOS LTDA em 14/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2Y3ODVkNGM5ZDkyN2YzNzIxOTI4NzY5OWIwOWE3YmY=",
+      "date": 1553040000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjkzZDViYTI0MzRhMDI5NmE0ZDRjNTFhMWNlYTMzYmU=",
+      "date": 1386806400000,
+      "text": "MANIFESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzkwMjNjYzNlYmY3OTdkNTU0ODVkNjYwNzNlZTg4Yjc=",
+      "date": 1473811200000,
+      "text": "Decorrido o prazo de MARCIO DE OLIVEIRA em 19/11/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDlhOTM5MGI0OWVlZjcxZDlmMTY0MjZiZDdlZjVmOTE=",
+      "date": 1410652800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTJjZjkyOWNlYmMyOWQ0YTRhNTZmOTM0OWU0NzM0NTM=",
+      "date": 1417996800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTNjMGE4NjQ4MGVkY2Q3MzAwMzc3YjlhY2EwM2Y2NWE=",
+      "date": 1510531200000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "NDIxYTg3YzMxZDFjZDkxZDk3NmNmYmZlZDc5YTk3MDA=",
+      "date": 1370995200000,
+      "text": "CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWY5MzM3MGJhYjdjMjExZTA3ZTlkZmMyNzY2MWJjZTU=",
+      "date": 1377561600000,
+      "text": "PPRA 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZlODBkMDgwYjFhN2Q0NGY2M2I3Yjk3ZTk4ODc5NDY=",
+      "date": 1507248000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTc3ZmRlMjBhZmE5YjFiZTllMzc4MjQ4MGVjMmJiMWE=",
+      "date": 1500249600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjA1NDZhZmQ3MTJiNmViNzg1NWU3NTBmN2VkYjg2ZmM=",
+      "date": 1377734400000,
+      "text": "Ren\u00fancia de Mandato | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmI2MjhjNWYxYmJlYTUwZDVmYzM2YmI0NWZlZjRjOWE=",
+      "date": 1458000000000,
+      "text": "Decorrido o prazo de MRS LOG\u00cdSTICA S/A em 14/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTQ2NGFiYjBmZTU1NWI5ZGJmMjk5NmQ3YjhkYmE2YTY=",
+      "date": 1406246400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjI3MTU3YTNmZjEwYzE5MWRmYTMzY2I5NjAyYzA4NTE=",
+      "date": 1370995200000,
+      "text": "Audi\u00eancia una designada (28/08/2013 12:30 - 1\u00aa Vara do Trabalho de Tr\u00eas Rios)",
+      "attachments": []
+    },
+    {
+      "id": "NzQxZjJiZGE5ZWUwNTc0YTA0MWMxOTAwYmEyZjYxY2Y=",
+      "date": 1377734400000,
+      "text": "PCMSO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjM0ZGJhYjRlMDZhZmJiZDg4OWYyNDAxOTIxZmQ5ZWI=",
+      "date": 1464825600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZTZkZjU1ZTYzZjU5OGUwNTRiNDI5ODA0YTg3NThiODY=",
+      "date": 1436918400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTJiMTAzMmYyNmMyYmRhMjY0NTBlYzE1Y2Y3YmY4NWM=",
+      "date": 1400025600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODhjMjQxNDU3NGI4MjA2YjU1NjBhNGY0ZTg1YjdiNDE=",
+      "date": 1377734400000,
+      "text": "Juntada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWE0ZGM4ODE2NjRhMDk5MzJjYjhjNmU0MjRjNTNkNjE=",
+      "date": 1501200000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWUxNThmYzAzM2M5OWE3YjNhYjY4YzZlYzI4OTNjODg=",
+      "date": 1481673600000,
+      "text": "anexa guia dep\u00f3sito ref. ao adiantamento dos honor\u00e1rios periciais | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWM1M2M1OTExZTJiMTVhM2E2YzZkNjhkYjdiN2E2MmM=",
+      "date": 1506902400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzIzMWM0MzA0OWZmYWI2ODczNzY3OWMyMzMzYzFjYmE=",
+      "date": 1516665600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) terceiro interessado",
+      "attachments": []
+    },
+    {
+      "id": "ZDJmM2FlZmRmY2IwNGQyZTc5Mzg4NjQ5NmE0OTc5Yjc=",
+      "date": 1375056000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contraminuta (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWE3ZDU3MWFjMDMzYWFhZDQ3NzBmYTMxYjlhMWI5MWY=",
+      "date": 1390262400000,
+      "text": "certid\u00e3o de prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjMwZDBlZGE3MTIwYTU2ODMwMTlmMzg4NzcwYzhlZmM=",
+      "date": 1429228800000,
+      "text": "Decorrido o prazo de MARCIO DE OLIVEIRA em 16/04/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjI0N2VlYjVhMTcxMGNlMmM4YmMxYzY3NWI2OGQzZDY=",
+      "date": 1377475200000,
+      "text": "TERMO DE DISTRATO E QUITA\u00c7\u00c3O FIRMADO ENTRE A FCA E A PRIMEIRA R\u00c9 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGY2ZTc5MWViMWVmZGNiYzI2ZTg3M2VkYWU1MWE3ZGQ=",
+      "date": 1400025600000,
+      "text": "Conclusos os autos para despacho (mero expediente)",
+      "attachments": []
+    },
+    {
+      "id": "MWU5NWZhZmVmMmM4NTNkZWZhNzVlOGE1MmNjOTc3ZmY=",
+      "date": 1454457600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NTA5NGE5MGU0ODQ5YzQ4NTFmZmU0YjRjYWM2YjJhMjY=",
+      "date": 1496793600000,
+      "text": "Quesitos e AT - Carlos Andr\u00e9 Rodrigues X MRS | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQxNDc1OTJiZmU0Y2ZkMTM1MjFjZDVhODEwNTA2MzY=",
+      "date": 1427068800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzkzOWEzOWIyZjFjNDcyZDZiYTkwNGZmYmNmNzFhNDE=",
+      "date": 1502409600000,
+      "text": "Decorrido o prazo de FCA FERROVIA CENTRO-ATL\u00c2NTICA em 10/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2QxYmEzZTAwMDliMzlmYzg0NjUwMmI3ZmI1NWVjMGU=",
+      "date": 1507161600000,
+      "text": "0.2 - PROCURA\u00c7\u00c3O GENERICA CSN | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTM2ZTdhZDIzYmQ4ZjdmMTYxMTZhYWZmYWRhN2M0YTk=",
+      "date": 1370995200000,
+      "text": "PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmYyNmFjNDMzNTg5NGE0OTE0YzYwYzA3YjQ2Mjk0ZjY=",
+      "date": 1377475200000,
+      "text": "SUBSTABELECIMENTO FERROVIA CENTRO ATL\u00c2NTICA ( ii ) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTk2NWRhOTU0YTkyZmNiODhmZGFmYjI4NjBiNDNlOWY=",
+      "date": 1375056000000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODhiODAwMTFmMDc3NzNiNjdiYzY1YmIxYjI4N2NjZjA=",
+      "date": 1401321600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWFhZTI5OGUwY2U4NDliOWQyOTNhY2ViY2ZlNDM1NTA=",
+      "date": 1413417600000,
+      "text": "Decorrido o prazo de CARLOS ANDRE RODRIGUES em 15/10/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWNmZTE1ZTZmYWY1NjE2MjY3MDgyZjcwN2Q1YjZjMWU=",
+      "date": 1377648000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MzNiMWZjNmQ2NjZlNGY2YTY4Y2Q2N2Y0ZWUzZThlZjc=",
+      "date": 1491436800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzI5NTI5OGNkNzZlYjEzYmU2MmY3NGUzNDA1YzdiNTY=",
+      "date": 1427328000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZTY2MDU4ZTg5OTQ4ZTFmYTY3ZDY5MWU0Yzk2ZWRjOTM=",
+      "date": 1370995200000,
+      "text": "F\u00c9RIAS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRlZDllMzgzYzA3NjgxODM2MjVlYzNiODZiNmU1NzE=",
+      "date": 1496880000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODY5OTJkYjY2ZWY4ZDI5ZTdkZmQxNTFkMzQzOTI4Yzg=",
+      "date": 1427068800000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjQ2ZmVmODYwNzc0ODYzZDlkZDZmMWNhNWFkMTQxYTg=",
+      "date": 1507161600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWJmNjA5ZTc4NmI2MGQwMjA2MDljNzJlNTFmNWYwZTQ=",
+      "date": 1506902400000,
+      "text": "Conclusos os autos para despacho a RAFAEL VIEIRA BRUNO TAVARES",
+      "attachments": []
+    },
+    {
+      "id": "M2UxMTA5ODEyMmFmZThmNTFiOTQwNmJjMTVjMTE2YTE=",
+      "date": 1370995200000,
+      "text": "ACORDO RESCIS\u00d3RIO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmMwN2IwMTM4ZTJjZDRiZjQ0ZWUzZmFhZDliOWNmZDg=",
+      "date": 1444953600000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2IxM2M4ZGY1MDdiYTkzYmViODkwMTZmNzEyOGQ5ODA=",
+      "date": 1415750400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YmRiYjgwZWU1ZDg2ODY4YjY0N2Q4M2MyMDA0NzExYjk=",
+      "date": 1437955200000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjI0ODc0OTU2ODFmMGY2MzI3NzgyMjRlM2ZlZmVlNTA=",
+      "date": 1377561600000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBlMmU5OGM4NzFiOGRhMzdlZWQ4ZGJhYTZmZDJjNzY=",
+      "date": 1421971200000,
+      "text": "Decorrido o prazo de CSN - COMPANHIA DE SIDER\u00daRGICA NACIONAL em 21/01/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTMwNjJmNzgxN2ExN2ZjNDRiMWNjMDQwM2ZhOWEyYzI=",
+      "date": 1427328000000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2U0NmNhOGI1N2ZmMjIzMTQ0ZmQ3M2JlNDg0MWMwYzM=",
+      "date": 1510531200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTkwNGEwMmMzMzIwMzUwMzkyOTMxNmUxYzY3MzYxYTA=",
+      "date": 1417737600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjM1YTNmYTUzYzY3MTU2MGYzYWNjNDBkNTM0NTg0MmY=",
+      "date": 1556841600000,
+      "text": "inclusao de minuta bacen | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTJhNGQ1MDBjNWE2OGI0Yjk0OWRkNzA4NzhlMGU3NjE=",
+      "date": 1377561600000,
+      "text": "Procura\u00e7\u00e3o ACB | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGJlMzc3NjkzZmUzYThkMmYwMTgxMzIyMTAwY2E2MWQ=",
+      "date": 1502409600000,
+      "text": "Decorrido o prazo de MRS LOG\u00cdSTICA S/A em 10/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YmM3YTJiM2NlYjE0YmZmYTUyNGRhZDlkYTQ3M2VmZWE=",
+      "date": 1491436800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZDA2ZDUzM2E1Mzc4Y2YwMWZjMjIwMmVmMTYzNDU0OGE=",
+      "date": 1473811200000,
+      "text": "Decorrido o prazo de HENRIQUE DE MACEDO VEIGA em 13/06/2014 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWRiNjYzNjYyMjRmMTUxYTc0MDk4NmM2ZjY1NmFjMGU=",
+      "date": 1377561600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWE1ZDc3MjRkZjg4ZDRkMWM1NmQ3Zjk4ZmVhNmNmYmE=",
+      "date": 1377561600000,
+      "text": "Contrato de presta\u00e7\u00e3o de servi\u00e7os | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2VmMDNiMmNhYWQyZTRlZDQ1MmQxZGU2ZTg1YTFjZjA=",
+      "date": 1417737600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTFiZDE2NzI3OWEzNTY2Yzk2NDViMmZmMjMyNjQwNmQ=",
+      "date": 1418169600000,
+      "text": "SUBSTABELECIMENTO | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjY3MGM3NTRkYWVmZTNjODdjMDAyZTJkMTRlOWI5M2E=",
+      "date": 1439769600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjVmMjhiYzZjNzM3MzVlNmQzYzNhNzgxMTQyNGIzMjE=",
+      "date": 1370995200000,
+      "text": "DECLARA\u00c7\u00c3O DE HIPOSSUFICI\u00caNCIA | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzUwNmYwNWJmNmZjOWRiODJiMjE1ODlmZDNiYmJjNzI=",
+      "date": 1413417600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDczMGRjNTRlMWU3NjA4MGNhODZkMTYyNTc5MjRkZjM=",
+      "date": 1488499200000,
+      "text": "Conclusos os autos para despacho a NATHALIA THAMI CHALUB PREZOTTI",
+      "attachments": []
+    },
+    {
+      "id": "NDc0YmNmZTk5MTQ5NTIxZmQ3YjMzOTliN2I0ZTZlODI=",
+      "date": 1458000000000,
+      "text": "Decorrido o prazo de CSN - COMPANHIA DE SIDER\u00daRGICA NACIONAL em 14/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTJhYmFhYmY4Y2ZhNDdkOWVkYmVjNjFmNjI1YWM1ZGM=",
+      "date": 1377561600000,
+      "text": "Procura\u00e7\u00e3o e carta de preposto | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzhmOTliNWM3Y2I0ZjkxNmVlMjZlNzFmYWE2ZGRlNzE=",
+      "date": 1436918400000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "ZWJmMGY0ZjljMzM2ZGJiNjllYzNjMWM4YTJlNmExZTg=",
+      "date": 1377475200000,
+      "text": "Procura\u00e7\u00e3o - parte 2 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjE1ODJlZTRhNWIxNGI3MGI0MTc4M2I0NThkZDhmNzA=",
+      "date": 1457913600000,
+      "text": "manifesta\u00e7\u00e3o honor\u00e1rios | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2IwYjJkY2I2NzBjMDVjM2E2YmNhYTc0MjYyNWMzOTA=",
+      "date": 1377820800000,
+      "text": "JUNTADA CARTA DE PREPOSTO FCA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNhNDQwZmFjM2YzOGE0MmU4MTBkODlmNjk1NmM3NTE=",
+      "date": 1457395200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzY0YjY4MmU4M2VmMDgxODg0Yzg1NTQ5NzRhZTNiMTc=",
+      "date": 1415750400000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "NzFlMDg2YWRmNTQ1OGU4Yjk4Y2I2ZjM1MGI3YzViZGE=",
+      "date": 1377475200000,
+      "text": "Procura\u00e7\u00e3o - parte 3 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjgyMDQ3MDE3MmRkNDE3OWRlOGZiN2RjYzExMDAwNDE=",
+      "date": 1499731200000,
+      "text": "Laudo Pericial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkyZDYxYTc4NWQ0YTEzMDk1NDA3ZjI4OTczYzFmMGI=",
+      "date": 1377561600000,
+      "text": "PPRA 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRkODdjYWMzM2U1OTUxYmQyY2YyMzRlMjhkNWYxOTI=",
+      "date": 1448236800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "M2FiN2UwYzJhYjA5ZDkyNWZjM2Q1ODExMTVjZjI0OTQ=",
+      "date": 1379289600000,
+      "text": "R\u00c9PLICA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGZiYjkyNmQyMjg4NGZiN2FjNzdjZTk2MmVmNzEyYTg=",
+      "date": 1441670400000,
+      "text": "PROCURA\u00c7\u00c3O, SUBSTABELECIMENTO ATOS CONSTITUTIVOS FCA | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mzk5ZjJkMGU3MWY5ZDgxMzZhNTc1MTJmNTcxZWU4MTA=",
+      "date": 1413417600000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "MjdlNDZjZGI3M2M4MWZlODY3ODZhNjMyNDc1MzBkMzU=",
+      "date": 1375056000000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWEwZmE1MTkzYzJlMDYzMDE2ZGIzM2FkZjYxODQ3MDU=",
+      "date": 1372291200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzNjNWMyNTNjY2EzNWU0MzJlZTJlNzBkOTkwNThmMWU=",
+      "date": 1496707200000,
+      "text": "decurso do prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdkZTVjZmI2MzU2NDI4MTNiODg1ZjkwM2MzZDA5Yzc=",
+      "date": 1496707200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmJmNmYzY2ViZjZhZjQ3ZTc5NTVlZjkzOTFhNWIxM2E=",
+      "date": 1421971200000,
+      "text": "Decorrido o prazo de CARLOS ANDRE RODRIGUES em 21/01/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2RkNDY5Yzg2Zjc2NzBkMTkwMDY1N2NhYzhmMWY3NGE=",
+      "date": 1501718400000,
+      "text": "MANIFESTA\u00c7\u00c3O AO LAUDO PERICIAL | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjZhNWMyODVjYzFiY2FhYTJkNGU2MzQ1YmVlNDI5YzY=",
+      "date": 1448236800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Yzg2ODJkMGMwYzJlNTU2ZWZiNThiY2VlNjQ3MDZlNzI=",
+      "date": 1454457600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzA1Yjc0MTdhMWZiNzA2ZWQ4YTkyNzZiY2VhMWEwZWE=",
+      "date": 1457481600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 09/03/2016",
+      "attachments": []
+    },
+    {
+      "id": "NjVjOTQ3ODQ4YTI2OTA5MGIwMzA5Mjg0M2FmYjFhMzU=",
+      "date": 1413417600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZGJiZTEzYWUyM2VlOTU3Y2NmODE3NGQyMzNiYTYwMWU=",
+      "date": 1489622400000,
+      "text": "Alvar\u00e1 | Alvar\u00e1 (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI4MTY5YTE0YjQ5YjJkYjNlNmY1NTkwZmFkMzEwZWQ=",
+      "date": 1377561600000,
+      "text": "CONTRATO SOCIAL EIF | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTIzNmZmMTRmZTVhM2VmZTVlNmNjOGFkNGU0YWZkNTE=",
+      "date": 1491436800000,
+      "text": "remessa alvar\u00e1 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDdjOTdjMmQyN2I5M2ZkODBmYTg1MmE3ZWE3ZGM2MTE=",
+      "date": 1489536000000,
+      "text": "Expedido(a) alvar\u00e1 a(o) perito",
+      "attachments": []
+    },
+    {
+      "id": "YzY0YzcxOWU4MmM1NGIwOTUzN2E5Y2U3ZTI4N2FmODU=",
+      "date": 1528416000000,
+      "text": "Intima\u00e7\u00e3o ao perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdmNzhlMjI3Y2VlYzJjY2RmZmY5M2JhZGQwZGNmNTQ=",
+      "date": 1435017600000,
+      "text": "decurso do prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYyN2YwMzAzODQ5YjcwMTU1Y2UwM2Y2MDM3ZTU5YzE=",
+      "date": 1370995200000,
+      "text": "RG, CPF e PIS | Documento de Identifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg1ZDIyNTdhN2Q1NTEzOWU2NDI1N2JjOGJiMThhMzM=",
+      "date": 1377734400000,
+      "text": "Substabelecimento | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIyMTcyYzllNTk2NzIzMjBhYzg4MTg0NjI0ZTJmNGM=",
+      "date": 1377475200000,
+      "text": "Procura\u00e7\u00e3o - parte 1 | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjcxNmM5N2I4YmIyMmU5OTllNzJhYzJiNjcwMWVjMmU=",
+      "date": 1406246400000,
+      "text": "Conclusos os autos para despacho #N\u00e3o preenchido#",
+      "attachments": []
+    },
+    {
+      "id": "Mjk1N2M4MTlkM2FiZGQ2MWY5OGFiZmU2Y2Q2MTg3OTc=",
+      "date": 1498780800000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 29/06/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDY3MjFkYjM5NjMzZWNkZGM1MmE4ODYxNGY1ZWI2ZTc=",
+      "date": 1370995200000,
+      "text": "COMUNICA\u00c7\u00c3O DE DISPENSA | Comunica\u00e7\u00e3o de Dispensa (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Q1ZWQ1YTU3ZGE1Y2YyNDNjYWUyZWI5ZWZiNzZlNmQ=",
+      "date": 1553040000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YmRkNjQzOTk4MDM5MTk4M2QwYzM5ZWI3ZTI3OGRiZGE=",
+      "date": 1370995200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRiYmM0NDI1ZjBmZDU0OWU5ODQ2NDY4NGE3Y2JhYzU=",
+      "date": 1524009600000,
+      "text": "decurso do prazo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI5MDVhZmE1MTcxZDRkZjY3OTcwY2VlZTFlMzA5OGE=",
+      "date": 1473811200000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 22/02/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjcyNmY1NzJmZjA2N2FmZmM3ZDEyNmJhNTU2ZTQ1MjM=",
+      "date": 1377475200000,
+      "text": "Contrato com a 1\u00aa reclamada | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmVlNjEyY2YyNmYzMDU2MjNmYjMyZDE2ODQxNTViOGU=",
+      "date": 1427068800000,
+      "text": "Conclusos os autos para despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzY1ZWMxY2QzZmIwNzc4MTBiMGQ4YjZkZDU4ZjJkZTI=",
+      "date": 1377648000000,
+      "text": "Audi\u00eancia una realizada (28/08/2013 12:30 - 1\u00aa Vara do Trabalho de Tr\u00eas Rios)",
+      "attachments": []
+    },
+    {
+      "id": "ZTE2YzU0Zjc4MGJhYzE2OWRmYmYyZWEwMTljMDRkNjU=",
+      "date": 1502323200000,
+      "text": "CARLOS ANDRE RODRIGUES - impugna\u00e7\u00e3o MRS ao laudo pericial | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjM5ZjMxZTA1NmYzZTQ0MDZlNDE1YzIxNDRjNGZlZmU=",
+      "date": 1441670400000,
+      "text": "PROCURA\u00c7\u00c3O, SUBSTABELECIMENTO ATOS CONSTITUTIVOS FCA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjFmMjhmNzVmYzcyNzUyYzkwOTNmN2MwZmNlN2ExZTY=",
+      "date": 1507248000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWNiMTMyOTgyMDljODc2ZTkyMTg3YjJiZjMyNThlZTU=",
+      "date": 1489622400000,
+      "text": "Expedido(a) alvar\u00e1 a(o) perito",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZkODI1NWRiZjM5ZTMzNTZlODVkZWIyNGViNzA2MmY=",
+      "date": 1509062400000,
+      "text": "Decorrido o prazo de MARCO ANTONIO AFFONSO em 26/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODI1YjMwNDkxZDE2MTZlYWQ5MzAyZWM5NjA1ZjZjNDU=",
+      "date": 1421971200000,
+      "text": "Decorrido o prazo de MRS LOG\u00cdSTICA S/A em 21/01/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Mjg5ZjUxOGJiNDA4NDc0ZGI0OWI2YjZkNmM1YTg2MTQ=",
+      "date": 1500249600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTU3ZTQzNzAwNGJjMzJiOGZhZTNlNjQ4MTk0M2RhY2M=",
+      "date": 1439769600000,
+      "text": "Conclusos os autos para despacho a ADMAR LINO DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "ZTUzYzU2ODk1ZDE4MWM2OTBlZmQzNzk4NTZmMjQzOTU=",
+      "date": 1457568000000,
+      "text": "Manifesta\u00e7\u00e3o Honor\u00e1rios do Perito | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQ0ODczYjFkOTNjMzA5NmI4Y2FjZmZmODNhNjZiNTU=",
+      "date": 1418688000000,
+      "text": "Pet. Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdhN2NmNzQxZGQ1OGZhOThhMWM5ZjQwYTJmZTg4NGQ=",
+      "date": 1516665600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJhMjU5ZDI0ZGQ3ZThmOGYzNGMxYjRlOTYxMjhmOTI=",
+      "date": 1502409600000,
+      "text": "Decorrido o prazo de EIF ENGENHARIA E INVEST. FERROVI\u00c1RIOS LTDA em 10/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjVlOWNkZDBlYjYxYTkxNmNjYWM4MTFhZTk5NGIyODg=",
+      "date": 1458000000000,
+      "text": "Decorrido o prazo de CARLOS ANDRE RODRIGUES em 14/03/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5YzliYjcwODMwYTZmMGNiMjM3OWU0OGEyZjM1MDI=",
+      "date": 1496880000000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

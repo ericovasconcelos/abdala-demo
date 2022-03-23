@@ -1,0 +1,436 @@
+{
+  "lawsuit": {
+    "id": "ZTYzZTM3OTktYXV0b21hdGljOjE2MDQyODI0LTAyMzM3MDA2NDE5OTk1MDIwNDQ1LWxhd3N1aXQ=",
+    "activityCount": 62,
+    "number": "0233700-64.1999.5.02.0445",
+    "value": "",
+    "subject": "A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)",
+    "kind": "",
+    "district": "Santos",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Gileno dos Santos",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Jose Alexandre Batista Magina",
+            "cpf": "",
+            "lawyerId": "YmZhNjcxNDEtYXV0b21hdGljOjE2MDQyODI0LTM2OTJjODJmYTkwYjliYy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Log\u00edstica",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Drausio Apparecido Villas Boas Rangel",
+            "cpf": "",
+            "lawyerId": "ZmE0M2Q2NjktYXV0b21hdGljOjE2MDQyODI0LTRmNDQ0ODE5NWNlOWJhZC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 942976800000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NzVjMTcwN2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04Y2Q5YzczYTcxMmE5YzMtOTQyOTc2ODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 942976800000,
+      "text": "Distribu\u00eddo com marca\u00e7\u00e3o de audi\u00eancia\r\n\r\n13/06/2000 / 13:40 - Una",
+      "attachments": []
+    },
+    {
+      "id": "YmI3MWIwOGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNDc0ZDhmMmQwNWQxNzAtOTQzNDk1MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 943495200000,
+      "text": "Autuado pela Vara",
+      "attachments": []
+    },
+    {
+      "id": "MjgyYTQxZWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YjBjMjhlZjI0MWEzZGMtOTQ0NDQ1NjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 944445600000,
+      "text": "Cancelamento de Audi\u00eancia Una\r\n\r\nde: 13/06/2000/13:40-Una\r\n\r\nPROC. S/ REC. DA FIRMA",
+      "attachments": []
+    },
+    {
+      "id": "NmFhYTNlYTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05N2Y3ODdlMzY3ZGEyM2MtOTQ4MDc0NDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948074400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA-OAB 122565/D-SP-Autor\r\n\r\ne (0013 )235-7578, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "NjMyYjJiMDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNDU3MDQxZjQ2NzZkZGEtOTQ4MTYwODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948160800000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 24/01/2000\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA",
+      "attachments": []
+    },
+    {
+      "id": "NjdhMTJiNGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOTQ0M2MwYTRkN2UwMWUtOTQ4MTYwODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948160800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre despacho\r\n\r\nN\u00famero do Protocolo: 5232\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "ZTZlNjM2ODUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOWQ1NTk3ODc2ZDI5MWEtOTQ4MTYwODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948160800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 401 Sol.N\u00ba 44",
+      "attachments": []
+    },
+    {
+      "id": "M2U2MDNmNjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zOGY0YjVlMTFkNTM0NWYtOTQ4Njc5MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948679200000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una\r\n\r\npara: 09/06/2000 / 10:20 - Una",
+      "attachments": []
+    },
+    {
+      "id": "YzYyZTU1NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZjZlNzU2ZGU5YWFiYjgtOTQ4NzY1NjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 948765600000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 00328/2000 Rel:00005/2000 Envio: SEED\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "ZDczZTVmOWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZDJjZTQyMGRjMDkwYzItOTQ5MzcwNDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 949370400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 404 Sol.N\u00ba 459\r\n\r\nAudi\u00eancia Una: 09/06/2000 \u00e0s 10:20 hs.",
+      "attachments": []
+    },
+    {
+      "id": "M2Y1M2VjMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNWJjOWUxZTYwYTgwOTAtOTUwMjM0NDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 950234400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Devolu\u00e7\u00e3o de notifica\u00e7\u00e3o\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "MGMwZDk2MzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zM2YxMmJiOTM4MGJiMzQtOTUwODM5MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 950839200000,
+      "text": "Cancelamento de Audi\u00eancia Una\r\n\r\nde: 09/06/2000/10:20-Una\r\n\r\ndetermina\u00e7\u00e3o da Presid\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ3ODNiNjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00N2RkMTk3YmY2MThkY2QtOTUyNjU3MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 952657200000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 414 Sol.N\u00ba 373",
+      "attachments": []
+    },
+    {
+      "id": "NGVlMWQ1NDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMzUwMDYwMGZjMjhmYTYtOTUzMjYyMDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 953262000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de endere\u00e7os\r\n\r\nN\u00famero do Protocolo: 28351\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "YTJkNjZmNmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGU3NDEwYmJkNzU3ZjAtOTU0ODE3MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 954817200000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una\r\n\r\npara: 13/09/2000 / 14:10 - Una",
+      "attachments": []
+    },
+    {
+      "id": "YjZhM2I4N2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMjc4NjM4NTliNmIyNDMtOTU0OTAzNjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 954903600000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 01914/2000 Rel:00024/2000 Envio: SEED\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "YWU4MmI0M2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OGQ3NDMzNGNkNjc4ODctOTU1MDc2NDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 955076400000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 422 Sol.N\u00ba 1352\r\n\r\nAudi\u00eancia Una: 13/09/2000 \u00e0s 14:10 hs.",
+      "attachments": []
+    },
+    {
+      "id": "NjJkNGJkOWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mMWUyZjg2NTlkYTU0NjItOTY4ODE0MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 968814000000,
+      "text": "Pend\u00eancia de terceiros em Audi\u00eancia Una\r\n\r\nPRAZO PARA MANIFESTA\u00c7\u00c3O DO RECTE\r\n\r\nJuiz(a) : DR. CELSO ALONSO",
+      "attachments": []
+    },
+    {
+      "id": "ZmQxYTcxMDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hY2Y4NGE3MGViMTgyNDUtOTY4OTAwNDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 968900400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA-OAB 122565/D-SP-Autor\r\n\r\ne (0013 )2198912, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "NTJjNmNhYWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYTAzMDcyNTM0NjdkMTktOTY5ODUwODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 969850800000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 19/09/2000\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA",
+      "attachments": []
+    },
+    {
+      "id": "YTQ2ODM4ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTJlZWE1MmUwNDgzOTItOTY5ODUwODAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 969850800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre a defesa\r\n\r\nN\u00famero do Protocolo: 105664\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "YzEzYzJmMjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZDRiMDc2MmNkMTJjYTctOTgxOTQzMjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 981943200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de substabelecimento\r\n\r\nN\u00famero do Protocolo: 14454\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "MjVjNmM3ZTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02ZWY5ZTA0NWRkNmVjYWYtOTk4NjIyMDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 998622000000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o p/ Ci\u00eancia Decis\u00e3o\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 555 Sol.N\u00ba 1070",
+      "attachments": []
+    },
+    {
+      "id": "ZDI3ZDc2NWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzNjOWUxYTFkMGFjODYtOTk5MDU0MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 999054000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Quesitos\r\n\r\nN\u00famero do Protocolo: 93397\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "MjE0YWFmYzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDQzNmQwYzUzYjJhOGQtOTk5MDU0MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 999054000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de quesitos\r\n\r\nN\u00famero do Protocolo: 48220\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "ZTc5YzllODktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZmEzOGQxNjlmZGY0Y2YtMTAwMjA3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1002078000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nN\u00famero do Protocolo: 106777\r\n\r\nNome: GILENA DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "YTdhMzVhYzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMTRiMGRkOTk5ZDVhZTEtMTAwNjkxMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1006912800000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nDoc : 07639/2001 Rel:00027/2001 Envio: NORMAL\r\n\r\nNome: FL\u00c1VIO FERREIRA DE MELLO",
+      "attachments": []
+    },
+    {
+      "id": "NjI4MzkyNTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NmNjNmZjNjZhMjZkMTEtMTAxNzgwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1017802800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nN\u00famero do Protocolo: 35926\r\n\r\nNome: RECTE REQUER DESTITUI\u00c7\u00c3O DO PERITO NOMEADO",
+      "attachments": []
+    },
+    {
+      "id": "NjE3YWMyZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05NjU4MTkzODE5MjRmMTEtMTAyMzg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1023850800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de endere\u00e7os\r\n\r\nN\u00famero do Protocolo: 58803\r\n\r\nNome: O RECLTE INFORMA NOVO ENDERE\u00c7O DE SEUS PATRONOS.",
+      "attachments": []
+    },
+    {
+      "id": "ZGY3YmZhODMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZTQ2MWZmNTdjNTFkMTEtMTAyOTI5NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1029294000000,
+      "text": "Expedi\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nDoc : 04323/2002 Rel:00047/2002 Envio: NORMAL\r\n\r\nNome: MANUEL MIGUEL DE SOUZA NETO",
+      "attachments": []
+    },
+    {
+      "id": "YjJlYzcwYjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MDkyMmY2MGM2M2E2ZjMtMTAyOTQ2NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1029466800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 643 Sol.N\u00ba 1474",
+      "attachments": []
+    },
+    {
+      "id": "MDllMmE5NTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNTk1YzNjNTQ0MjNiM2EtMTAzMDY3NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1030676400000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nMANOEL MIGUEL DE SOUZA NETO-Perito/Terceiro\r\n\r\ne (0013 )32612796, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "YjlhMGEwNjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MDU1NmYzMzdlOGFkNDQtMTAzMzQ0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1033441200000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 02/10/2002\r\n\r\nMANOEL MIGUEL DE SOUZA NETO",
+      "attachments": []
+    },
+    {
+      "id": "OTViZGY2OTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMTk5MWFhYjRjMDhiZjQtMTAzMzQ0MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1033441200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nN\u00famero do Protocolo: 104406\r\n\r\nNome: PERITO",
+      "attachments": []
+    },
+    {
+      "id": "M2YxNWIyYzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZWMxOTE2YjViYjQyZGEtMTAzNjQ2MTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1036461600000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Laudo e Honor\u00e1rios\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 665 Sol.N\u00ba 2153\r\n\r\nPrazo Judicial 20 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "YjJhYzU5NGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMTljYjg1MDIwOTA3YmUtMTAzNzU4NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1037584800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nN\u00famero do Protocolo: 125929\r\n\r\nNome: RECTE.REQ.PRAZO 30 DIAS",
+      "attachments": []
+    },
+    {
+      "id": "NzNlYzdiYTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03M2FlMmE5NjBiOWE3ZWMtMTAzODM2MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1038362400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo\r\n\r\nN\u00famero do Protocolo: 676695 Vencimento: 25/11/2002\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "NmFhY2RjZTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjY4ZGU1YTkyODFlYzMtMTA0ODIxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1048215600000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 696 Sol.N\u00ba 1346",
+      "attachments": []
+    },
+    {
+      "id": "N2Q3MTRkYjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNzQ2YmY5NTEwMDQ1MzEtMTA0ODgyMDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1048820400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre Laudo\r\n\r\nN\u00famero do Protocolo: 21941\r\n\r\nNome: MRS LOGISTICA",
+      "attachments": []
+    },
+    {
+      "id": "ZmY4YzcxOTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02MGRjZmEzZWYxNjgxZTQtMTA1NDI2MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1054263600000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 714 Sol.N\u00ba 200",
+      "attachments": []
+    },
+    {
+      "id": "ZDAzM2VhMDAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04MjA0YjdiM2QzYzgyNzUtMTA4Nzg3MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1087873200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nN\u00famero do Protocolo: 71318\r\n\r\nNome: AUTOR REQ.REGULAR PROCES.REQ.URG\u00caNC.S/ANDAM.+01ANO",
+      "attachments": []
+    },
+    {
+      "id": "NzZjMDcyYWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNDk2ZTI3YmRjY2JjMWUtMTA5NTk5NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1095994800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 836 Sol.N\u00ba 16525",
+      "attachments": []
+    },
+    {
+      "id": "NTA2ZWI2ZjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yY2M4NjA2ODJhMDdjYTMtMTA5NjUxMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1096513200000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada de documentos\r\n\r\nN\u00famero do Protocolo: 116408\r\n\r\nNome: GILENO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "NTU1Y2QwOTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMGU2ZDliNmY5ZjgyM2MtMTEwOTY0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1109646000000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Comparecer Secret.\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 869 Sol.N\u00ba 4869\r\n\r\nPrazo Judicial 5 Dias.",
+      "attachments": []
+    },
+    {
+      "id": "MjE5MTc5OWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zN2U5YTA0ZmVhNjJhZjctMTEwOTY0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1109646000000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA-OAB 122565/D-SP-Autor\r\n\r\ne (0013 )32191615, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "NzlkMWZiMjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NDM5MjRiMDMzOTY0YTQtMTExMDE2NDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1110164400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o sobre despacho\r\n\r\nN\u00famero do Protocolo: 21256\r\n\r\nNome: GILENO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "ZWMyYTZjOTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMzliZjdmZDVhOWRhYWEtMTExMDQyMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1110423600000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 07/03/2005\r\n\r\nROSEMARY FAGUNDES GENIO MAGINA",
+      "attachments": []
+    },
+    {
+      "id": "YzQ5ZjZjYjgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZTkxZWQ4ZmUxOGI3ZmEtMTE1NjczNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1156734000000,
+      "text": "Cancelamento de Audi\u00eancia de Julgamento\r\n\r\nde: 29/08/2006/ 9:40-Julgamento\r\n\r\nerro de marca\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OWQwODJlNGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTk5NjZlNTk1NTBhZDQtMTE1NjczNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1156734000000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento\r\n\r\npara: 29/08/2006 / 9:40 - Julgamento",
+      "attachments": []
+    },
+    {
+      "id": "NzQ3NzE2NzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZmRiM2M4MDcyY2MzOTctMTE1NzA3OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1157079600000,
+      "text": "Improced\u00eancia de A\u00e7\u00e3o\r\n\r\nJuiz(a) : ADALGISA LINS DORNELLAS GLERIAN",
+      "attachments": []
+    },
+    {
+      "id": "NmEwNDFiMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZmUzZWIwZWJjZTE1MzMtMTE1NzA3OTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1157079600000,
+      "text": "Retifica\u00e7\u00e3o do Nome do Juiz na Audi\u00eancia\r\n\r\nR\u00e9u: MRS LOG\u00cdSTICA\r\n\r\nAdvog: 14767/SP/D - DRAUSIO APPARECIDO VILLAS BOAS RANGEL",
+      "attachments": []
+    },
+    {
+      "id": "ZWFmODhiZjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjY1ZWU0YzU1NDZhNzctMTE1NzQyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1157425200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Ci\u00eancia Senten\u00e7a\r\n\r\nPara o(s) Autor(es) e R\u00e9u(s) Ed.N\u00ba 1046 Sol.N\u00ba 5004",
+      "attachments": []
+    },
+    {
+      "id": "NDgzNjYwMTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDI3YzY0MTU3YjU2NTAtMTE1NzUxMTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1157511600000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nJOSE ALEXANDRE BATISTA MAGINA-OAB 121882/D-SP-Autor\r\n\r\ne (0013 )32191615, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "NTgyODIzYzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZjRkNTAyMzdmN2RjMzYtMTE1ODAzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1158030000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Recurso Ordin\u00e1rio\r\n\r\nN\u00famero do Protocolo: 150227\r\n\r\nNome: GILENO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "M2Y3OGRmNTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00YjdlOGVlMzYxNjA5MTQtMTE1ODAzMDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1158030000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Juntada Comprov.Recolh. Custas\r\n\r\nN\u00famero do Protocolo: 22545\r\n\r\nNome: GILENO DOS SANTOS",
+      "attachments": []
+    },
+    {
+      "id": "MTcxNmZhY2EtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lOTJlZWM2ZDQ5MDQzYmYtMTE1ODIwMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1158202800000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 15/09/2006\r\n\r\nJOSE ALEXANDRE BATISTA MAGINA",
+      "attachments": []
+    },
+    {
+      "id": "YzQwZTE5ZWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NDA2NTZkYjg4YWVjNjQtMTE1OTIzOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1159239600000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o Contra-arrazoar R.O.\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 1059 Sol.N\u00ba 5698",
+      "attachments": []
+    },
+    {
+      "id": "YjM2MDFjNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOTBhNmU4NzZlMjhmYTUtMTE1OTkzMDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1159930800000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Contrarraz\u00f5es R.O.\r\n\r\nVencimento: 04/10/2006\r\n\r\nNome: MRS LOG\u00cdSTICA",
+      "attachments": []
+    },
+    {
+      "id": "MDg5MjBlYzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hYTg4NjY4ZDFmZDg5ZTItMTE3NDQ0NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1174446000000,
+      "text": "Remessa para 2\u00aa Inst\u00e2ncia de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nrecurso ordinario do reclamante",
+      "attachments": []
+    },
+    {
+      "id": "MjQxYjJjNTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNzUxNGMyZThiNGU0NDgtMTI0MDk3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1240974000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Outros - Diversos\r\n\r\nNome: bx",
+      "attachments": []
+    },
+    {
+      "id": "MTYzODZjZTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWNlZDNjZWNlZWJkMWEtMTI0MDk3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1240974000000,
+      "text": "Recebimento do TRT de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nSenten\u00e7a Mantida pela 2\u00aa Inst\u00e2ncia",
+      "attachments": []
+    },
+    {
+      "id": "MDNiZTQyMDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hOTViYWI1YzkyZDFlZjctMTI1ODQyMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1258423200000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nNro da Rela\u00e7\u00e3o: 251/2009 Data: 17/11/2009 Qtde vols.: 3",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

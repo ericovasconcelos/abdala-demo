@@ -1,0 +1,178 @@
+{
+  "lawsuit": {
+    "id": "OWU4YzhmNWUtYXV0b21hdGljOjE2MDQyODI0LTAwMDAyMDM1MzIwMTE1MDMwMDM4LWxhd3N1aXQ=",
+    "activityCount": 19,
+    "number": "0000203-53.2011.5.03.0038",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. B\u00e1rbara Hargreaves Carvalho Tymbunb\u00e1",
+            "cpf": "",
+            "lawyerId": "M2Q4YTEyOGMtYXV0b21hdGljOjE2MDQyODI0LTFjNjUxZjcwZmExYTczNS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Rog\u00e9rio de Azevedo Moura",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Webner Lessa de Freitas Carvalho",
+            "cpf": "",
+            "lawyerId": "NjQ0ZjU1OGItYXV0b21hdGljOjE2MDQyODI0LWViZjg3MTM4MWQ5OGMzMS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZTI1MzE5MjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Nzg0OGEzMDM4MGJiNzMtMTM0NjI5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1346295600000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos \u00e0 CPE para identifica\u00e7\u00e3o de pe\u00e7as\r\nLocal: Coordenadoria de Processos Eletr\u00f4nicos",
+      "attachments": []
+    },
+    {
+      "id": "ODMyMmUxNGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNTBjMmVmMzk5NWY3OTYtMTM0NjI5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1346295600000,
+      "text": "Movimenta\u00e7\u00e3o: Andamento inicial\r\nLocal: Coordenadoria de Cadastramento Processual",
+      "attachments": []
+    },
+    {
+      "id": "MGIwOTlhMDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZjcxZDRlYjEwYzMwMmItMTM0NjI5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1346295600000,
+      "text": "Movimenta\u00e7\u00e3o: Cadastro pr\u00e9-autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZjAwM2Y2YTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZjQyZGU3NjBiZWY4MjItMTM0NjgxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1346814000000,
+      "text": "Movimenta\u00e7\u00e3o: Remetidos os autos para a CCADP para autuar e distribuir\r\nLocal: Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos",
+      "attachments": []
+    },
+    {
+      "id": "Mjg2MDJlMzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZmQyZDU3Y2Q3YWFkNGItMTM0NjgxNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1346814000000,
+      "text": "Movimenta\u00e7\u00e3o: Processo eletr\u00f4nico iniciado",
+      "attachments": []
+    },
+    {
+      "id": "MTRlOGI5NzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xODA1MWU5NjUxMmNjY2YtMTM0NzMzMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1347332400000,
+      "text": "Movimenta\u00e7\u00e3o: Recebidos os autos - Para triagem",
+      "attachments": []
+    },
+    {
+      "id": "NmJhMTcxNjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NDY1Y2QzZDA4MGJhZWEtMTM0NzMzMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1347332400000,
+      "text": "Movimenta\u00e7\u00e3o: Autuado",
+      "attachments": []
+    },
+    {
+      "id": "YTFmOTE5ODYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NDMxNWNmMDhhNjZjMjgtMTM0NzQxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1347418800000,
+      "text": "Movimenta\u00e7\u00e3o: Concluso ao Relator\r\nLocal: Gabinete do Ministro Jo\u00e3o Batista Brito Pereira",
+      "attachments": []
+    },
+    {
+      "id": "ZThiZGY5MGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NTliN2YyMzM0ODZjZjctMTM0NzQxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1347418800000,
+      "text": "Movimenta\u00e7\u00e3o: Distribu\u00eddo ordinariamente ao Exm\u00ba Ministro BP - T5 em 12/09/2012",
+      "attachments": []
+    },
+    {
+      "id": "OGNlNTRkZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZjlmNDNkNTEwMGI5MDUtMTM0NzQxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1347418800000,
+      "text": "Movimenta\u00e7\u00e3o: Recebidos os autos - Triagem conclu\u00edda",
+      "attachments": []
+    },
+    {
+      "id": "MDNjYTc1ZTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMjU0NDMyYmYyODNiZTAtMTM2MTkzNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1361934000000,
+      "text": "Remetidos os Autos para Secretaria da 5\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "MzA1YTk3MjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTRhZjU5MGI2ODA1ZDAtMTM2NjI1NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366254000000,
+      "text": "Disponibilizado(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2YyMjU5ZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NzQwZjQzNDY4NGIxYTAtMTM2NjM0MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366340400000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 24/04/2013 \u00e0s 13:30.",
+      "attachments": []
+    },
+    {
+      "id": "MDdlYzM4NjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNzNiN2EyMTg2ODA2MWUtMTM2Njc3MjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1366772400000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "ZDI1MTBjYTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWVlM2E1OWMxZGQwODUtMTM3MDQ4NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1370487600000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGVhNjBlMWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MjFiYjk5NDczMjFhYmEtMTM3MDU3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1370574000000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 07/06/2013",
+      "attachments": []
+    },
+    {
+      "id": "NWJlNTlkNTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02Mzg1OTc5YzI4MzllMjYtMTM3MjM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1372388400000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o para encaminhar \u00e0 origem",
+      "attachments": []
+    },
+    {
+      "id": "YWRlZmY1MmMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04ZTM0Njk0YTVhNjlhMzItMTM3MjM4ODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1372388400000,
+      "text": "Transitado em Julgado em 24/06/13",
+      "attachments": []
+    },
+    {
+      "id": "OGJlZDlmMmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMWYyZTE4ZjdmMjA3N2QtMTM3MjY0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1372647600000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

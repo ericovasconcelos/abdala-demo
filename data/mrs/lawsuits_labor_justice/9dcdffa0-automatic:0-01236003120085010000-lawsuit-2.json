@@ -1,0 +1,383 @@
+{
+  "lawsuit": {
+    "id": "OWRjZGZmYTAtYXV0b21hdGljOjAtMDEyMzYwMDMxMjAwODUwMTAwMDAtbGF3c3VpdA==",
+    "activityCount": 34,
+    "number": "0123600-31.2008.5.01.0000",
+    "value": null,
+    "subject": null,
+    "kind": "Trabalhista",
+    "district": null,
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Adriano Mario Ferreira Mariotini",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Joao Cabral Neto",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Jorge da Rocha Gomes",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Wagner Jeferson Farias Teixeira",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Jose Ricardo VAZ de Almeida",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Embargante",
+          "normalized": "Embargante"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "MRS - Logistica SA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Embargado",
+          "normalized": "Embargado"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      },
+      {
+        "name": "Juiz Titular da 1A Vt/Volta Redonda",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Embargado",
+          "normalized": "Embargado"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": null,
+            "lawyerId": "OTAwZDY3MDktYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LXVuaWZpZWQ="
+          },
+          {
+            "name": "Michelle Segadas Vianna Paraizo Garcia",
+            "cpf": null,
+            "lawyerId": "MTQzMjgwN2ItYXV0b21hdGljOjAtMmVlZWZjNzE0ZjJmYTA4LXVuaWZpZWQ="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1199196000000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT1",
+    "courtSection": "Se\u00e7\u00e3o Especializada em Diss\u00eddios Individuais",
+    "nature": {
+      "raw": null,
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjcw",
+      "date": 1251774000000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY5",
+      "date": 1254193200000,
+      "text": "Lavrado Ac\u00f3rd\u00e3o ED.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY4",
+      "date": 1254798000000,
+      "text": "Remetido Ac\u00f3rd\u00e3o para assinatura do Minist\u00e9rio P\u00fablico do Trabalho.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVh",
+      "date": 1263348000000,
+      "text": "Aguardando publica\u00e7\u00e3o de Ac\u00f3rd\u00e3o ED.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZk",
+      "date": 1254106800000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU3",
+      "date": 1263434400000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY1",
+      "date": 1256176800000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVl",
+      "date": 1258423200000,
+      "text": "Juntada de Mandado de Intima\u00e7\u00e3o .",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZm",
+      "date": 1252033200000,
+      "text": "Embargos de Declara\u00e7\u00e3o N\u00e3o-acolhidos",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU5",
+      "date": 1263434400000,
+      "text": "Remetido Ac\u00f3rd\u00e3o ED no expediente do dia 29/09/2009 para a imprensa.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY0",
+      "date": 1256176800000,
+      "text": "RECEBIMENTO DE LOTE.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjYz",
+      "date": 1256176800000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU1",
+      "date": 1265162400000,
+      "text": "Transitado em julgado",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU2",
+      "date": 1263434400000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjYy",
+      "date": 1257472800000,
+      "text": "MANDADO DEVOLVIDO.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU4",
+      "date": 1263434400000,
+      "text": "Publicado Ac\u00f3rd\u00e3o ED.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjcz",
+      "date": 1251342000000,
+      "text": "CONCLUS\u00c3O FINALIZADA.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZj",
+      "date": 1254193200000,
+      "text": "CONCLUS\u00c3O FINALIZADA.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjU0",
+      "date": 1265248800000,
+      "text": "Expedido Of\u00edcio Comum Processo Numero: 0037/2010",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVk",
+      "date": 1262916000000,
+      "text": "Decorrido o prazo de terceiro",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVm",
+      "date": 1258336800000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjc1",
+      "date": 1251342000000,
+      "text": "Juntada de Peti\u00e7\u00e3o  - Embargos de Declara\u00e7\u00e3o no 2\u00ba Grau.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZh",
+      "date": 1254193200000,
+      "text": "Aguardando lavratura de ac\u00f3rd\u00e3o ED.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZi",
+      "date": 1254193200000,
+      "text": "CONCLUSOS PARA DECIS\u00c3O/DESPACHO.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjYx",
+      "date": 1257732000000,
+      "text": "RECEBIMENTO DE LOTE.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVj",
+      "date": 1262916000000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjYw",
+      "date": 1258336800000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjVi",
+      "date": 1263175200000,
+      "text": "RECEBIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjcy",
+      "date": 1251342000000,
+      "text": "CONCLUSOS PARA Para Pauta.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjZl",
+      "date": 1253847600000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjc0",
+      "date": 1251342000000,
+      "text": "CONCLUSOS PARA JULGAMENTO.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY2",
+      "date": 1256176800000,
+      "text": "EXPEDI\u00c7\u00c3O DE DOCUMENTO.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjcx",
+      "date": 1251774000000,
+      "text": "REMETIDOS OS AUTOS.",
+      "attachments": []
+    },
+    {
+      "id": "NWYzNWU1M2JkZGNkZjE1M2M0OGJkYjY3",
+      "date": 1256176800000,
+      "text": "Recebido Ac\u00f3rd\u00e3o assinado do Minist\u00e9rio P\u00fablico do Trabalho.",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

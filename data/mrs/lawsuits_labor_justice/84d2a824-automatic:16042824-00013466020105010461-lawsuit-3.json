@@ -1,0 +1,172 @@
+{
+  "lawsuit": {
+    "id": "ODRkMmE4MjQtYXV0b21hdGljOjE2MDQyODI0LTAwMDEzNDY2MDIwMTA1MDEwNDYxLWxhd3N1aXQ=",
+    "activityCount": 18,
+    "number": "0001346-60.2010.5.01.0461",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Luiz In\u00e1cio Barbosa Carvalho",
+            "cpf": "",
+            "lawyerId": "Y2JhZWJiMTYtYXV0b21hdGljOjE2MDQyODI0LWQ4N2ZhYmUzY2RmZWEzMy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Inaldo Pereira Le\u00e3o",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Nilo S\u00e9rgio Mesquita Portela",
+            "cpf": "",
+            "lawyerId": "ZTBlYTIwZDAtYXV0b21hdGljOjE2MDQyODI0LTgxZGJjMDA0NDE0MWEzMi1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YzFmYWE0ZTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjg5NzY4MTk5ODlmMmQtMTQ1MjIxODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1452218400000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "YmQxZjBiMjItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZWFlYjJhZGZlZGI4MmUtMTQ1MjIxODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1452218400000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzkzZDZlOGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NDZjMDQ1NzU1NmE1ODItMTQ1MjU2NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1452564000000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "MWVjYTNmMWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zODRhZWIxYzJiMGY0NzEtMTQ1MzY4NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1453687200000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "NjNhZDgyODUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wNWI2Y2Y3ZTU4NjEyMmMtMTQ1NDI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454292000000,
+      "text": "Recebidos os autos para triagem",
+      "attachments": []
+    },
+    {
+      "id": "YWQ2ZGI1NWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMDVhMjNhNjU2NjU1OGMtMTQ1NDI5MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454292000000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NWQ1YzVhZjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04N2M0YjQ2ZjIxNGIyZWYtMTQ1NDQ2NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454464800000,
+      "text": "Recebidos os autos - triagem conclu\u00edda",
+      "attachments": []
+    },
+    {
+      "id": "YWQ1YzE0MjUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMjQ3Yjk5Y2Q1NzVkN2MtMTQ1NDU1MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454551200000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Maria de Assis Calsing)",
+      "attachments": []
+    },
+    {
+      "id": "YWRlNGQ4YzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNmU5MjkzODg0Nzc2YzItMTQ1NDU1MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1454551200000,
+      "text": "Distribu\u00eddo por sorteio \u00e0 Exm\u00aa Ministra MAC - T4 em 04/02/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZGU5YjYwYmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mNDFkMjU5MzEyZTBmMTQtMTQ1ODYxNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1458615600000,
+      "text": "Remetidos os Autos para Secretaria da 4\u00aa Turma para incluir em pauta",
+      "attachments": []
+    },
+    {
+      "id": "YTQ2MTExYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNTQ0OTBjYTNmZGNkMzktMTQ2MTAzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461034800000,
+      "text": "Disponibilizado(a) pauta de julgamento no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODc1NzA2MDktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZDQwMGIyYjc1MjUxN2UtMTQ2MTEyMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461121200000,
+      "text": "Inclu\u00eddo em pauta o processo para o dia 27/04/2016 \u00e0s 09:00.",
+      "attachments": []
+    },
+    {
+      "id": "MDFiODFmODYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YTMxMjY2YzVhYjQ1NzAtMTQ2MTcyNjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461726000000,
+      "text": "Negado provimento ao Agravo",
+      "attachments": []
+    },
+    {
+      "id": "NjMxZTJlMWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NDZlYjcwM2Y3NTI0MzgtMTQ2MTgxMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461812400000,
+      "text": "Disponibilizado(a) ac\u00f3rd\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjlmZWY1NmQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOGQ2ZDJiMWI0MGU3YzItMTQ2MTg5ODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1461898800000,
+      "text": "Publicado ac\u00f3rd\u00e3o em 29/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "NWRlMGMzM2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04OTZlZmNlODNjOTkwZjMtMTQ2NDE0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1464145200000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 1\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "NTZjMDcwM2MtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMjk0NDYxYzE1YmU4YWItMTQ2NDE0NTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1464145200000,
+      "text": "Transitado em Julgado em 20/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NjRjMTkwMzEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Y2I4MWNhY2I5OGU5OWEtMTQ2NDMxODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1464318000000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

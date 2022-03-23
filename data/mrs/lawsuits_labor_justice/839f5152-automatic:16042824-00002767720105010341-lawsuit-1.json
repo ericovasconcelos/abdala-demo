@@ -1,0 +1,110 @@
+{
+  "lawsuit": {
+    "id": "ODM5ZjUxNTItYXV0b21hdGljOjE2MDQyODI0LTAwMDAyNzY3NzIwMTA1MDEwMzQxLWxhd3N1aXQ=",
+    "activityCount": 6,
+    "number": "0000276-77.2010.5.01.0341",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Antonio da Silva Theodoro",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Nilo Sergio Mesquita Portela",
+            "cpf": "321.401.427-72",
+            "lawyerId": "ZTBlYTIwZDAtYXV0b21hdGljOjE2MDQyODI0LTgxZGJjMDA0NDE0MWEzMi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Eletromecanica Gital LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Philomena de La Rocque Daniel",
+            "cpf": "007.658.497-63",
+            "lawyerId": "MzI2NzUyNmQtYXV0b21hdGljOjE2MDQyODI0LWE0MzRiZWVjZWE5OWM5ZS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Tales Goncalves de Souza",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1262354400000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT01",
+    "courtSection": "1\u00aa Vara do Trabalho de Volta Redonda",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MjQzOGEyYWMyYjY0Zjc4YTRhODY3NWJhZjRkYjBlMDU=",
+      "date": 1535932800000,
+      "text": "Termo de Abertura de Execu\u00e7\u00e3o | Termo de Abertura de Execu\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjUzN2IwNWNmZGRiNzFiMWVkNjQ4Njk1MTMyZDUwOTE=",
+      "date": 1535932800000,
+      "text": "Termo de Abertura de Execu\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDNjZWNhYzc3ODAxNGFlMWNjOTMyMzIwNWViMjBjZDU=",
+      "date": 1535932800000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzM5NzA1ZjVjY2E5MzEwODlmMzBiOWNiZjNiNTlkMGQ=",
+      "date": 1559606400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "MWM4ODkyYzRiZWM1ZTU5ZTRkZGMzMjY2ZGYyNzQxN2Q=",
+      "date": 1559520000000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a THIAGO RABELO DA COSTA",
+      "attachments": []
+    },
+    {
+      "id": "NTg0YzUyYzFiODZjMTU4NjBjZTA1YmViZWExM2M5MzI=",
+      "date": 1559520000000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

@@ -1,0 +1,3274 @@
+{
+  "lawsuit": {
+    "id": "NmUzZTNlOGEtYXV0b21hdGljOjAtMDAxMDc2NDY0MjAxNTUwMzAwNDktbGF3c3VpdA==",
+    "activityCount": 524,
+    "number": "0010764-64.2015.5.03.0049",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Reginaldo Machado",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ricardo Quintao e Silva Feres",
+            "cpf": "004.585.336-37",
+            "lawyerId": "ZGMyOWMyYzctYXV0b21hdGljOjAtNzVmZTkzMDgxZDI4MDAwLWxhd3llcg=="
+          },
+          {
+            "name": "Nelton Jose Araujo Ferreira",
+            "cpf": "009.875.796-22",
+            "lawyerId": "M2RiYmJjZjctYXV0b21hdGljOjAtZmIyMTQ2NDYyMTcwOTIwLWxhd3llcg=="
+          },
+          {
+            "name": "Maria Fernanda Rocha Cardoso",
+            "cpf": "117.145.276-46",
+            "lawyerId": "OTU1YWE2MzItYXV0b21hdGljOjAtY2MyY2I4ZGJiMWM3MDBlLWxhd3llcg=="
+          },
+          {
+            "name": "Jose Maria Feres",
+            "cpf": "007.809.016-49",
+            "lawyerId": "MTk1YWRhYmMtYXV0b21hdGljOjAtYTkyNjMzNWMwMWE5NDg4LWxhd3llcg=="
+          },
+          {
+            "name": "Ana Luiza Stefani de Moura e Silva Curi",
+            "cpf": "066.538.116-62",
+            "lawyerId": "ZmM0M2E5NjMtYXV0b21hdGljOjAtZWMzY2NjODJjM2Y1YjUxLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Claudiney Antonio Figueiredo",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Cone Construtora Engenho LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Gustavo dos Santos Rodrigues",
+            "cpf": "083.996.146-45",
+            "lawyerId": "NTMxNTg5NTItYXV0b21hdGljOjAtNTI2Zjk5ZjE1YzIxYzZkLWxhd3llcg=="
+          },
+          {
+            "name": "Rodrigo Varanda de Mello",
+            "cpf": "049.907.186-74",
+            "lawyerId": "YTMyOTY3NzUtYXV0b21hdGljOjAtNDM2MDMwMjViNzYyZWE3LWxhd3llcg=="
+          },
+          {
+            "name": "Tancredo Gabriel de Aguiar Moreira",
+            "cpf": "071.725.886-65",
+            "lawyerId": "YWZiODQyY2EtYXV0b21hdGljOjAtZDVkMjU5OGFmMmVjYTI5LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Leonardo Stefano Cantarini",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1420120800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "1\u00aa Vara do Trabalho de Barbacena",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "Mzg3NTFmZjQ1MTk3Y2M0ZjE2YjY5OTZjNjk0ZTJlZTU=",
+      "date": 1513036800000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 11/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjhmZjk5MzVlZTMyNzMyMjdmNDYzMDQ1NDhjMjVlNGY=",
+      "date": 1506988800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjVjOGY1YjQ3ZDgwNDYxYzQ2ZWJhYmE4NzhjYTgxNDE=",
+      "date": 1485734400000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MTAyNTgyYjllNjBhOGE1ZmQ2NGFmM2RkODIzOWMxNWM=",
+      "date": 1462492800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTI2ZjM0MDU0ZTQwYzFlM2M0MDljN2M3N2ZhYjEyOTg=",
+      "date": 1448928000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZmVjZTQwNDQ4NjljZTE1MGE1ZmIyMjhiMzUwZjcwNWU=",
+      "date": 1464825600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "YjU1OTk4M2NmYzY4MjA3N2U0N2NhY2NhMjA2MDA2YjM=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de NELTON JOSE ARAUJO FERREIRA em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWRmMmNkNTljNzc4OWUxYWZiODY1NmMwZmZlY2RjM2M=",
+      "date": 1502841600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 16/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NmYxODA0MGFmOGM4MmM2Y2Y2OGMwMDg2YTVjNzNlZjE=",
+      "date": 1508889600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MGJjYmU2ZWI5NjI4ZWM5ZjliYjczMjdiOTE2YjFiZmM=",
+      "date": 1535414400000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZTg4NmU4MjVlZWNhODVjYmIwMmVjYmZkYjFlMmZjMjY=",
+      "date": 1535932800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTgzNDc1YmRiOWE1ZTI0ZTg4ZjRhNGRiN2Y2ZjY0YzY=",
+      "date": 1539907200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 18/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDJlZTY3N2MyMjM3MTg1MGI5ZjkzZDIzMGM5ZDQ5NDY=",
+      "date": 1526428800000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "NGIxM2FjMWY1ZjkxN2U2MjQyYjkyNzdmZjdjYWYyZWQ=",
+      "date": 1523491200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MWQ4ZTljOTc5MDZhMjYxOWVkNmJkYjEwYWQ0ZTVmMTU=",
+      "date": 1502150400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODJhNWExNzJkNjZiZjkyYjBlNzRkYWUwMTE1NmNiYWM=",
+      "date": 1441152000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "OTlkNmJjYzUwNjZiNzk3NjAzMjUwZWUzMmIxZTYwOGY=",
+      "date": 1532908800000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "ZGZlNzQxMjJiMTU1NjEzNTkzOWQ2NjMzNTI3ZDJjNzY=",
+      "date": 1527811200000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 89f72ea | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjM4YThkMDEzMmFmMzQzOTJkMjZjYTA0NzhjMGE0MWQ=",
+      "date": 1448928000000,
+      "text": "10764-15 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWY3YjE0OWNhMDM0NWQ3NWQ2YjIxYmE4NWJlZDIwZTM=",
+      "date": 1461456000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (31/08/2016 16:00 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "Zjg5ZTc1NWNjYjVlYmVkZjY1NDcwYTcyNGFlYjlhZjg=",
+      "date": 1462492800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZmJhZTAzYjk1ZGNhYWQ2MDI2ODgxMGJlMDk2MDgzMzU=",
+      "date": 1508371200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWY4YTYxZGViNDA3ZmI3NTY4MDQ4NGVkYTk0ZTUxOGY=",
+      "date": 1502236800000,
+      "text": "Acolhidos em parte os Embargos de Declara\u00e7\u00e3o de REGINALDO MACHADO - CPF: 068.545.346-40",
+      "attachments": []
+    },
+    {
+      "id": "NjRjZjAyOGUxY2NiZTVhNDQ3YWY4OTc2M2QzMDJjYjg=",
+      "date": 1506988800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTZlOTcyZDZiMGQ5MDk5NmNiNTRiZGE1NDk3ZDI5YTQ=",
+      "date": 1539907200000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 18/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTM3MDYxZTZkZTc1YzJmMmUzYWNhMjc0ODAyM2RlMTc=",
+      "date": 1506902400000,
+      "text": "PLANILHA DE C\u00c1LCULOS | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjkwMTQwNTVlMjYzMTQ5NTM5MDU0N2M1ZjBlNTNjODk=",
+      "date": 1519862400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODE5MDc1MDg5MGUyM2Q2YmFlNWZmZmM3YzAyOWRjMmE=",
+      "date": 1459814400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "OGUxNDM5MWYyNTRjZTI0MWFmNzk4NzY1OWEwN2MyN2M=",
+      "date": 1536883200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY1YmQ0ZTBlMDEzNjdkNWY0NzA5N2M5Y2JhZmY5M2I=",
+      "date": 1479340800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTIwZTA5ZTcxMWQ1ZDEyOWQ0YTc3NDJjNTliOWYxMDM=",
+      "date": 1465344000000,
+      "text": "Embargos de Declara\u00e7\u00e3o | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTAzY2ZjMjc3NTE4YmJiNGIxM2RmNDFmZmYwMDM0YmQ=",
+      "date": 1477612800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI3NjFhNjQzZGQ0MDExYzkwMzVkNGNmODc1MTNkOGE=",
+      "date": 1455753600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MmJjM2NlMmVmNTA0YWExMmRjZjNmZmM1MDFhMzY2NDA=",
+      "date": 1441584000000,
+      "text": "Decorrido o prazo de ANA LUIZA STEFANI DE MOURA E SILVA CURI em 04/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTdmMzk5MzczZmVjMjA3N2M3MjBkNzk4YjZjZWFlNzQ=",
+      "date": 1465948800000,
+      "text": "Conclusos os autos para decis\u00e3o dos Embargos de Declara\u00e7\u00e3o a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NjkzYzJlNzEyOGI5OWFkOWQwYWRiZmVmNTVkYWNiNDM=",
+      "date": 1477440000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MTFhZDc1OGM0Y2JmNzdmMDg5ZTEzNTY4MjJlNzhkNTM=",
+      "date": 1539561600000,
+      "text": "Conclusos os autos para despacho a MARIA JOSE RIGOTTI BORGES",
+      "attachments": []
+    },
+    {
+      "id": "YTRkMTk2NGYwYmJkODIyNjRkM2Y5Y2Q4YzJlNjNhOTY=",
+      "date": 1434499200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NGY4YmQ1MzE1Nzg4ZTZhMTZiZTQ2YWIxZWQxM2RlYTk=",
+      "date": 1532304000000,
+      "text": "RENAJUD | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2QzMzgxOWVjYjhlY2FmYzZjNGYxNGQ1N2JhNjc1ZGI=",
+      "date": 1464998400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZGNjNTI2NmEzZmQ2YTkxM2NmNDFkY2UxZmNiMzY2ODE=",
+      "date": 1528675200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OGViMDk2OGNmOWI2MTg0ZTA0YjY5NTU4ODY1MTJkZDg=",
+      "date": 1507680000000,
+      "text": "Baixa de CTPS | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjEwYTdkYjkxMWI4YjhmODdkYmZmOTE5M2FlYTg5MTY=",
+      "date": 1509235200000,
+      "text": "intima\u00e7\u00e3o perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzgyMTcyNWMwNDlhNDRhMzU1Zjc5Zjk4MDhmZTcyZjg=",
+      "date": 1526256000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDFmYWI2NjAzM2VhNDU4ZDY1ZGI0Y2RjMzBmYjk0MzY=",
+      "date": 1432684800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NTc5NWEyNDljOTY1MTAxMjhiMTExMjQ3MjY2YjhlYzY=",
+      "date": 1468886400000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTA2MmUwNDM2MWU5YjMyZTFhZjg3ZDc3NmUzMjUxNzY=",
+      "date": 1432857600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTgxMTVmOWY2ODk0ODQ3Yjk2NTRhNTAxOTEzNWU0OTQ=",
+      "date": 1434585600000,
+      "text": "CARTA DE PREPOSI\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU2MGUwYTRkN2MxMjVlM2E2ZTZjYzgyYzZjYjc5NmM=",
+      "date": 1526428800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NWY0ODQ5OTMyMDEyY2VlYTA0MWI5N2Q3MGZmMTg1NDA=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de NELTON JOSE ARAUJO FERREIRA em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjVkMzVmYWEwMmJiNGZmMjg5Yjc1ZDc4MTkyZDIxNTU=",
+      "date": 1505174400000,
+      "text": "Conclusos os autos para despacho a FERNANDO SARAIVA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "ZGY0YTBiYThkN2VmNjE1NzgxYmFlODlhZmYyMWNiOTQ=",
+      "date": 1511913600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzZmNTM5OWJmODk1MGIwNTIzM2Q2MjM2NDQyOGE4NGY=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de MARIA FERNANDA ROCHA CARDOSO em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWYxYjI0MmYwZjhkMDZjZTY1NTUzNjRmZjRkMmEwODE=",
+      "date": 1482105600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MzYwNmM5Yjk0ZGY1NzcxM2RkOGJjOGQ3M2VmYzI0ZGE=",
+      "date": 1432684800000,
+      "text": "DECLARA\u00c7AO | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWZlMDNhYTk2ZDdmYzQ1Yjk3NmM1NjBmYjZlMGNlZWQ=",
+      "date": 1538524800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjhjYzdhZGVkMGU4MTllMTY2MjViZDRmZmNlMWUwZDQ=",
+      "date": 1508284800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWM2NDE4ODFhNDIyNTgzMjYyYjU2YjI1NjgyMWVhYjU=",
+      "date": 1539820800000,
+      "text": "Juntada de Comprovante | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmY2NmJiOGM3OTI5YTM0YjZjNTUyMmE4Nzk0N2I4ZDQ=",
+      "date": 1523577600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZmUyYjk3OTc5ZTM2NTA0MjBkMWVkYjk3NDgyM2QzZWY=",
+      "date": 1460937600000,
+      "text": "Documento de Identidade do S\u00f3cio | Registro Geral - RG - Carteira de Identidade Civil (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGMxZDA4NTliNGNlMWEyZmRiYWZkZGI1NDIxMTM5NDY=",
+      "date": 1432684800000,
+      "text": "Audi\u00eancia inicial designada (16/06/2015 13:40 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "MDU5ZjcxZGNkNzdkZDc5NGQxOWNhMGRlYzY0YzllOGU=",
+      "date": 1506643200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZjhlZWI3YzVlYTJmN2FlZDU1MjMwMzdjYzI5ZDJjN2Q=",
+      "date": 1496102400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MjQ0MzAxZmNmYmExNTAyNTkzNTExNjI0YjBjYjZlYzA=",
+      "date": 1499212800000,
+      "text": "Embargos de Declara\u00e7\u00e3o Senten\u00e7a | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJmM2EwODM2ZWU4NGQxNjUzZjM2ZWJmZmZmZDNhYjU=",
+      "date": 1434412800000,
+      "text": "002 SUBSTABELECIMENTO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTRmODdlMmVjZjYwZDBkY2ZiY2M3ZTlhMjY4YzU1MGQ=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de RODRIGO VARANDA DE MELLO em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGE5YTk0ZWQzNWI3ZjBiNTkyZGViZjc0YjIzY2UwMmM=",
+      "date": 1508976000000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 25/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NzU0ODQ2YzMxZmE3MjMyZDlkNDAxNGNhOTM2YTY5YzM=",
+      "date": 1508803200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 23/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWMxZjZjM2RmMWVhYjVkZTY3YjhkMjdhOTgzZGU4YTE=",
+      "date": 1499212800000,
+      "text": "Certid\u00e3o de Indisponibilidade Eletr\u00f4nica II | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTlmNWRmODFkOTBmZGM2YWNlMDhiMTVjNmUyZGJlYmE=",
+      "date": 1438128000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDRiMDM0M2Q2NDkwOTFlYWIxMGY2NGI5YmU3ZjM3ZDk=",
+      "date": 1500508800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/07/2017",
+      "attachments": []
+    },
+    {
+      "id": "ODlkMzdmNWUxYmJiNzZmZmY5ODA5OGRmYTY1YTcyOTQ=",
+      "date": 1518134400000,
+      "text": "Manifesta\u00e7\u00e3o da per\u00edcia | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZlOGY0NTM1ZmMxMTIwYTNlZWE4ODQ3MTgzZGYzM2M=",
+      "date": 1511913600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTQwODIyZjk1NjIyMjZmY2E3NWYzNTU2NGY2ODkyNGY=",
+      "date": 1508803200000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 23/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjkyYjc2YTY0YWMzNjYyNjQ3Y2M2Y2FhYWM1Y2EzNjQ=",
+      "date": 1506124800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 22/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Y2U1YThjNTZhMzc2ZmQwMzg1ZTJlMzJiYTQ1YjVhZjM=",
+      "date": 1440633600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "YWM3NTUxOGU1ZjI4NzlmMTc5NGY5ZWM5N2EzNDk5YWI=",
+      "date": 1508284800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjE4ZmJjY2E0OWY4ODZlZmIyNWQ5ZTg4MDM4NDkzZjY=",
+      "date": 1516752000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2RlZTk3N2RiNWEwOGE4OWUwZWRkOGVmODdhNDZhMWY=",
+      "date": 1538092800000,
+      "text": "CERTID\u00c3O DE JUNTADA | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTg5NWQ1MTk1YTlhODRjNWEwZDA1OGNlMjRhZGRkZjk=",
+      "date": 1535414400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzhjNjM0MzA2N2M2N2I4NDJiY2YzYzU3ODQ4ZTcxN2E=",
+      "date": 1505174400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjhjMzM1NjU1ZTNhNjY5MWRmYTg0NGFhOGYzMzk5MDY=",
+      "date": 1462924800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTUyNWU3ZDgyMzljZDQ0N2RlZDdlMDY3MTUwYmNhMzU=",
+      "date": 1464825600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmRmYjM0YjUxYjcyZDIzODllNTI0ODEwM2RhOWFjMzk=",
+      "date": 1509321600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTJlZWUzNDY3MzM0MDhhNTdhMWMyYTZhZDlhYWViMDU=",
+      "date": 1535673600000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID cec2d08 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJkMjdiZGU5YjRkMmU4MDFlY2VmOWMyN2FmMDIyNjU=",
+      "date": 1453680000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "ZjMzMzcxMTI1ZWM0YzdmMDRkMWNiMDAxZTFlMGNiMTU=",
+      "date": 1466640000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "OWI3ODk2NmVjNDA4Y2M4MjliNjRjOThlMGFlZDQyZDk=",
+      "date": 1508371200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM3ZmMyNTg4MTVjODc5YTgyMTA2YTllYjY2OWRlZGQ=",
+      "date": 1452556800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZGY4YWI2MGFjOGI1YzNiYWFiZmUyZTFkMmUzMTU0MDA=",
+      "date": 1434412800000,
+      "text": "006 LAUDO 00816-2011 PARTE 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDRkNGI5ZTMwZGIxZDNiOGNkYjUzOTExNDExZThkMzY=",
+      "date": 1461024000000,
+      "text": "Audi\u00eancia inicial realizada (19/04/2016 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ2YjllYjgzMDkyYWMxZDg4MzhjNGQ4ZDYyOWViOWM=",
+      "date": 1526428800000,
+      "text": "Mandado | Mandado",
+      "attachments": []
+    },
+    {
+      "id": "ZTEyNDQzYzVhYjlhMGMxMDNlNmVhMWJlNTY0Zjk1MmE=",
+      "date": 1459900800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/04/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ3ZWNkZjdjYTc0ZDQwOTdhMjAxYzUwODNjNjkwYTk=",
+      "date": 1432684800000,
+      "text": "PEDIDO DE BENEFICIO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzBiMWIzM2RiNWNlMDljZmI0MzU0NTMzYzhlOWUxZWQ=",
+      "date": 1528934400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTk5OTNjMWUwYmM5MmQ0NDE5ZTMxNTYzNDQ0NDMyN2M=",
+      "date": 1465948800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzAwNDNiNzkzNjdkODc0NDc4ZDFlMzQzZDQ2ZGIzZGE=",
+      "date": 1473120000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZThjMjY0MzJlZTkwMWEzMjY0NmVjMDI4OGMzMjI3ZTg=",
+      "date": 1506038400000,
+      "text": "PETI\u00c7\u00c3O ACAUTELAMENTO CTPS - PROC. 10764-15 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWIyNTU2MmVmY2JmYTNhNzAyY2Y1ZDUxZTkwNDQ2NDI=",
+      "date": 1536883200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWZlMmQzZDc3OTI2OGY4ZTcxZGQ0ZGRjMGQxYTc1MDk=",
+      "date": 1435276800000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "OTVlM2M4NTUyNDkzMTEyYzhkMjI3NzM2YzJkYmE1YWQ=",
+      "date": 1539734400000,
+      "text": "Intima\u00e7\u00e3o perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFlMWNhNzIwY2M1YmQ2ZTY0NDY0YzlmYjkzOTA0Nzc=",
+      "date": 1439942400000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "Mzk4ZDg4YmM2YzhjZjExZTBmZTJiOGFmNGYxYmE2MWU=",
+      "date": 1450051200000,
+      "text": "Pedido de cita\u00e7\u00e3o por edital | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzczMGUwOGUxNWNjODJjZjQyZDQzZGNmYzE0ZTU5NGE=",
+      "date": 1538956800000,
+      "text": "CERTID\u00c3O DE JUNTADA | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU4Nzk5NTczMGQ1NmQyNGNkMDM3YzJlNDlhMTI3NDI=",
+      "date": 1536105600000,
+      "text": "Peti\u00e7\u00e3o de Juntada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjI5NDJiMzAwZThmNjllYTQ0Njk0YWNhYmMwNmFlMDA=",
+      "date": 1480377600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MzY0MWM4ZjZlNWRmMTNiODAwZTMwMDVmMDg1ZTgyNDk=",
+      "date": 1467849600000,
+      "text": "Conclusos os autos para despacho a RAISSA RODRIGUES GOMIDE",
+      "attachments": []
+    },
+    {
+      "id": "NzkyY2I5OTJkNWY1OTU4OTkzOWNlNjQ5ZDM4NTI3Mzc=",
+      "date": 1535932800000,
+      "text": "Requerimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTE5OTk2ZTUyNWZmZDRjOWI2YjU3OTFiNWYyMTU2MWQ=",
+      "date": 1473120000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (31/08/2016 16:00 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzNGEyYjZmODIyZTYzNzBiODMxZjVkMzcwNDk5ZDc=",
+      "date": 1528243200000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o realizada (05/06/2018 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNkZjJmYjNhNjdiMTY4OWMzMTRlZGM5MzBmNTNiOTU=",
+      "date": 1531526400000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 13/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTIzZjQxYmFhM2YwNmQzYmQ0Y2NhYjFhNWE2YWQyYWM=",
+      "date": 1476662400000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ1NTk4NjAwYmRkMWU2YjkwN2FkNzg0YTMzMzBjY2Y=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de ANA LUIZA STEFANI DE MOURA E SILVA CURI em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTZlYjViYWY3NTgzOTM3OTE5ODY4ZTc5NDZmMGY5YTk=",
+      "date": 1526256000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmFiMTc3NWQwYjkxNmQ0YTdkNjNhZTQ2YzczNmNmOGI=",
+      "date": 1540857600000,
+      "text": "comprovante de levantamento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRiNjZiNGM3MjE5OGI4ZWMzNmZkNWFmZmFjMzliNTI=",
+      "date": 1535328000000,
+      "text": "Conclusos os autos para despacho a CARLA CRISTINA DE PAULA GOMES",
+      "attachments": []
+    },
+    {
+      "id": "NGM0YzMxMDQwMTYzMDU1MWQ4NWY0MTdkN2NmMWU1ODc=",
+      "date": 1477612800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGFkNjI4OGMwOTVlNGJiZTgyYTI0ZmY5ZmFhOTVhMGU=",
+      "date": 1505952000000,
+      "text": "Acautealmento de CTPS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODA1OWNiYTI2YWU3ODBkMjgwYTVhYjQ2Y2IxNTRkM2Y=",
+      "date": 1441238400000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGEzZWFjNWQ2YWZiMWNiZWFmMDE4YWI0M2E1NDUyYWI=",
+      "date": 1503619200000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 24/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzgwOGIzNThhZTgwMDkzOWEwMmE3NjNmYTY4YWE4NGM=",
+      "date": 1540857600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjdjNzgzNmI2MTE3ZmZkYWQxMjMyY2I0OTJiNDIxNDg=",
+      "date": 1515369600000,
+      "text": "Perito intimado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODkzODJiMzIwYzYyMTEzYzY2YmM0OWEwOWY1MmE5ZmY=",
+      "date": 1435536000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTE3MDc3Mjc5ZDUyNjMyYjUyM2FkOGJlMzBiMmI3NDk=",
+      "date": 1496102400000,
+      "text": "Luana Teodoro Pinto | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWZlN2EwMzg4NGE2NWQ2MGU5ZWNlYzA5ZjQ3M2NlZjI=",
+      "date": 1440028800000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjUwNzJiNTJmOWE0NzMxMjk0ZmQ4NWRiZWFkMjFhMzM=",
+      "date": 1434326400000,
+      "text": "certid\u00e3o de devolu\u00e7\u00e3o de notifica\u00e7\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTczZDVjNTk4OTIwYzRlZGUzZTFhZjRjMTEwMDkzYzY=",
+      "date": 1505174400000,
+      "text": "CERTID\u00c3O | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzY1YTFkZTlmYTJhZGE2MWU5OTNhNjViODc3ZWRkNGE=",
+      "date": 1538524800000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzJkZGJlZGE0YjBiZTRhYzRmZWM4NDM0YmU2ZWUxODE=",
+      "date": 1519862400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjczMjQ3MDRmZjJiODFiODA2YTdhOTA2OGE3OTllNzQ=",
+      "date": 1508371200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZGNjNzU5ZjRmYThiZjdlMzI4ODllNmEyNjhhYmRjZjk=",
+      "date": 1461024000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ODdiYTViOTZiZmFkYWI0Y2I5NGY1MWE0MDcyMWY1ZTY=",
+      "date": 1450310400000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2I2MDQ0NDZhYzYzZGE5MDJkODY2Mzk0MDJkYWYxMGM=",
+      "date": 1468195200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODUxODk4MmU4NmM5ZmEyOThiYTI4NDRkM2U4MDMzMTY=",
+      "date": 1528156800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "MjEwZDU2ZjI2MThiZmUzYTZjNjcxNGRiNzFiYTA4ODA=",
+      "date": 1438300800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWZjZGU4YTQwZDYwZjY0ZjRiN2JmNzM0MThmODkwNjY=",
+      "date": 1480377600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZmYxMzg2NmNhNjM1Y2JlZDYyYjdmZmJhZmU4NDVlYWI=",
+      "date": 1450483200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTUzMjkzMmViMDdmNjU4NDk1NTIxODM4M2ZjNzBlMzA=",
+      "date": 1484611200000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2RjNTMyMGIxMDA4OWM4ZjM0OGUwMjliODRmNDUyYjY=",
+      "date": 1439942400000,
+      "text": "Audi\u00eancia inicial redesignada (15/12/2015 13:30 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "MGJjNDQzOWU0OGY2ZGNjYzk5N2MwYjMwOTg5ZDljNDI=",
+      "date": 1463356800000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTI3NjJmMGRhODA5ZDU4NzkwNDliM2U1YmYyNWMwMTk=",
+      "date": 1462492800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MjcyZTgxYzYxNDI0YmFiODY1NmU2YjE0ZDk4YmVmYWE=",
+      "date": 1505174400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDMyYTM2ZDI5ZThlZDQ3NDA5ZmE4ZWUxMGQxMTA5MTI=",
+      "date": 1510531200000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 15/12/2015 00:00:00",
+      "attachments": []
+    },
+    {
+      "id": "YjFmYzhlMjcxM2RiNGI0ZjBmZDk5YTY2YmUzMzE3ZDE=",
+      "date": 1460937600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "NjhiMjVlOWZkZjRjZTU0YjQxMDYzZTUwNmFmMTAyMmU=",
+      "date": 1539648000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODIzZDUzYjFmNzM1YzMyMjE5OTViMzIwMjA3OGRjNGM=",
+      "date": 1526256000000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o designada (05/06/2018 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "Zjg4YWYwZDA0NzAxYmExNzBhMjg2ZGE1YmY4NDBhYTM=",
+      "date": 1528934400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "NjQxMTRlYWFhODJiMDc5MmZiYzJhYzAxNzMyYTcxMjI=",
+      "date": 1508457600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NDk0MjY0Y2QzNjdhYjU3MmYzMDAxYWUxMWI4NjMwZTA=",
+      "date": 1507852800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODU0MTJjZTQ0OGU1MTkyMDQ4NWI0MGEzOTVhZThmZDM=",
+      "date": 1507593600000,
+      "text": "EXCLUS\u00c3O DO REGSITRO DE ID 163628f | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTVkZmZhNTk5OWJiN2UwNGQ3NGJkYjM1ZDAwODdmMzc=",
+      "date": 1538956800000,
+      "text": "OF\u00cdCIO CEF | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDM3MzA2M2VlMTJkODA1NTE5ZjlhY2ZmZDY5MDEwZDU=",
+      "date": 1539820800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTZmMGRlNjI3M2YxYTEzYmE2YjY4ZmM1ZDM0MDczZDc=",
+      "date": 1459814400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Y2I4ODIwZjZjNWNkM2Q5NGI0OTI5ZjExMDNjNTI4Zjc=",
+      "date": 1437350400000,
+      "text": "Aditamento \u00e0 Inicial | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcyMGQzMzk3ZWI1MTJjZjI3ZTVkYjJjOTQwYTBlMWI=",
+      "date": 1460937600000,
+      "text": "Ac\u00f3rd\u00e3o RO do Reclamante | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGY0MzI1NTljZjRjN2FiNGE3NjkxNTFjMzc3YThhODA=",
+      "date": 1502841600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OTc3OTdhYzJkOWU0ZjA2YjRiNjY1NjUxNzM1MWI5NjE=",
+      "date": 1496102400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (30/05/2017 15:40 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "NGMyZDViODc4YzAwYzYxODNiZGZjZWRmNTRhMmE2Y2U=",
+      "date": 1531526400000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 13/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzU2YTY5N2ZmNzViZTljNDdhMmNiM2FiYjg0NTU0ZGI=",
+      "date": 1526256000000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "N2ZjZWYwMmM3OGM5ZTlhZjQ1ZjM5NGMzNDY3OWE3ZmI=",
+      "date": 1434585600000,
+      "text": "Cart\u00e3o CNPJ | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODhkYzA2ZTNmZjQxNWQ0MzE0YmQ2ZDg0NzRjZTZhNGE=",
+      "date": 1480032000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NWY3ZTJkNjAxZGNkYWU1MDJlZjEyYjNjZjg3Mzg1Nzc=",
+      "date": 1450310400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MTQ3ZGU4MTdmZDQ4YjJmNGU2OWUyZjI1NjhkYzYxMmQ=",
+      "date": 1506124800000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 22/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjI2MGUzM2E3NmY4Yjg4ZDkzMmQzMjhkZGM1ODIyNjA=",
+      "date": 1467072000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTYwMzE4Y2E1NTlkY2IwMDZjYmYyN2I1ODcyNzA5Mjg=",
+      "date": 1466208000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "OTU0YmY3MTE3MWNiZjJhYjYyY2JmMjQ3OTFlYjg3NWI=",
+      "date": 1524614400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjhkYjA1NzA4ODBiZTdiMDJmZTc5YzJmMTBkMjhmZDY=",
+      "date": 1468195200000,
+      "text": "Expedido(a) carta precat\u00f3ria a(o) ju\u00edzo deprecado da mesma regi\u00e3o judici\u00e1ria trabalhista",
+      "attachments": []
+    },
+    {
+      "id": "NTQwZDVlZDM4ZjBiYmVjZGY1MTI5NmRhNmYxZDMxYmU=",
+      "date": 1450483200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/01/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ3M2U3MDZkYTE4YjRiMDNmMGNkNWU4NDgwZGQ5ZGY=",
+      "date": 1505347200000,
+      "text": "Requerimento de adiamento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTJkNGU2MTUxMTQ5NTBhNWZkODJhNGUwMTQ4NGE2ZGY=",
+      "date": 1480464000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU5OGY5MGEzMzBjYjY2ZjA1YmYyZGVjZGMwMDE5YzM=",
+      "date": 1476662400000,
+      "text": "Certid\u00e3o de juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzYxNTMyMGFjMzE1Mjk1Njg1OTQ3NTQ5YzM3M2MzY2Q=",
+      "date": 1480982400000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NjdlODkwMjgzMmY2MzQ4YWViMzNlMTcwMzFmMzcyN2Y=",
+      "date": 1516492800000,
+      "text": "Planilha de C\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmU2MjYxZjI0MDQxNDkzMzE2ZGYxNWQwOGE3ZWE4YzU=",
+      "date": 1533859200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido parcialmente)",
+      "attachments": []
+    },
+    {
+      "id": "NDA2NjJjMzllNzUwY2NlMzBhOTU4Y2M1N2M4YmY5NDA=",
+      "date": 1506297600000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjNhNTY3YmUxMDRlZmU2ZGM4NWE3NWJmYTgxNWNlODM=",
+      "date": 1513296000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZTRkZjcwZWVlNTllNTk3YjZlMjJmOTlkZDZmYzU0OWI=",
+      "date": 1478649600000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 08/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MmVmZmM1NzQ2ZGY4OTM5ZGYxMGZlYTliODEyNDU2NGQ=",
+      "date": 1513728000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTM4NTMyMjVjNmMyZTMyMTNkM2UxYjcyMWM2MjI4OTc=",
+      "date": 1480118400000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 25/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGI3OTcyYWRhY2MyYzk5ZGZkMmFmNTliZTUzMGFiMDQ=",
+      "date": 1434412800000,
+      "text": "003 CONTRATO CONE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZiOGJkNDE1YzFmMTA5NjdhNjQyZTRlNDg5ODJlMzA=",
+      "date": 1435536000000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTQ4ZTlmZjMwODE3YzU5MjA0MzgxZmU0ODM2M2EzNGY=",
+      "date": 1498694400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q3YWY4NjAxNGY2NGJlZGExZmQ2OTgwNGRhZjM0MmQ=",
+      "date": 1535414400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZjIyNWZjZGQ4YzkwODUyNGMwYjhiZTFlMGVmYTUyNGM=",
+      "date": 1528416000000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 816dbea | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmIwNGQ2YWNlYmQ0MWU5YzNhNWNiOTA1YWE2ZjIyOTY=",
+      "date": 1462320000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjZmMmJjNWNiNGE2NzNkOTJlYWIwMjJjZmI5NTAwYWI=",
+      "date": 1508803200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjU2YzM3MTc5OGFkYjYzY2M3MDg5NmZmNmZiM2MyMTU=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de TANCREDO GABRIEL DE AGUIAR MOREIRA em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGI0MTI4YTE2OTc0YjdiNTM1NmQ1MTY3N2EyMzhmMjA=",
+      "date": 1506384000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "ZThlOGViZjc2Njc1OTdmNmQ1NWJiYTM4ZGY0NTVmYzM=",
+      "date": 1516492800000,
+      "text": "Laudo pericial c\u00e1lculos | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjc0NWMxOWVhOTkwYmM1ZDZmM2NiNWRjMGFmZWRiYTQ=",
+      "date": 1500508800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjRjZmI5NTljOGNhYTI4NzE3Mzc1NDM4ZDJjYTBmOWM=",
+      "date": 1479340800000,
+      "text": "Certid\u00e3o de Devolu\u00e7\u00e3o de SEED | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjgxNThhZmMxOGYwNjI2OTcxNDE3YjViYmYyYzg2NDk=",
+      "date": 1506902400000,
+      "text": "Juntada de c\u00e1lculos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJiNjAwNGJjMmE5OGQ1MWE3NzA2ZTA4YzQwYjJmNTA=",
+      "date": 1474243200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzMyNTZhM2IwYjliMTlmZWRmMWExOWI3OWE0YmFlMmM=",
+      "date": 1523491200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIzOWNhZjU2MWRkNTU5YzY1YmE1MTAxYjA5YWUzMTk=",
+      "date": 1536105600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTM0OGQ4ZjA1MGUwYzU3MzExYjk4MjY1MjU1MzJjMjc=",
+      "date": 1530576000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzJjZTUyZDFlNDFiMjlkOWZlN2U5ZDBiOWZjZDQ4ZTU=",
+      "date": 1466640000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGUwODBlYTMzMTRjMWE4OTc5N2M0NmY4OTAxNjExNzM=",
+      "date": 1478217600000,
+      "text": "10764-2015-otimizado-1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmM1MTUyNWEzOTc4NzhkOTA3NjNiOWE1NDEwNTIyY2M=",
+      "date": 1508457600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "MzI2YzUzYTNkYWEwZTYwYWUzNGFhNjY0NWUyYmEzMmM=",
+      "date": 1502150400000,
+      "text": "Conclusos os autos para decis\u00e3o dos Embargos de Declara\u00e7\u00e3o a SOFIA FONTES REGUEIRA",
+      "attachments": []
+    },
+    {
+      "id": "MGE0NDQ5YjQ1MzIxMTc1ZjM5ODYwYWY1OTY4YmYxNTE=",
+      "date": 1538697600000,
+      "text": "Perito intimado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTAwZThjNTE3NjRkM2NlMTUyY2JmNDQwOWY1ODAyOTQ=",
+      "date": 1538524800000,
+      "text": "comprovante de levantamento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjRkMzU4MWYzNjRiNDlmYmYxNDA3OGI1ZGVkMThkZmM=",
+      "date": 1536883200000,
+      "text": "Conclusos os autos para despacho a VANIA MARIA ARRUDA",
+      "attachments": []
+    },
+    {
+      "id": "MjhkZjEwMGM5YTYwMDM0ZTZmNzc2MTY5ZjMzZTNmYTE=",
+      "date": 1472601600000,
+      "text": "devolu\u00e7\u00e3o de CP | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmI5NTI0MzQ5ZjM3YjkyMGZkODJhOGYyZjgyYTVlZWM=",
+      "date": 1432684800000,
+      "text": "LAUDO M\u00c9DICO PERICIAL | Laudo M\u00e9dico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ0NGMyYmMwNDE3NDU2NTFjZGE1NjAwMThhMGE3NTg=",
+      "date": 1528934400000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "OWJlZTk5MjhiZjA4YWM4MmEzMzM3MTVkM2Q0Y2E0YWE=",
+      "date": 1465344000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTc4MzUyYjhhYWExNTdjY2RhZGNkNjdiZTM5ZTIzNmI=",
+      "date": 1512604800000,
+      "text": "Juntada de extrato de FGTS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWUyNDkxOWJhYmYxMzMyNjQ2YWU1ZTA4MTA0NjJmYTU=",
+      "date": 1467849600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWQ2MWEyNTI2Nzk1NTY3NmYwNGJkODNhNjJhNDc0OTA=",
+      "date": 1459468800000,
+      "text": "Audi\u00eancia inicial designada (19/04/2016 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZhNTYxMjM0ODY1MjgyMWNmNDNjZjhjNjRiZjdmMDA=",
+      "date": 1508803200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "MzA3Y2E1NGVjNjQyZTVjNTRiZjI5ZTljZWMyYjBiMjg=",
+      "date": 1432684800000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MThmOTAyOWVhMDJjNDQzNDY1ZTg4YWY5Zjk4MWMxYjc=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de ANA LUIZA STEFANI DE MOURA E SILVA CURI em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGI2MDkzNDAzMjM5ZGUwNDZmMDQ2OTFjZDk4OGM5N2U=",
+      "date": 1526256000000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzYyMmJlNTUzYWEzYmViN2NjNzAwYjQxZGEwMWQzOWQ=",
+      "date": 1455667200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "OTBlYzgxMDU2ZjFlMmI2Mjg2YzQwNzNjZDExZDNjOWY=",
+      "date": 1509321600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MWZmNzYyZjIzYzZjZWY3NTdiMDQ5NWNmYTBjM2EyNzQ=",
+      "date": 1506988800000,
+      "text": "Impugna\u00e7\u00e3o c\u00e1lculos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZjMDU4ODE0MWIwOTBlMTMwOWNkZmVhMWJkZjYyNzY=",
+      "date": 1434412800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDQ1ZDNhNzEzNDc4NTI5MjM2ZjgzOTAwNmEyOTkxYTA=",
+      "date": 1478217600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGY1Njc4MjQzZmIyNDI2ZjI3YzYwODMzOGIzOGVhYWE=",
+      "date": 1477440000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTMxZDc1YTgzZGUwMzQxZGIxOWM2NzJiMmM5YTM0Njk=",
+      "date": 1460937600000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM0NDk3MmY3YjIwMjUzYjA2MzgxMGJmOWFkZjBkMGY=",
+      "date": 1482019200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "OWRlMzFkNGQzNWE5Nzg5NTEzYWIzNGFjNGZjYTM0ZjM=",
+      "date": 1540857600000,
+      "text": "Conclusos os autos para despacho a MARIA JOSE RIGOTTI BORGES",
+      "attachments": []
+    },
+    {
+      "id": "YWQzZjMxZTIzOTVhNGY5M2I1MzIxN2U0YmFiOGEyOWY=",
+      "date": 1538611200000,
+      "text": "Proferida decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZDM2YmIxNDQyZWUwZGIxNzAxMzlmODE0ODhmYzdlZTg=",
+      "date": 1506297600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "YWFiNjBmN2E1MmE1OTI3ZTE0NDhjMjQ5NDhiZDMzNDU=",
+      "date": 1440633600000,
+      "text": "RATIFICA DEFESA APRESENTADA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTkzMzUwYjI3ZDNhN2JhMTY5MTliM2FiNjFjZDZjMGU=",
+      "date": 1440028800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWM5MzM4ZmM4NTBjYjk0ZjI5NzUyZDE3ZGQ1NTNiMTI=",
+      "date": 1434412800000,
+      "text": "005 LAUDO 00816-2011 PARTE 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDRkZWY1NTg2MWE0ODZhZTcyYzFjYjE3ZDI2YTczMWI=",
+      "date": 1509494400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "OWQyY2VjYmVjYWRlNWVjYmM4MzA4NTkyZjBmZmI0ZGM=",
+      "date": 1539820800000,
+      "text": "Recibo | Recibo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzNmNGFjYzk4NDgyNjI2M2YzYzUyODJlYjhmZGNiNTE=",
+      "date": 1526256000000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWEzMjcyZGZjODU0ZWRlOTliN2VlZmNiNTM5ZTE2ODY=",
+      "date": 1460937600000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTk0NDc5YTA0MTE1OTQ4Mzc0MTVjMjViYTRmYzYxMzU=",
+      "date": 1452643200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "NzJjNjQ2YjI5NGE5Y2YyYjRjMjIwOTY2N2JlZWVhNmI=",
+      "date": 1502064000000,
+      "text": "Conclusos os autos para despacho a SOFIA FONTES REGUEIRA",
+      "attachments": []
+    },
+    {
+      "id": "MWVjOGYyNGY0MmQxMmJlY2U2NjYxYWE0OTI3OWYwNjc=",
+      "date": 1528675200000,
+      "text": "Conclusos os autos para despacho a FERNANDO SARAIVA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "ZGUwMmQzMGI1Nzk2ZjdkNzdmNjRlNzVhMDg2Yjc4M2U=",
+      "date": 1538697600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/10/2018",
+      "attachments": []
+    },
+    {
+      "id": "MWVhMmYwOWVjNzhhOTNiMWQ4ZmQ0OTI0NWNkMDYxN2M=",
+      "date": 1496275200000,
+      "text": "Juntada carta de preposi\u00e7\u00e3o e substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTZjMmYyMjdmZDU1MWUyMGRlZDdiNGUzMWJlMjViZjc=",
+      "date": 1468281600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTU5ZDNlYjdiNTM2YjNiNTJhMTZiMGM0YWY3ZDAyZWQ=",
+      "date": 1508889600000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento realizada (24/10/2017 14:50 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "OTc3YzRmNGI0MTEwNGIwZTkyMjkyZDY3NDZjMDQ2YmQ=",
+      "date": 1479513600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZmZkZDQ5MTYwYWI0YWM0ZTdmMjIwYTFiMzVlYjQzZDM=",
+      "date": 1505952000000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento redesignada (24/10/2017 13:50 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFlOGMyNjAzNjE1ZjdhZDVlOGRkYWY5OTgxNDhlZmY=",
+      "date": 1540857600000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDBiZDQzYzc1YjU1ODU5YzAxMDA2MzY2NjNiNWQ5Zjk=",
+      "date": 1532304000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTMwM2ViMDY4NDU2OWQ0ZDVmZjA1NmI5NDE3OTQ2YTY=",
+      "date": 1476662400000,
+      "text": "Ju\u00edzo deprecado informa data de audi\u00eancia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTZmZDE1NzJkODAyZjU1NjY5N2M2ZjVlYzQ2MTQzZWU=",
+      "date": 1498694400000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a REGINALDO MACHADO",
+      "attachments": []
+    },
+    {
+      "id": "YzVkOTllZmQwYjI1YWRlOTIyMTFhMTQxZDA0NWM1ZjI=",
+      "date": 1434412800000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njg5YmRkZDBmZTZmYTk2ZGVhYThmZmFhNjhlZjUxNGM=",
+      "date": 1465257600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTFiZjZkYzcyNjQyNzRjYTBjNDgzZjQzOWFhMjQ4ZTU=",
+      "date": 1441238400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDg0NzZlNWU0NDI3ZTIxOTk4YmQ3NzQ1NDMxZWNhMjU=",
+      "date": 1480550400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc2YTFiNzAzNzMwYjU1NDU3ZTNkMWY5OTNjY2I5MjU=",
+      "date": 1506470400000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o realizada (21/09/2017 09:20 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "YjY1MWViNDljN2M4MGRmYWIwNmY0YzQwYTJiYTZiYTg=",
+      "date": 1540166400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmZmMDNkOGMwZjA2NmMxODBmMDIyY2E0MjhmNDU4Y2Y=",
+      "date": 1460937600000,
+      "text": "Comprova\u00e7\u00e3o de Tr\u00e2nsito em Julgado | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGJhNjNjNTVjM2Y1OGQ1NTg2MjRhZmIyM2EwMGZlMjM=",
+      "date": 1478217600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "M2I4MDhiNDY0NWI1ZDE1ZmEyMmRlMWFmMmU3NGY0YmI=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de RICARDO QUINTAO E SILVA FERES em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWM0OTcwN2RhYjBiM2UyMTI1MTk5MjM4NjA1NGQ3NzY=",
+      "date": 1473724800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDRhMDlmODQ5MjNmYjBmOGFjYTNiNGQyMGNjNmE5MTM=",
+      "date": 1538524800000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CARLA CRISTINA DE PAULA GOMES",
+      "attachments": []
+    },
+    {
+      "id": "Yjk3YzE4MDQwNWI2MmZmNzc4ZjM1ZDRhYzEwNGY4YWY=",
+      "date": 1432684800000,
+      "text": "CONTINUA\u00c7\u00c3O DO LAUDO M\u00c9DICO | Laudo M\u00e9dico (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDlhNmYxMWI2ZjZlMGI1OTRiYzAzOTQwYTBkODQ2YTc=",
+      "date": 1523491200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjQxMTJiN2MxZDUwYzUyYjA2N2QzMWQ1NDNkYjI3MDM=",
+      "date": 1538524800000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmU1OWE4ZDNjNTA1OWQxZWUzYmE3MWJiMmUyM2U1ODg=",
+      "date": 1541462400000,
+      "text": "Retirada restri\u00e7\u00e3o Renajud 0010764-64.2015.5.03.0049 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNkMDMxYTYyZWMyNTUxYzk5NTExZjUzNWE1Y2YwOGM=",
+      "date": 1521936000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OWZhOTBlNGExNzdiMjZlMjRhODQ0ZGU1YTk0ZDMwMmY=",
+      "date": 1524700800000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 25/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWU3MmI4ZWRhNjE3YzNmOTQ3YzMwYjc3ZTgyOWQ2ZTY=",
+      "date": 1505174400000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o redesignada (21/09/2017 09:20 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "MmQxZTMzNzE3MTdiNjYwMWJiNWIwNDE2MjM2MTk1OGE=",
+      "date": 1499212800000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmZkZGQ4MGJmZTFkZmE5ZDM4OWJmNjQxMjJjMjI3YjU=",
+      "date": 1467072000000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 27/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2EwMzA2ZDFmMjhjYzg2YWE3MWE2MjYyNDRjMDdiNGU=",
+      "date": 1459468800000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento redesignada (19/04/2016 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "MjM5OTI5NTNkNTEzMTNkMmYxZWJlNTk4ZjgxMTYxYjE=",
+      "date": 1434412800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjI5NzVjNjA2ZTJlYmY1ZjMxOWYxODk3NGRhN2FiYmM=",
+      "date": 1508371200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MzY4OTE3YWUyOWUwNDQyZmViNjRmZWJlZmVmYTEwYjk=",
+      "date": 1510531200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 15/12/2015 00:00:00",
+      "attachments": []
+    },
+    {
+      "id": "ZmVhYzU4N2I2NDVjZmEzZGQyZjVmZGM3ZmJkM2RjZWI=",
+      "date": 1535328000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MjEyNWY1MTY3Nzc1ZjMwYTZmM2Y4OGEyOGEyODEzYmM=",
+      "date": 1538092800000,
+      "text": "COMPROVANTES DE TRANSFER\u00caNCIA E RECOLHIMENTO GPS E GRU CEF | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2RkY2M4YzcyNDE1YzA0ZTE0MmVkMzQ0Y2E3MDEwZjM=",
+      "date": 1463443200000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 16/05/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Njg5MzEwOWFiYTNiNWRkZjZhZjJiZGRjMmVjMmQ3N2Y=",
+      "date": 1528156800000,
+      "text": "Expedido(a) Mandado a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "MjM5YmU2ZjY0YmJmODZlZjQ4ZWRjODhiNzgxYjgwNzA=",
+      "date": 1529884800000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MmU0NGRkM2YzOTBiYWQ1NDFlNzkyOWMwNTFlYzliOTY=",
+      "date": 1484611200000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "YmM3ZDAyNDJkNjBkODM0ZjdiMGUyNjk0M2QxMWI5MGQ=",
+      "date": 1461024000000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 18/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjIzNjU5YjM0M2Y0ZjBiYmIyMWFlODYwMzZiMTRhMzk=",
+      "date": 1501027200000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 25/07/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODExYjQxODcwMjg3ZjRmZWZhNmEyZDZhYzMyNTU4Njg=",
+      "date": 1478217600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWI4YWQwN2IyN2U0YjNmNWU0Y2M2MGUzMTZkNTcxNGQ=",
+      "date": 1532304000000,
+      "text": "Conclusos os autos para despacho a MARIA JOSE RIGOTTI BORGES",
+      "attachments": []
+    },
+    {
+      "id": "Y2UzNjY1ZTY5NmIwZjU1ZWQ4YmYwZDFjYTcyNmZkOWE=",
+      "date": 1530230400000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzk2ZWVkMTQ1OTk1YmY1OGVhMTRmYjQ4M2ZiNzkyYmM=",
+      "date": 1441584000000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 04/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDQ1ODJiMDE3OWRiOTdlZTFiNjNlZjJjYmJiMTkwZWU=",
+      "date": 1448928000000,
+      "text": "Certidao anexa cp | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFlMmVhY2UzZGJiYjlmZDA3Njk2ZjQ4ZDE2M2NkNGE=",
+      "date": 1526342400000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTEyY2Y0ZTMwNjFiMTU2YTNhOTljMTYxNGI0MTZkNWU=",
+      "date": 1500336000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmM2OWQzYmQyYjUzYmRjOTE4MGM1YjZhNmRjMDlmYTI=",
+      "date": 1440979200000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDA1Y2RjZjMwZTllN2Y0YzMxYjFmNmUwMzc1ZWFjNjg=",
+      "date": 1466380800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MmNmMmRiNmM1MjUwNmEzN2ExZmQ2YjViOWVjOWI0ZTY=",
+      "date": 1506384000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjE2M2M0ZDhhMGYxNTVlNGU0NTBhY2FhZTYzMWRhOTY=",
+      "date": 1524614400000,
+      "text": "Concord\u00e2ncia Laudo Pericial | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTI3NGE5YTExMTc1ZDNkMTE1NjEzMTg2ZTgxNWI2OTg=",
+      "date": 1434412800000,
+      "text": "Audi\u00eancia inicial redesignada (27/08/2015 08:30 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFkZDM0NTA5ODMwZDQ3NDMyMWIyZWYxYzgzYzM3Mzk=",
+      "date": 1480550400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "MDU3MTIyN2RkOWZiMTJjNGZlYjVhM2NhOTJkNTZiNjY=",
+      "date": 1468195200000,
+      "text": "papeleta de distribui\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWI2OWQ2NzcwYzVmZTVlMzlhMWE2NGQyODRhOTYzYTc=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de RICARDO QUINTAO E SILVA FERES em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjAxMGIzMjQxYzk3ZjRiMzVhNzMxZTBjZDcyZjk4OWU=",
+      "date": 1438473600000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 03/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "ZWU1MzYxZDYyYzkzNDNlMDM3MzdmOWFkZThiMTY4MWU=",
+      "date": 1524700800000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 25/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZmNmQ1OWNjMTJjMWZlNWYxMDljZTdjYTg4Y2RmYTE=",
+      "date": 1476748800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzMwZDcyMTQwZWRjMTY2YjQ2MDk3ZmJmOGVlY2E1Mzc=",
+      "date": 1526601600000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "N2NhMmJhY2RjMGM5Mzk4NTNjNDZkNjg4ZDg0OGQ4MTA=",
+      "date": 1540166400000,
+      "text": "Entrega de CTPS | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTg3NGMyZDdjMWVlYjE5MGFiOTA0NDA0OTY1MDE2NjQ=",
+      "date": 1462406400000,
+      "text": "Conclusos os autos para despacho a RAISSA RODRIGUES GOMIDE",
+      "attachments": []
+    },
+    {
+      "id": "OGM2YmIzOTc3NTcxZmI5MzY3YmVmNWM0YmUwOWI5OTI=",
+      "date": 1459468800000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "OGE5NWVjN2JjOGRkOGEwZTdlM2E2NWE4Y2VmYmQwYjI=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2VjMmJiYjE3YTg4ODY1YTkxYzQzNzQwYTg1ZmM5NmM=",
+      "date": 1516752000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTY2ODhiNjk5NjM2MzE0MDUwOGIwNzZjM2NlZmNjNzc=",
+      "date": 1507334400000,
+      "text": "Decorrido o prazo de TANCREDO GABRIEL DE AGUIAR MOREIRA em 06/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTA3ODQ0MWUwOGM3NmViZjNjNDg0MmY0NGRkODAwZWM=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de FL\u00c1VIO BELLINI DE OLIVEIRA SALLES em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWU4MTNkMjhmNmNiMmY1NDM2ODgwNjJhODM3ODNlMDQ=",
+      "date": 1462924800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/05/2016",
+      "attachments": []
+    },
+    {
+      "id": "NGY1NzgwM2VjNjIxNDZlODhhMjczMDBhN2Q5Mzc0MzI=",
+      "date": 1460937600000,
+      "text": "Senten\u00e7a Processo n\u00b0 0000816-40.2011.503.0049 2 | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWJjZjI1ZDI2YTQ1Y2UwNGFkYjJkMGZkYzI1MGJiN2Q=",
+      "date": 1477440000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTBhYTlkZTQwZTJiZmZiNTEyYjc5ODZlYWU0OTliZTA=",
+      "date": 1538956800000,
+      "text": "Comprovante de Dep\u00f3sito Judicial | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2UwMTI2MDQyNTdkNjJiNzNhOTJkOWI0NjI1MzcyNmE=",
+      "date": 1450310400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODhkYWNlM2QxY2NiNjdhNmVmMjgyMmM1NmVlNGNmMmU=",
+      "date": 1468281600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/07/2016",
+      "attachments": []
+    },
+    {
+      "id": "YTE1N2ZiNThkNGYzOTQyOGI3YWUyNGRhMmVlZmQyMmM=",
+      "date": 1538524800000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjMwMGM0NjM4ODk3YjJjNWU3M2JlZWNiZWI0YzJhZTY=",
+      "date": 1440979200000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 28/08/2015",
+      "attachments": []
+    },
+    {
+      "id": "MWEwNWJkZTZkMWVmM2E5YjA4ZjRjOWE4Y2NmNTEzNzY=",
+      "date": 1448928000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTZjMzIyYmU4YWU5MGY1OWNlNTQxZjA2YTJjZTA1NjA=",
+      "date": 1496275200000,
+      "text": "Substabelecimento Dra. Alessandra | Instrumento de Mandato - Apresenta\u00e7\u00e3o de Substabelecimento com reservas de poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTI3MDY4ZmMyZjJmMzQ2YTM1MWMzMjZmMmZmOGIxNzk=",
+      "date": 1499126400000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2NlMTc4ZWJhOWI0MTEwYjY0YTM5Yjk1YjljNTlmYzQ=",
+      "date": 1528416000000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "MWQ4YTAyZjEzZDUxZDAwMGQzYzYyMWI4YzliNTcxZDU=",
+      "date": 1434412800000,
+      "text": "001 PROCURACAO E ATOS | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTIyNTI3MGI2MTU3MWJkNDdjMTc4MzIxMzI4MjIyNTU=",
+      "date": 1438300800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzE0OWM5M2VhNjYyOGFmOWRmNzkwMmZiNjgzMDdjZjY=",
+      "date": 1508976000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 25/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzE3ZGM3YThiOTA3NTQyMjIwZjNhMTAyNTQ0ZTY4Yzg=",
+      "date": 1468886400000,
+      "text": "malote digital | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWNiYzk4NGMxODE3NDc2MDg1YTY4NDYyZGNkMzNhMTE=",
+      "date": 1461888000000,
+      "text": "JUNTADA DE DOCUMENTO | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmUyMGZiZGRmNTI1ZmMwYTQ5NzM4MTlhMDBjYzgzNWU=",
+      "date": 1434412800000,
+      "text": "004 SENTENCA 816-2011-049 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGNlYmQ2ZDc1OTNiNTlhZDdlNzkyYzQyYjFhMThmYzc=",
+      "date": 1479254400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODgzNzg0MDZhNGZiMDZhZTEwNTg3Y2Y5OWRmYTk0Nzg=",
+      "date": 1467072000000,
+      "text": "Pedido de Reconsidera\u00e7\u00e3o | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDRiNGZkYjQ4ZWQ4ZDg5ZWExODljMTIxNzE0M2Q0NmY=",
+      "date": 1460937600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdmY2NhMWVlMzA5YzdmMTQwOGU3OTc2ZjNkZGY0ZDA=",
+      "date": 1499212800000,
+      "text": "Certid\u00e3o de Indisponibilidade Eletr\u00f4nica I | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2U2ZjcyN2IwMzRiYWJjZDBlYzhmZWIxYTRiNTYyZTI=",
+      "date": 1528156800000,
+      "text": "Alterado o tipo de peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o para manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MWQ5ZGJjNjE4Mjk3ODhjZWY2Y2ZhYzhhZWY4ODQyZmE=",
+      "date": 1499126400000,
+      "text": "001 EMBARGOS DE DECLARACAO 04072017 | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjYyMzQ4M2JjYTA2ZmQyYjZmYTU0N2NhNTdmODc1Yjc=",
+      "date": 1532304000000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2UwMjkxZDc5NWYwYzk1NTBiZmViNzVmYWE4Y2FkYzU=",
+      "date": 1460937600000,
+      "text": "Devolu\u00e7\u00e3o de mandado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmMzMDVjMGE2OTY1M2U1OWQxM2U1MjMxN2RhMTY4N2M=",
+      "date": 1459814400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJiNmI4NTMxNWIzZDk5YmEwMjA4ZTNjMmIzZWViNjE=",
+      "date": 1516665600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NjM0ZGJhYjRlMDZhZmJiZDg4OWYyNDAxOTIxZmQ5ZWI=",
+      "date": 1464825600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWNhMTI4YjRlNzMxYmI1Y2Q2OWFmNzBkMTU4MDJiODg=",
+      "date": 1509494400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDg3MGUxMTk5YzcwYzllMmY3NjI5NzFkOTZkMWM0ODg=",
+      "date": 1441584000000,
+      "text": "Decorrido o prazo de NELTON JOSE ARAUJO FERREIRA em 04/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWUxMWJiNmFlZDE0ZmUyY2U0MjkxZjE4NTliZDRkODI=",
+      "date": 1438128000000,
+      "text": "Conclusos os autos para despacho a DANIEL CORDEIRO GAZOLA",
+      "attachments": []
+    },
+    {
+      "id": "MWY2ZjU1Y2E5NTNhYTk2NzRkMDk5MjI5M2I1ODIyOGI=",
+      "date": 1507852800000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZDU4MGQwYWJiYzAwMWM5ZTdjZWExMDhiNDA3YTBmMGY=",
+      "date": 1460764800000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 15/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGNlYjZiYjU1OWE2NzM0ZDZhODY4MjQ3NDY2ZTgzN2E=",
+      "date": 1532304000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzcyYjkzNTUyNTc5OGExNDRkZmQ2Y2FkZTQ3YWEwOTY=",
+      "date": 1505347200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 14/09/2017",
+      "attachments": []
+    },
+    {
+      "id": "MzYzZDM5NzQ0NzhhZmZlNDU3OTkxNDQ5ZDY5N2RjYTE=",
+      "date": 1531094400000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGEzNjMyNTE3Zjk0N2I0ODZiY2VkZGIzZjNhMDQ1NTg=",
+      "date": 1459468800000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento cancelada (19/04/2016 13:52 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "MzkzMjVjZDE4MTM1MzEyM2RkNWEyMWYzMzZjNTQzODM=",
+      "date": 1467849600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDg3OTJlMzhmMmI4NWRmMzY2ZmE1ZjRmOTdhODdkM2U=",
+      "date": 1484611200000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "ZmExODk3NzdkOWJhMGIxNjA4NzBkMmRkYTc4YTg3MDA=",
+      "date": 1438473600000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YjAwNzdjZTg4NjdiZjBhMmQ2ZjI3MDY0NTRlMzE2NDI=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de MARIA FERNANDA ROCHA CARDOSO em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Y2I1ZWVjMTE0NDYzZjVkYjBmMTdmODA3ZGQ3MDljNmY=",
+      "date": 1502236800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDQzMjFiNDYxNjU3NGVmMDRhNTFhYWZiOTBjYjQzMDI=",
+      "date": 1533859200000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID 6e4dcb7 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDJhYjFhYTU2NDllNWRjZmEwN2MxMTg0NDdjNjY2YTk=",
+      "date": 1526256000000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NjYwY2E2M2M1ZTRjOTVhNTA5ZTZjNzJlYTI2NzU2ZDA=",
+      "date": 1476835200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 19/10/2016",
+      "attachments": []
+    },
+    {
+      "id": "YTIzMTExN2IyMjljZjBmNDcwNDY2ZTZiZTk4YzVmNDM=",
+      "date": 1541462400000,
+      "text": "Retirada de restri\u00e7\u00e3o Renajud | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJhMWQ4YzE1OGRiNWUyMTM3ZjU2NTYzYWQyOWQ2Mzk=",
+      "date": 1448928000000,
+      "text": "10764-15-1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjI1YjIzNWQxNThlODA1YmVhZjJmOGViNjBhYjY4MWY=",
+      "date": 1448928000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2M5MzUwNzAwNmIzMGJlYjJiMzU0NTM4Nzk1YWRiZjE=",
+      "date": 1507680000000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 10/10/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODc2OWY1ZWZjYjE3NzE5N2NlNmVmNGIwMWE4NDc5NGU=",
+      "date": 1460419200000,
+      "text": "Decorrido o prazo de JOSE MARIA FERES em 11/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjJlMjg3MzU5MjRkYTc2YzVmZGMyMmE0NGFkZjc4Yjk=",
+      "date": 1452556800000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "Nzk0NGQ1NjljZGQyOGVjMDAyMWRlN2IzZjUzOTk5NzI=",
+      "date": 1509321600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "N2IyOGM1Njg2OTg2MGVkMTJlN2QzNDQwZDFiZWM3ZjY=",
+      "date": 1464825600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YzQxMWExZTE5NTAxYTYzZGQxNjhiODAzNDEyOTdmOTA=",
+      "date": 1538956800000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQwMzhiNmI3MGVlMzU4MmIzZjhmZTgyZTE4M2NiZjg=",
+      "date": 1434499200000,
+      "text": "Audi\u00eancia inicial realizada (16/06/2015 13:40 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "M2VjMGZhMzdjOTNkZTRiNzdhMjFkNWFkM2IxMWMxZDc=",
+      "date": 1484524800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzRmZGU3ZjI2MDVlOTRkMTY5OTQ4NjVjNzExYTM1N2Q=",
+      "date": 1528675200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MThlZjVjMTE2ODE2ZGM1MTFkMTdiZDMyNGFhZTAxMTE=",
+      "date": 1432857600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "OTY2Y2Q2OWFlYTQzNTdlYWE2NDMyN2U0NDEyNmQ0ZjI=",
+      "date": 1466380800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTBiZDE0MTAwNzI3NjUyOTNiNmZiMDc1ZTVmMzk2NmY=",
+      "date": 1466380800000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MjNjMzc2YzQ0MzI2MzI1NGQ5MTU2N2JiY2JiMTY4NTg=",
+      "date": 1439942400000,
+      "text": "Certid\u00e3o: devolu\u00e7\u00e3o de notifica\u00e7\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmE5OTE0MzJmMWIwOGZkNmEwNGQ5ZGFiNTIxN2YyM2I=",
+      "date": 1535328000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjIzOWJlOGVkZWJlY2QxOGQ1YzQ5MTBhNzQwMGZlNWQ=",
+      "date": 1443484800000,
+      "text": "recibo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDZmZGFhOTgxYjQ5MDMxODRkZGU5MmIzMDY5YjhlOTg=",
+      "date": 1459814400000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "N2I2ZWM5MGQyNWJlZjY3NDk1NTdkMzhkYTdlZmNkNTY=",
+      "date": 1528243200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NGJjNzk5YTAyOTkyMTM3YWJhOWJkYmU2ZGRhMjQzMjQ=",
+      "date": 1541462400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "MTM2YTMyODRmYTZlYjFmODMwYmJjOTQ1ZTNkYTg2YjE=",
+      "date": 1478217600000,
+      "text": "10764-2015-otimizado-4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjExMDQ0ODdmZDUxNDk2NDRlYTA5MWE4ZmQ4MzJiY2U=",
+      "date": 1507852800000,
+      "text": "CERTID\u00c3O | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjBjOTliMTJiYWQyMjU3MDk3ZjcyZmRmNmFkMjFmMmE=",
+      "date": 1460937600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDAzMDg0N2JjYTBkNDM3MTA2MmMyNTdlYjYxOWRiZmE=",
+      "date": 1460937600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzczZWY5OTZlMzkzOTlmNmZkY2Q5NTVlYjEyZmFkYmQ=",
+      "date": 1476748800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZmFiOTk5NmE1MGYyNzEwZWQ2Mjc5NjVkMzExMmIxZWE=",
+      "date": 1540166400000,
+      "text": "Comprovante de dep\u00f3sito GRU | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWI5NmJjYjQ0NTNiMGJlNTQyMTY4YjkxN2NjZWYxZDE=",
+      "date": 1478649600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 08/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjEzYTU5YmU4M2EzMDljMTljYTRmMTFkZDVkMjEzZTE=",
+      "date": 1526256000000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a CARLA CRISTINA DE PAULA GOMES",
+      "attachments": []
+    },
+    {
+      "id": "ZGJlN2Q2YmI5ODExMDZkODQ0OTM2MWU4OGFkNGExZDA=",
+      "date": 1468886400000,
+      "text": "devolu\u00e7\u00e3o de CP sob o n\u00famero 001119488.2016.5.03.0143 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdkYzYxMTQ5YWM5NjY1YTYwNzU4YTZhMDVkNWE1MmI=",
+      "date": 1460937600000,
+      "text": "Negativa de Seguimento do Recurso de Reginaldo Machado | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ5MjFmMGM3Zjg5MDc5NTYyNzc4OWJiNDAzMmNiNjA=",
+      "date": 1530230400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a FERNANDO SARAIVA ROCHA",
+      "attachments": []
+    },
+    {
+      "id": "NjY0OWU3ODBlYTQ4ZThlOGZhNjJhYmI4OTBlYzNiZWU=",
+      "date": 1472774400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (09/11/2016 15:20 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "YjM0NThjYjNmNGIxNGE4YmUzNDQ4ZjQyNTY1YWZiMTA=",
+      "date": 1468195200000,
+      "text": "Carta Precat\u00f3ria | Carta Precat\u00f3ria",
+      "attachments": []
+    },
+    {
+      "id": "MjllZDFmMzg1YjM5ZDNkN2I5NDBlOTdkZTA1ZTU5ODA=",
+      "date": 1461888000000,
+      "text": "ata 28-09-2009 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTIyY2UyNTBmN2IyMDNmM2E2ZjdlOWEyMDUxNTM1MDM=",
+      "date": 1500249600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NmQzYTk4YTc2NGVmZDEyODVhNzY1ZjVlYjcxZTlkZjI=",
+      "date": 1480550400000,
+      "text": "Expedido(a) Mandado a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "MTU4NDNmYjRhMDVmYTliYjdlMWI2YWFlM2EwNzQ2OTc=",
+      "date": 1434326400000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "OTY1N2ZlZmMyNWQyMjkzN2NlNWUzZjI0Y2MxMzFmZjY=",
+      "date": 1520467200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmIzZGMwNGY1ZGE0YjhjNTRlMGQyMWYwM2Q0NTc1OGY=",
+      "date": 1467849600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "N2NlZGVlZDliZWE2MzRmM2FjYzhjZDE1OWVlMTA1N2I=",
+      "date": 1466208000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NDI0YTAzYzExMWRjYjQyZjcwNzdjNWJlODQ4YzY0NjY=",
+      "date": 1464998400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NDFlOGNiYzE2YjJlMTcyZTU3Yzk1NGE3OTBhYjk3ZTc=",
+      "date": 1537920000000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 25/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzQ2N2FlNTAxODFmNzI1ODQ1MzhkOGFlNjA1ODU4MjM=",
+      "date": 1473724800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "M2Y1ZGFlZjE0Mjc4NDE5NjBjNjkwOTdjNzZlZmFlYjk=",
+      "date": 1498694400000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de REGINALDO MACHADO",
+      "attachments": []
+    },
+    {
+      "id": "MjZiNzlmNDZiM2ZiZDAyNWViMjhmYmQxNzFmM2Y5NzA=",
+      "date": 1506470400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NTZhODFhNWQ4ODI5ZDI1ZDM2NjYyZTY3ZWE4ODg0ZjE=",
+      "date": 1438128000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OWE5ZDFmODBiMmFlYWNiMzIyY2VkOWNiZWExOTEzOWM=",
+      "date": 1465862400000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 13/06/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2VlZGQ5OTBhMjVhMzJhYjIyOWE1NWI4NDUxZDhhNjc=",
+      "date": 1460764800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 15/04/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NWY2MTgxNzE5YzhiNzg3NzkwMzRiNjdmYWNjOWIzZWM=",
+      "date": 1465257600000,
+      "text": "REGINALDO MACHADO - consigna protestos | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjE1NjU2NzZiMzJjMDkzOTIxMTgwMjUzZWVhNWE4ZDA=",
+      "date": 1459814400000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NjY1MzljMTM0ZTkwZTM4MGQ2ZmQxZjFhNDIzNGY1MTk=",
+      "date": 1519257600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ZDE5MGM4OTZhZjYzMTE5ZjhkZDcwMTgzNDUyOTAzYTY=",
+      "date": 1510531200000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 10/11/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjFiODhiNGIzMjhiNjM4MGUxOGJhNWI5ZGU1NDcxMTk=",
+      "date": 1539216000000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YWU1YmI0NzNmOTdiODQzZmQ5NDI5NjMxMTRiMjFmNmM=",
+      "date": 1505779200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWUwOTBmYTA2OTM3ODU1MDlmNGVkNmRhOWIyOTdhMjI=",
+      "date": 1507593600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjkzYWM2YTRiM2UwMWE1YzcwZWQxZmFiN2JiMmNiZjk=",
+      "date": 1532908800000,
+      "text": "Mandado | Mandado",
+      "attachments": []
+    },
+    {
+      "id": "ODNmZDJhNzkwOWQxMjRhZWMyZmQwOGU5NTM2ODJhMWU=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de JOSE MARIA FERES em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZWQwYjk1ODRiODI5ZDFjOGY5YzgzZWI5YjBlMzY4Njc=",
+      "date": 1535414400000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MWI0MmIwMWExNjEzNWNiODg4YWU2YTE1YzVlODgwMjQ=",
+      "date": 1532908800000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "ODZiMGVkYTAyNzI3MGI2M2Y3MjBjZmVkY2UyZTc1Mjc=",
+      "date": 1535673600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "YmJlMjQ1ZWYwZjc0N2I2NTAyMDA3MTE3YjQ3YWIwMTA=",
+      "date": 1537228800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/09/2018",
+      "attachments": []
+    },
+    {
+      "id": "MzkzMDQ0MWExYWU2ODFiODU4NDc0ZmFhMzVlYzJkMGQ=",
+      "date": 1532908800000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "ZTY1ZWQwNmZjMWE1ZmE4MTUzOWMwYTg4NDJkOTg3NWU=",
+      "date": 1530576000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 03/07/2018",
+      "attachments": []
+    },
+    {
+      "id": "YzVlNTNiN2M5MWNmYzVmMDMyMmQ2ODI2MmRiZWI2ZmQ=",
+      "date": 1505174400000,
+      "text": "Transitado em julgado em 24/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "NjMzNGM5ZGU5YWZhMzhlNzk4ZDUzMDVlOGJjYzM5NzE=",
+      "date": 1460073600000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MDA2NWExYzUwN2VkMjlkODE3NDM3YjFiZmZiYjNkNDI=",
+      "date": 1441065600000,
+      "text": "Indica\u00e7\u00e3o de endere\u00e7o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmZlYjg4OGEyOTdlMGYwOGRlZjE4OGE2ZDU0ZTEyYjE=",
+      "date": 1505174400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YjhiZGMwN2UxZGMxMGU0MWUwMjU1ZTcwYWZmNWJmNGQ=",
+      "date": 1478217600000,
+      "text": "10764-2015-otimizado-3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yzg3NDQ2MDhlODg3ZmFkNDM0Y2FiMWQxMjM5ZTNlMjk=",
+      "date": 1538697600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ0Yzc3MzY3ZWJiZjg0ZTBjZTZhMjYwODYxYTlhMzg=",
+      "date": 1536883200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDFkZDYxZGJjYmIzYzA2YTZiZTg0NjRiZjRhZTA3MTc=",
+      "date": 1539216000000,
+      "text": "Conclusos os autos para despacho a CARLA CRISTINA DE PAULA GOMES",
+      "attachments": []
+    },
+    {
+      "id": "ZjJmY2MzM2E0NGY1MjYwNTk0ZWY0OTBkZTUwOTkxMTU=",
+      "date": 1506902400000,
+      "text": "0010764-64-2015.503.0049 REGINALDO X CONE-RICARDO QUINT\u00c3O | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTgxYTRkYjJkODQ2YzBjMDAyMmI3MThjNzVlZTUyMDg=",
+      "date": 1527811200000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (n\u00e3o cumprido)",
+      "attachments": []
+    },
+    {
+      "id": "NTlkODM1OWU4ZmVmYjU5YzMwMGFkMWMwOGY1Njc2ZTg=",
+      "date": 1511827200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "MWYxYmEyNjBiMjY5YjE1MGViNTVlNDllZDNhZDU0NzA=",
+      "date": 1434585600000,
+      "text": "CARTA DE PREPOSICAO | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODAwOTBjMDU4ZTY3Nzc1MTAyZjU2YWU3N2M5NDE3MmM=",
+      "date": 1500940800000,
+      "text": "Manifesta\u00e7\u00e3o sobre ED | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGQ4NGFkMWY0YzNlYWU0NWM5NWU4ODljMDI4ZTM4YmY=",
+      "date": 1479254400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YmZjMDk2NmVmNTlkYjlkOWUyZmM2ZjRhMWY4ZjQ4Yjc=",
+      "date": 1477440000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (30/05/2017 15:40 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "ODJkM2U5YzQ0NGFkNzFkZDliNmFhZDY5MDA2MjNiNzk=",
+      "date": 1480464000000,
+      "text": "Peti\u00e7\u00e3o Novo Endere\u00e7o Testemunha | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjgwYzIzZTExMTg5MzY0MDVmZTg0Njc5YTZhMjFhYjA=",
+      "date": 1484524800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTRlNjYyMTg0YTk0NmE4NmMyYTEyMmEzMzliNGU1OGU=",
+      "date": 1478217600000,
+      "text": "10764-2015-otimizado-2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYzM2VlMjUzNTQ3NzgyYTY0NWY1MTg1M2ZjMjJiOWM=",
+      "date": 1438300800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "YWNkYzU5ZGE1MTMxNWM1MTg0MDY3ODg1YTQ5YzI4NTc=",
+      "date": 1443484800000,
+      "text": "certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjlhMjY0ZDVhOGYwOGM2MWU5MTUzNmExMjZkYmE4NDk=",
+      "date": 1459814400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDAyMjRkNjMxYWU3YjJkNGI4NTFkNDA5Zjg1YjY1ZjI=",
+      "date": 1512086400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "ODZmZWMxZTc3YzQ5OGJlZmEwMjAyN2M1ODA1ZGI0ZTA=",
+      "date": 1452556800000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTE5ZTI4ZmZhZGQ1MWY5N2E3MmQ3NTZiODQ4NzYyMWI=",
+      "date": 1507852800000,
+      "text": "IMPUGNA\u00c7\u00c3O AOS C\u00c1LCULOS DO RECLAMANTE 13-10-2017 | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWRhYTU5MmM3ZjI2YzRhOTU2NmQ2MjUzZmMzMzEwMjE=",
+      "date": 1476835200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmMxNTBmMzZkNmM1OWZmMDc0ZTEyOTcwZGUyYTQzOWE=",
+      "date": 1511913600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YTI5MTc0MzM5NGY1NzJhMTA5MTY5ZDBmYTk3OGI1ZTc=",
+      "date": 1524700800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 25/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTc1MzU4ZDNhN2IyNTBkNjczMTUwOTIzNDEwOGQzNzI=",
+      "date": 1462320000000,
+      "text": "Rol de Testemunhas | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVkZjQyOGRiMjA0ZDJlYzVkNzAyNzdiNmJmNjc2NjU=",
+      "date": 1538524800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzJkZmI5YjAxMGVhNWU1YzcyMThhOTM0YjY3NzE0ZjA=",
+      "date": 1521936000000,
+      "text": "Retifica\u00e7\u00e3o dos c\u00e1lculos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzQ4MzMzNDJkNGU1ZGM4ZjU5YmQ4ZWIzN2UxNTgwY2Q=",
+      "date": 1509321600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDk1YWNhNjMzNGE1NGM0M2RhMGVjZjhkM2ZhYzNlYzQ=",
+      "date": 1448928000000,
+      "text": "Audi\u00eancia inicial redesignada (13/04/2016 13:10 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "N2I3MDdkMjUwMjI0ZmE2OWMzYjRkMmQ3ZDM4ZTg1ZDc=",
+      "date": 1531699200000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjJjMDMyNzZmYWNmNzcwZDJlYjA4Y2U4MWFlOWJjNzk=",
+      "date": 1479081600000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "ODg5ZjBmNWNhZmJjNDhmZDVlNzc3Mzg1OWE2ZmNkYzY=",
+      "date": 1512086400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTA2MDBhOTM1NThiY2VhNjc2YTVkYzExOWQ0ZmZjNDk=",
+      "date": 1496102400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NTA4ZTMzY2Y0M2E1MjE4MzUyYzJhMGUxM2I4ZTViMzQ=",
+      "date": 1503619200000,
+      "text": "Decorrido o prazo de RICARDO QUINTAO E SILVA FERES em 24/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MGQxYjFmOGZhMWRjYWU3Nzk4MWYxNzAyNWFiNDBhNDc=",
+      "date": 1530316800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTc3MzM3NTY0ZDAyYzI4Njc5MGZlMDJjNjE0M2QzM2U=",
+      "date": 1540166400000,
+      "text": "Juntada de comprovante de dep\u00f3sito | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU2NzRhNWQ1OTE1ODViNDQ0NTljYmE4YzkyNzcyOTY=",
+      "date": 1529280000000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MTk5NGU3ZTJjYzM3MDBhNzEzNTk3MDFlZTkwZmNmYjI=",
+      "date": 1538524800000,
+      "text": "Conclusos os autos para despacho a CARLA CRISTINA DE PAULA GOMES",
+      "attachments": []
+    },
+    {
+      "id": "MjE0MzMxNjliYWIzZmRkYjZhNDVmYWQ1MWRmMTdhZmU=",
+      "date": 1521936000000,
+      "text": "Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos | Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDJhMWEyN2U1NTZjMzFlNjAxNDdkYzQ1MWYwNTlkZWE=",
+      "date": 1536105600000,
+      "text": "GUIA GARANTIA DA EXECU\u00c7\u00c3O - PAGA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTM4OTkxMmQ4OTAzN2M3OTdjYzMwZDQ0OGY1M2NkZmU=",
+      "date": 1500336000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZiMzViZTM0YzNlYWEyMTUxNThjN2EwOGNkNWQ3Mjc=",
+      "date": 1478908800000,
+      "text": "Decorrido o prazo de GUSTAVO DOS SANTOS RODRIGUES em 11/11/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjFmMDAxODAwYzc4YzU1MzFjOTc1MmU3MDFhM2VlZGE=",
+      "date": 1506988800000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4ZTVkZDhhZGYyODJiMDM5NmY1ZDRlMGZmZWQ1ZmQ=",
+      "date": 1507593600000,
+      "text": "MANIFESTA\u00c7\u00c3O 10-10-2017 | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTczN2I0ODA3MmQzZmY5NzA4YWQzMWM0NmExOGEzNjA=",
+      "date": 1539907200000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 18/10/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODA5MjdlZWMwMWE2MDY0ZTczOGRiOTU1MmNlMjU1NDg=",
+      "date": 1476748800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YjFlZGZiNTQ4Mjg0YzM5ZjkwNjk1MmZmNTgxZTU4Mjg=",
+      "date": 1531094400000,
+      "text": "resultado negativo BacenJud | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDIwMTM1ZDgwZGFmMzhmNmU4MDA5YzU5MWM4N2ZiNTU=",
+      "date": 1528243200000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MDQyNDQ4ZWNmOTBiM2VjYWFkMDhiZmFlNDEwMmMyZGQ=",
+      "date": 1466467200000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTJjYjQ5OTA1NWZjMDA0ZDAyOTJlNDMxMzkwZTQ4YjU=",
+      "date": 1531526400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 13/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTMyYTg5MjUxZDczNzE2NzQwYmIzZDc4NWU5ODRlYmQ=",
+      "date": 1451865600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Nzg2MDQxYTdjMDE3MGM4YjM1MTM2YzkyZTE1MmNiZjA=",
+      "date": 1523577600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZTgxY2Q0MWIzNGM5NTc1ZWYxMTJkNWUwYmIwMzdiNmU=",
+      "date": 1451347200000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NmVlOWVkM2U2NzQ5YzNiOGI4ZDNiNjYwMjI0NTczMjg=",
+      "date": 1508284800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTZhNGM3MjA1OWViYTg0ZjBlM2UyNWNkMTcyOGUzNGE=",
+      "date": 1500336000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzMyY2ViNWY4NGNlMzQyMzhjNDg0ZDg4MDlhNGRiZTQ=",
+      "date": 1432684800000,
+      "text": "PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzRkZWQ0MTNkNTk4MTkzMzU1MTkxYTNlY2M0MWYwYmE=",
+      "date": 1536969600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 14/09/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWUxMTk5ZDZlZTE2N2UwZGQ2NTAwOTNjODkyYTBkY2I=",
+      "date": 1461801600000,
+      "text": "Impugna\u00e7\u00e3o | R\u00e9plica (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDVmMzlmYWMyOGFhNzFmOWYyZGZlNWYwNWM2M2EyODE=",
+      "date": 1441584000000,
+      "text": "Decorrido o prazo de RICARDO QUINTAO E SILVA FERES em 04/09/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTc1ZWJmNWVkZjEyM2E0MzEyYmI0NWQ1Nzk4ZTBiYTI=",
+      "date": 1465948800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTJlNWVhOTMwOGNiOTY4MDg2NGExZGUxYzBlZGZmOTg=",
+      "date": 1507161600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/10/2017",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4YjJiNTk5YTJkZTA3Nzk2ZTQyZDUxNmIzZjkzNmY=",
+      "date": 1509408000000,
+      "text": "Certid\u00e3o | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzNjYjEwMmIzZDFkZGYxNWEwMzQwZmJlYjc2YjFhZmU=",
+      "date": 1472601600000,
+      "text": "certid\u00e3o de juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM3NzQ2ZDMzNzFjOGFmNzY0MGMyMThkZTcxZGEwN2Q=",
+      "date": 1538524800000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTZjZTkwYTMwODY4ZTdkNzNiODFlODBlYzI5YTc3ZWE=",
+      "date": 1440633600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGMzMTE1OGNkMjQwM2Y0MWJjNDM5YjBjMTJmMWU1ZmQ=",
+      "date": 1529884800000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID fc79e7e | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA1OTY1NzIwYzU3M2JmM2JlNDZjZTY2YzE0NDZlN2M=",
+      "date": 1528156800000,
+      "text": "Mandado | Mandado",
+      "attachments": []
+    },
+    {
+      "id": "ODEzMGQ1NDMyZGRiODY3OTBjYzZiNGY3MDBhOGQ1ODc=",
+      "date": 1496102400000,
+      "text": "Juntada carta de preposi\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU0YzFiNzZjYjZkMzNmZmM5ZGM0NDg3ZWMxMmYzOGY=",
+      "date": 1496275200000,
+      "text": "Luana Teodoro Pinto | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQ5ZWE4MzFkNmI2YWE4MjcxYTU1NTM5ZGJlZDA4ODk=",
+      "date": 1506038400000,
+      "text": "Certid\u00e3o de Juntada | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjdhMmVmZGUzODRkY2ZhMjhkZjZlZjYxYWQ4MmVhZDg=",
+      "date": 1530316800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzdmNTY2YTYzYmE2Nzk5OTAyMjQ5N2Y4ZTY0YzI1NTU=",
+      "date": 1505779200000,
+      "text": "Peti\u00e7\u00e3o Ades\u00e3o ao Pedido da MRS | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2NhMjcxOWUyNmJhMTIwZWY4MTI0NGQxMGY4MGE0Mzc=",
+      "date": 1465948800000,
+      "text": "N\u00e3o acolhidos os Embargos de Declara\u00e7\u00e3o de REGINALDO MACHADO - CPF: 068.545.346-40",
+      "attachments": []
+    },
+    {
+      "id": "Y2UxZmY0NWE1MzI5YjI4ZjdlMjA4ZmU4ZGMxMTAwMjM=",
+      "date": 1506902400000,
+      "text": "JUNTADA DE C\u00c1LCULOS | Peti\u00e7\u00e3o (outras) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWNiMzhiNWE2NjYyNTg0MWQ1NDZlZTc5ZDYwNjk2MmI=",
+      "date": 1540857600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDM5NGU0N2E3ZmVjYWFmNmVkZjk1ZDBjYTk1OThhNjk=",
+      "date": 1502150400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmNiYTYzN2JlMGI4OGE2NzZiNDYxNmNkOTYxN2I4ZmU=",
+      "date": 1459814400000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWU3MzZlYjQ1MDIxNmEyNjhlN2EwYjMxYzMwOTQzYTM=",
+      "date": 1506297600000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTc0Zjg2MzA0ZDM5ZWNmN2NlYzU5OGExMTRhYmMzZTg=",
+      "date": 1502755200000,
+      "text": "Intima\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDY2MWUzNmFiM2MyMzBmODRiNWIwODZhN2FkNDQ1MGY=",
+      "date": 1434585600000,
+      "text": "Corre\u00e7\u00e3o endere\u00e7o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDk5ZTc1NjlmNzY2YWNmZTM4NWU0OTA1ZDQ1M2NkZGI=",
+      "date": 1437350400000,
+      "text": "Fotografias | Fotografia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mzk5Y2RlNjFkYjFhYzY5OGUzZmRjMTY5MjExNjFjYjQ=",
+      "date": 1539648000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTM4MzhjMmYyMjY3MzJjMzllMTMyOTZhOGRlMGM0MTc=",
+      "date": 1453680000000,
+      "text": "Devolu\u00e7\u00e3o de mandado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTdiMDQzODE4MmQ2ZmIzMDE0M2I4MmUxYTA0MmQwNzc=",
+      "date": 1503619200000,
+      "text": "Decorrido o prazo de TANCREDO GABRIEL DE AGUIAR MOREIRA em 24/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MmIwMzEwMDJkMThjYmZkZDQ5OTFkZjRmMzYwNDUxNzY=",
+      "date": 1507161600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzZmZmRmODcxNzA2ZDhlNmEyOWVkYjZkYmNjMDAwNzk=",
+      "date": 1506124800000,
+      "text": "Decorrido o prazo de REGINALDO MACHADO em 22/09/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTUwOTIwNDNmYWQ4YjQ2N2E2ZDNjMGMwMDQzMGRiMWI=",
+      "date": 1477612800000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NWJiMGNmMzIyZTc3ODg0ZWU1NjY0N2JjODYyYjhlYzU=",
+      "date": 1505347200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWE3YjY3OWMyNzZjZWI4ZGYzMWI2NDliNGNkYWY5NDg=",
+      "date": 1496102400000,
+      "text": "Audi\u00eancia julgamento redesignada (29/06/2017 17:50 - 1\u00aa Vara do Trabalho de Barbacena)",
+      "attachments": []
+    },
+    {
+      "id": "NGJiNDE1MzRmZWY1MDM1ZDk3ODY0MWZhNDgwOWU5M2U=",
+      "date": 1531180800000,
+      "text": "Decorrido o prazo de CONE CONSTRUTORA ENGENHO LTDA em 09/07/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MWZmNGYxM2MwMzNjN2M3NWJmZjJiYTAwNzAyMzZkNjU=",
+      "date": 1513728000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWZjMDhmY2ExYzY1YTU3NDFmNDUxOGFmMWJjOTVhYWI=",
+      "date": 1473724800000,
+      "text": "Conclusos os autos para despacho a ANSELMO JOSE ALVES",
+      "attachments": []
+    },
+    {
+      "id": "NDlhZjliNTU5NWQ5MTI0ODQ3OTNmYmE4NjM2ZjkxNjQ=",
+      "date": 1459900800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGU1ZWU3YmVlOTg1N2U0YmUxZDUxYWM2ZWFmYjNhODI=",
+      "date": 1479513600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 18/11/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZTE1OGJhNjVmODAzODAxMjg4YjFhNjBmYzM0ZjdlZjA=",
+      "date": 1512604800000,
+      "text": "Extrato de FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTYxMjkwNzNjZmViNjQzOGQ1MDMyNWJiZWZkYTRjZmM=",
+      "date": 1482019200000,
+      "text": "Devolu\u00e7\u00e3o de mandado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTYxMzAyNGFmYTY1MDI4ODAyMTgzNWY1MzRhNDg0YmM=",
+      "date": 1459814400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjJjOWM4MzU1YmQ0MzM2ZDJjMGIzZGRjZTMxZDJhZWU=",
+      "date": 1451865600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MWNhYjI5NTg0NTVjNjNlNmM2NzE0ZTFiZjU2MDExZWE=",
+      "date": 1485129600000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "MTJlMzVmNWQ0M2QzYTI5MDFkMzljZWQ0MWZjZTE3ZDI=",
+      "date": 1443484800000,
+      "text": "Expedido(a) carta precat\u00f3ria a(o) ju\u00edzo deprecado de outra regi\u00e3o judici\u00e1ria trabalhista",
+      "attachments": []
+    },
+    {
+      "id": "NzI5NGYzN2QyZDAyNDYxNjFjMjI1OTc5OTdlMzVkZDA=",
+      "date": 1485734400000,
+      "text": "Devolu\u00e7\u00e3o de mandado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWE2ZDVlYjY3ZGFjZjA3ODlkYjY4OWQ1ZjNlMTZiOTY=",
+      "date": 1518134400000,
+      "text": "Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos | Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU5OTYxN2I1YTJkZGI0OGYxNTk2Zjk2NGEyMDJlZWU=",
+      "date": 1523491200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MTViZGEyM2JjNTcyZmJiN2ZiODJmZjlkMzBkZDBiYzE=",
+      "date": 1474243200000,
+      "text": "comprovante | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDgzZWJkNzRkOGMyM2UxMDQ5MzZlOTk4ZTE3ZjQwMDA=",
+      "date": 1536883200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Nzk1NTQxZDczYmExNGEzMjg2YTIyNTBlOTBhYWIwMmI=",
+      "date": 1538697600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTEyZjcwMThlNzY2OGY4YzVhNzAyMjZhNzUzOTdhZmM=",
+      "date": 1537228800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Yjg0NGMxM2YyYzRmNjJhZTg3MDUwZTdjMzczZTQ1OTI=",
+      "date": 1498694400000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

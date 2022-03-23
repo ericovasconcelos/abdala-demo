@@ -1,0 +1,496 @@
+{
+  "lawsuit": {
+    "id": "YmJjOTQ0ZTEtYXV0b21hdGljOjAtMDAxMDk2ODU0MjAxNTUwMzAxNjQtbGF3c3VpdA==",
+    "activityCount": 72,
+    "number": "0010968-54.2015.5.03.0164",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Marcus Duarte Agostinho",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Daniele Vieira da Silva",
+            "cpf": "031.434.376-85",
+            "lawyerId": "MTlkMjk1NGQtYXV0b21hdGljOjAtYjJiNGE3NmMxMTgzYTcxLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio de Almeida Oliveira Salles",
+            "cpf": "019.009.786-87",
+            "lawyerId": "NWU3NWQzNTAtYXV0b21hdGljOjAtODA0MTUzZmQyMjVmNjQ2LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1420120800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "6\u00aa Vara do Trabalho de Contagem",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Sumar\u00edssimo",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "OGRmYjMxOWYwNTgwZmZhNmExMjY4NDVlNGJhNTIxMjI=",
+      "date": 1433116800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ0OGJlMDI3ZjM3YmI2OGU0YjM2ZjY0N2NjOTMzNzU=",
+      "date": 1432598400000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "MTI4MWEwMTk5NjlhYThjODFiMjJmNDc0ZjNkMTgzN2M=",
+      "date": 1432598400000,
+      "text": "Arquivado o processo (Sumar\u00edssimo - art. 852-B, \u00a7 1\u00ba, CLT)",
+      "attachments": []
+    },
+    {
+      "id": "MTJlYjlmNjNiYmRkMTMyNGJmNGM1NzJmYjllNGQ1MDk=",
+      "date": 1432512000000,
+      "text": "012 CONTRATO RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTI4ZTczZmYwNTgzMzQxNzU2Zjc5MTA0NjhmYWYxMzQ=",
+      "date": 1432512000000,
+      "text": "005 Contrato de Concess\u00e3o (cl\u00e1usula 01 a 10) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTFlM2U2ZjljOTNiOWIyMWVlZTFlNjI2MjYwMmY4Y2Y=",
+      "date": 1431302400000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2U0ZjU5NjI5NjFiOWE5NmMzMTRmNTUwNmFjZDNjODc=",
+      "date": 1432512000000,
+      "text": "022 Evolu\u00e7\u00e3o Funcional-Salarial PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFiYmVlNDc4YjRjOGE4YWY4ZGFiNGI5YjY5YmExM2Y=",
+      "date": 1432598400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "OTk1NzRlNmZhY2Q5ZGUzZjRkZWQzYTcyMzgxMjNmMjQ=",
+      "date": 1432339200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 22/05/2015 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDQzZGNiMTNiYmZkYjE3ZWFiYzNmNTZmZGYwMGRjOTg=",
+      "date": 1431302400000,
+      "text": "Audi\u00eancia una designada (26/05/2015 09:40 - 6\u00aa Vara do Trabalho de Contagem)",
+      "attachments": []
+    },
+    {
+      "id": "ODYwMTU1M2U4OTE4NjRkMzA4NWNjZjY4ZjY3ZGMxMWE=",
+      "date": 1431388800000,
+      "text": "Conclusos os autos para despacho a ANDRE BARBIERI AIDAR",
+      "attachments": []
+    },
+    {
+      "id": "MjU2ZjAzNGMwYzY4MDA0ODlhNzAyYWM5MzNlMTlmOWM=",
+      "date": 1433116800000,
+      "text": "Arquivado o processo (Sumar\u00edssimo - art. 852-B, \u00a7 1\u00ba, CLT)",
+      "attachments": []
+    },
+    {
+      "id": "NzgxMDg0ZmU2NWE3YmZmODkxZmI4ZTU3YWVjNzlmZmI=",
+      "date": 1433116800000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a MARCUS DUARTE AGOSTINHO",
+      "attachments": []
+    },
+    {
+      "id": "ZGVmMzgzY2E3ODNkYmQyOTdmNzBlNjVjY2JhOTI3YWE=",
+      "date": 1431475200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "YTc4Y2YxNmIxOGY4YTU4ZjcyNTRkODk4ZWU3MmUwNDM=",
+      "date": 1431302400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjIwM2YzNTQ0ODVjZjFkMjRkNmNmOWEwNGE1ZWE2ZWE=",
+      "date": 1433116800000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 400.00",
+      "attachments": []
+    },
+    {
+      "id": "ZWI1ZGM3MTRkNjk5YjJlZTllMmVjZmMzMWNiMWY2MmM=",
+      "date": 1432598400000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a MARCUS DUARTE AGOSTINHO",
+      "attachments": []
+    },
+    {
+      "id": "ZmFkOGMzMGY5ZTQ1N2MyOWNkMTZmMTZjZTJhMDI0ZGE=",
+      "date": 1432512000000,
+      "text": "007 Edital MRS (item 1 at\u00e9 item 1.2.4) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGJiYjU0MjNmYzdlYWI0Mzc0NjkyNzYwOGRmZGZmMmQ=",
+      "date": 1433721600000,
+      "text": "Transitado em julgado em 26/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "Mzk0ZGFjNjcwYThiNjlhMjBlYjAxOTQ3NTY2NDBkNjk=",
+      "date": 1431302400000,
+      "text": "Documetos Pessoais | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDY3NTgzNWIxNDNiMmEyMWMyODM2NWUwMmE3Y2E4ZDY=",
+      "date": 1432512000000,
+      "text": "034 Contrato PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGVjZWRjOWQ4Njk5ZWIwN2ZlYjA2MDc4OGNjNjhlNmI=",
+      "date": 1431561600000,
+      "text": "Publicado(a) o(a) Intima\u00e7\u00e3o em 14/05/2015",
+      "attachments": []
+    },
+    {
+      "id": "NDQzNmRiN2M1ZTUwODRmYTllYmYwMGE2YzMwMDBkOGU=",
+      "date": 1432512000000,
+      "text": "029 Ficha de Registro PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWMwNWVjY2M1ZDgyODZhMDI5YTY0ZDI2ZTkwOWRkYjM=",
+      "date": 1432512000000,
+      "text": "032 Ficha financeira 2014 PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTVlZThkZTIyM2M1ODM0YmQ3MTM1NTA3M2Y2MmYxNTc=",
+      "date": 1432598400000,
+      "text": "Audi\u00eancia una realizada (26/05/2015 09:40 - 6\u00aa Vara do Trabalho de Contagem)",
+      "attachments": []
+    },
+    {
+      "id": "MTYyODZiYjIwMWI4ZmUxNzc3Y2Y1ZTA3YWFlOWFhNDc=",
+      "date": 1431302400000,
+      "text": "CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzRhOTUwZWVjNzEwZmE2NDRhOWFiYTg4OWMzMDRhZjU=",
+      "date": 1432512000000,
+      "text": "031 Ficha financeira 2013 PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM1YWNmNWVjNDVjZWM0MjM3MGFhMjNmMDRmMzlhMjA=",
+      "date": 1432512000000,
+      "text": "019 FICHA FINANCEIRA 2014 RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmM2YmI0MDI4YTQ3YTdiNzljYjdkNjkxMzM4ZDBkOTc=",
+      "date": 1432512000000,
+      "text": "008 Edital MRS (item 1.2.5 at\u00e9 item 3.1.3) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWRhOGYyODNiNjU0ZWMyNDdlNTAzMGEyNTUxYzgyMGM=",
+      "date": 1431388800000,
+      "text": "Minutar despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NTkzZjkzZDM0YTU5MzVmOTRiZWE0YTM5YmY3NmEwNGI=",
+      "date": 1431302400000,
+      "text": "TRCT | Termo de Quita\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU4YzBjMWNlZTEwMzFjOWMyZGIwOTE0ZjVhYzRhYmM=",
+      "date": 1432512000000,
+      "text": "009 Edital MRS (item 3.1.4 at\u00e9 item 8.1.1) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmUxYTQ0MmZhNDk0Njk4NGY2M2Q2MDNmYTBmMjlkMGM=",
+      "date": 1432512000000,
+      "text": "028 Evolu\u00e7\u00e3o Funcional-Salarial PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJmNTY2MzdmYjg1ZjEwYWY4ODc3ZWJkMDNmNGYxZmI=",
+      "date": 1432512000000,
+      "text": "026 Ficha financeira 2014 PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDJhNWE5NzdhODgzMzIzYzIzNDI2NWEzOGU1MDIxNmE=",
+      "date": 1432512000000,
+      "text": "015 FICHA DE REGISTRO RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTBjYzk0NDIyMWZlNDJhOGVkNTBhNDU3ZDdkNjFhMmY=",
+      "date": 1431302400000,
+      "text": "Declara\u00e7\u00e3o de Pobreza | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTQxYjNjZTBhMGU4NzE3NDgxODNmOTU3NDNkNjZmNjA=",
+      "date": 1432512000000,
+      "text": "035 Evolu\u00e7\u00e3o Funcional-Salarial PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzRiMGUyMjdiODlmYjI3NTIyZGE4YjRhODA4YTgzZmU=",
+      "date": 1431388800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NjcxYWYzZWVmMjAzZmY0Y2Y2ZjBhNmMxMGYxYmZkZWM=",
+      "date": 1432512000000,
+      "text": "004 Ata (artigo 14 a 25) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzVhMzVhYTQzYWI3NDk0ODk0NjZmNDJhZTI5Nzc0NWU=",
+      "date": 1432512000000,
+      "text": "021 CONTRATO PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjQ2NzA4ODVhMDA1MGMyZmYyN2M5NWU4NmU1MTRkMGI=",
+      "date": 1432512000000,
+      "text": "038 Ficha financeira 2013 PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjkwNDY5YTkyMzBmNjM5YzQ0ZDdmODFjZGJjZGYyZWE=",
+      "date": 1432512000000,
+      "text": "027 Ficha financeira 2015 PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWU2NWEwYTRmNWE5OWZlOWM3Mzg2M2Y3YTM4YjkwOTc=",
+      "date": 1432512000000,
+      "text": "014 Hist\u00f3rico de Lota\u00e7\u00e3o RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjhlYzllYWVkZGFjODkwZjc3M2NjNDQ2OWI0OGYxNzU=",
+      "date": 1432512000000,
+      "text": "018 FICHA FINANCEIRA 2013 RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY4ZGZiOGRlZDg1MTFlN2U5OTM0NzY0NjlkYzMxMjU=",
+      "date": 1432512000000,
+      "text": "013 Evolu\u00e7\u00e3o Funcional-Salarial RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDI5NTAxYzkyNTE4ZDNmMDk3NjQ1OTI0ZmIxYTQ2ZDI=",
+      "date": 1431302400000,
+      "text": "Holerite | Contracheque / Hollerith (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTgxNjgwOGRjYTQ0OGRjZjRmMDZhODg1NDA0NDU0NGQ=",
+      "date": 1432512000000,
+      "text": "006 Contrato de Concess\u00e3o (cl\u00e1usula 11 a 22) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmQ1NDI4OGZlMWE0ZGYzZTcyNTlmYzdkNTAwMjc0NDU=",
+      "date": 1433721600000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "ZmI2MTk4NDI0ZGQwOTBkMjNkZmE3Y2E3YmI4Y2NlNDE=",
+      "date": 1432512000000,
+      "text": "010 Edital MRS (item 8.1.2 at\u00e9 item 8.6.1) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg1MmU4N2ZiOTZkNjQ3OTYxZGVjYTUwZjA2ZTgxYTQ=",
+      "date": 1433116800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a ANDRE BARBIERI AIDAR",
+      "attachments": []
+    },
+    {
+      "id": "MGRmZDdmMzVhNTBlZTg4NzRhZmFjZGQzMTdjYWZhODg=",
+      "date": 1432512000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJlYzVmNTFmMTJhNWQ5M2JjYzQxNGJkODBiYjdlYzI=",
+      "date": 1433289600000,
+      "text": "Abertura de Chamado | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDA0ZjE0NjhjZGY2MDA1NmNjMjExY2NjMDY3NjkxMzc=",
+      "date": 1432512000000,
+      "text": "033 Ficha financeira 2015 PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGEzMTU3MTM4N2IwYjEzNTA2YzA3Njk2ZGQ1YjM3ZTY=",
+      "date": 1432512000000,
+      "text": "039 Ficha financeira 2014 PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQxNjFmNDg4NjRkMzEwNDc3YmRiZDg4OTBhMTY1Nzc=",
+      "date": 1432512000000,
+      "text": "030 Ficha financeira 2012 PARADIGMA EDUARDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjU4ZjFmZTE4Njc2ZDhjZjYxZmQyMDc2MTcwM2Q2ZDY=",
+      "date": 1432512000000,
+      "text": "023 Ficha de Registro PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTViODhlNmViZTc2ZjZmNmQxNjRhNjI4MTQ2MzkyZTI=",
+      "date": 1431388800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTAzZDEwMGM1M2ZhZjNlODZhNTQyMGUwMWI0ZjY0MTU=",
+      "date": 1432512000000,
+      "text": "016 TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmI2ZjU5Y2I4MzFmMmI2NjgwYjMwYTRkNjg1NmVjNzc=",
+      "date": 1432512000000,
+      "text": "024 Ficha financeira 2012 PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2RmNjA3ODNkZmIzYjZiYWM1ZWUzMDA3MDY0MmY4ZDU=",
+      "date": 1432512000000,
+      "text": "002 SUBSTABELECIMENTO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjA0Y2NhNTEzNjNjM2VmODBiODU0MTM2OWJhODFlMTg=",
+      "date": 1431561600000,
+      "text": "Disponibilizado (a) o(a) Intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTcyYTQ0MjgyNTRhNWVjOThlMmZkZmNmMDFhZjE2YWE=",
+      "date": 1432512000000,
+      "text": "017 FICHA FINANCEIRA 2012 RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODRjYmViZjViODM5NTg3MTQ4YmUxMzkzOGFjYjQ5YzI=",
+      "date": 1432512000000,
+      "text": "001 PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQ5N2M5Y2NlZjVkN2RhYTk0ZjUxYTk2NzQ2NTMzMGU=",
+      "date": 1432512000000,
+      "text": "036 Ficha de Registro PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQ5YzliOTEyYTdhNTkxNmEwN2Y1NzhiMWMwYTIwNDY=",
+      "date": 1432512000000,
+      "text": "037 Ficha financeira 2012 PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmUyYmExOGM4NmU5ZTIzMGM1YzM0NTJjMzM4OGQxYTk=",
+      "date": 1431302400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NTQ4MTY4OGVkNmI2MDRkZGI5NzI3MWJmYzIwM2U5ZTE=",
+      "date": 1431475200000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODg1NTFlYmFlM2UxYzVlOWQ2OGE0ZjQxNjBmMzg5OTI=",
+      "date": 1432512000000,
+      "text": "025 Ficha financeira 2013 PARADIGMA REGINALDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDUwZmE1ZGFmYmJjODg4NmYxOTYyZjNjYmE0Y2NhYTc=",
+      "date": 1432512000000,
+      "text": "040 Ficha financeira 2015 PARADIGMA MICHAEL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGNlNzEwNTE2MjUzOWIxZGYzZDJiMTY0ZjNiZjI3MzA=",
+      "date": 1432512000000,
+      "text": "003 Ata (artigo 01 a 13) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTdmZDc1NDIyZTExZWM0OTUxYzFmYThkYmNkMzcwOTg=",
+      "date": 1432512000000,
+      "text": "011 Edital MRS (item 8.6.2 at\u00e9 11.2) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQzYjM5MTE4NTNjZTBlYjdhM2ZkYjE5MDdmZGQzZmY=",
+      "date": 1432512000000,
+      "text": "020 FICHA FINANCEIRA 2015 RECLAMANTE | Documento Diverso (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

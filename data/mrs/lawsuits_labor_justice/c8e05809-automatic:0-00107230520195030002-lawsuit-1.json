@@ -1,0 +1,652 @@
+{
+  "lawsuit": {
+    "id": "YzhlMDU4MDktYXV0b21hdGljOjAtMDAxMDcyMzA1MjAxOTUwMzAwMDItbGF3c3VpdA==",
+    "activityCount": 98,
+    "number": "0010723-05.2019.5.03.0002",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Anselmo Matias de Araujo",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Antonio Clarete Rodrigues",
+            "cpf": "316.199.756-53",
+            "lawyerId": "ODBkNjNhOTItYXV0b21hdGljOjAtNjI1NTAxMTM0NzM2MDQ2LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1546351200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "2\u00aa VARA DO TRABALHO DE BELO HORIZONTE",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NDAyNDY4ZDUwNWRjYTc0MWY0MDQxZDI5YzEyNmE4OWI=",
+      "date": 1568592000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Defesa MRS )",
+      "attachments": []
+    },
+    {
+      "id": "MGYxYjNkYWY5MjY2OTE2NGIyY2QzMTkxZWU1ZGRhZmQ=",
+      "date": 1574640000000,
+      "text": "Decorrido o prazo de ANSELMO MATIAS DE ARAUJO em 25/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "MzE1OWQwZDQwNDc3M2ZjM2NhMDhlYzA3OTMyMmMxYTY=",
+      "date": 1574294400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o reclamante Ato Ordinatorio Id 7ba0f1c)",
+      "attachments": []
+    },
+    {
+      "id": "NDQ4MmVjYzMxM2Q0NTUzZjRhZDdjZjEyOGRlOGE0ZDI=",
+      "date": 1614816000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a MARCELO RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "YjI4Njc4YzVkYTliOTQ4NzEyNWRmNDFmYmMwMGE0NGU=",
+      "date": 1593043200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (08/07/2020 09:25:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "MjNhMTBkMDllYTIwMmI4YTFkZjlhZDEwYzQ2YmFhMzg=",
+      "date": 1611792000000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (15/03/2021 10:40 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NjBhNzhjZThjNGY2MDcwZmY3YzQ1MmI5ODA0NGU4NzY=",
+      "date": 1612828800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 09/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "NmJjMDAxNzZlMWU4YjkzM2FmNjg5ZmNiOTg0OTNkY2M=",
+      "date": 1593475200000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OWNkNWE4MjBmMWY3MGRiYTU2MzhiNjY4MWMxNjU3ZjY=",
+      "date": 1571011200000,
+      "text": "Requerimento reclamante para reclamada anexar cadernetas manuais",
+      "attachments": []
+    },
+    {
+      "id": "YzljMThlNDQ1NWI1NTQ5YjZmOTlkOWQzNzA2MjEwZjE=",
+      "date": 1571011200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Requerimento reclamante para reclamada anexar cadernetas manuais)",
+      "attachments": []
+    },
+    {
+      "id": "MDUxY2NmNDk1MDU4YWM2NGUwODU5OTRiMTg2ZDgxM2Q=",
+      "date": 1571875200000,
+      "text": "Publicado(a) o(a) Despacho em 24/10/2019",
+      "attachments": []
+    },
+    {
+      "id": "NDI3MWU0NTZhYjBlN2RjZDBjMGYyMTNjMWM2ZjNmN2Q=",
+      "date": 1571702400000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YmYxODAxY2M1M2NhYTQwZTBmMDVlMzQ5OGNjM2FkMTY=",
+      "date": 1573344000000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmJiZDZmMDk3YTYwNDY1OGExOTEzZDY3MTAzZDMxZDY=",
+      "date": 1593475200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MRS requer adiamento de audi\u00eancia)",
+      "attachments": []
+    },
+    {
+      "id": "YTRmYzA3OTg0NGRlNDdhNTY3ODljMTM2ZmQ5MDA5MTA=",
+      "date": 1593648000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "ODNjODM3NzQyMWExNmI3NDc3MjRhMThlYWFjMzBlZGE=",
+      "date": 1612051200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANSELMO MATIAS DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "NjZmYzE1MGI4YjFiN2RiYzBhYTQ4MWY4OWQ1NTBjMTA=",
+      "date": 1593475200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a MARCELO RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "MWE0Njk2Njk4Yjc0YTM2MDExZTdjNWMzOGQ5NzRlN2U=",
+      "date": 1614816000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ODcxZWRkMjc3YTEyMjcyZjQzMzFmMzNiMzM3YTJmZGU=",
+      "date": 1593043200000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (08/07/2020 10:45:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "OGNlZGViY2EzZDJmN2EzNzhhMDA2YTk1OTJlODNmOTM=",
+      "date": 1568678400000,
+      "text": "Audi\u00eancia inicial realizada (17/09/2019 08:30 - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "MmY4MzA1Y2FhNWE4NWE0YTRlZTU5YjE5Yjg0ODFmODg=",
+      "date": 1568592000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Requerimento de suspens\u00e3o do feito)",
+      "attachments": []
+    },
+    {
+      "id": "OGM5Mjc3Zjk4OWFmYmEwYWQ1ZmM2M2VjMmFjN2ExNzQ=",
+      "date": 1573344000000,
+      "text": "Ato Ordinat\u00f3rio",
+      "attachments": []
+    },
+    {
+      "id": "MWVmNTBkNmEyYmE3Yjg5NDIyOTFjMDMwNDI4OTIxMDk=",
+      "date": 1568246400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Solicita\u00e7\u00e3o de habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "MmFlYTIyM2UxNGY1YWRkYTkxMjk4YTE1OTM1MDdmNjM=",
+      "date": 1568592000000,
+      "text": "Defesa MRS",
+      "attachments": []
+    },
+    {
+      "id": "MmI2ZTBmNTQ4NDY3YWY2YTBmMTAxNDU0NTFiY2JjNzY=",
+      "date": 1568246400000,
+      "text": "Juntada de substabelecimento pelo reclamante",
+      "attachments": []
+    },
+    {
+      "id": "ZTMzMmNjYjU1MzZiMTQxNzk5NGZlNzNiMjM2MDY3ZTQ=",
+      "date": 1594339200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NmUyYTNhOTdiMDQ4NjhmNTJkMjFjNzFiMTJiMzc3YWY=",
+      "date": 1612137600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 02/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "NGJhNTljZDYxMWUwZjE4ZmQyMzE4MjEzYTg5MGM4N2U=",
+      "date": 1593993600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Consigna\u00e7\u00e3o de PROTESTOS)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ0YzI0ZmU5YzgxMTU5ZTZmYzg2YTQ2NTFkZTFhZDk=",
+      "date": 1593216000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Njg0NDUyNGNmNmFhMmE0YTAzYWNiMDZkNzdmMzMwZDA=",
+      "date": 1567123200000,
+      "text": "Peti\u00e7\u00e3o Inicial",
+      "attachments": []
+    },
+    {
+      "id": "YzgyNDMzY2FlODAwYjFlNTA1Njc0NWIxOTYzM2VmMjA=",
+      "date": 1612051200000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjJiMjYyNDg2YTk0ZTNlZmYzNmY3MWU4NzRkYjgyNGM=",
+      "date": 1568246400000,
+      "text": "Solicita\u00e7\u00e3o de habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzI3NDZiNTlmMDEyNjgwYzQ5YWVhNWQ4ZTNjMzM5NmE=",
+      "date": 1594684800000,
+      "text": "MRS junta carta de preposi\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZGZlOTQxZmM2NjkwMTM3NTU3OTNlOWQxZWZmMmE0Nzc=",
+      "date": 1612915200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 10/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "OTQ5M2ZhNWRhYTA4YTAyOTA0MzNhZTFhNWY4Y2Y2ZTg=",
+      "date": 1575331200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YmIyMGUyYTMxOGI0MGQ2MTIxNjZjZjljMzc2MWIwYTE=",
+      "date": 1611792000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a STELLA FIUZA CANCADO",
+      "attachments": []
+    },
+    {
+      "id": "YWQwZTI5NmExYzExMDk1NjI4NjQ1ZTdjNGMxMTU4MGM=",
+      "date": 1568592000000,
+      "text": "Requerimento de suspens\u00e3o do feito",
+      "attachments": []
+    },
+    {
+      "id": "YWI2NmY5OGQwMjk3ZDcyZGEwZWM2OGNmMWExNGI3ZmM=",
+      "date": 1568246400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de substabelecimento pelo reclamante)",
+      "attachments": []
+    },
+    {
+      "id": "NjA5ODgzNzVmZGMwYTllNmNiMmI4ZWQ1OWYxYzRjMzE=",
+      "date": 1593475200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZDdjZjgzZTlmMGRlNzI3MjhmY2ZmODhjMjJhYWU2OWU=",
+      "date": 1567123200000,
+      "text": "Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Zjk4YzVmMjIyMmYyOWVlZjIyZjYwZjE4ZWFkZDVjYzk=",
+      "date": 1612051200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzBkOGY2ZTYxNjA2ZjhiN2M5NDA4NDhjNDI2ZTBiYzM=",
+      "date": 1567123200000,
+      "text": "Audi\u00eancia inicial designada (17/09/2019 08:30 - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "MzQ1NTVkMjk4YTYxYzFmZTJmYzQ0NjViODRmNzU4OGE=",
+      "date": 1593129600000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MDFiZDIyMWM2YzU2OGIxNGEzYWM0Yjg5NzkwNmVmOGY=",
+      "date": 1568678400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (08/07/2020 10:45:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "OWE0ZDk3Mzc3OWYzNGNjMmY2NmY0YWQxNjdjZTM2ZjY=",
+      "date": 1594166400000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "OGY0NjczNzZlYmQyY2JjNGMwMDc2YWVlMjRlMWZmZjA=",
+      "date": 1593648000000,
+      "text": "Manifesta\u00e7\u00e3o pelo reclamante despacho Id 968983e",
+      "attachments": []
+    },
+    {
+      "id": "Y2U1ZWM0MmU1ZGM4NjIzMGM5MGVkN2RhNmM4Mjc4NDk=",
+      "date": 1571788800000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ODA0OGU5ODIzYzdkNzAzNjFiMmQ1YTIzMjk2ZTliN2U=",
+      "date": 1571011200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MANIFESTA\u00c7\u00c3O PELO RECLAMANTE DEFESA E DOCUMENTOS)",
+      "attachments": []
+    },
+    {
+      "id": "MzQyM2FmNWM0YTg3NjM5ZWQwNTk4ZWU2YjMxMmZkNzI=",
+      "date": 1594684800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MRS junta carta de preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NTZkY2E1YjVmNDgwZjk4ZDIwYjM4NjEzYzMwNTEyNTQ=",
+      "date": 1575331200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODBlNTE4NWYzYmM1NTE3ODJkYTIxNmM1MjRjYWYyMzg=",
+      "date": 1568678400000,
+      "text": "Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NDdiNTAzMzYwODBiZWZmMjQ2MzI5YmYzMTQ4MTM4NzE=",
+      "date": 1593129600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "MGVjZmFkNDk4N2I3ZTNmNjQ0MTk3NDk2MThjNjJmZTc=",
+      "date": 1593043200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a MARCELO RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "MTIxNjEzMTU2YmUxZWM2ZWQxNDBkOTlhNzU1NzYyMWU=",
+      "date": 1571875200000,
+      "text": "Disponibilizado (a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDA0NzcwZjM2M2NkN2IwNmE0ZjNjZGEzMmFkZTk0MDM=",
+      "date": 1573430400000,
+      "text": "Disponibilizado (a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTdiYTBjYzBkZTVlNTNhNGMxOWZiYjE2NGQxZmE0OWY=",
+      "date": 1593475200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NTJlYmYwN2RjOWIxYjc4N2QwZmIwMjNlYzc2ZTZjZjg=",
+      "date": 1569283200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de carta de preposi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q1YmY0MzIzOTZhNzhkNTQ2NWExZWYxOWY1ZGMyNjU=",
+      "date": 1574294400000,
+      "text": "Manifesta\u00e7\u00e3o reclamante Ato Ordinatorio Id 7ba0f1c",
+      "attachments": []
+    },
+    {
+      "id": "MDJmMWQyODgzNGI0N2I2ZDdmZGZlY2UwZjhlM2E3NjA=",
+      "date": 1594166400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o cancelada (08/07/2020 09:25:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ3Zjk4ZjFlMmM2MzZmMDlkOWM2ZmNmZDBlYWJhOTU=",
+      "date": 1593475200000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "Mzk5YjBjMzMzNjBlYTlhNzYxZmMwZDNhYWFjNTZiMDg=",
+      "date": 1593648000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o pelo reclamante despacho Id 968983e)",
+      "attachments": []
+    },
+    {
+      "id": "M2I0OTVmMGE1MDQ3YWJhODQ1NGU2NzQwMjQwNTQ0YmE=",
+      "date": 1571702400000,
+      "text": "Conclusos os autos para despacho a DANIELE CRISTINE MORELLO BRENDOLAN MAIA",
+      "attachments": []
+    },
+    {
+      "id": "ZDY1YmY3YzhlNzRiYWRkNmNhNDVkZGRlZjY0N2Y0MTM=",
+      "date": 1572912000000,
+      "text": "Reclamada impugna documentos e justifica exibi\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZWZlMThmZjNhNjAyNzllNzQxYjg2Nzg3ZGE2ZjIyZDk=",
+      "date": 1611792000000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (11/03/2021 15:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NjM1YTUxODg4OGE1NWVlMDBiY2ZiNDViYjNkNjk0NjY=",
+      "date": 1594080000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 06/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NGJmNGNmNDFkMTRiMjg1MDcyN2NmMGM0YzU3MjI5NmM=",
+      "date": 1594339200000,
+      "text": "Decorrido o prazo de ANSELMO MATIAS DE ARAUJO em 09/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "MzUwNDVjZjdkYmQ0ZjdhZjQzMTJiZTJkYTM1NjZhOWQ=",
+      "date": 1569283200000,
+      "text": "Juntada de carta de preposi\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDg2YzFjNThlN2Y1ZDNmNzkwZDYzNzFlMDRiMDc4OWY=",
+      "date": 1614816000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANSELMO MATIAS DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "OTRmODgyZWY3ODYyNzNiYmI5ZWNlN2IyMzdmN2MxMDM=",
+      "date": 1614816000000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjJkNThkOThhYjc5ZTI0NmY2MjA2OTM0MWViNzM3YTQ=",
+      "date": 1593475200000,
+      "text": "MRS requer adiamento de audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MTIxM2NhZmZiODEyOThiMTYwMWU4NjQyMWVhMWJkYmM=",
+      "date": 1612137600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MGFkMWIzMDA2MGFlMmVmOWE1N2E3Y2M5YjBiMGY3YTI=",
+      "date": 1593993600000,
+      "text": "Consigna\u00e7\u00e3o de PROTESTOS",
+      "attachments": []
+    },
+    {
+      "id": "MDRhOTBmNzRmNjI1NDgwYmY5MTQ1NGFjNDEyMWQ0NWQ=",
+      "date": 1593129600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANSELMO MATIAS DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "NjVlZDU1OTZlZWYzODNkNzIxZDBlYzYxMWU0MmExMDk=",
+      "date": 1614816000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "M2E3NjllYmRiMzRkMTk0ZDI2MDAzYjVkYWE1MDljMGI=",
+      "date": 1575331200000,
+      "text": "Intima\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmY1MGFlYTFhZWMxYjkyMWRhYWQ5NWJjYTIxOGE2YjE=",
+      "date": 1594166400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o designada (15/03/2021 10:40:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "OGYwN2FhZTYzZjQ0NGMwM2Y1YTZiODdiNDcyNGJhMmY=",
+      "date": 1593648000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWNlYWY3ZmU2MTEyMjkxYWQxYTgzYzU1OTRkOWM4YWY=",
+      "date": 1593129600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWUzZjczYWJmMzhiY2U1ZjRjMmJmNjVkNWFhN2UzY2M=",
+      "date": 1593129600000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjUzY2M2MDI2ZjYxODJiOWNkYTlhNTEyOGI4MTg2YTU=",
+      "date": 1573430400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 11/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "MjI5YmMzOWNmODI2ZGJhNDE5YjNmOTZlYzhhZmMxYTg=",
+      "date": 1594166400000,
+      "text": "Audi\u00eancia de instru\u00e7\u00e3o realizada (08/07/2020 09:25:00 1\u00aa - SALA 1 PRINCIPAL - 2\u00aaVT/BH - 2\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NmVkMTdhNmE2ZDYyMjk1ZGJiZWEzNzMwZDA5NWIxOTc=",
+      "date": 1567123200000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u/",
+      "attachments": []
+    },
+    {
+      "id": "YThiMWMxODhhMGVkNWFmNDQyYzFiN2U4MzhmZDdhZGM=",
+      "date": 1614816000000,
+      "text": "Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2ViOTUyMGU5MmEzZDFhYzI4MGI3M2EzNTk2M2EyZjc=",
+      "date": 1575331200000,
+      "text": "Conclusos os autos para despacho a DANIELE CRISTINE MORELLO BRENDOLAN MAIA",
+      "attachments": []
+    },
+    {
+      "id": "OGU5YTcwOTczNTQyNzg3YTZmYzA4OTJhNWM0ZWIzOTY=",
+      "date": 1612828800000,
+      "text": "Decorrido o prazo de ANSELMO MATIAS DE ARAUJO em 09/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "MDkwMjdlYWY1YWVjMWU1YzM3ZjQ1MDQ5OThlOTM2MDQ=",
+      "date": 1572912000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Reclamada impugna documentos e justifica exibi\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "MDA1NzlmNDdmYzYwY2IzYTliNjI4YzdhZTJjOWZmM2Q=",
+      "date": 1573430400000,
+      "text": "Publicado(a) o(a) Despacho em 12/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWQ3MzcyMmM4ZmYwNjRjY2Y2ZDM0ZjBkYjA5MjMwYjk=",
+      "date": 1614988800000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 08/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "Y2E5MDg3OTNjYjYwZWU1MjU5NDIxYzI0YjFiNjE1NmM=",
+      "date": 1567123200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "MzM2MjEwNDZiMWI0MTU4YWMwMjY3ZDg4OTQ3ZDJkMDY=",
+      "date": 1571702400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MjM1MmJmOGE0NTQyMjEyMzAwZjNlNDc1N2FmMmZlZTU=",
+      "date": 1612051200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZDYwNDE4YmIzMzdjN2MwZjViMDlkYWNiMTZhYTQzNDE=",
+      "date": 1612915200000,
+      "text": "Decorrido o prazo de ANSELMO MATIAS DE ARAUJO em 10/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZDRhNDk3N2E4ZGI2Nzg2YmM5ZTAwZDc5ZGM0YzVhNWQ=",
+      "date": 1593216000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/06/2020",
+      "attachments": []
+    },
+    {
+      "id": "OGM2M2NhMjM5OTNiMDViYzM1MmE0NDRkMzFjNTQ1ZjE=",
+      "date": 1571011200000,
+      "text": "MANIFESTA\u00c7\u00c3O PELO RECLAMANTE DEFESA E DOCUMENTOS",
+      "attachments": []
+    },
+    {
+      "id": "NTE2NGI4MTZkOTkzZDg2MmYyNDhiODUyMzFiODUwYTg=",
+      "date": 1593475200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANSELMO MATIAS DE ARAUJO",
+      "attachments": []
+    },
+    {
+      "id": "OTA3YTQyOGI5YzVkNGE5NGI5ODU1NjIzOWU0ZjI4MjM=",
+      "date": 1614988800000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTMxOGEzZTE2MDQ3OTgwMzM3MGY5NjYzODlhZGE5YTM=",
+      "date": 1612051200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OGIwYzg5Mzc5NWJjMDdhYTY0NDczNjZkODkyMDg3MWU=",
+      "date": 1594080000000,
+      "text": "Decorrido o prazo de ANSELMO MATIAS DE ARAUJO em 06/07/2020",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

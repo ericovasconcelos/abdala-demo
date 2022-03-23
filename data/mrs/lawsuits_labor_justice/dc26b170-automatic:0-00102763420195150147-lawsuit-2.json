@@ -1,0 +1,484 @@
+{
+  "lawsuit": {
+    "id": "ZGMyNmIxNzAtYXV0b21hdGljOjAtMDAxMDI3NjM0MjAxOTUxNTAxNDctbGF3c3VpdA==",
+    "activityCount": 70,
+    "number": "0010276-34.2019.5.15.0147",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 2,
+    "relatedPeople": [
+      {
+        "name": "Danilo de Paula Benvindo",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Mauricio Fernando dos Santos Lopes",
+            "cpf": "247.226.108-00",
+            "lawyerId": "NmY3NWU2YmQtYXV0b21hdGljOjAtOGVkZmZkOTQxNDMzZDQzLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Ana Paula Fernandes",
+            "cpf": "269.122.238-18",
+            "lawyerId": "Mzc3YzBlOTUtYXV0b21hdGljOjAtNGNjYzQyNGMwMjI1ODljLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1546351200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT15",
+    "courtSection": "Gabinete do Desembargador Francisco Alberto da Motta Peixoto Giordani - 6\u00aa C\u00e2mara",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZmZmNzhhZTI3NzU5YjQyNThlMDVkYjdiZjU0YTRhNjk=",
+      "date": 1571184000000,
+      "text": "01. TST - decis\u00e3o de suspens\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWU4MDY5ZGZlY2I4NjQzMGI4ZjM5YTJjNmI5ZjdjMDQ=",
+      "date": 1557446400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTZlMjZlNTY1NmY4ZDZjODk1ZjIyMzBhNDcyOTI5OTc=",
+      "date": 1568505600000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWI1YWU4YzgxYzJkNDQyZjIyZWE5N2IyMzM4MzliY2E=",
+      "date": 1555891200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQyY2I5NTMzZGQ0NGU4NjgzNmI1M2FhMzUzMzFiZWY=",
+      "date": 1571184000000,
+      "text": "06. Estatuto - Parte 1 | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzM3MGMzYmEwYjY3YTBhZGQwZjE4MTcxMzFmMDljNWM=",
+      "date": 1568505600000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YjRiZmU3ODc1YmM5OGRiODQ2MTBlYWUwYzY4Y2ExYzA=",
+      "date": 1558569600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDY0Yzk2ZDMxYjE4YWIwMTQyMWQ3OWY0ZmQ2MDJiNTY=",
+      "date": 1572307200000,
+      "text": "Contrarraz\u00f5es ao recurso ordin\u00e1rio | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M2NzgzZmI3Y2UxNTc3NTAwOTJlZTJhOTU0MDc4ZmE=",
+      "date": 1560124800000,
+      "text": "09.ACT - 2015_2016 - STEFZCB. | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjFmNjc3ZjQwZDc4N2Y5MWFkOTZiOWQzZjRkY2EyNzQ=",
+      "date": 1557273600000,
+      "text": "03.TRCT | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU3NDNmOTlhZjgzYWMzYmVmZmQ5YTg2MDBmOGUwOWE=",
+      "date": 1569283200000,
+      "text": "3. Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNjNjBiNDliM2ZhOWM0NzUyOTRhYjA0Y2JmYzM1Mjc=",
+      "date": 1571184000000,
+      "text": "08. Procura\u00e7\u00e3o espec\u00edfica. | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M0ZmZkZjE2MzIwNDJlZWI0ZTRhZTZhMTJhNzhmNTU=",
+      "date": 1557273600000,
+      "text": "01.HISTORICO DE LOTA\u00c7\u00c3O - Bloco de notas. | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzIzYzBjMWVkZGY3ZjM2NDViYzY2YmFkNTNhYjdiOWY=",
+      "date": 1575244800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YTgwM2YwZGNjNDQyN2M3OTRiZWY1YjkyMjJlNDQ0NzE=",
+      "date": 1560124800000,
+      "text": "02.Fichas Financeiras_Danilo | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA1NjE3ZTNiZjUyODY0NzI0Y2Q2ZmY2NDEyOWEyYzQ=",
+      "date": 1560124800000,
+      "text": "11.Acordo Coletivo 2017 - 2018_sindicato_-_central_do_Brasil | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTI4YTc2ZDY5MTNhZDdhMDRhNGFjZmJiNDAyMDg4OTE=",
+      "date": 1558396800000,
+      "text": "01.NOTIFICA\u00c7\u00c3O_DANILO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTU2NmIwMjMzMzJhMzViNWVlZGMwMTlkZDc1MjljMDM=",
+      "date": 1555891200000,
+      "text": "Caderneta de Registro de Jornada | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmI5MDEyMDYxYzExODdiNjUzMjI4Mjk5OGM3ZDcwMjk=",
+      "date": 1560124800000,
+      "text": "10.ACORDO 2016 - 2017 - STEFZCB - ASSINADO | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTE3N2I3YWFjNGM0ZjExMmZmZmM3YzQ2Y2YyNDRiNTE=",
+      "date": 1556841600000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWM3NjYwMmJiYTA2ZjFlNzM5NjdhYWY1OGNkMTMzMGM=",
+      "date": 1575244800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzE5ZTgzMjliOGY4MzMyMDY5MmExMDkyMWJjNGE0YWE=",
+      "date": 1571184000000,
+      "text": "03. GRU | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVkNjY3ZjcwYjBhYzE2MjU2MDc5ODE3M2U3OWJiNTU=",
+      "date": 1575331200000,
+      "text": "Conclusos os autos para julgamento (relatar) a FRANCISCO ALBERTO DA MOTTA PEIXOTO GIORDANI",
+      "attachments": []
+    },
+    {
+      "id": "OTc3ZDE1MzZkMWVlZGJjYTg5MjQ0ZGE0OGYxMDUzNjY=",
+      "date": 1569283200000,
+      "text": "Embargos de Declara\u00e7\u00e3o | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ3ODRkZjJlMjBlOWFmM2QxODgzZWRlYmQ3NDFiNTg=",
+      "date": 1571184000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWU5NWIyZjJhOWIxYTFkMTZhODBkMDFhZjkxOTU3YzI=",
+      "date": 1571184000000,
+      "text": "04. Comprovante custas e dep\u00f3sito | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzQwMTMwY2MxMGFmMjZkMzJmMzA5MmEyNzIwOWNhYzE=",
+      "date": 1555977600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzFkMGI4MTMxMWIzNWYzOWQxNDY5ODgzMGMzNWZiOTI=",
+      "date": 1571184000000,
+      "text": "Controle de prazo recursalMinutar decis\u00e3o - ARminutaEmElaboracao | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjA0YzY2MmQ1MWY5ZTIxNDMxYTdmODMxYmVjMzg1YmM=",
+      "date": 1571184000000,
+      "text": "05. Ata de Elei\u00e7\u00e3o. | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGZmNWU0MWVlOTM1YWE2NTY1NWZhNWE4YzM5NDZkMGQ=",
+      "date": 1560124800000,
+      "text": "07.act - 2012-2014 - STEFZCB. | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGM5ZWEwNjVjMzEwMDcxYWIxY2Y4Y2I4NWJhYTI3YTY=",
+      "date": 1560211200000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YjcyNmYxODI5OGI2MzY5NTNkODZkNzk1OTM4MzA2ZWY=",
+      "date": 1560124800000,
+      "text": "03.Cart\u00f5es de ponto_2014_Danilo | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDY5M2Y1ZTlhNGE2MjFhYjRiNTUwZGI5OTAyMmNhMzM=",
+      "date": 1557792000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWM3OWQ5MjBhNTdjZDk5YTdjMGFiYTBlMzM1ZDQwYTI=",
+      "date": 1560124800000,
+      "text": "05.Cart\u00f5es de ponto_2016_Danilo | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjUzZmI5ODY1OTdiMjg5YmI5MjQ2MzU0NWFkMTk3Y2Q=",
+      "date": 1557878400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MjQ0Y2I0ZDlkM2Q0OTc0NTc0N2IzNGY0ZDhmNDFhYmE=",
+      "date": 1557273600000,
+      "text": "02.FICHA DE REGISTRO | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzI3YjFhZWE5NjhhZjY1MzI1Mzg1ZWUyMTAwZDJjMTE=",
+      "date": 1560124800000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGI5YTFjOTMwNTc1MjFiNmQzNTg1ZGQwNmVkMjdjZGY=",
+      "date": 1557878400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDlkYmEyZTUxNjg2YmZiN2U1YmIyZmZiNzQ4OTFjMjc=",
+      "date": 1559260800000,
+      "text": "PROTESTOS ANTIPRECLUSIVOS | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjk5NGMxZmZkNDFlMzQwNzk0MThlYmJkNGVmZTM5YmU=",
+      "date": 1571184000000,
+      "text": "09. SUBSTABELECIMENTO EQUIPE JSD | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWE1ODQ1MmVlZTExY2MxZTA3ZmMzNWU2OGEzODUxYjM=",
+      "date": 1557446400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2YzNzJiNjA1NGFjYWY3NmFjYmI0MThhN2NhY2FhNDg=",
+      "date": 1555891200000,
+      "text": "RG e CPF | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWM1M2RlY2YyY2IzYjMyYmYxNDQzZGQ0ZTE2OTY1NGM=",
+      "date": 1555891200000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODgwYWQ5ZGQzNDgxMTE5NzdhMTU4Njg1ZjM3NWQ1MzM=",
+      "date": 1569283200000,
+      "text": "1. Ata de Elei\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGFjY2Y2ZWQzOGJjZThkNGFmZGFlM2RkZjcxZGVjMjU=",
+      "date": 1560124800000,
+      "text": "01.Documentos_Danilo. | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDAyMWJmNzU2M2VkMzFmNTg2MTFlMDI5YzA0ZTc0Zjg=",
+      "date": 1555891200000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzcyZDc5ZDYyM2NlNDliNGUxNzA5NmZmYjMzMWQ5MTE=",
+      "date": 1558569600000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2EyNzkyYjZkMDhiNDIzODAyNjMzOTFiNWI5M2Q2Y2U=",
+      "date": 1569974400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "NTc2MDIwMWM4OWJmNTM2MGFhN2M5NWY3ODJiY2FhOWI=",
+      "date": 1569974400000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjI2YjljYjc4ZTdhNWJmZjBhZGY1OGRiNWI1NTkxYjk=",
+      "date": 1555891200000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzgyMWI3ZWRhNGY1ODEzYmQzYjNjMTUwN2YyMjUxNjQ=",
+      "date": 1571184000000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTllZjZmZTY4YzRiODQ2Yzk5Yjc2MDFmZjBhMTdhOWQ=",
+      "date": 1560124800000,
+      "text": "06.Cart\u00f5es de ponto_2017 e 2018_Danilo | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmI2OTEzYTRkN2M4ZWEyOTkwMDBhNGE2OWQ5NWEyZDI=",
+      "date": 1555891200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTg0NmI5NzExODc0MjlhOGZiNjg1NDZmYzNiMzM5YWQ=",
+      "date": 1560124800000,
+      "text": "08.Acordo Coletivo 2014-2015 - Central do Brasil. | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGIwMzVlMWExNzhkNjFlZTY2NDYxNmJkN2RjYjQ5ODc=",
+      "date": 1560124800000,
+      "text": "04.Cart\u00f5es de ponto_2015_Danilo | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc0YmYyNzYwOThlNDI1Yjk3MjVmM2FkNWVmZmNmNmE=",
+      "date": 1556841600000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYyMjhiNzcxNDc4YWM3NDY3YWE5ODMyMzY1NjEyMjE=",
+      "date": 1572912000000,
+      "text": "Suspens\u00e3o do Processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ2ZTM2MDAzOGVmZDEyYTEzMmY2YWFmZjNlOTliM2E=",
+      "date": 1575244800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGRjM2E4ZWQ2YWRiYjI3ZGZiYmQwYjM5YTFhMDAzNTM=",
+      "date": 1557792000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTYwMmUzZDY1ZjVjZDQ5MTc0NTQyZGQwNTNlMjc2NTk=",
+      "date": 1561680000000,
+      "text": "Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWQyYjkxMmZiZThlYTk3MjRkOTU4YTIwYWFkMDkwZmY=",
+      "date": 1569283200000,
+      "text": "2. Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDFhYmQzODE5Y2JlMWEyM2RkYTA5ZTRjOTdmNGEwMWQ=",
+      "date": 1556841600000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzdmYjAyNzA3NWM1YzMxOTUzODQ1Mjk1ZjIxZDlhNDU=",
+      "date": 1571184000000,
+      "text": "07. Estatuto - Parte 2. | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzA3YTBmMzc5NWZhYzE2YjRiOTNhMmNhNzFmMWE0MWM=",
+      "date": 1557792000000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTJmNjcyYjA5YjkwZTAwMDA1OGE5NTExYmYwNTBkZjQ=",
+      "date": 1556841600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY5YWE1ZGUzYTBiNDQ4OTgxZDdjYjdhOGM0MTU0MmI=",
+      "date": 1571184000000,
+      "text": "02. Guia DEP. JUDICIAL- RO | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjkyZDc5OWYxNzg1MzQ4YWUxZjVhNDJmZTU0MDI2ZjQ=",
+      "date": 1556841600000,
+      "text": "HABILITA\u00c7\u00c3O | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODU3YmI3NTVjOWEzMGFhZGExMWY5YjIwNWU4YWZlOTQ=",
+      "date": 1569283200000,
+      "text": "4. Procura\u00e7\u00e3o espec\u00edfica | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzZhNWM5OGM3Yzg3MzBlOTRhOGE2MjI0M2E5Y2NlNzg=",
+      "date": 1557273600000,
+      "text": "EXCE\u00c7\u00c3O DE INCOMPET\u00caNCIA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGZiZWYyOTk5YTNkODU0NTFjZDM4N2EwNDIzYzY4MjQ=",
+      "date": 1558396800000,
+      "text": "Manifesta\u00e7\u00e3o reitera reconsidera\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

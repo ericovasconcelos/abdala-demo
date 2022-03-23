@@ -1,0 +1,1135 @@
+{
+  "lawsuit": {
+    "id": "NTZkMTVlYzUtYXV0b21hdGljOjE2MDQyODI0LTAwMTAxNzkxMjIwMTc1MTUwMDgwLWxhd3N1aXQ=",
+    "activityCount": 176,
+    "number": "0010179-12.2017.5.15.0080",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Fabio Henrique Cordeiro Sobral",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Gabriel de Oliveira da Silva",
+            "cpf": "322.110.008-60",
+            "lawyerId": "OWE4YWNhOGQtYXV0b21hdGljOjE2MDQyODI0LWQ4ZmFlMmQxZmY1Y2Y2OS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Ana Paula Fernandes",
+            "cpf": "269.122.238-18",
+            "lawyerId": "MDEyMWIyZmMtYXV0b21hdGljOjE2MDQyODI0LTRjY2M0MjRjMDIyNTg5Yy1sYXd5ZXI="
+          },
+          {
+            "name": "Fabiana Morselli",
+            "cpf": "290.703.438-35",
+            "lawyerId": "ZmM5OGFhYTAtYXV0b21hdGljOjE2MDQyODI0LWY5MDUxNzBjZTEzMDMwZi1sYXd5ZXI="
+          },
+          {
+            "name": "Maria Helena Villela Autuori Rosa",
+            "cpf": "074.032.108-08",
+            "lawyerId": "NzUwYjMwOTUtYXV0b21hdGljOjE2MDQyODI0LWQ2ZTViNzc2YTFhNmE1ZS1sYXd5ZXI="
+          },
+          {
+            "name": "Raquel Nassif Machado Paneque",
+            "cpf": "252.204.698-51",
+            "lawyerId": "ZTI2M2VlNjYtYXV0b21hdGljOjE2MDQyODI0LWI4MTdjOGE2NWI2NWJhMC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT15",
+    "courtSection": "Vara do Trabalho de Jales",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Sumar\u00edssimo",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MWExNzA3ZGNjNjE1YTVhZTI5NmI2NjlhM2I1Yjg5ZDk=",
+      "date": 1558569600000,
+      "text": "Conclusos os autos para despacho a JOSE ANTONIO GOMES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "NDNhOTU2ZDAwYmQzMWNlMjc2YmY4ZGU2MTUwNzJmYzU=",
+      "date": 1549238400000,
+      "text": "TST - Termo de Distribui\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA1MWM2ODYwOTlkY2JlNjA0Njg0MjMyNDdmZDU4MzQ=",
+      "date": 1490832000000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento realizada (30/03/2017 15:11 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "NmI4MDM5YTllZDI3Mjg0ZjczNzNmOTdkMWRkNGQwMzA=",
+      "date": 1557792000000,
+      "text": "TST - Certid\u00e3o de Origem de Documento Eletr\u00f4nico | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWI0OWExOWVkMThkYzYwNTk0N2ZhYzM3YzIwYWE4Y2E=",
+      "date": 1560211200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de C\u00e1lculos (Peti\u00e7\u00e3o de juntada de c\u00e1lculos)",
+      "attachments": []
+    },
+    {
+      "id": "N2FmZmJkN2I1NDMyNzQ5NmMxYmEzZDMyMTEyOGMwNmU=",
+      "date": 1504569600000,
+      "text": "2. ACT's parte 1 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTA0YWE1YzExZDBiNDRlNjU2ZmNhZjJmOTM4MTlkN2I=",
+      "date": 1516752000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmY3MDFhMzE0OGU5MzVhMTQ1YTg3Y2ViMDA5NTRkNmE=",
+      "date": 1562025600000,
+      "text": "DILA\u00c7\u00c3O DE PRAZO | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTgyZWU4Njk1ZTMyNDQzMmZhZjYzYjIxOWNmZDc5YWY=",
+      "date": 1524009600000,
+      "text": "Ac\u00f3rd\u00e3o | Ac\u00f3rd\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OGQ0NjQyZGNjZWQ4NGY3NjY5ODcxOGI1ZGY2YjA2NTY=",
+      "date": 1562112000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzZjMDJhMWFhYTlhZWJmMDllZjE4NWM5ZjFiMDE0NDU=",
+      "date": 1563235200000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a JOSE ANTONIO GOMES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "ZjcwNjk1ZThkYzAxZmZhODg1ZTNkMjE4ZWNhNDdjYjc=",
+      "date": 1510617600000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a SANDRA MARIA ZIRONDI",
+      "attachments": []
+    },
+    {
+      "id": "N2MzYTRjMWVkNTEyYmMyOGQ2NjIwNzg0ZjY5Mzg3ZmQ=",
+      "date": 1558051200000,
+      "text": "Conclusos os autos para despacho a JOSE ANTONIO GOMES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "ODM0OTc1YTNiZDkzMzkzOWI4NmVmYmEyODFjOGUxYjE=",
+      "date": 1560211200000,
+      "text": "Peti\u00e7\u00e3o de juntada de c\u00e1lculos | Apresenta\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWUzMDg1NDk0NmNlYmZmN2ZlM2Q3MDJjZWRmM2VkMGE=",
+      "date": 1558656000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "YzE4NGMzZWM4OGExNzM3Mzk1N2M1YjU2MWJlZjZhNDg=",
+      "date": 1489449600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2EzNWYxODIyZjViNGQxYTRiYWFjMGRjODNlZTk4NDU=",
+      "date": 1561766400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzU4MDYwY2RhZjk3NThlYjYzNmE3OTZkM2Y0NDM4M2M=",
+      "date": 1541462400000,
+      "text": "Certid\u00e3o de Publica\u00e7\u00e3o_CL | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODc0NWM1Y2E0ZmE1OGEyNDk2ZGQ2MjA3ZGI3NzY4NDc=",
+      "date": 1557792000000,
+      "text": "TST - Certid\u00e3o de Tr\u00e2nsito em Julgado | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRhMGMzOWY3NGQ4MDIyODU0YzkwYTcxYTI1MTQwZWI=",
+      "date": 1513296000000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VIRGILIO DE PAULA BASSANELLI",
+      "attachments": []
+    },
+    {
+      "id": "MzUyYzNkNTI3ZDZjMjA2ZjUwYzU3NTIwYjc0OTUwMWI=",
+      "date": 1488412800000,
+      "text": "Conclusos os autos para despacho a SANDRA MARIA ZIRONDI",
+      "attachments": []
+    },
+    {
+      "id": "ZjU1MjM5M2M5YTY2MDIzMDlmMTZlMzQ5ODYxYWFiMDM=",
+      "date": 1561593600000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o cancelada (17/07/2019 10:01 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "ZTU5YTBkZTUyMDY4YzdmY2NmNzkwMjM1Njg0ZmI1YTk=",
+      "date": 1563148800000,
+      "text": "juntada do incluso comprovante de pagamento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTVkZWVkNTMwOTE3OWFlOTQwZGEyYjA0MTM3OTFhYTA=",
+      "date": 1511222400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2Q5NWIxZDgwNDViNzI4ZTcyNjJlOGU3N2IxNTg3OTY=",
+      "date": 1487808000000,
+      "text": "07 OUTROS DOCUMENTOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmM0NDM5YTJhMDI0M2IxYjk5Y2FmNzc3NzBjZGQ2MTg=",
+      "date": 1488672000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NWE4MThkYjEyYTkyYjExODVkN2YxY2Q4MWEwODc0ZjE=",
+      "date": 1503619200000,
+      "text": "Conclusos os autos para despacho a SANDRA MARIA ZIRONDI",
+      "attachments": []
+    },
+    {
+      "id": "ZWNkYTE5MWQyZTc2ZDM3NThkOTNlODNhYTdiOGQ0MDk=",
+      "date": 1504569600000,
+      "text": "4. ACT's parte 3 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTYwZWUwM2UwNmU3ZTAxZWE1NWU4MzY4ZWVmMzQ3Yzg=",
+      "date": 1559174400000,
+      "text": "Decorrido o prazo de GABRIEL DE OLIVEIRA DA SILVA em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzFmNGQ0YzY4YzU3ZmUzODkxZTYzODhkZTE1NGVjMWI=",
+      "date": 1562025600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (DILA\u00c7\u00c3O DE PRAZO)",
+      "attachments": []
+    },
+    {
+      "id": "OTJkMGYxMWI5NGU4NWJjYzg2MjFjNzI2N2Q3ZGY3ZTA=",
+      "date": 1491177600000,
+      "text": "Dila\u00e7\u00e3o de prazo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNhYmUyNGE4ZTZhMGZlNDU5NzI1NGIxNGJmMzMyNTg=",
+      "date": 1505692800000,
+      "text": "juntada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ5NjA0MjMxNzBlMzcwOWMzYTgyNWM3OTVlOGNiYmE=",
+      "date": 1542672000000,
+      "text": "Contraminuta ao AIRR | Contraminuta (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTZlNWYxYTI5ZDQwODA5ODI1N2I0NzczNjMzMGMyNmQ=",
+      "date": 1558137600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ3YWRhNzRjNDk2N2YwN2UxOGQwNTY0MGE5NmE1MDE=",
+      "date": 1487808000000,
+      "text": "04 CTPS | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGJjMDAxMWNkMmE1NjVhYzFmODkyYWI4N2E2NTYyZDA=",
+      "date": 1561766400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZTQ0MTFjYTc4N2MwYTYyOGUzMzRjNzJiM2JmY2QwMTI=",
+      "date": 1561680000000,
+      "text": "Iniciada a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YzA0YzM3MmE2M2FmMWM5NWM4OTZmMzBlN2FjNGEwZmM=",
+      "date": 1558569600000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o cancelada (17/07/2019 10:01 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "MTE3YjhmMjljMGQyOGJkNDJkMGJlMmVkOGY1ZTJjNjk=",
+      "date": 1506038400000,
+      "text": "Raz\u00f5es Finais do Reclamante | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDY0MGQxYTUwOTJiODFmNjM5M2M2M2MwMWYzNjZjODc=",
+      "date": 1563321600000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YjgwN2RjZGNiZGM4ZTBiZTg4OGZmYzY5ZTI3YzhiYTI=",
+      "date": 1487808000000,
+      "text": "01 PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWY2YzIzYTk3Njk4ZThhNjlkMjIzMjQ2YWVmZTFkZDU=",
+      "date": 1504569600000,
+      "text": "1. Procura\u00e7\u00e3o e substabelecimento atualizado | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWJlZmUyYTA2NThlMGQ3NjA1N2Q2N2M2YjdlODI0M2E=",
+      "date": 1558742400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWI4ZjI5ZWY0ZDg1NWM4YWVlNGI0MGY3MWYzYjc1OWE=",
+      "date": 1504569600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDEzZmNhMmQ0YjE4ZjQyZjViNjcyZWExNDRiMDQxNDk=",
+      "date": 1562198400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZDhhYmE2MTcyOGU2MWE1M2M5ZWVmZDA2MWE3OWJmNjg=",
+      "date": 1563321600000,
+      "text": "Extinta a execu\u00e7\u00e3o ou o cumprimento da senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MzlhYTQ4MjE0MTM4MWRkY2I2MTQyZDc5YjRkNzFmZjE=",
+      "date": 1561593600000,
+      "text": "valor de dep. recursal | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjlmNGFhNjRhMGMyZGQ2MDJkMDc5MjhlMGM4YThlMzg=",
+      "date": 1561593600000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTBiMGZhYjAzYjk3MzgyYzBmZjBhZGNjNDkxNjQ0NzU=",
+      "date": 1512086400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDQyMTBiYjZkMjY4NzE3Y2Y3OTI3MGI5MWM1M2U4NTk=",
+      "date": 1537228800000,
+      "text": "Certid\u00e3o de Publica\u00e7\u00e3o_CL | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWY4MmMyZWZiMGJmMzlhMWE2YWE4ZjhhZjExMmE5MmI=",
+      "date": 1512432000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGY0MjI3M2JjNDM4YWYyOWE3ZmMzMDZhNjZiYmE0OTQ=",
+      "date": 1512086400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUwMTM2NjgzZTMzZjIxZTBkMzg0MTk5ZThmZDdjN2I=",
+      "date": 1487808000000,
+      "text": "05 DOCUMENTOS MEDICOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjU5OTY2OWUyMzAyY2E3NTA5ZWUwOTU0MDgzZmFhMjM=",
+      "date": 1558656000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmE1ZWMzY2FmMTUwOGUwNjYyNmJhNGFiMjQ0ZTMxNDk=",
+      "date": 1512432000000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MRS LOGISTICA S/A - CNPJ: 01.417.222/0001-77 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YmZkYzNlY2NmZGE3NGFmYTAwNDYyYmM3Mjg3ZGNkNjQ=",
+      "date": 1559347200000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 31/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjQzODNkNmNlYWIxYmQ5OWQyMTc1ZTdjYWFhMmIzZTA=",
+      "date": 1562198400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 03/07/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWQzNzg4MjJjZTFmNGJmMTkxYzA4NGZlMzc3ZDg5NGM=",
+      "date": 1504569600000,
+      "text": "3. ACT's parte 2 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRiNjAzMjg4Y2Y5ZWI1YWJkY2JlNzEwN2E2MzVkN2Y=",
+      "date": 1511222400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/11/2017",
+      "attachments": []
+    },
+    {
+      "id": "MTIxOGY3ZGNiN2UxMDIyYWNlMTEwNGNmNmRmNmI1N2Y=",
+      "date": 1505174400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZTgyNDAwZTY0ZGY5ODQ0NTg2YjEzMGZkYzVhMjVjN2I=",
+      "date": 1504224000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 31/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzJiOWViNmU5YTY2MWQ0ZmI3YTQ3NDkzYmRhNzU3YTk=",
+      "date": 1547078400000,
+      "text": "Certid\u00e3o de Remessa | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmYxMmNjY2QyNDM3MjdkZGViZTdiNzk2Y2JkYjUwZjA=",
+      "date": 1559174400000,
+      "text": "Decorrido o prazo de MARIA HELENA VILLELA AUTUORI ROSA em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTk2YTFlNjNmOWFiZGI0NGUxZDI2MGZhYjZkNDJmMTA=",
+      "date": 1506038400000,
+      "text": "Termo de peticionamento em PDF | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODkwYTQ4YzFhODUxNDhkM2ZkN2U4YmEzNTYxNjRmNGQ=",
+      "date": 1558569600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDYzMTBhNTNiNTc4N2U4Y2I1YzczOGVlYWQ3MDllZjY=",
+      "date": 1557964800000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "ZmIxZDEzZDE3M2FmNTRhMmY1YjkzNTdmZTZmY2FmYTk=",
+      "date": 1558137600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTE1N2I3MjFiYTI4YzgwOTk3NjlhNTYyZDlkY2EwNmQ=",
+      "date": 1488672000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTZiMjFkODAxNmViM2Y5YTIwNTgwZTM3OTlmZGU5ZTI=",
+      "date": 1503619200000,
+      "text": "Audi\u00eancia una cancelada (13/09/2017 14:40 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "MGY5ZTg3MjIxNGUwYmM0MzM5MTFiOTU3NGQ2MmE5MjE=",
+      "date": 1561420800000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDY3ZTI4ZDYzZWI0NWM4ZDI1OWMzYWUzMTQwY2NkNWU=",
+      "date": 1512432000000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTRkZGRkMjczY2E3MTExMjQ1ZTAzNGIwZmRlYTY1ZWM=",
+      "date": 1504569600000,
+      "text": "6. ACT-STEFSP - ASSINADO - 21 12 2016 - parte 2 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFjYWMxMTUyNWNkMTliNDA0YjE0NzU5Zjc0MWUyZGI=",
+      "date": 1534723200000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzA3YTZkMTgwZDBkODQ0MGYxNGU1ZmExYjdkNTVjZWM=",
+      "date": 1534723200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzYwNzNlY2UxOGI3MjliZDk3MWQ3NGZkM2UyOWUxMjg=",
+      "date": 1558569600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODdhZWFhZjIzMTIzYTVhYzc3N2JkNTVlNzBiMTEyNTk=",
+      "date": 1563148800000,
+      "text": "01 Guia pagamento execu\u00e7\u00e3o. | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2U0MGMzNmNmZDc1ZTZlZWZiZTk4YjlmNDNmNDEwMzI=",
+      "date": 1556582400000,
+      "text": "TST - Certid\u00e3o de Divulga\u00e7\u00e3o/Publica\u00e7\u00e3o de Despacho | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjliZmZlNmFmMTliYjUwOTMxNzQxZjU5N2E2ODczNmI=",
+      "date": 1538092800000,
+      "text": "Agravo de instrumento | Agravo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2UzYjI2ODc2ZDI5MmNmMjg5MjdkMWU1M2Y2YWY5NDk=",
+      "date": 1517443200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 31/01/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzNjODg5ZDk4MmUzZTdkZjMwMWQwNDM2MzcxOTg3N2I=",
+      "date": 1487808000000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF",
+      "attachments": []
+    },
+    {
+      "id": "NTk1YzMyNzczMzU4ZTVlMDliOWY3MzQxMmE2YTI1Y2E=",
+      "date": 1560211200000,
+      "text": "Planilha de c\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmIyMTRlYWQzNWFkYTRmODJlY2MwNGZkNTI3NWVlMGI=",
+      "date": 1490832000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MGZhZDdjNjNmZTUzMzNmMTljODc0NGU1NjZjNDE0ODY=",
+      "date": 1487808000000,
+      "text": "06 DOCUMENTOS MEDICOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yjk0MGRhYzI1OTgzZTY4NmFkM2VlMTcyOWVkMTU2YjQ=",
+      "date": 1521072000000,
+      "text": "comprovante de deposito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzEwNzg5OWRiMDZjNTQxMzk4NWY5YTVmMWViNTM4MTQ=",
+      "date": 1517443200000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 31/01/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YjJlMDc3NjM2ODVlM2ZjMmViZGFmZWYzODE4OGMwMmE=",
+      "date": 1488672000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjZjOWMwNDVjYTliNDUxMTU2ODJmNWI2ZTUyMWQ1NzQ=",
+      "date": 1561593600000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MGNjYTU0OWQxYmM0ZDgyZTMzMWI1YWZlMTBlOTI2YjM=",
+      "date": 1504569600000,
+      "text": "7. Estatutos | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDY0NGNkMzcxMjg0OGQyZGYzNjkzYTE4MWI5MGU2ZmI=",
+      "date": 1510876800000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGJlY2Q1ZDAyN2VhNDgwNzQzM2YzMWZlOGI3ZTc4Zjc=",
+      "date": 1488844800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2ExNWE1ZTEzOTk0OTM3MGZjZTNkZjQ2NGE3ZjgwYzY=",
+      "date": 1513468800000,
+      "text": "Recebido(s) o(s) Recurso Adesivo de FABIO HENRIQUE CORDEIRO SOBRAL - CPF: 347.046.758-74 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "MmQyNTJiYjhiOWQ5ZWI0ZTJmY2NmNmVlZDAxYWYzZDc=",
+      "date": 1557705600000,
+      "text": "Certid\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmJjMzQ3NzQzYTM5NTFmYzYyNjRjNTdkMGM0OTQ5ZDk=",
+      "date": 1512345600000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a VIRGILIO DE PAULA BASSANELLI",
+      "attachments": []
+    },
+    {
+      "id": "NTFmZjI4OTU2Y2M4MTFjYzEyYmY2MDQ5YmQ1NTVhZWY=",
+      "date": 1513296000000,
+      "text": "Recurso Adesivo do Reclamante | Recurso Adesivo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhmMjM2NTAzYTRlMmJmYTVkZWYxZmUzNzczMjc1ZmE=",
+      "date": 1540944000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YWVmMmEyNzAyOWQ0MjUyOTlkMmUzNTQxYzc1ZWVjZTI=",
+      "date": 1491955200000,
+      "text": "Diego Ribas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2YxYjg4Njg1NzM5YTdlM2JiOWEzNGIwOWJhMTM1MDY=",
+      "date": 1489449600000,
+      "text": "representa\u00e7\u00e3o processual | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OThjNzg2Mzg1YjUyYjJmMzU5NTY1ZDkyZjdkNWQ2ODA=",
+      "date": 1557964800000,
+      "text": "Transitado em julgado em 21/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "MWFiNjhiYTk5ZjBjOTNhNmViZDVlNmY0YzU4ZjA4ODQ=",
+      "date": 1503878400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MmIyYzliOTYxYWEzZDRkZjRlOWEwYWU2NDg2YjhmMDg=",
+      "date": 1512086400000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmY0MWM4MzlkMDFkMWIwZGNiNGQwNzQxNTBlNTUwNWU=",
+      "date": 1558051200000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o designada (17/07/2019 10:01 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "N2Y2YWNhZWU4MjQ5NzRhYTVlNmEwNzIxNTIzNTUxMGQ=",
+      "date": 1563408000000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "NWM2OWFkODM5ZWYyZWQxODAyNjI1ODEzYzc0NWMyYzg=",
+      "date": 1558569600000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em execu\u00e7\u00e3o designada (17/07/2019 10:01 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "OTM1OGI2OWQzZmVhNTYyMjRlZWIwODA3MjE3NmUzZjk=",
+      "date": 1505692800000,
+      "text": "SUBSTABELECIMENTO aud(9) | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmRjNDYyMjUzOGFlNDE1OWI2MTFhMWU2NWI2ZjRlZWI=",
+      "date": 1562112000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZjE4Y2Q4N2YyMWM5Y2ZjZTliMGZlYThjNDQyN2ZmMGI=",
+      "date": 1559174400000,
+      "text": "Decorrido o prazo de FABIANA MORSELLI em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTQwOTIyNzc4OWExMGRkZmFjNjZmMmU0OTQ5ZDEzZWM=",
+      "date": 1487808000000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NGY1N2EyMTNiNGRjN2YyNmZjZWQwNzFlYTY2MTg3ZTA=",
+      "date": 1488844800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YmEzODJkMzZjMTExMmQ1NmVhMjgxYjU1ZjIwY2I2YmI=",
+      "date": 1504569600000,
+      "text": "8. Estatuto Social | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRhYWExM2ExNTg5ZmQ5MDZjMTI4ZGJlMDk3NzI2ODY=",
+      "date": 1490918400000,
+      "text": "Audi\u00eancia una designada (13/09/2017 14:40 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "MmY3MGNjN2QxYjEzOGZmYTYyMWFjNzE1MjgyOGNjM2Q=",
+      "date": 1525305600000,
+      "text": "portaria gp 105 feriados sede | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWVlNWFmM2JjYjA5Y2Q5MTVjY2FjNDdkODNkYmU3ZjE=",
+      "date": 1558396800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "MmJlZjdjZmZhMDE0NDViNDAxMTA1NmNjZWIxNTM0NGQ=",
+      "date": 1549238400000,
+      "text": "Capa de Processo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTU3YmJjY2RkMDQ3ZDlkM2U2ZDA1OTJjZTUyNTkyNzY=",
+      "date": 1548115200000,
+      "text": "TST - Termo de Autua\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODg3YmM3NTAyYWM2ZTI4Y2ZmNjZmMDhmMWE5NWY2MWE=",
+      "date": 1521072000000,
+      "text": "comprovante de deposito | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmY4ZTRlYzQ3ZTY3Zjg1NTcwY2M0Y2UwM2NhMGU1ZGM=",
+      "date": 1505174400000,
+      "text": "Audi\u00eancia una realizada (12/09/2017 14:40 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "MWU4ZThkZjc0YjdjYzkwZTAwMzZkMWViNjIzZTdkM2Y=",
+      "date": 1504569600000,
+      "text": "5. ACT-STEFSP - ASSINADO - 21 12 2016 - parte 1 | Acordo Coletivo de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjBjYzk4MjUwZWU5MWUxY2I5MmMwMGU4ZjE4NTc2ODc=",
+      "date": 1504051200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 30/08/2017",
+      "attachments": []
+    },
+    {
+      "id": "MGZlZDUyNzQzMDU3MTE2ZmExOWM1ZGQ5ZDNhYTYxYTc=",
+      "date": 1558742400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 27/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZjdjNWEyZTAwMWIzYjY2YTFlNzE0NjE5N2FlYmY4OGE=",
+      "date": 1513641600000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 18/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YmM4MzRjOWFiYzczNjI0OTFlYmM3YTcxN2M4ZmNjN2I=",
+      "date": 1556064000000,
+      "text": "TST - Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZTcyZWUzYmY3YzFiZTQ1ZWY4NjEzMGI1MjllNTdiMzU=",
+      "date": 1512086400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjFkNDlhODY5OGZhYzZlODZiNzE0ZTE0NmQwNDhmZDE=",
+      "date": 1503619200000,
+      "text": "Audi\u00eancia una designada (12/09/2017 14:40 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "ZTUzY2RhMmZhNzhlMWUwYWU3YWQ1Y2MzMGM0MGYzYWU=",
+      "date": 1513296000000,
+      "text": "Contrarraz\u00f5es do reclamante | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjU0M2VmZDg1NWI0MDE1NTZjMzc4Mzk2ZmNkNTU5NjA=",
+      "date": 1559174400000,
+      "text": "Decorrido o prazo de ANA PAULA FERNANDES LOPES em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Yzg2MGJlOGUyMWMzY2JkNDhjNDczYjQ2ZDIyNGM5NTA=",
+      "date": 1558396800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjY4Mjk1MjNiZjg2YjdjZTVhODExYmY0NjM0ZWQ5MTA=",
+      "date": 1558137600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmQ3ZWZiNGVkOTRkY2U2ZjFjNmQ5ZDdlY2EzMmViYTg=",
+      "date": 1487808000000,
+      "text": "02 DECLARA\u00c7\u00c3O DE HIPOSSUFICI\u00caNCIA | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGMxYjY1ZmUzYjBlMmJmZjY0MGQ4YTU4NGM5OWY3MjA=",
+      "date": 1504569600000,
+      "text": "00. DEFESA - Fabio Henrique Cordeiro Sobral - promessa de contrata\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg1MTVhMzg5OTIzYjYxZDU1ODU3NjllNTYzNWM0MTQ=",
+      "date": 1504051200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjNkODE3MmZlOGE0YzY4NTMyMTRjZTJlYTViYjk0YTg=",
+      "date": 1491955200000,
+      "text": "Juntada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmFjZGQyNjU0MDQxZWUzZjU5MTE1NGZhYmRkNWVkMzk=",
+      "date": 1557792000000,
+      "text": "TST - Termo de Remessa ao TRT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWU0YmUxMjZiMTMyMzRmYzUwZDc3MTM1ZGRlOTE1NDc=",
+      "date": 1519084800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 19/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YTFlZjMyYzY1YWEzYWQ0OWExODBlZDgwMDA3MGE0OTE=",
+      "date": 1513468800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2FiZTlmNjkxZTY1ZTI3Yjc4ZmJjMjhlYTQxZjExZmU=",
+      "date": 1504569600000,
+      "text": "Juntada contesta\u00e7\u00e3o e documentos | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmM3YmU0YWI1ODQ0MmU3YjIxN2RmNTlkOTViOGI4Y2Y=",
+      "date": 1510876800000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a FABIO HENRIQUE CORDEIRO SOBRAL",
+      "attachments": []
+    },
+    {
+      "id": "MjZmNzMxMWQxMWVjOGE5NzcyMzY3ZjgxMmFiYWUxNDc=",
+      "date": 1487808000000,
+      "text": "03 DOCUMENTOS PESSOAIS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGJiODVlYzhhOGIwYTFkNjlmZjM3N2NkODk3NjU4YzQ=",
+      "date": 1513468800000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjIzZGY3YTI3ZjYxYzM2NDU1NWVmNWQyNTgyYmFjZjg=",
+      "date": 1559174400000,
+      "text": "Decorrido o prazo de RAQUEL NASSIF MACHADO PANEQUE em 29/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzA5ZTRlYjk1ZDAxNGIzYmE2YTIxMzQ1MWM0OGI2MzU=",
+      "date": 1504224000000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 31/08/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTE1MzhjMDQ1ZGE5YzU3NTkxY2UxMDNjMzI2ZWJiMGQ=",
+      "date": 1540944000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjhkYjNjMDdmNjdhMmViZGI5NGY4MGM4OTFjZTMxMzk=",
+      "date": 1488844800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/03/2017",
+      "attachments": []
+    },
+    {
+      "id": "Mjc1ZTUyYWUwNDcwOGZmMjZiNGQ5MWY4NmRhNjA4ZTc=",
+      "date": 1522022400000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "MzI0NjJhZmZkZmY1ZGZkNWNhNWMxMTFlMzJkMDdiNGY=",
+      "date": 1557964800000,
+      "text": "Iniciada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTE0MjY3Nzg0ZTNhNzcwMTRiMDgyZGJkZWJhZTA1NDA=",
+      "date": 1559088000000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 28/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGUwZThkMmFmNjg5YzVjODE5YzJmMDY4NTE0M2FkOGE=",
+      "date": 1513641600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 18/12/2017 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YzE0MTU5ZDU5MDY2OGYyMzYzOTJjMDJmMDRlNjYwYzg=",
+      "date": 1563321600000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDZlOTg4N2RmNzIxNWI0MWJmNjA1ODYxYzY0NjhkZjM=",
+      "date": 1491955200000,
+      "text": "Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODRiN2M1NTE2NjMyN2NjYjNlY2IxZTdjZDUzOWVjMzU=",
+      "date": 1510876800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "ZTViYjM3NTRjZGJkMmVhNzI0NWQ0YzgwYjc4MzY1MDE=",
+      "date": 1488844800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "NzM1N2RmMGJmOWI0NGE5YzZlYWNkN2E5NDA3M2UyMjY=",
+      "date": 1513555200000,
+      "text": "Contrarraz\u00f5es ao recurso ordinario | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQxNGZjNDVmYjM4OTY5ZTAwMmQxNjYyODUyMTdhNTk=",
+      "date": 1487808000000,
+      "text": "PETI\u00c7\u00c3O INICIAL | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjU3NTFiZDMyNzk1MDI3MTY4OWVjNDVkNzc5YmY2MWQ=",
+      "date": 1512518400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWJiZTY0OThmZWJkNjJmMjlhZTgxM2M2YjA0Njc3NzA=",
+      "date": 1562198400000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 03/07/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGEwNjllZjhjMjdlOTY1ZmJmMmYxNTViMzBmNjY0YjY=",
+      "date": 1558569600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTI5ZTE3NWM1OGMxOTMwNzQ0MzBjYmQ5ZDQxNjBiY2Y=",
+      "date": 1510876800000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO SUMAR\u00cdSSIMO (1125) / ) de FABIO HENRIQUE CORDEIRO SOBRAL",
+      "attachments": []
+    },
+    {
+      "id": "ZjE3NTcxM2ZjYjliODAwNDEzZjU0YzA0MTM3ZTM3MTY=",
+      "date": 1503878400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWFmMDcwYzI5MWE3OTg1MjkzNmNlN2YzMTU5ZTBmNTU=",
+      "date": 1512518400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "NDcwZWJiZmY2YTY2ZmI3MmZkZDdkODJkNWRiOWU1OTI=",
+      "date": 1559347200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 31/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "M2VkYWQ4NTFkMjhjYzhhN2UzNTYzYzYyMWNiODgzZWQ=",
+      "date": 1516752000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 24/01/2018",
+      "attachments": []
+    },
+    {
+      "id": "NTM3NmMyNzk5OWFhMGM5OTAwOWQ1NmJkY2FkNjg4YmE=",
+      "date": 1563148800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (juntada do incluso comprovante de pagamento)",
+      "attachments": []
+    },
+    {
+      "id": "M2EyNzAyODcyZjViMGRmNzI0NTg0NDhiNmU1MzczOWM=",
+      "date": 1488412800000,
+      "text": "Audi\u00eancia concilia\u00e7\u00e3o em conhecimento designada (30/03/2017 15:11 - Vara do Trabalho de Jales)",
+      "attachments": []
+    },
+    {
+      "id": "YmE4YmJkMWVmYThkN2I2OGE3Yzk1MmVkM2ZkNjFmYjk=",
+      "date": 1562112000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YWU3NjMwNTYwNmRjMjc2YjQ1YjFmY2FkYmNhMmIwNmY=",
+      "date": 1519084800000,
+      "text": "Decorrido o prazo de FABIO HENRIQUE CORDEIRO SOBRAL em 19/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTQ2ZGU4YTgyOTQ2YjAyYmNmNDgwNDE0Nzk1NDJhNWI=",
+      "date": 1525305600000,
+      "text": "Recurso de Revista | Recurso de Revista (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2FkNmRkYjc0MWU0YzU5ZDdjNWU1ZjMyZmMxNGUxN2Q=",
+      "date": 1503878400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWFkMTU2YTk1MmY3ODIzYWQyYjdiYzM2MDIzNzYzZDE=",
+      "date": 1524096000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmU3YTk2Yjc1MzkzZWVkY2Y2YzU3ZGQ3MDcyN2YzOWY=",
+      "date": 1561593600000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a JOSE ANTONIO GOMES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "MzExYWVjYjBiMWI5ZDBjOTk4MTk5YjcyMThkMTg0NGM=",
+      "date": 1563148800000,
+      "text": "02 Comprovante de pagamento. | Recibo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTY1MTA2N2RjY2QzMmUwYzIxMjljYmJhODAxMjRiMDg=",
+      "date": 1561420800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "ZmUyOWE3NmNlMWJmM2FmMmE5NjAyOTU0Yzg0Y2JhMGQ=",
+      "date": 1561593600000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2IwMjU2NTFjZmMzNTAxOTU4NGQ3ZGUyZmM2MjczYWE=",
+      "date": 1558656000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZWVkY2Y0NzdiYjEyZjM5YzRjN2U1ZjE5NDM0Y2I1ZmY=",
+      "date": 1562198400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "MjkyNTA3NGIwNWQxM2U3MzE1NDY1YzczMGRkOGZhNTc=",
+      "date": 1562112000000,
+      "text": "Conclusos os autos para despacho a JOSE ANTONIO GOMES DE OLIVEIRA",
+      "attachments": []
+    },
+    {
+      "id": "M2ZlNDFhOTdlMWZjNjFkMzQxMjJlNmFlODkwODQ1MmU=",
+      "date": 1510876800000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 60.00",
+      "attachments": []
+    },
+    {
+      "id": "OGFjNGQ1NTJhYjAwM2ZjNjMyOTYwZTk5ZWY2MWNkOWI=",
+      "date": 1559088000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 28/05/2019 23:59:59",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

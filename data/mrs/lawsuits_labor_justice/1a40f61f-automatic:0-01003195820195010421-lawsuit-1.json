@@ -1,0 +1,675 @@
+{
+  "lawsuit": {
+    "id": "MWE0MGY2MWYtYXV0b21hdGljOjAtMDEwMDMxOTU4MjAxOTUwMTA0MjEtbGF3c3VpdA==",
+    "activityCount": 101,
+    "number": "0100319-58.2019.5.01.0421",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "MRS Logistica S/A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ailton dos Reis Pereira Soares",
+            "cpf": "084.194.057-60",
+            "lawyerId": "OGRiMjZhODUtYXV0b21hdGljOjAtMjMwYWYzYjYyMmE4N2YwLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Adriano Mario Ferreira Mariotini",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Fabio Karam Brandao",
+            "cpf": "499.837.337-49",
+            "lawyerId": "NGNiYjJhOWMtYXV0b21hdGljOjAtNDE1NDUyZmI2MjZlOTk4LWxhd3llcg=="
+          },
+          {
+            "name": "Leonardo da Silva Leal",
+            "cpf": "085.880.607-01",
+            "lawyerId": "NjM2ODhkYjctYXV0b21hdGljOjAtYjI0M2VkZDZlNWE5NWY0LWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1546351200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT01",
+    "courtSection": "Gabinete do Desembargador Marcelo Augusto Souto de Oliveira",
+    "nature": {
+      "raw": "Recurso Ordin\u00e1rio Trabalhista",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZWFiMzc2MWJhYjBkOWJiZGY1ZTE4Y2I0OGZlMTgwNGE=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTYzZWMzMDFkYjZhZTc2OGU2YTk5MTA4ZmNiOTQ1Nzc=",
+      "date": 1574640000000,
+      "text": "Decorrido o prazo de ADRIANO MARIO FERREIRA MARIOTINI em 25/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZDUxYTRkZTU1MjgzMmNiOWE4ODRiOWRlZjY5OTI3OTk=",
+      "date": 1576540800000,
+      "text": "Certid\u00e3o admissibilidade RO r\u00e9 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTdkNDQ0MDY0NjM0NDdjYWQwN2U3ZDVkZjE2ZDU0Yzk=",
+      "date": 1566518400000,
+      "text": "Remessa de of\u00edcio | Correspond\u00eancia Eletr\u00f4nica/E-mail (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODI2NjAxMDg4MzRlNjZiY2M2YWQ1ZmU1YWU4ZDNhMjI=",
+      "date": 1552262400000,
+      "text": "Audi\u00eancia una designada (13/05/2019 11:00 - 1\u00aa Vara do Trabalho de Barra do Pira\u00ed)",
+      "attachments": []
+    },
+    {
+      "id": "ZDRjYTYyY2JjNWU2MmQ5YjEzNTZmMTc4ZjMwOWZjZTY=",
+      "date": 1571788800000,
+      "text": "Acordo | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzU1NGJjMGFhYzQzMzI0MWMxNTZkMGU0MzJjOWNlZjA=",
+      "date": 1557446400000,
+      "text": "Extrato de FGTS | Extrato de FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQzODI1NWEwYzAwOGNjYWFkMGQ3M2U1NWIwMjhiNjQ=",
+      "date": 1567641600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTM5MWI1ODBiYzA2YzljZThkMGRmNjU3NzFkYWIzZGM=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmFjZjJiODZlNjliMjgwOGM2ZGUwOWQ1NDQwNWNjNTg=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjc5ZTc4YTIxOGNlYzYzNmEwYzI0ZmE5MDM5N2YwYTE=",
+      "date": 1571788800000,
+      "text": "Senten\u00e7a parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWNmZGIwNWIzYzk0MDBlOWE4Y2FmMDU4ZTk3ODUzNjU=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQwYzI1YTdlNGRhMjllMzI2NWNjZTJhZGU1NGViMDU=",
+      "date": 1578528000000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a MATEUS CARLESSO DIOGO",
+      "attachments": []
+    },
+    {
+      "id": "YWM2NjE5NDNhZjFjMGUxMTFjOTNmMGNkZmYzNWNkOGQ=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDZlY2FiNTMxNDFjYjhhZjM2YmFlNTk4YTgzOTJkOGU=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 4 - parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTZlZmVjMWMwN2I5M2FiNjA2MGRhMGY5ZGJkNGMwMDQ=",
+      "date": 1574035200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "YjExZWJjMTI4ZTA0MDM3ZTc2MDZkYWFjOTE2MGE4YTE=",
+      "date": 1567382400000,
+      "text": "Conclusos os autos para despacho a RACHEL FERREIRA CAZOTTI GONCALVES FERNANDES",
+      "attachments": []
+    },
+    {
+      "id": "MWE1YzQ2ZGY4YWQxZjlhMTE4NTM5MWI5ZjAyZjY4NmQ=",
+      "date": 1552262400000,
+      "text": "acordo dedu\u00e7\u00e3o e devolu\u00e7\u00e3o multa de 40% FGTS | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA3MjM4ZGJmODU4MjU1NDFiZTdlOTQyN2YxM2VhNjg=",
+      "date": 1567728000000,
+      "text": "Remessa de of\u00edcio | Correspond\u00eancia Eletr\u00f4nica/E-mail (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWZjMGFlZjZkMDc1ZDU4NTZkN2ZjY2QxMmU0ZTY3MGM=",
+      "date": 1557446400000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio | Contracheque/Recibo de Sal\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTU0Njk4NWE2MmU0MWI1YzMzOWM1ODI0MWRmZjZiYjQ=",
+      "date": 1553644800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYxZjNlODc0ZGEyY2I2YjdhOWNiMTkyYTYyYjExNDE=",
+      "date": 1571788800000,
+      "text": "Senten\u00e7a parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzE5ZmM4ZGI2OTAzOTU0MmViYTI3YzNlNDRjZTVlNmE=",
+      "date": 1565481600000,
+      "text": "Convertido o julgamento em dilig\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NTBhMDAwZTQwNDFkZWRlOTc3ZmNlMjU1ZGRjNDRiMTU=",
+      "date": 1573257600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OWNkMWVmMzY5MTE5OTllN2NmY2VlZTFhMzFlM2RjODk=",
+      "date": 1571788800000,
+      "text": "C\u00f3pias do processo 0025000-19.2008.5.01.0341 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWFiMzc3NzMwNGYxZTI0ZDM0YmU2NmRhMzBhN2NkYzY=",
+      "date": 1557360000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (habilita\u00e7\u00e3o MRS)",
+      "attachments": []
+    },
+    {
+      "id": "ZjkwM2RjMTc5MzdiMDFkZDk1ZWI0ZGUwM2IwODFhYjQ=",
+      "date": 1552262400000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTVmYmI4YWQ2ZTQ5ODg0OTg3NjNkZjkzZmUxZWU5MDI=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjM1ZDE5YjZkZTZiMjhkMjRkMTRlYWM1MGY2Njk0ODI=",
+      "date": 1552262400000,
+      "text": "comprovante de residencia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDYzZjcyOGRiNmU1YzgwOGU0YmY1Zjc3OTk4NGNkNjA=",
+      "date": 1574035200000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTYwZGZhNDU2N2E2ZDY0OWI1MDllYTNiY2RkMTlkYTA=",
+      "date": 1567641600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YzdkMWVlNGM0ZTk2ZjUyODJlNTFkOTk1NWExYTg4NzQ=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmI5ZTY2NmQ0YWVjMWU4NmExMTBlOWE3NTBhYmM4OTM=",
+      "date": 1552262400000,
+      "text": "Cadastro de Pessoas F\u00edsicas (CPF) | Cadastro de Pessoas F\u00edsicas (CPF) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDA4MDBiZDdmOTk0YzljZDM5MzM3ZWYwNzg3ODVlYzQ=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 4 - parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGZmZjllMDFlMjdmMGFlMzA1MDc5N2M3MjMzYjM5YTc=",
+      "date": 1557446400000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2JkMjk1MmNkN2Q4Nzk3OGY1MWI0MTk4ZWRjMDE4MmM=",
+      "date": 1557360000000,
+      "text": "ATOS CONSTITUTIVOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2ZiMTBmMDE3ZjA0OGQ4ZDdiM2JhM2UxNDA1ZTRiNTg=",
+      "date": 1571788800000,
+      "text": "ED decisao reu | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2ZjOGE4MDNhMmRmN2VmM2UyNGRhZDRmZDJmYjU2NDM=",
+      "date": 1566259200000,
+      "text": "Of\u00edcio | Of\u00edcio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmMwOWEwOGFlNjhlYjg5ZTk2ZWRmMTMzOTc3NWQxY2U=",
+      "date": 1552262400000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzQyNjliMmYwOTVjODYxODNiZGMzNTNjOTg2Zjg0YjE=",
+      "date": 1552262400000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTU1NTNkMGQ0NmVkZDM0ZjY1MzJhMzdlMDI2YjJlOTA=",
+      "date": 1557360000000,
+      "text": "habilita\u00e7\u00e3o MRS | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjlhMWJjMTA3OGQ3Zjk2NTUxMzVjODFhOTU5MWU4YmQ=",
+      "date": 1579564800000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MRS LOGISTICA S/A - CNPJ: 01.417.222/0001-77 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YjFiOWY3ZGQ2ZDFhMzhlN2Y1N2I3NGU3ZWE3NmM4MTQ=",
+      "date": 1557446400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ2YmQ1MmVjZjE0MTQwNzdlMjQxNGRkYzg0YmJmOGE=",
+      "date": 1571788800000,
+      "text": "Contesta\u00e7\u00e3o parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGQyMDVhNDg3YzJiYjI3MjQ0ZDU0NDAwMzYwMTFkOWQ=",
+      "date": 1578528000000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZiM2FmYTI5ZTE3OGRjOGRhZTEzYmVjNTQ2YzdlYjk=",
+      "date": 1565481600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "Nzg5Y2NkOGIwNTI2YmMyNjBlODAxYzgxZDg3YTEyYjg=",
+      "date": 1557446400000,
+      "text": "calculo e acordo judicial | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2ZhYTBkOGEzMjExZGNhOTZkYjZiZjMyNTVkM2ZkNGY=",
+      "date": 1571788800000,
+      "text": "Contesta\u00e7\u00e3o parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmRiMTZhM2RmNTJjMGUzMTQ2NmVhZTkzYWY0Nzg4N2M=",
+      "date": 1557360000000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmVkZWUxZmU3YjdlZjcxMjQxYjc5MDZlNTFlMmFiYmM=",
+      "date": 1553644800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "YTg1NjBhMmFkZTgzN2Y3MDM5ODFmYWU0ODg3MTZjM2E=",
+      "date": 1567641600000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzgyNzUyNGNmYzQwZTlmYmZjMGFlNjAyMTEwOGNmMWI=",
+      "date": 1566259200000,
+      "text": "Expedido(a) of\u00edcio a(o) destinat\u00e1rio/null",
+      "attachments": []
+    },
+    {
+      "id": "Y2VhZGZiYjFlOGY0MmI0ZjllNGMxZjVjMmUzYWI4NmI=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRkNTQzYjNiYzhmNjQ4MDFhNDk1NTM4ZTM1ZmQzZjA=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTlmYWRjYzg5YTJhZTczYmM2NzQ2YjA3MmY5YjNjZDA=",
+      "date": 1571788800000,
+      "text": "ED decisao autor | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTM3MDA3NzY4Y2E3NmVjYjUyY2VhZjBhNTk0Zjc4YTM=",
+      "date": 1557705600000,
+      "text": "Audi\u00eancia una realizada (13/05/2019 11:00 - 1\u00aa Vara do Trabalho de Barra do Pira\u00ed)",
+      "attachments": []
+    },
+    {
+      "id": "YmQ0YTE3YjYwYWQzMzExZDg3MDEyM2IyNjE1MzY3ZmQ=",
+      "date": 1571788800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a GISLEINE MARIA PINTO",
+      "attachments": []
+    },
+    {
+      "id": "NWVkZGZmMWY2NGIyZmNmYTM3MmJkMGI2NzA2ZmM0YTc=",
+      "date": 1557878400000,
+      "text": "Certid\u00e3o retificadora da ata de audi\u00eancia | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQyYjdmMWJkMGI1MzY0MTNkZTkzMTk2ODFjNGM0YmQ=",
+      "date": 1552262400000,
+      "text": "planilha demonstrativa de calculos multa FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTExNmI3YjI3MzY3MjliZmNhMWJiZGQxZWNkOWZjZmE=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTkxOTQ4MWI3MTViZWY4NGZiYzc2ZTdhMzNlYTRiYjg=",
+      "date": 1557705600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "Y2E5MWQ5ZjczZjhkY2YwODFlNDA5MGRmMDY2MDk5NTA=",
+      "date": 1567641600000,
+      "text": "Conclusos os autos para despacho a GISLEINE MARIA PINTO",
+      "attachments": []
+    },
+    {
+      "id": "ODc1OWY0YTEyMzM1MTg4Y2Y5M2IzMmFjODRiOTdiMzE=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 4 - parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTBmOTgyMTBkNTljNjZkNjI5ZDE2M2Q3ZWNhNmNjNGQ=",
+      "date": 1557446400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contesta\u00e7\u00e3o (Contesta\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YThlMDE5N2U5ZWFjNjY4YjA3MTc5ZGVkNDczMzFhNGM=",
+      "date": 1552262400000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc2YmJmMjYxMzNlZTIwMGNlNDc2ODNhNWVmYTU1NzQ=",
+      "date": 1572998400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MTllMmNmMmY5MWZlMzMyY2I2MTlkZTRkNDYxMWM2YjM=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 4 - parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjQ3ZmMxMjhhMzBkNTQ2MGRlNzZhMzZiODViZjQyMTY=",
+      "date": 1579651200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 23/01/2020",
+      "attachments": []
+    },
+    {
+      "id": "MmJmMzNiMDkxOTAwMWEzNTAwZTUzNDlkNGQ4ODU4MTg=",
+      "date": 1557446400000,
+      "text": "pagamento rescis\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTcwM2I5ZjA4MzE5NGUzZjhjNTQxOWY2ODAzMDViM2Y=",
+      "date": 1557878400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a GISLEINE MARIA PINTO",
+      "attachments": []
+    },
+    {
+      "id": "MWIyYTE5YTAxNmVlMTQ2NzhiMTEzZWQ3M2UxODJmYzk=",
+      "date": 1574035200000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a LEANDRO NASCIMENTO SOARES",
+      "attachments": []
+    },
+    {
+      "id": "NjgzZWZmODg0MTQwZDcxYzJhYTc1MDNiYmI5ZjkzZDg=",
+      "date": 1572998400000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1000.00",
+      "attachments": []
+    },
+    {
+      "id": "YjY3YjJjNzU2ZGQ3MjgyNDU3NTdmY2MwMGMwNTQzNjQ=",
+      "date": 1572998400000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ADRIANO MARIO FERREIRA MARIOTINI",
+      "attachments": []
+    },
+    {
+      "id": "ZjY0YWJmMGUyMmQyNWFlNDNhZGJmNDU3M2IzMDNmMzQ=",
+      "date": 1571788800000,
+      "text": "Contesta\u00e7\u00e3o parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTFmYTE3MjIwN2I1Y2NhMjFiYTI3ODNkODQxYzQ2ZmE=",
+      "date": 1567382400000,
+      "text": "Resposta a of\u00edcio | Correspond\u00eancia Eletr\u00f4nica/E-mail (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjU4NmIxNjgzZGQ0NDM2NDJhOTA3NDIxZTYwNTgyMWM=",
+      "date": 1578528000000,
+      "text": "Encerrada a conclus\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NWU3Mzc1MTZkYjMyOWJiZjY4ZjA0NzA1YjNjMmZhZWE=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWUzODYxYjBmNjExMDRjMzM4NTI3ZDQwY2QwMTIzYWE=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGFlYmYyMzExNDljYWE2MmM0M2RhNzJiNjMyOGM0Y2M=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 4 - parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTY0MGMyZGM0MTU1NjliODMxZGJmZDNmZDU2MTRlMjE=",
+      "date": 1571788800000,
+      "text": "Ac\u00f3rd\u00e3o 1 - parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWM2YzQzZmZlODRlMGNhZWFiMjAyNGE5MjFmMWI1YTc=",
+      "date": 1578528000000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MRS LOGISTICA S/A - CNPJ: 01.417.222/0001-77 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YzdkZjQ2Mzk2ODc2YjI4NTY1Zjc5ODg5MTI0NzU0NDA=",
+      "date": 1572998400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGNjMTNhZWEwOTNmZTUyMzJkNDljMzY3NTY0YzU0MDk=",
+      "date": 1574035200000,
+      "text": "Comprovante de Dep\u00f3sito Recursal e custas | Comprovante de Dep\u00f3sito Recursal (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTg3NGM1NTgzMTI4Y2ViYWQ5YzE2NWFiNzI3YTVlNzc=",
+      "date": 1571788800000,
+      "text": "Senten\u00e7a parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmZlZTI2NTlhYmNlNWEzNzI4ZjE1OTkzNzc5ZTZlMmI=",
+      "date": 1572998400000,
+      "text": "Julgado(s) procedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985)/ ) de ADRIANO MARIO FERREIRA MARIOTINI",
+      "attachments": []
+    },
+    {
+      "id": "ZjdiYjdhYTJjNGUzZWI3MTQ2MTdlNjllMjQ0MjQ4YTA=",
+      "date": 1579651200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGUwNDlkMjY2NDBiYWMyMDA4MTU4MWVkM2Q3NzJlMDk=",
+      "date": 1552262400000,
+      "text": "Extrato analitico de FGTS | Extrato de FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU5NDgzNjJmMDFjOWIxMDBlODE2NDBjNTExMjRiNTQ=",
+      "date": 1552262400000,
+      "text": "confirma\u00e7\u00e3o de depositos de FGTS mensal | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjMxN2NlZDJjYzJhZDYwZTNkYzQ5ZmFiZjU3ZDc1YmE=",
+      "date": 1552262400000,
+      "text": "email CEF sobre a situa\u00e7\u00e3o | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDcxYTYyZDk3MmE2Y2IzMzNhYzQzMzE3NWIyYzNiZTQ=",
+      "date": 1571788800000,
+      "text": "Senten\u00e7a parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDYyYTliNzU5MzVjNmZkNTVlYjQ2MTZhOGU3ODdmMGM=",
+      "date": 1552262400000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "Njk1NTI5YWNkZTk0NGY0Yzk2NTMwNTE5NzA4MGMyY2I=",
+      "date": 1557446400000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGYyNjYzOTcxNzQyMjkxZTY4ZmY4OWU2NjBkMzFlNGU=",
+      "date": 1552262400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjY3Nzg1NDlmNjM2Y2M1M2U1NzJlY2FhNmZkZjVhMmM=",
+      "date": 1573257600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "MmM3MzE4YmU1MTIxMmRkMTFlMjFlZDU3Yzg5NTNmNTc=",
+      "date": 1578528000000,
+      "text": "Minuta de decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTNhOWVjZjkwZDFmMWNiYWFiMjVhYzM3MGUyZTkxZDc=",
+      "date": 1552262400000,
+      "text": "rescisao a menor pela Reclamada | Prova Emprestada (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWMxMmZjMThjMTUyYWU3ZTNjMTk2Y2FiZDUzNGFmODQ=",
+      "date": 1571788800000,
+      "text": "Peti\u00e7\u00e3o inicial parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODA3ZDg3M2M1OTU2NmExODhiOTY5MjVlNGJmMzA2Yzk=",
+      "date": 1571788800000,
+      "text": "Senten\u00e7a parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODIzNTdlOTI3OTgyZTAxYjhmZDE3MzQyOWMxNzA2OWY=",
+      "date": 1565481600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NTU1MDU5ZmI0YmE2NDEzMjhmYzc4YzkzOTExMWIzMDU=",
+      "date": 1574640000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 25/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "OTJmM2ZiZjk5M2JmMzE4NzIzMzI0ZjhlYzRiMTg2OTI=",
+      "date": 1565481600000,
+      "text": "Conclusos os autos para despacho a GISLEINE MARIA PINTO",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

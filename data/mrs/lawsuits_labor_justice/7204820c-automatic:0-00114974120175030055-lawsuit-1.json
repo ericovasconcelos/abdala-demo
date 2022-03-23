@@ -1,0 +1,1032 @@
+{
+  "lawsuit": {
+    "id": "NzIwNDgyMGMtYXV0b21hdGljOjAtMDAxMTQ5NzQxMjAxNzUwMzAwNTUtbGF3c3VpdA==",
+    "activityCount": 158,
+    "number": "0011497-41.2017.5.03.0055",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Antonio Carlos de Rezende",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Joaquim Carlos Campos",
+            "cpf": "566.507.796-87",
+            "lawyerId": "ZTk2N2UwODYtYXV0b21hdGljOjAtOTAyN2ZkM2RiNWI0MDgxLWxhd3llcg=="
+          },
+          {
+            "name": "Sandro Guimaraes SA",
+            "cpf": "941.011.166-87",
+            "lawyerId": "YzQ4NjE5M2EtYXV0b21hdGljOjAtZmEwODcxODRlOGMwMWNlLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Frederico Correa Gonzaga",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "PERITO",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          },
+          {
+            "name": "Loyanna de Andrade Miranda",
+            "cpf": "060.039.506-50",
+            "lawyerId": "MTk2NGM2ZTQtYXV0b21hdGljOjAtYzJkMzU1M2Y0MmQ3OWZiLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Vara do Trabalho de Conselheiro Lafaiete",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MjY1YmY4NzExYmVkZmEzMzM0NzAxNzg4ZWNmNWRmY2U=",
+      "date": 1510790400000,
+      "text": "02 Substabelecimento | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODEyZDgxMjFjMGJhZTkwZmZhNTUwYzE3OTE4MWZjZTQ=",
+      "date": 1511222400000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDUwZjdlNzNkM2NiOGNlNTQ5NGYwODI3ZTFjMGIwMTQ=",
+      "date": 1511222400000,
+      "text": "Demonstrativo PLR | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjUzNDUyYzRhNjUzMmNiNzZlMDBmZTcyOWFkNTcyMjU=",
+      "date": 1508716800000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY2MjIxZDJiZTBhNmY3OWNlZmE0YmM5MjJjZDE2OWQ=",
+      "date": 1508457600000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YTQ1OGYzMjI4N2UwYWRkYjIyZDgxMmRjNDBhMTlkNTE=",
+      "date": 1516233600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MzJlMzFmYWMxODFjYTQ0NGZmNjUwNGNkOWY5Yjg0MDE=",
+      "date": 1511222400000,
+      "text": "Acordo Coletivo de Trabalho (ACT) | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzdkNGU0NDgyZTJlYTE4MDg3ZjQ4MDEyYWUxMDIyZjU=",
+      "date": 1543881600000,
+      "text": "procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGI0ZTQzYmIxYTlkMjU3ODE0YmY4ZjFmZTIwZDllZDM=",
+      "date": 1559260800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 30/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NmQ2ZTQyYTQyZjJjZmY5MzA1OGIzNTRjMWNhYTY1NjU=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2012 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQ0NTU2ZTFhYjFmMWQ4Yjg3YTI1MWM3ZWY0ZjNlYTU=",
+      "date": 1525219200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OTVhYzY1OTc2ODcyYWUzNWYwNjE1MjY5N2JhMjgwMjM=",
+      "date": 1540771200000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTBkMTJiMGJmYmQ0MDM0NWU5ZDk3YTRmOTA0N2JlZGY=",
+      "date": 1540252800000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDNhYzA3YTE5MDBhZTQ1ZWNlZTNjYTFiMWM4MjM5OTU=",
+      "date": 1540771200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YjkzMWE4YmNjNDg3N2I0NDYzY2IzYTQ5ZGYxZjBkNzM=",
+      "date": 1521849600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 26/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NzQzMjNjMjJjMGIxNGZiYmRkYzlmYTk3OWQ5YzViNDA=",
+      "date": 1541980800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NDhlNzQ4NTQ4NjI3ZjNkZGYxMWI3NTRiNTZjZTRjMTY=",
+      "date": 1516233600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MWIwOTA0MmY3MDE4NjJlMTc0NGUxNjUzMGE3MjhiYjg=",
+      "date": 1510790400000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWQzOTYzZDM3ODE4MDhiMGJlZTlmMDdiMTZkY2ZhNTQ=",
+      "date": 1558310400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MzU5ZWQxYTc0MzgyYjgxMjY4Y2Q0N2RiMDZlZDYzNTU=",
+      "date": 1559692800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 05/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "NTg5MDg4OWUxY2M4YzBlMTVmZjlmN2Q2MjE3Y2I0ZWM=",
+      "date": 1542844800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 21/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDhhNTMxMGVkMTQwMGY5NmQ2MDY5MjI3OWZhNDYzNTg=",
+      "date": 1525305600000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 02/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NDE2ZDc1MTFjNmZjMThiNjU1ZmVmOWI3NzJkZmVmYWE=",
+      "date": 1511222400000,
+      "text": "Juntada de substabelecimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmYxMzE3ZDZlNTdkMDY5YWJiNTFiM2YyNjhlYWRkZWY=",
+      "date": 1519862400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODY1MjdjNGE3MzE2ODdlYzZiNTAwMWQ2NGYyMzA4ZTc=",
+      "date": 1555372800000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzYzZjAyMzRiZDljOTMwOGQ5Zjc4N2MwZDdhZTllYTk=",
+      "date": 1520467200000,
+      "text": "Manifesta\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmZjZjRiMDM5NjgwZDFiNWY5NjY3MzlmZmQyZTQwYmE=",
+      "date": 1521504000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjE3MmEwMzEyN2ZkMzA3MmI2NzFiM2I2OWFhMTc5Mzk=",
+      "date": 1539648000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (16/10/2018 11:30 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "NDJiNDEyY2JiMWJiMDE1MjI1MDJlMzYzODAzMDEwNmI=",
+      "date": 1561075200000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a MARCIO ROBERTO TOSTES FRANCO",
+      "attachments": []
+    },
+    {
+      "id": "ZWE3ODJjZTUyMWQ5NTExZGE4ZDhiNmM5NWJhNTM2M2E=",
+      "date": 1515715200000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial Oficial | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTgyMDM2MzFiNDUyMzE5OGU2NzQzYTMxNzM3MzMzMWE=",
+      "date": 1523923200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MGRmZmFmZjVmODk1NjJhNjg2YjljMGIyNjAwOWI0ZTI=",
+      "date": 1520208000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTY2MTliNGM1ODQ0YTYwMjllMmI5NjI0OTIyOWY1NWU=",
+      "date": 1542067200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 12/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzQwNDZiNDFjYThlYzhkNWY2Yjk2N2JhNzA5NDA4MDc=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2014 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTk2YjJjNDFmYzI1NmI3NDM0ODczMGUyMjJiYmUwZWE=",
+      "date": 1525219200000,
+      "text": "MANIFESTA\u00c7\u00c3O ESCLARECIMENTOS PERICIAIS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTg0MjNiZTlmNTA1NWJhYmZlMGIxZGJjOGQ0OGE2N2U=",
+      "date": 1521763200000,
+      "text": "Intima\u00e7\u00e3o do perito por email | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDljYWFkMDNkZjM3OTIxNTUxZTBkOWE1ZjA3MzE1NzY=",
+      "date": 1511222400000,
+      "text": "Ficha de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUxNzBlZmExOWJjMjkyZDRmYTg2NTliNzIxZDIwY2E=",
+      "date": 1541980800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI0M2VhYTQ0YjhlNGM1OGI2OGU2NzZiMTlmZDA3YmQ=",
+      "date": 1511222400000,
+      "text": "PPP | Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTkzOGNmMmYwNGM3MDJkZDY2MzdjMjc2MmM4YjI3MGQ=",
+      "date": 1512345600000,
+      "text": "Impugnar documentos | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWVkODRhNmU0YjAzYWE2N2U4NmQ5OTc5ZDZjMWIyZGI=",
+      "date": 1557964800000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ANTONIO CARLOS DE REZENDE",
+      "attachments": []
+    },
+    {
+      "id": "ZjNmMDU0Y2E0YWJkM2IwNzgyZTU1NDEzNDVkZGU1Y2Q=",
+      "date": 1517961600000,
+      "text": "Conclusos os autos para despacho a EDNALDO DA SILVA LIMA",
+      "attachments": []
+    },
+    {
+      "id": "ZTIwMDc0ZDIwN2E0ZmZmOWFkOWNlOWJkNzZkYjUwNDM=",
+      "date": 1543881600000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjJmNDJhMTAwOWJmYTExZjU1NmEwMTUzZTY1MjZjZTY=",
+      "date": 1523836800000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2IzOTEwOTllNGVlMjE3MDAyZDg4M2Y5OGFhYmRlNWM=",
+      "date": 1541980800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NzA1MTJiOGQ2OWM4OGE1MjE1NWYzNDA3MzVkYWY2ZWQ=",
+      "date": 1541980800000,
+      "text": "Conclusos os autos para despacho a MARCIO ROBERTO TOSTES FRANCO",
+      "attachments": []
+    },
+    {
+      "id": "YTcwZDY1OGY0MGU0N2NlMzUwNGU1NzcxMTEyMjI5YmQ=",
+      "date": 1559174400000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdlOGI0NThiZGQyNmMyODliYmRlMjQzNjU4MzRlY2E=",
+      "date": 1520294400000,
+      "text": "Conclusos os autos para despacho a EDNALDO DA SILVA LIMA",
+      "attachments": []
+    },
+    {
+      "id": "YTIyYmY2MDkzMTNjM2ZiY2I4NGY0ZjQ4N2I0YmM1M2Y=",
+      "date": 1511308800000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YTk1ODE4MTkyNGRhYmNlOGQ5NjBlOThiMmQwMGNlYTg=",
+      "date": 1541635200000,
+      "text": "MANIFESTAR SOBRE ESCLARECIMENTOS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTRmZjQwZTViZjFhYWFhNzQ1OTg5MTExMzVjY2FkN2U=",
+      "date": 1561075200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NjJkOGFkMWYyN2Y4YzI1NTVhODM2ZjQ3MmVkZTkwZDQ=",
+      "date": 1517961600000,
+      "text": "Manifesta\u00e7\u00e3o Laudo Pericial | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTY4NjUzNzA2NjAwZTk4OTA3ZjI3OGMzNTE2ZmMyYTg=",
+      "date": 1543881600000,
+      "text": "substabelecimento sem reserva de poderes | Substabelecimento sem Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2M0NDMxYmUwOTYzNDhhYzIxYzM0ZGIzYzRmMmUxNWI=",
+      "date": 1519689600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTc3ZTVlYmMzNTBhMGJkYWVlMGZkN2U5NTBkNzk5NmQ=",
+      "date": 1542844800000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 21/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGMzNWE3ZWFlOTgwNDhlMzBkOTNmMDI1MjFkOTg1MzE=",
+      "date": 1510790400000,
+      "text": "01 Procura\u00e7\u00e3o, ata e estatuto | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmIxNDY1M2JhOGY3YmNhMmU0YWI3NDI0NWEzMWRhNjE=",
+      "date": 1517788800000,
+      "text": "PEDIDO ESCLARECIMENTO PERICIAL | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDgzNzA4ZDM5YzI5NzlmMGIyMGY1NGMwZjA1MmVjYzY=",
+      "date": 1541030400000,
+      "text": "Publicado(a) o(a) Despacho em 05/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "YTYyMjI5MDdiMGNiNTkyNTMxN2VhYzY2ZjRiOWY3MmQ=",
+      "date": 1511222400000,
+      "text": "Contrato de Trabalho | Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBjMThmOTk2ZDNhMDQ3YWU5Y2ExZDAxOGM0ZmI3NjY=",
+      "date": 1544400000000,
+      "text": "Manifesta\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQ3NDA0NGVkZmNlMDIxOTUzZWI4MzEzNWU5OGIxZGY=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2015 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTU4ZmViMjk0YWMxMzA3ZThhNTU2MDA4YzE5YWY5MmY=",
+      "date": 1521072000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "MmI3MTcyNDM1NDBhNjkxNDc2ZThiMmJhNTgyZTU1ZTE=",
+      "date": 1559606400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzBiNDE0MTc0ZGVmYTBhY2M4NDYxOWU3Y2Q2MmJjYzY=",
+      "date": 1554854400000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ4NjdhYzkyZmI5YWIyNTU3NTlmNjhkYzExYTRkODE=",
+      "date": 1520467200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDNhNWMzOWEwNjc4YWU1OTJiZmE3MGUwMDI2NmQyMTI=",
+      "date": 1544400000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "OWQ2ZWFjMWYwNjMwNzkwNmQ4MTkwYjBlZTUyZGRiNzM=",
+      "date": 1539648000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (10/04/2019 09:45 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "YTc5OTMxOTVkY2NmMmYxNjQwOWMwOTRhZDhlMzhmOGI=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2011 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTNmMmMxNTI5MTI1ZGFlYzc3MTE3OTkyZmRmZjhhYTE=",
+      "date": 1521763200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNjNjgwYzBmMWFlNWQ5ZDliNzYxNTEwNzk2ZDA0MGY=",
+      "date": 1523836800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZDc1OTBlYThmOGJiYzJjYWU1ZGQwZGRkMzgwNzQ4NzQ=",
+      "date": 1518048000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDVkODc3YThjZDU2OGFiMWQ1ZDgxYjE1ODg1OWEzYTU=",
+      "date": 1516233600000,
+      "text": "Conclusos os autos para despacho a LILIAN PIOVESAN PONSSONI",
+      "attachments": []
+    },
+    {
+      "id": "NTViNzE4ZjI0NDA5ZWUyMmFlM2Y4MWYxNzI1YzRlMmE=",
+      "date": 1508457600000,
+      "text": "004- PERFIL PROFISSIOGR\u00c1FICO PROFISSIONAL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGZhZTQyNzc5OTc2MWZkY2VhZGE1MjVlZWUwOTY3MmE=",
+      "date": 1520553600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZjMyOWU2YjVhNmViNmEwMmU3NzBhYWM3YTU4YWM1ODI=",
+      "date": 1542067200000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 12/11/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZmUwNzVhNWJlMGU0Y2UwMjEyODNlMDU4NTAwY2IwZmI=",
+      "date": 1541030400000,
+      "text": "Disponibilizado (a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Yjg1Zjk1Nzk1ZTc3YTI1NjkxMjYxOTkwNTY1MzkxOWE=",
+      "date": 1518048000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MWNjYTMwMjg5Y2FjY2IxNTQxODZmYmI4ZTI5Nzc3ODY=",
+      "date": 1540857600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjk5YmVlYzUzNWI0NmNkMWQ0M2ZjMTFkNDgyNzdmOGQ=",
+      "date": 1520208000000,
+      "text": "Pedido de nova per\u00edcia | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2U3MDQ0NzQ1Njk1NDU4MmNkNzM0YTdhNDc4YzE0MTg=",
+      "date": 1559692800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZGI2YWM4MDk3Y2VkYjI1ZGVkYzE2MDAzNmUxYjNkYWU=",
+      "date": 1542067200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 13/11/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZTFlMTIwY2E1YzE5M2U2MjQxN2EwNmNhOWM4ZWI2MzA=",
+      "date": 1518652800000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzM0YzlhZTczYzBjMjIxMzI5MWM3NDk4ZjdlNjg1ZGM=",
+      "date": 1523836800000,
+      "text": "Conclusos os autos para despacho a EDNALDO DA SILVA LIMA",
+      "attachments": []
+    },
+    {
+      "id": "MzE5Y2NiMTUwY2I3NWEwMjRmMGM0YTEyYjM3NjY1ODU=",
+      "date": 1540252800000,
+      "text": "Requerimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmM5OTc1ZmEyMjBiOTI5MjhhZDVhNDA1NjIwNGZhMGY=",
+      "date": 1523491200000,
+      "text": "Apresenta\u00e7\u00e3o de Laudo Pericial Complementar | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTEyNzBmNmZkZDNiNDYyMDQ4MzFjMjIwN2M2NGY0NGM=",
+      "date": 1540252800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjI0YWMzZjI2Nzc3Y2VmOGVmNDVhYTIwMjkyOTJlYWU=",
+      "date": 1520553600000,
+      "text": "Intima\u00e7\u00e3o do perito por email | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWE2NzNiOThjMGRiMDgwNjk3NmVjMTdlODQ2OTlkYjE=",
+      "date": 1511222400000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2FlMjI0NWUwZDdkYWY2OTU4MDQyZjk5NDIzMmI2OWM=",
+      "date": 1525219200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Zjg1OTIyYmE2M2RiMTRiZjhkNWEwYzczNzNmNGIwMGY=",
+      "date": 1559174400000,
+      "text": "Comprovante pgto dep\u00f3sito recursal e custas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzEzZWJjZjFlNzljMzM1NGNmN2I2YWM2ZjBkNmZjYjU=",
+      "date": 1540252800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "MTNiOTI3MGNkMDFiNWMzZTY3ZWU5ZmEzODc1YzM0ZjQ=",
+      "date": 1525305600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 02/05/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTM3YzU2N2JkZGVlYmQ2MzM1ODlhM2JlNzVkNjk4Zjc=",
+      "date": 1520294400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MDVlNDI2Mjg3Y2YzYzE2ODU4MzdmN2IyNDQzMmIxNjA=",
+      "date": 1521072000000,
+      "text": "Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial | Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmY1OGQ2NDAxYjhhM2M0MTZkZGY5NWRmM2NmMDdhYTM=",
+      "date": 1555372800000,
+      "text": "Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes | Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2IxZGIxMjBiMDhlY2VkZTEzZGQ1NGQ2YzYxMzE1MTA=",
+      "date": 1520553600000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 08/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NGUwMjJhODQ0ZDExNmEyYjgxMGNmMzQ2YjVjYWMyZmY=",
+      "date": 1539648000000,
+      "text": "intima\u00e7\u00e3o ao perito | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDNlNWQzN2JiMjYzMTVjZWE3NDA1ODhjYTE0MjU3MTM=",
+      "date": 1561075200000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MRS LOGISTICA S/A - CNPJ: 01.417.222/0001-77 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "YmQwOThkYzhhNTI0MWI1ODM2YzI1NGFiMjdhN2YxNzE=",
+      "date": 1541721600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ3Nzc5ZTU2MWY5NzA3NDQzNTNmNjlkNGMwYWMwMWM=",
+      "date": 1544400000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTljYTI1ZWU3ODkzYjI5NjIxNjMwYTUzODNlZTk0YTA=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2013 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTY1ZTllM2E1NDZiOTkwNDI4YmUxMDhkY2RiNzAxMTU=",
+      "date": 1557964800000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de ANTONIO CARLOS DE REZENDE",
+      "attachments": []
+    },
+    {
+      "id": "YzQwODQwYTI5NjI5YmFkZWFiZDBmNzk2NGZiYjI3ZjI=",
+      "date": 1542067200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzgyMGY5NGFhNTRhMDNlYjBiZDBmZTNiN2RkNTIwYmQ=",
+      "date": 1554854400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a MARCIO ROBERTO TOSTES FRANCO",
+      "attachments": []
+    },
+    {
+      "id": "MDIzMDMwMTNlNmFmODZhZTE4ZDYyZWI1NWU0YjkyOGQ=",
+      "date": 1508457600000,
+      "text": "Audi\u00eancia inicial designada (22/11/2017 08:40 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ2M2E3OTlkYjAxYjJkYTE0MjkzOGU5M2UyYjNiMGQ=",
+      "date": 1523491200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Esclarecimentos ao Laudo Pericial",
+      "attachments": []
+    },
+    {
+      "id": "NjVkNmQ1ZjM5M2QyNjkzYmYzNjQ4MDM4Mjk1NGM0NTE=",
+      "date": 1511222400000,
+      "text": "Comprovante de pagamento das verbas rescis\u00f3rias | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmQ1MDY1ZmEwNTA5YjcwYzc4ZjZmZTI3YjY1ODNiN2U=",
+      "date": 1557964800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "YjhlM2MwZjdkYWNmY2EzZjY3NDY3ODIwODhiMGY4M2I=",
+      "date": 1540771200000,
+      "text": "Peti\u00e7\u00e3o de Juntada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNmM2Q3OWZhYWUwOWM1MzVjMGMxYTRhNTdlOWM0Njk=",
+      "date": 1508457600000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTNlNjYwZDUwOTAxMjQ4ZTdlOWYwNWU1ODI3Y2NiYTM=",
+      "date": 1561507200000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "MzgyYzIzNWRkZjE4NTg5ZmQ0ZWMwMTUzYjg0ZGI2NTA=",
+      "date": 1558310400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 20/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "YzUzOWE4NTNmMTVmZDlkZTU5ZmJlNTkyNmIzN2MwZmY=",
+      "date": 1511222400000,
+      "text": "Ficha EPI | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQ1NmZkMmQwMWY2NDFjOGY4ZmM0NTIyZjI5YjczN2E=",
+      "date": 1508716800000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "YjY4ODUyZTJlOWRiNWNhNDM0NjNjMTQwYTJlN2VhM2U=",
+      "date": 1554854400000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (10/04/2019 09:45 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "MjFiZjU3MzI3N2Y3NGRhOGI3NDZmZGIxOWQxODg5MjU=",
+      "date": 1560729600000,
+      "text": "CONTRARAZ\u00d5ES | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmI1M2EzNDZlODQ4ZDNlMjBlNjk4YjE3MzRhZTY0MmU=",
+      "date": 1539648000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YWE1YTllOTEwNWU1NGE4YjA2M2Y0MWQ1ZWIyNzBkYzM=",
+      "date": 1511913600000,
+      "text": "Juntada de carta de preposi\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTVkOGQzOTIzYjE0NWRhZWM2MjI2YTUzNGVhOGUxMGQ=",
+      "date": 1519862400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 01/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "NzUwOTBiZDcwYzA0YTE5Y2RmNTc4N2QyODMzNWJmMzg=",
+      "date": 1511222400000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmZjYmNkMDExN2U1MDBlYTc3MzgyOTJmNDgyYjMzYWQ=",
+      "date": 1521504000000,
+      "text": "Conclusos os autos para despacho a EDNALDO DA SILVA LIMA",
+      "attachments": []
+    },
+    {
+      "id": "YjRiNDk2ZTlhNWM1YjFjNWQ3MTZmMDcxZTk4OTY3MDM=",
+      "date": 1543881600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZWRkOGVmNTk1YWRjNGU1OTViMDBhYjNjMzk0ZDFiMDM=",
+      "date": 1520294400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NDhmMjY0ZjQ2ODEwN2IzNzNiZjZjNTdlMzM2MjZlMmY=",
+      "date": 1521504000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MGE0NTRiZjlhNzZhMGE4Y2I2ZjhkNDI4ZTEzYzdkZjc=",
+      "date": 1511913600000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGQxYjZmYjdhMDlmZDM0NWU4MGZiNzAxOTdiZTAxYWI=",
+      "date": 1559174400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (Recurso Ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "MjU5OGQ0MDk5MTY2NjUyZWYyMWJkMTlkZmUzYjc4M2U=",
+      "date": 1560816000000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 17/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDcyYjBlMGZjNTliMTFkNDM5MmE0Yzk3ZDQ2NzU0OWM=",
+      "date": 1508457600000,
+      "text": "001- PETI\u00c7\u00c3O INICIAL | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWNjNWY3OWM5OGRkMWViMGI4Yjk3YjNiMzYzOTNjZjk=",
+      "date": 1523923200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/04/2018",
+      "attachments": []
+    },
+    {
+      "id": "MmIxODIyZWE1Yzg3ZjVhZmQ4MGY3ZmNhMmNiZGYxYzA=",
+      "date": 1517184000000,
+      "text": "QUESITOS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmEwMjNlMDdlNDI5YTNmZGYzZjJlMWZmNTIyYWM0OWU=",
+      "date": 1511913600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUyZTYyNGVlZWUyNTcwMjM1NjViYmRiZjhjODljMTc=",
+      "date": 1560729600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (CONTRARAZ\u00d5ES)",
+      "attachments": []
+    },
+    {
+      "id": "YTFmODViODc0NDY4MmQ2YWUyOGExYzYyZGMzMDY0OTg=",
+      "date": 1519603200000,
+      "text": "Art. 203 CPC _ Dar ci\u00eancia \u00e0s partes | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU5MTQ4ZDlmMzhiNjRkNWI0MTk3MmJlM2NlM2Y2MTA=",
+      "date": 1508457600000,
+      "text": "005- TERMO DE RESCIS\u00c3O DO CONTRATO DE TRABALHO | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjI4YjEyNzc4ODVlZTdhY2NiY2E3ZTMyNTI4NWRmZWI=",
+      "date": 1511222400000,
+      "text": "TRCT | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE1ZmRhMTg0NzZmMjIwMWE1NTBjYTRmNjAxNDQ1MTQ=",
+      "date": 1511308800000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o designada (16/10/2018 11:30 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "NDA1NjkzYmIwMTkyYmZiMzBhNDFhY2FiYWQ4MGQ2ODE=",
+      "date": 1541635200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YjkzMDc1NWFiMjllYmMyODI1ODdiNjY5ZTBjODlmMTY=",
+      "date": 1508457600000,
+      "text": "003- DECLARA\u00c7\u00c3O DE HIPOSSUFICI\u00caNCIA | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2VjMDZmOTE3ZmU0YWFmOTQ1ZmNhNTg5NmZiNzIyMjc=",
+      "date": 1555372800000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTNkMTgzYWMwODJmMmZlNTAwZjQyMzA1OTdiZjFjYzg=",
+      "date": 1511222400000,
+      "text": "FGTS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWIyNzRjOTJiZGY3NjYzMTNhMGJkNzQyODMyNDUyYjk=",
+      "date": 1525219200000,
+      "text": "Impugna\u00e7\u00e3o ao laudo pericial | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDUyMDU3NDNkODc0YTg5NjVjMWI1MGQ5NzM2M2YwYTU=",
+      "date": 1557964800000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDdmYjY0YTQ4OTEzODNlNjEzMDI0MDcyOTgzY2M1MTE=",
+      "date": 1508457600000,
+      "text": "002- PROCURA\u00c7\u00c3O | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Zjg1OGMwZTEyMjg0N2I4N2NjODhlMGFkNWM1NmE5Y2Q=",
+      "date": 1555372800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes (Apresenta\u00e7\u00e3o de Substabelecimento com Reserva de Poderes)",
+      "attachments": []
+    },
+    {
+      "id": "MDczMzIwM2ZhMjMwNWI0ODUzMGNiOWJhODBmZTg3YzM=",
+      "date": 1512518400000,
+      "text": "Apresenta\u00e7\u00e3o de Quesitos | Apresenta\u00e7\u00e3o de Quesitos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTlmMGYwYzhiNGFkZjUzMzRhMzk5MzgxMTk1OWE1M2I=",
+      "date": 1511222400000,
+      "text": "Hist\u00f3rico de lota\u00e7\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDY4YTE5MzA4YjkxM2FhNzZkM2EzYjc0YjgzODZmNzY=",
+      "date": 1523836800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTRhNDJjYzdmMmM4MzgwOTgzN2MwMjgyYWNhM2QzNTQ=",
+      "date": 1559260800000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 30/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZDM4ZTkyNzFkNDRkM2Y4OGEyOTM1ZmVhOTIwNGQ0ODI=",
+      "date": 1521849600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NTM4ODljNTYyZDZiMDlhYWNlOTRmOTg3NDVjOWFjYmE=",
+      "date": 1511222400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWUwZmE1ZmRmZDQwZDE5NmY2MjgxYTYyMjFkODdiMzI=",
+      "date": 1520985600000,
+      "text": "Decorrido o prazo de FREDERICO CORREA GONZAGA em 13/03/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NjY1NTg4YzM4MmQ3NDVhYTRmZGJjNTkwMmMwMDc5Yzk=",
+      "date": 1511222400000,
+      "text": "Ficha Financeira 2016 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDgzMmQ2YmZiNTI1NDYyNjM2NThhNGJmNTMwYmMwMjI=",
+      "date": 1541721600000,
+      "text": "Manifesta\u00e7\u00e3o esclarecimentos periciais | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzEzZTBmMzBlMzk2YzVlNmViNzY5YzBkYjNjZDg5ZDM=",
+      "date": 1522972800000,
+      "text": "Decorrido o prazo de ANTONIO CARLOS DE REZENDE em 05/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2I3ZWRmZWZkMGZjNmEyNTMxZTAyOWI0MjQ1ZTg5NDk=",
+      "date": 1511308800000,
+      "text": "Audi\u00eancia inicial realizada (22/11/2017 09:40 - Vara do Trabalho de Conselheiro Lafaiete)",
+      "attachments": []
+    },
+    {
+      "id": "ODQ3YmU5MWEyZDY5NmI4NDBjN2Q4NmE2Y2UyNDNkNTE=",
+      "date": 1557964800000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 1600.00",
+      "attachments": []
+    },
+    {
+      "id": "YWYyMGJlZmIxNTZiZmMxYTdmNmNmMDVkNjVkZjk5ZjQ=",
+      "date": 1516233600000,
+      "text": "Despacho | Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjA4OTAwYjQyZmNkOGY2MzQzOWZhNDk1NTQzYjU1OTg=",
+      "date": 1544400000000,
+      "text": "Substabelecimento | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

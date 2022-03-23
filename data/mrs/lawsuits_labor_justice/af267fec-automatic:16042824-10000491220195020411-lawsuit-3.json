@@ -1,0 +1,184 @@
+{
+  "lawsuit": {
+    "id": "YWYyNjdmZWMtYXV0b21hdGljOjE2MDQyODI0LTEwMDAwNDkxMjIwMTk1MDIwNDExLWxhd3N1aXQ=",
+    "activityCount": 20,
+    "number": "1000049-12.2019.5.02.0411",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Raquel Nassif Machado Paneque",
+            "cpf": "",
+            "lawyerId": "ZTI2M2VlNjYtYXV0b21hdGljOjE2MDQyODI0LWI4MTdjOGE2NWI2NWJhMC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Joaquim Goncalves Evangelista",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. F\u00e1bio Pizzoni",
+            "cpf": "",
+            "lawyerId": "YzAxZGMwYzEtYXV0b21hdGljOjE2MDQyODI0LTY5NjE5YWJjMjZhMTY1NS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "NDJjYzYxZjMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OTk5NzczMDQxMzcwMzEtMTYxNDIyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614222000000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzNlYWFkNzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04NzA3MTk0NWYxNWVmNGUtMTYxNDIyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614222000000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "YzEzODk4MGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjRmNGUwOWU3ZDUwMzAtMTYxNDIyMjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614222000000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmM3ODMzZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yOTE0NDE2MjljZWQ2ODAtMTYxNDMwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614308400000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "NGE2NTkxZDItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lZTZkOWIxMmY0NTc3MTQtMTYxNDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614826800000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "ZmIyOTJkN2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05N2VhN2RiMmQ5ZDRhOWItMTYxNDgyNjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1614826800000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGNjYmM2MDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYmE4ODRjZWE4ODBhMDAtMTYxNjEyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616122800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Jo\u00e3o Batista Brito Pereira)",
+      "attachments": []
+    },
+    {
+      "id": "MjlhYWM2MzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMDI3YmYzMTQyYTRmYzYtMTYxNjEyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616122800000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro BP - T8 em 19/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "ZWRkYzBmM2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ZWFkZWU2NWJiNDYxMmUtMTYxNjEyMjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1616122800000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "YTA2OGFmZTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWZlOTI2Yjg3M2YxY2EtMTYxODk3NDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1618974000000,
+      "text": "Remetidos os Autos para Secretaria da 8\u00aa Turma para redistribuir",
+      "attachments": []
+    },
+    {
+      "id": "Y2ViM2RiYzUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDc5MDgwNzNhMWE3NGUtMTYxOTA2MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1619060400000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o \u00e0 Exm\u00aa Desembargadora TAA - T8 - art. 107, \u00a7 1\u00ba, do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "M2Y2ZWNmYWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjkzNzI1ZmY0OGM2YTEtMTYxOTE0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1619146800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Desembargadora Convocada Tereza Aparecida Asta Gemignani)",
+      "attachments": []
+    },
+    {
+      "id": "NjMyYzg4NWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wZWZlOTI2Yjg3M2YxY2EtMTYyMDE4MzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620183600000,
+      "text": "Remetidos os Autos para Secretaria da 8\u00aa Turma para redistribuir",
+      "attachments": []
+    },
+    {
+      "id": "OTY0MDk3MzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MTZlNTBiNTE3OTg0OTktMTYyMDM1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620356400000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o ao Exm\u00ba Desembargador JPS - T8 - art. 107, \u00a7 1\u00ba do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "NzFjOTVhOTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01M2M2M2ExMTcxYTZkNDMtMTYyMDQ0MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1620442800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Desembargador Convocado Jo\u00e3o Pedro Silvestrin)",
+      "attachments": []
+    },
+    {
+      "id": "MmYxNmY3NDMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOGNkZDg1YzIyNmRhMDUtMTYyMTgyNTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1621825200000,
+      "text": "Peti\u00e7\u00e3o: 157208/2021 - Acordo",
+      "attachments": []
+    },
+    {
+      "id": "NGMxMTRkN2QtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zNjhhNTZmNjAxYTZhOTMtMTYyNDg0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1624849200000,
+      "text": "Determinada a baixa em virtude de acordo/desist\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ1NTI1MjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kM2Y1NzA1ZTZkZTg3MmYtMTYyNDg0OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1624849200000,
+      "text": "Remetidos os autos para publicar despacho referente \u00e0 peti\u00e7\u00e3o de acordo",
+      "attachments": []
+    },
+    {
+      "id": "YjdjNTM4Y2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yNjI0MDU0YTRmNjM0ZDYtMTYyNDkzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1624935600000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 2\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "N2IyOTM3MzMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Y2Y2NjY4NzdlMWNlY2YtMTYyNDkzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1624935600000,
+      "text": "Publicado despacho em 29/06/2021",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

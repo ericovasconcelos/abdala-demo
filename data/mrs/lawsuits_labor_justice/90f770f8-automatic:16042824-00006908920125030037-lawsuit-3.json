@@ -1,0 +1,177 @@
+{
+  "lawsuit": {
+    "id": "OTBmNzcwZjgtYXV0b21hdGljOjE2MDQyODI0LTAwMDA2OTA4OTIwMTI1MDMwMDM3LWxhd3N1aXQ=",
+    "activityCount": 18,
+    "number": "0000690-89.2012.5.03.0037",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Agravante",
+          "normalized": "Agravante"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Fernando Teixeira Abdala",
+            "cpf": "",
+            "lawyerId": "ZmFiNzk1NDEtYXV0b21hdGljOjE2MDQyODI0LTdiZDEwMTNhZjU3MmE3ZS1sYXd5ZXI="
+          },
+          {
+            "name": "Dra. M\u00e1rcia Aparecida Sodr\u00e9 Rogel",
+            "cpf": "",
+            "lawyerId": "YTAxMmZhZGQtYXV0b21hdGljOjE2MDQyODI0LTZiYzUwZmQ1ZTRjODgxNS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Edsson dos Passos",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Agravado",
+          "normalized": "Agravado"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Webner Lessa de Freitas Carvalho",
+            "cpf": "",
+            "lawyerId": "NjQ0ZjU1OGItYXV0b21hdGljOjE2MDQyODI0LWViZjg3MTM4MWQ5OGMzMS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "M2ZjNDA1YWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01MDExZjJlYWNmNWNlYTQtMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "OGVkMDg0Y2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03Zjk5MzBlNWE1YjY5ZjItMTQ4OTYzMzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489633200000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YmViYWUzYzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNGY1OTBjMDIzYTJhMjItMTQ4OTcxOTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1489719600000,
+      "text": "Remetidos os Autos para Coordenadoria de Processos Eletr\u00f4nicos para identifica\u00e7\u00e3o de pe\u00e7as",
+      "attachments": []
+    },
+    {
+      "id": "YTNiOGM4NDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02M2MyZmZlYTg4ZmU1ZmQtMTQ5MDMyNDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490324400000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q4YzA4NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hZjliNTc4ZGQ2NTRlNmMtMTQ5MDc1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490756400000,
+      "text": "Recebidos os autos para triagem",
+      "attachments": []
+    },
+    {
+      "id": "NzJhOThiZGQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03ZjFlZTUxNGQyNzA4MjYtMTQ5MDc1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1490756400000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "NWVlM2I1NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05Nzk4NTZkZDRmMGQwNTUtMTQ5MTQ0NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491447600000,
+      "text": "Recebidos os autos - triagem conclu\u00edda",
+      "attachments": []
+    },
+    {
+      "id": "ZWY1MmQ2YzktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iM2ZmZDgzZTc0YTY3OTMtMTQ5MTc5MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491793200000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Vieira de Mello Filho)",
+      "attachments": []
+    },
+    {
+      "id": "YTg4MTVjNDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yMDIzMjhkZjdkMGQ5NzQtMTQ5MTc5MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1491793200000,
+      "text": "Distribu\u00eddo por sorteio ao Exm\u00ba Ministro VMF - T7 em 10/04/2017",
+      "attachments": []
+    },
+    {
+      "id": "ODBjNTU1NzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1mODY1MTY3MTQ1ZWNjMGMtMTU3OTA1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579057200000,
+      "text": "Peti\u00e7\u00e3o: 3579/2020 - Instrumento de Mandato",
+      "attachments": []
+    },
+    {
+      "id": "ODM0MDNiYjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kMTA4MTg2ZjI3NTkxNmItMTU4MTk5NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581994800000,
+      "text": "Remetidos os Autos para Secretaria da 7\u00aa Turma para redistribuir por sucess\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTc3YzU3ZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNjE2NzgyOTMzNTM0ZTQtMTU4MjE2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1582167600000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete do Ministro Renato de Lacerda Paiva)",
+      "attachments": []
+    },
+    {
+      "id": "ZDA4OTA0NzAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jYTljOTczYjBkNDFmYzAtMTU4MjE2NzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1582167600000,
+      "text": "Redistribu\u00eddo por sucess\u00e3o ao Exm\u00ba Ministro RLP - T7 - art. 109 do RITST.",
+      "attachments": []
+    },
+    {
+      "id": "ZmM5OTZmNGItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MGNlN2M2Y2U4OTUxMTMtMTU5NDE3NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594177200000,
+      "text": "Peti\u00e7\u00e3o: 162819/2020 - Acordo",
+      "attachments": []
+    },
+    {
+      "id": "MTdhOWRkMDQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMjdlYjM4ODAzODJhZGMtMTU5NjQyMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1596423600000,
+      "text": "Remetidos os Autos para Secretaria da 7\u00aa Turma para cumprir despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjI3NzY4ZjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MDdjODA0Nzk4NDEzMzktMTU5NjU5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1596596400000,
+      "text": "Publicado despacho em 05/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "ODA1ZmM3ZGUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMWM1N2YwOTRmYWZkZjItMTU5Njc2OTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1596769200000,
+      "text": "Remetidos os Autos para Tribunal Regional do Trabalho da 3\u00aa Regi\u00e3o o TRT",
+      "attachments": []
+    },
+    {
+      "id": "MmRiOGNiZTUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOGRhNjk4MDljN2ZhNGUtMTU5NzIwMTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1597201200000,
+      "text": "Recebidos os autos (retorno do TST)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

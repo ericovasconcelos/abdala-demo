@@ -1,0 +1,118 @@
+{
+  "lawsuit": {
+    "id": "ZjAyZTAxMzAtYXV0b21hdGljOjE2MDQyODI0LTAxNDMzMDA0MzE5OTg1MDIwNDExLWxhd3N1aXQ=",
+    "activityCount": 9,
+    "number": "0143300-43.1998.5.02.0411",
+    "value": "",
+    "subject": "A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)",
+    "kind": "",
+    "district": "Ribeir\u00e3o Pires",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Francisco de Assis Braga",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Maria da Conceicao de Andrade Bordao",
+            "cpf": "",
+            "lawyerId": "YTMyYTJmYmQtYXV0b21hdGljOjE2MDQyODI0LTg3NWI0ZDlkNTY5ODA0ZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S.A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Drausio Apparecido Villas Boas Rangel",
+            "cpf": "",
+            "lawyerId": "ZmE0M2Q2NjktYXV0b21hdGljOjE2MDQyODI0LTRmNDQ0ODE5NWNlOWJhZC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 906519600000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YjU4NDY1YzgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOGI3NTc1ZThmNmEwNmQtOTA2NTE5NjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 906519600000,
+      "text": "Distribu\u00eddo s/hor\u00e1rio p/marca\u00e7\u00e3o de audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "Mjc5NDU3OTItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kNzkxOWYxZDBkOTk5NDUtOTA2NjA2MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 906606000000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 02553/98 Rel:00068/98 Envio: SEED\r\n\r\nNome: MRS LOGISTICA S.A.",
+      "attachments": []
+    },
+    {
+      "id": "YjVlN2ZmODQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jMTFkNDZmYjU4MzZhOWEtOTA2NjA2MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 906606000000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 02552/98 Rel:00068/98 Envio: SEED\r\n\r\nNome: MARIA DA CONCEICAO DE ANDRADE",
+      "attachments": []
+    },
+    {
+      "id": "ZDJjY2I2ZjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yYTY0MTI0Mzc5Y2MwZTItOTA2NjA2MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 906606000000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una\r\n\r\npara: 26/10/98 / 12:50 - Una",
+      "attachments": []
+    },
+    {
+      "id": "OWUxYWM2OTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iZWE0OTc2ZjRiOWUzMjItOTA2NjA2MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 906606000000,
+      "text": "Autuado pela Vara",
+      "attachments": []
+    },
+    {
+      "id": "NzY4N2I4NWItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lYjYzMTI1ZTU1M2E2ODEtOTA5MzY3MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 909367200000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento\r\n\r\npara: 17/11/98 / 15:45 - Julgamento\r\n\r\nJuiz(a) DR. WALDIR DOS SANTOS FERRO",
+      "attachments": []
+    },
+    {
+      "id": "MWFlYzY5NzYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01YjVkZjlhZGFlYzMxYjQtOTExMjY4MDAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 911268000000,
+      "text": "Improced\u00eancia de A\u00e7\u00e3o\r\n\r\nJuiz(a) : DR. WALDIR DOS SANTOS FERRO",
+      "attachments": []
+    },
+    {
+      "id": "NDg4OGY5MGYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMDViNGM1NTdhNmExZWUtOTIyNDE3MjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 922417200000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 326 Sol.N\u00ba 949",
+      "attachments": []
+    },
+    {
+      "id": "MmViYjFkODgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xMzljZmE1MTU2ODU2NDgtOTI2MzkxNjAwMDAwLWFjdGl2aXR5X2l0ZW0=",
+      "date": 926391600000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nNro da Rela\u00e7\u00e3o(M): 00066/1999 Data: 11/05/1999 Qtd vols: 1",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

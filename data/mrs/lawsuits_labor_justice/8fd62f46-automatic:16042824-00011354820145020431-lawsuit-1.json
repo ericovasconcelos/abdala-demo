@@ -1,0 +1,118 @@
+{
+  "lawsuit": {
+    "id": "OGZkNjJmNDYtYXV0b21hdGljOjE2MDQyODI0LTAwMDExMzU0ODIwMTQ1MDIwNDMxLWxhd3N1aXQ=",
+    "activityCount": 9,
+    "number": "0001135-48.2014.5.02.0431",
+    "value": "",
+    "subject": "INQU\u00c9RITO JUDICIAL",
+    "kind": "",
+    "district": "Santo Andr\u00e9",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "MRS Logistica SA",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Drausio Apparecido Villas Boas Rangel",
+            "cpf": "",
+            "lawyerId": "ZmE0M2Q2NjktYXV0b21hdGljOjE2MDQyODI0LTRmNDQ0ODE5NWNlOWJhZC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Aleksandro de Souza Vieira",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Marlene Ricci",
+            "cpf": "",
+            "lawyerId": "ZjM2MzViOGUtYXV0b21hdGljOjE2MDQyODI0LTQwN2FjZDIwNDAxMGY0OS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 1401332400000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "OWE1NGQ1N2ItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZjk4YmQwZTgzZjYxNWUtMTQwMTMzMjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401332400000,
+      "text": "Distribu\u00eddo sem marca\u00e7\u00e3o de audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MTJjOGI0MTQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZTRjZmY1MDYzMDMwZGYtMTQwMTY3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401678000000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 03127/2014 Rel:00041/2014 N\u00baReg: JJ214674379BR\r\n\r\nNome: Aleksandro de Souza Vieira",
+      "attachments": []
+    },
+    {
+      "id": "N2I0MDU4NmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zYWI2MjdhZDE2ZjIxYzEtMTQwMTY3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401678000000,
+      "text": "Remarca\u00e7\u00e3o de Audi\u00eancia Una\r\n\r\nde: 15/07/2014 / 9:00 - Una\r\n\r\npara: 17/07/2014 / 10:30 - Una",
+      "attachments": []
+    },
+    {
+      "id": "MzExOGE4NmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNDFkYjE3OWYyZTM5MGQtMTQwMTY3ODAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401678000000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia Una\r\n\r\npara: 15/07/2014 / 9:00 - Una",
+      "attachments": []
+    },
+    {
+      "id": "ZmEzYjVkYWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMzYyYzhiMTM2ODg4NGMtMTQwMTg1MDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1401850800000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 2827 Sol.N\u00ba 5873\r\n\r\nAudi\u00eancia Una 17/07/2014 \u00e0s 10:30 hs.",
+      "attachments": []
+    },
+    {
+      "id": "NDliNmQ5ZmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jNGY4MDQ4MGE5YThkZTUtMTQwNTU2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1405566000000,
+      "text": "Tr\u00e2nsito em Julgado\r\n\r\nEm: 17/07/14",
+      "attachments": []
+    },
+    {
+      "id": "YzAwM2Q1ZmEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NDE5MDNjYzAyOTRhOTQtMTQwNTU2NjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1405566000000,
+      "text": "Homologa\u00e7\u00e3o de transa\u00e7\u00e3o em A\u00e7\u00e3o\r\n\r\nData Atualiza\u00e7\u00e3o: 17/07/14 Hora: 15:53:48\r\n\r\nJuiz(a) : RODRIGO ACUIO",
+      "attachments": []
+    },
+    {
+      "id": "OWM3NjBhYTEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYmYyMTg1YzNmODUwNmEtMTQwODkzNTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1408935600000,
+      "text": "Arquivamento de INQU\u00c9RITO JUDICIAL\r\n\r\nNro da Rela\u00e7\u00e3o: 413/2014 Data: 25/08/2014 Qtde vols.: 1",
+      "attachments": []
+    },
+    {
+      "id": "OGVmNTUzYTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMTlhMzAyOGJmN2Y2ZWUtMTQwOTE5NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1409194800000,
+      "text": "Publica\u00e7\u00e3o de Notifica\u00e7\u00e3o Ci\u00eancia Despacho\r\n\r\nPara o(s) R\u00e9u(s) Ed.N\u00ba 2881 Sol.N\u00ba 2523",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

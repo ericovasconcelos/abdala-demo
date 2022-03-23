@@ -1,0 +1,848 @@
+{
+  "lawsuit": {
+    "id": "YzNmYTU4NWEtYXV0b21hdGljOjAtMDAxMDI3NjU1MjAxOTUwMzAwNTQtbGF3c3VpdA==",
+    "activityCount": 129,
+    "number": "0010276-55.2019.5.03.0054",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Sind Trab EMP Area Transp MAN Equip FER de C Lafaiete",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Natalia Ribeiro Bicalho",
+            "cpf": "086.995.946-82",
+            "lawyerId": "OTkyYjM5OGMtYXV0b21hdGljOjAtZTVlYmJkOWNmZjk3N2Q5LWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Minist\u00e9rio P\u00fablico do Trabalho",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OGU3ZTgwZWMtYXV0b21hdGljOjAtYjQwNjliYzJjZWE0MzkxLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1546351200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "Vara do Trabalho de Congonhas",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MTE5YTYyZDlmNGJiY2VkZjRiNDFiZmYxZmRjMmM4YWQ=",
+      "date": 1581897600000,
+      "text": "Transitado em julgado em 25/11/2019",
+      "attachments": []
+    },
+    {
+      "id": "MDdkZDg4MTQ4ZGZhZDM1OTdjMzY0OGQ4YTU0ZDYxZTQ=",
+      "date": 1557187200000,
+      "text": "PETI\u00c7\u00c3O DE ACORDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWVlNWFmM2JjYjA5Y2Q5MTVjY2FjNDdkODNkYmU3ZjE=",
+      "date": 1558396800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "Mzk0YmI5ZjY0ZDA0OTA4OTExZTU3ODdmYTRlZDYyZDY=",
+      "date": 1562112000000,
+      "text": "Contrarraz\u00f5es pelo Sintef | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmJmZmJmNThiOGU3N2RhMTZhOTE4MjAxZGI4ZGExYjg=",
+      "date": 1582070400000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "ODNkYWEyZjQ5MmNiMzNmNzZmZmRiZmE5OGJiMzk4ZWM=",
+      "date": 1558310400000,
+      "text": "Remetido(a) o(a) documento para \u00d3rg\u00e3o jurisdicional competente para cumprir determina\u00e7\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "YjdmMmMyYTE4YjY0NTNmZDZhNjNlYzk4Mjg1ZmMzMGU=",
+      "date": 1554163200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YWQzMWY0OGYzMTM2MDI3ZjQyOGQ2MDRiNGU4Yjk1ZDM=",
+      "date": 1560902400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWM1OWYwZTI3YjY3NTRiMGMzODc4ZTYxMWM5ZDEyNmU=",
+      "date": 1562716800000,
+      "text": "Minuta de decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzQwZmYyNGExZjJiYzBjN2ZmZGNhYTIwNjdmMDNjYWE=",
+      "date": 1573603200000,
+      "text": "Pe\u00e7a Processual - Pe\u00e7as diversas - Peti\u00e7\u00e3o interlocut\u00f3ria | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQzODNkNmNlYWIxYmQ5OWQyMTc1ZTdjYWFhMmIzZTA=",
+      "date": 1562198400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 03/07/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTc1ZWRjMDk0ZTEyNmE5YjYwNmQwOTZiYzgxYzZjMzA=",
+      "date": 1554163200000,
+      "text": "Conclusos os autos para despacho a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "MWM4YWJhMTUxZDUwMDhmYmUxYzUwYzZiNmU0NjIzYWM=",
+      "date": 1554163200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZWI4MjA3OWFhYjNmN2VkZjEzNzY3OWVhOGI1OWUxOGU=",
+      "date": 1560988800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZTBlNjdiNGZkMzY4M2M5MGRmMDZlYTRiYWZiZmI5Njc=",
+      "date": 1554163200000,
+      "text": "Estatuto Parte 1 | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2M1NGZlNjlmYzk5YmQ0NjFkM2M1MmNjZjVjNjA0OWQ=",
+      "date": 1560124800000,
+      "text": "Defesa MRS ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZThkMjQ5ZWRhNDNiYTE0MGY3OGM1YWZhMTQ2NjJkMzM=",
+      "date": 1560211200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODhiZDlmZWViN2YxNjg5YTNiMzMyMmQ3MTkyZTY2MTk=",
+      "date": 1562112000000,
+      "text": "Contrarraz\u00f5es | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM0OThhMmUxYmNiN2YwNGNlMTMxZTE1ZWY2MjEwNGI=",
+      "date": 1562112000000,
+      "text": "Acordo STEF -BH | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTQ5OGEwNjFiYzAxYTJhZWZlODA3NGEwOWE3YTZmYjM=",
+      "date": 1558310400000,
+      "text": "Expedido(a) Mandado a(o) Minist\u00e9rio P\u00fablico do Trabalho",
+      "attachments": []
+    },
+    {
+      "id": "NzNiMTBiMjg5YjkwM2VkY2IyZWUyMzlkZjFhNThjYzg=",
+      "date": 1558656000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Acordo (MRS JUNTA COMPROVANTE DE PAGTO ACORDO E HONOR\u00c1RIOS ASSISTENCIAIS)",
+      "attachments": []
+    },
+    {
+      "id": "ZjcxMjJjMWRjMDJhNDNlMWNmZDI4YWVmNGY4N2JkMjg=",
+      "date": 1557792000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de listagem de substitu\u00eddos)",
+      "attachments": []
+    },
+    {
+      "id": "MDU0MzdmNzVmMGRiZWZkZGQzNzAwMmIzMzhjMGM1ZTM=",
+      "date": 1554163200000,
+      "text": "Declara\u00e7\u00e3o de Hipossufici\u00eancia SINTEF | Declara\u00e7\u00e3o de Hipossufici\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzNmZTJkODU3M2E2MGNlZWIzNjVkOTQ5NTgzODgxYmE=",
+      "date": 1560124800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio (RO MPT)",
+      "attachments": []
+    },
+    {
+      "id": "OWYxZWNjNzg3NGZiZDQyMjAyNmU4YjJkZTEwMDhiNGI=",
+      "date": 1559952000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 07/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDhjMzQ4NDc0MjdhOTFlOGU2MTJkMjgwZmIxNGU5MjY=",
+      "date": 1560124800000,
+      "text": "Despacho suspens\u00e3o ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2NlODY5M2QwY2JmYTkwMjRkYmYwNTdhOTZmM2VhMWY=",
+      "date": 1560297600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjQ2ZmY2YmUyOTdiMTc2NjkyMjg0MWRjZDM1YzA4ZmQ=",
+      "date": 1572998400000,
+      "text": "MRS INFORMA FATOS NOVOS E REQUER RETIRADA DO FEITO DE PAUTA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTVkNzMyOWEwMzhiNjcyYzUwYzUxNWQxYjE1ZmRlODQ=",
+      "date": 1557187200000,
+      "text": "Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjJhNTY5NWNmNDI3ZjJlMjJhMzNlYzYxNWE1YWI0MzE=",
+      "date": 1572998400000,
+      "text": "ATA - 21-10-19 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzI5Y2IyMGFlYTI2MWZjMjM1YzY3ZmY4ZmZkZjRhY2E=",
+      "date": 1558396800000,
+      "text": "MRS JUNTA GUIA DE CUSTAS PROCESSUAIS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjYxY2Q5YTlkZDQzNzc2YTE2MzI0OGU3YzkyZWFlNzM=",
+      "date": 1560470400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Juntada de Custas Pagas)",
+      "attachments": []
+    },
+    {
+      "id": "M2RhOWNhMDM2ZTA0YTcxNGM1NWQzNTYzZmMzZTA0MTE=",
+      "date": 1562198400000,
+      "text": "Decorrido o prazo de SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE em 03/07/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "YWMyNmVmMjA5MmZlOGFiMWU2ODMxN2FkMGRjMTExMjM=",
+      "date": 1554163200000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzc4MTUyN2Q0MTQ5MDBmZmUwYzY2OTdmOTJjYjY4MWE=",
+      "date": 1557187200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGE3ZDAzNjRlMmI1OThiOWU1OTc3NDQ1MGVkYjk3ZGI=",
+      "date": 1559088000000,
+      "text": "Decorrido o prazo de SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE em 28/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTY5MjUzMWYyN2MyOGZmNTU4ZDJlZjMwYzdjZmJjMjc=",
+      "date": 1558051200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 17/05/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZDI3ZDY4NDQ1NGY3ODU0OWU0YjZjMzE1YTU2NDE3MDI=",
+      "date": 1560124800000,
+      "text": "Ata audi\u00eancia inicial ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGU2NzkxYTY1NGI2YjE3MDhhMzVhNGUxZmExMzhmNGI=",
+      "date": 1560211200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "YmE1ZTRlMWNmZmQ1ZGZjOTc5ZGIzMGQzMjQ5NzgzMjM=",
+      "date": 1560902400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YTNmNGYwZmQ3NWE2YjZhN2Q3MDljN2IxZGUyMDM4YWU=",
+      "date": 1558656000000,
+      "text": "MRS JUNTA COMPROVANTE DE PAGTO ACORDO E HONOR\u00c1RIOS ASSISTENCIAIS | Acordo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZlMTAyNDMyMDQ0YmFiMzQ1Zjk1YmJiZWZmOWUyYTk=",
+      "date": 1562112000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es)",
+      "attachments": []
+    },
+    {
+      "id": "M2VmNzVjNGY2ZjY3Yjc5OTE5ZWRhZmU3OTM1OGJmMjM=",
+      "date": 1557878400000,
+      "text": "Homologada a transa\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MTljZWQ5ODEyYzBmOTVjZmIzNzIyMGJjOTk1YTExNWQ=",
+      "date": 1557187200000,
+      "text": "Ata da Reuni\u00e3o do Conselho de Administra\u00e7\u00e3o 2017 | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzdjMWNkYjY4NzUwZWFmMzg2NTM5NWQzZDNiMjQwNDk=",
+      "date": 1560988800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTEwYmZjODgxN2ZhMDRiNWMwNzZjYjE0MjM2MTAxYWU=",
+      "date": 1560902400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmNlMDU5OTQyNDAwNWNiYjNlMmFjOTI1ZGJmNDkzZjA=",
+      "date": 1582070400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YTMwZDUxZGM4MmQwZmIxODI5Y2I5N2IwNmYwNDZmOTA=",
+      "date": 1573516800000,
+      "text": "Certid\u00e3o de Retirada de Pauta | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTRiZWYxZjcxMGY1M2Q4ZDFmNzYxNWZjY2E0YzZjY2E=",
+      "date": 1557878400000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjllYjBiYjVlOGFlMmFlNGMxOGRmMmJmZjQxMDljMDU=",
+      "date": 1572998400000,
+      "text": "MANIFESTA\u00c7\u00c3O PROTOCOLIZADA NO PAJ | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ1N2VmZTRmYmE3OWYzY2Q4ZGIwZTBmZjE4ZjFmMGM=",
+      "date": 1560124800000,
+      "text": "Peti\u00e7\u00e3o inicial ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzNiMDlkZWRlYTIzNTIzY2MzNmI1NzVjM2I4M2Y5NzQ=",
+      "date": 1558396800000,
+      "text": "COMPROVANTE DE PAGTO DE CUSTAS PELA MRS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRmNDQ1ODljYmI2MzBmNTVmZGJmOWVhYTFlODhlZjk=",
+      "date": 1554163200000,
+      "text": "Audi\u00eancia inicial designada (16/05/2019 09:05 - Vara do Trabalho de Congonhas)",
+      "attachments": []
+    },
+    {
+      "id": "ZjI2YWMzN2ZjMzYwOGM3MDczOTQ2OWZmN2FmN2VjZDQ=",
+      "date": 1558310400000,
+      "text": "Conclusos os autos para despacho a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "MjdmZGZlMGRhNzk0NDU0YzU5ZGFhNjQ0Y2ZjNDFkMmE=",
+      "date": 1558656000000,
+      "text": "COMPROVANTE PAGTO ACORDO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTM3MzM2ODAyNDAxZjA2Mjk4ZmIxZTA0YjZhMTQyNzU=",
+      "date": 1560124800000,
+      "text": "Peti\u00e7\u00e3o MPT ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGVlZWVmZWQ1NzllNmVkNGNjZGMxNDExZTQ3M2QxYzg=",
+      "date": 1560124800000,
+      "text": "Ata audi\u00eancia ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZThhNTEwNzkyZmMyYzhiNTY3ZWJhZTcwYTQzZmVkMDA=",
+      "date": 1562112000000,
+      "text": "Peti\u00e7\u00e3o de Acordo - 0011641-32.2017.5.03.0017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGRjNDY3NDJhZDgyMDRkZDk0NjlkZjM2NDVmNmMwOTU=",
+      "date": 1559952000000,
+      "text": "Decorrido o prazo de MINIST\u00c9RIO P\u00daBLICO DO TRABALHO em 07/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OTMxMDE3YzM3NjE5YzVkNTdkY2JkODVhNjk4MDIzYzk=",
+      "date": 1557878400000,
+      "text": "Arbitradas e n\u00e3o dispensadas as custas processuais no valor de 23357.80",
+      "attachments": []
+    },
+    {
+      "id": "ZmEyOWJlMjk5Yzg1NTZlMTdiZDc2YzQ3NGE1NzYzNjU=",
+      "date": 1554163200000,
+      "text": "Procura\u00e7\u00e3o SINTEF | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzkzZmQ5MzY3ZDNiNGY5NzI0NjBiNzNkMjhjNzYxNjY=",
+      "date": 1560470400000,
+      "text": "Comprovante de pagamento de Custas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTEzYjg1ZDU4MzMwZTA5ZmZiOTA0ZjQxOTg3MTllMzA=",
+      "date": 1572998400000,
+      "text": "Peti\u00e7\u00e3o de Acordo - 0010705 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2IzNDY1YTQwMDU2MGEyMmEzMGI5ZWExNTkyZGVkNjk=",
+      "date": 1567641600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YThjYjdmYmNiMDEwMDc0OWFlMjE0OWQyNmYxMTY0MGI=",
+      "date": 1572998400000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWMzNTQwMjYxYTFjNTg0OGU2MTJmMmQ2ZDVmY2EwZTc=",
+      "date": 1574294400000,
+      "text": "Recebidos os autos para prosseguir",
+      "attachments": []
+    },
+    {
+      "id": "Mzk5N2UwMjM5NzIzOGNiY2NjMDYwNDA4NjlhMTNmMzM=",
+      "date": 1554163200000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "YTEwMzJlMGZkY2Q3OWM0ZWE4ZmRjYWM4NzdjYzY1MTM=",
+      "date": 1564099200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 25/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "OTE0NzBiOTU5ZWI4NGU1MTIyNjc5ZTBlOGU1YTdjMDA=",
+      "date": 1558310400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGQxNmE5YThjY2YzNjM5YjdiMTFjMTk5ZTM1NWJlMDc=",
+      "date": 1554163200000,
+      "text": "Estauto Parte 2 | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTVhMDAzYzI2MDI2MzBmY2I0ZjU3NDQwYmIzOGVmZjQ=",
+      "date": 1562716800000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjQ4NWI0OWZmZTQ2N2RlZTQwMDJkOTNkYmJhYmE5OWY=",
+      "date": 1558396800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (MRS JUNTA GUIA DE CUSTAS PROCESSUAIS)",
+      "attachments": []
+    },
+    {
+      "id": "ZDJlODk4ZWEwZGFjM2ZjMTBlZGE1OTdmYmNmMjZhMjQ=",
+      "date": 1554249600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) r\u00e9u",
+      "attachments": []
+    },
+    {
+      "id": "YWMxMWJjMmNlMmNkYTJjYTZlZjc5YWE5MTUyM2Y3NTk=",
+      "date": 1554249600000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) autor",
+      "attachments": []
+    },
+    {
+      "id": "ZDIwM2NlNjE1N2JiYWQ3MjliYTA0MTc2NTQ5MTVhOTU=",
+      "date": 1558051200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTRiNWRjODFmNzk1OTk0ZWE4YTk5YjQzNzZkMWE3MTE=",
+      "date": 1567987200000,
+      "text": "Pe\u00e7a Processual - Pe\u00e7as diversas - Peti\u00e7\u00e3o interlocut\u00f3ria | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTMzYTIwMTRjYjJkMzdjMTU1NDRmZDc2NzQ3OWU2ODE=",
+      "date": 1562112000000,
+      "text": "ATA - HOMOLOGA\u00c7\u00c3O DE ACORDO - 0011641-32.2017.5.03.0017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmNhMDdhMTEwMDM1MmJhZmZmZWYwNzA2YmY3MGU0NWM=",
+      "date": 1557187200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YmQ4ZDZkMWU5NWZjMzNlODQwZjE1NmE0NWI2Y2EyMTg=",
+      "date": 1564099200000,
+      "text": "Decorrido o prazo de SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE em 25/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NWYyZjIyNjc4YWU3ZDU4OTg2MDQ4MzQwNzJhNDJjNzM=",
+      "date": 1560124800000,
+      "text": "Conclusos os autos para despacho a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "ZjE2MTA5NThjOGI2OGUwMDIyNzIxZDZhZmY1ZmVjZDA=",
+      "date": 1558310400000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Yzg2MGJlOGUyMWMzY2JkNDhjNDczYjQ2ZDIyNGM5NTA=",
+      "date": 1558396800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MjE1OTk3OTY0NzY1OWQyNTM4MDQ2Y2VmNmY0MDczMGM=",
+      "date": 1567468800000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "ZmRhMDczNjFjMTE1NTk1NDM4MDVjNDE2YzI0ZTM3YTQ=",
+      "date": 1562803200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 11/07/2019",
+      "attachments": []
+    },
+    {
+      "id": "NGI5Y2I1Njg4NTMxNzNlYjA2YmY2NGNjMDU4ODU0NzM=",
+      "date": 1560124800000,
+      "text": "R\u00e9plica defesa ACP 0010705-86.2016.503.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTA5NWZjNzE2ZGRiMDg1OTViN2IzNGY3MDQ1OGEwNmQ=",
+      "date": 1554249600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDYwN2Y5ZGQzOWQ5N2FkY2IxOWMxMjI0Njk3MDgxZTk=",
+      "date": 1554163200000,
+      "text": "Ata de Posse 2019 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjVkZjVmNTg5MjBlMDE4M2ZmZTdmZGY1YjI0MWY3YjY=",
+      "date": 1562112000000,
+      "text": "MANIFESTA\u00c7\u00c3O DE 02-07-19 - autos 0010705-86.2016.5.03.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWRmYjk0ZWVkYjA2MjlhOGFmY2UxNDFkNjZmYzQzZjg=",
+      "date": 1557878400000,
+      "text": "N\u00e3o concedida a assist\u00eancia judici\u00e1ria gratuita a SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE",
+      "attachments": []
+    },
+    {
+      "id": "MjE2YjllZThkZjI3YmExYzI4MTFhODc4NGE0Y2EwMzI=",
+      "date": 1562716800000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de MINIST\u00c9RIO P\u00daBLICO DO TRABALHO - CNPJ: 26.989.715/0001-02 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "Yzg5MzFmZDNhMjQ0M2ExNTQxNzAyYjlkMDg4NzZiOWM=",
+      "date": 1560211200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhiOTk1YzE4M2RjODFhNDcwZTEwMzkwNmExMTg1OTU=",
+      "date": 1558310400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MmUzOGY0YTVjMzc4ODEyYjE5MjEyMzRjYmM5ODFmNzA=",
+      "date": 1559001600000,
+      "text": "Devolu\u00e7\u00e3o de mandado de ID e2412c9 | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTk1YzE3M2U3ZGZiYjAzYmRkODQ1YTIwOWM1N2UwMzM=",
+      "date": 1557792000000,
+      "text": "Relal\u00e7ao de substitu\u00eddos - a\u00e7\u00e3o coletiva CL | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI0ZGVmMDkyMmQ0MzYzYWY3NzJiMjM4NDljYTgxYTA=",
+      "date": 1557792000000,
+      "text": "Juntada de listagem de substitu\u00eddos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWJhNzA3OGQyMzM4YTdjOTgzZTAzMTU4OWQ2MDU0ZDk=",
+      "date": 1562112000000,
+      "text": "Peti\u00e7\u00e3o inicial 0011641-32.2017.5.03.0017 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWViMjllYjg0ZWFhYmI1ZTg0MTM5MzY3MTY0ZGI2ZmM=",
+      "date": 1559952000000,
+      "text": "Decorrido o prazo de SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE em 07/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ZTY3ODY0Y2JmZjczOTU1YTUwODk5ODkyYTY0ZjY0ZjY=",
+      "date": 1557878400000,
+      "text": "Audi\u00eancia inicial cancelada (16/05/2019 09:05 - Vara do Trabalho de Congonhas)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM3YjUyNGY3ZDAwYWFiOWQ1ZjFiNDY1MTM0NGYwZTE=",
+      "date": 1557878400000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "YmMyMTk1OGJlNWFhZDc5ZDA0NmU2OGU0MDJlMjNkMGU=",
+      "date": 1557187200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Acordo (Acordo)",
+      "attachments": []
+    },
+    {
+      "id": "MGUzNzNiNTcwNzcxZjJiZDgwOGI4MzdjYWJiYzdmYmE=",
+      "date": 1560297600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 12/06/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZWU3MDZjNTc3M2Q1YWE1Y2ZiN2M5MjJlNDUyM2IzM2Y=",
+      "date": 1562112000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es pelo Sintef)",
+      "attachments": []
+    },
+    {
+      "id": "NmJlZmI3OTgwMjViYjQ4ODJjOGI5ZDYyNWM1YTA0N2Q=",
+      "date": 1562112000000,
+      "text": "Minuta Acordo de ACP | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU2MmYwYTdlODk1OGVhMGRjNzExYmY3ZWUzZTFhNjk=",
+      "date": 1582070400000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OGJhYjczNjFlYWIyYjA4YjhjYzVjNjJiODEwYmNhMzc=",
+      "date": 1582070400000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTJjYWVlMjEzYWNmZWVlZDdhMWQwZTQwMjM0ZTM2YTI=",
+      "date": 1557187200000,
+      "text": "Acordo | Acordo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjlhZTEyNDg1YTM3MmZmNGYxMDI0YWYzZGYzMjBkYzA=",
+      "date": 1560816000000,
+      "text": "Conclusos os autos para despacho a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "NTk1OTdmZTJjNzMxZjNiZTRiYzViZDc0OGQ1M2IxZTU=",
+      "date": 1562803200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "OGRmMDk5Yzk0ZjMyMmMzYjdmOWFlNmNjYmJhYjFmNGI=",
+      "date": 1574294400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjY0YjUyOGMzMjI3NjE1ZDBiZGU2YzY1ZjRhNDU0YmQ=",
+      "date": 1557878400000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "Y2UzMmEzMDY4YjBhNjQ4ZjM5MGYwOWI2MjE4NmU4YTQ=",
+      "date": 1554249600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTM4MzkzOWVkM2JhOTQ3YmYxOGM3ZTMxNmRiMzFlMWI=",
+      "date": 1557187200000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWMzMjg5NjJlYjQ3ODg2NjNkNGM1N2UxYjIxZDNjMzA=",
+      "date": 1562112000000,
+      "text": "Minuta Peti\u00e7\u00e3o de acordo autos n 0010705-86.2016.5.03.0002 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjBkZjhlOTg2Y2Q2YWNjZGMwYjUyZjBjNGMyZTI1YzQ=",
+      "date": 1558656000000,
+      "text": "COMPROVANTE HONOR\u00c1RIOS SINDICATO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjU3YmFiNDcwMzcyOGE3YTQ0YzE0M2UxOTYyN2VlZDY=",
+      "date": 1554163200000,
+      "text": "Estatuto Parte 3 | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTc4Y2NiYWQ5ODczNWU3Y2MyMDIwYTA4YjM2MjczYTE=",
+      "date": 1560124800000,
+      "text": "RO MPT | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2Y0MmUzOWZiOTMzNzAxNzVhNjdiNjg4MjUzODA4NjM=",
+      "date": 1560470400000,
+      "text": "Juntada de Custas Pagas | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGRmMDBlNGNiMDJjNDE5NGYwM2JjYWE4Y2YzM2VkM2I=",
+      "date": 1554163200000,
+      "text": "Certidao Base | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNmMmUzOGQwZGM1NTIzNDc2MzYyNzJhNDJhMzMxZWE=",
+      "date": 1560124800000,
+      "text": "Parecer T\u00e9cnico ACP 0010705-86.2016.503.0002 | Parecer T\u00e9cnico ou Documento Eludicativo (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmMwNzQxNzRmNDk0ZDYwNTU3YzI3NzM5YzU4OWZiNWM=",
+      "date": 1558310400000,
+      "text": "Recebido o mandado pelo Oficial de Justi\u00e7a para cumprimento",
+      "attachments": []
+    },
+    {
+      "id": "ZGYxZGZjM2VlZjFjMWIxNTRjMDUwMWIxNTBjNTYyZDc=",
+      "date": 1572998400000,
+      "text": "MEMORIAL POR MRS LOG\u00cdSTICA SA | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OGFjNGQ1NTJhYjAwM2ZjNjMyOTYwZTk5ZWY2MWNkOWI=",
+      "date": 1559088000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 28/05/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "N2VkNWRmZGEzMDg3NzYxODNkNDk0OTE4MjA4OGY3YzY=",
+      "date": 1558310400000,
+      "text": "Mandado | Mandado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTAwZGQ1MWMyMzY1NDRlMmRiNDkxOWUzNmU4YjYzMmY=",
+      "date": 1562198400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a FELIPE CLIMACO HEINECK",
+      "attachments": []
+    },
+    {
+      "id": "Y2Y2M2RkNzljODczMDZhN2M4OTY2YWI3YmM4YzNjNTM=",
+      "date": 1559001600000,
+      "text": "Devolvido o mandado pelo Oficial de Justi\u00e7a (cumprido com finalidade atingida)",
+      "attachments": []
+    },
+    {
+      "id": "MDFjMzE1OWQ0ZTc0YjI1NjE4ZTU3NjJkNGNlYzRkNDc=",
+      "date": 1560556800000,
+      "text": "Decorrido o prazo de SIND TRAB EMP AREA TRANSP MAN EQUIP FER DE C LAFAIETE em 14/06/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Zjg1M2NjYmM5MzY5NmY2MDFhOTE5YjBiMmE4MjczZDM=",
+      "date": 1567555200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ODJiZjhlYzBkY2Y0OTJlZjVjMTg5YjUzMDlmZmY0ZmQ=",
+      "date": 1581897600000,
+      "text": "Conclusos os autos para despacho a JOSIAS ALVES DA SILVEIRA FILHO",
+      "attachments": []
+    },
+    {
+      "id": "NWIzMGYxZjU5YmZlNjdlMDVjMjQ2MDQwNjg3OTk5OGM=",
+      "date": 1574294400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

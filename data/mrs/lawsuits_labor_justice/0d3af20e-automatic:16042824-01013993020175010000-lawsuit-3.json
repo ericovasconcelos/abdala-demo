@@ -1,0 +1,137 @@
+{
+  "lawsuit": {
+    "id": "MGQzYWYyMGUtYXV0b21hdGljOjE2MDQyODI0LTAxMDEzOTkzMDIwMTc1MDEwMDAwLWxhd3N1aXQ=",
+    "activityCount": 8,
+    "number": "0101399-30.2017.5.01.0000",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 3,
+    "relatedPeople": [
+      {
+        "name": "MRS Log\u00edstica S.A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Recorrente",
+          "normalized": "Recorrente"
+        },
+        "lawyers": [
+          {
+            "name": "DR. Isabela Valentim Alves",
+            "cpf": "",
+            "lawyerId": "ZmYwNDljZTEtYXV0b21hdGljOjE2MDQyODI0LTQzMjg3ODMyMGE0NDdiNS1sYXd5ZXI="
+          },
+          {
+            "name": "Dra. Maria Luisa Souza Costa Soter da Silveira",
+            "cpf": "",
+            "lawyerId": "ZWRiNmQwZjgtYXV0b21hdGljOjE2MDQyODI0LTU2YmVjMGNlODBmN2M5Yy1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Minist\u00e9rio P\u00fablico do Trabalho da 1\u00aa Regi\u00e3o",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Recorrido",
+          "normalized": "Recorrido"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "DR. M\u00e1rcio Oct\u00e1vio Vianna Marques",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Procurador",
+          "normalized": "Representante"
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Sindicato dos Trabalhadores Em Empresas Ferrovi\u00e1rias da Zona da Central do Brasil",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "Recorrido",
+          "normalized": "Recorrido"
+        },
+        "lawyers": [
+          {
+            "name": "Dra. Rosim\u00e9ri Alves Trintin",
+            "cpf": "",
+            "lawyerId": "M2NjMjJhYzYtYXV0b21hdGljOjE2MDQyODI0LWFjOWM0ZmY2M2UzYzNhNS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TST",
+    "courtSection": "",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "MWI5NWE5MDgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wYjQ5Y2Q4NzIzNjk1YTgtMTU3NDk5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1574996400000,
+      "text": "Aguardando autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZmQwMDhkNmUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hMDhlMzkzNzg5OGExOTMtMTU3NDk5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1574996400000,
+      "text": "Recebidos os autos para aprecia\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZTUwZWQ2ZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNTc0YTZjYTBhZmEyYmEtMTU3NDk5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1574996400000,
+      "text": "Recebidos os autos no TST",
+      "attachments": []
+    },
+    {
+      "id": "YzAzMjVhZjQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZmJhZmZjNzg5MDJlM2MtMTU3NDk5NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1574996400000,
+      "text": "Pr\u00e9-Autua\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MzI1MmFiYzItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0zMjU0OWFjMDY4YjE4ZGYtMTU4MTU2MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581562800000,
+      "text": "Remetidos os Autos para Coordenadoria de Classifica\u00e7\u00e3o, Autua\u00e7\u00e3o e Distribui\u00e7\u00e3o de Processos para autuar e distribuir",
+      "attachments": []
+    },
+    {
+      "id": "YjBkYmYyYzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03OWVkYTYyODhiMDc0NmEtMTU4MTkwODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581908400000,
+      "text": "Autuado",
+      "attachments": []
+    },
+    {
+      "id": "ZDgwZDkxYjYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wODIxN2U3MGE2N2YzNjYtMTU4MTk5NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581994800000,
+      "text": "Conclusos para voto/decis\u00e3o (Gabinete da Ministra Maria Helena Mallmann)",
+      "attachments": []
+    },
+    {
+      "id": "ZTcxYzI2YTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1kZTYzMTMxZDUyYzAzNjctMTU4MTk5NDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1581994800000,
+      "text": "Distribu\u00eddo por sorteio \u00e0 Exm\u00aa Ministra MHM - SDI2 em 18/02/2020",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

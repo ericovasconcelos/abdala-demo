@@ -1,0 +1,157 @@
+{
+  "lawsuit": {
+    "id": "ZGVlMzc5ZDUtYXV0b21hdGljOjE2MDQyODI0LTAwMDIzODE1ODIwMTM1MTUwMDA5LWxhd3N1aXQ=",
+    "activityCount": 12,
+    "number": "0002381-58.2013.5.15.0009",
+    "value": "",
+    "subject": "",
+    "kind": "",
+    "district": "",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Joao Luiz dos Santos Junior",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Joseneia Peccine",
+            "cpf": "138.325.808-24",
+            "lawyerId": "M2JlMjZmYmYtYXV0b21hdGljOjE2MDQyODI0LTdjODBlMWY4MDQzZDY3NS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Engeseg Empresa de Vigilancia Computadorizada LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Nelson Wilians Fratoni Rodrigues",
+            "cpf": "668.018.009-06",
+            "lawyerId": "NmJiNDk1YjMtYXV0b21hdGljOjE2MDQyODI0LWZmYzliOGJkM2UxZjA2Yi1sYXd5ZXI="
+          },
+          {
+            "name": "Luciana Fernandes D Oliveira",
+            "cpf": "286.957.298-00",
+            "lawyerId": "MzZjYTkxNGEtYXV0b21hdGljOjE2MDQyODI0LWM4YWNlOGYxZWZiNTY0Mi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Maria Helena Villela Autuori Rosa",
+            "cpf": "074.032.108-08",
+            "lawyerId": "NzUwYjMwOTUtYXV0b21hdGljOjE2MDQyODI0LWQ2ZTViNzc2YTFhNmE1ZS1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": "",
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT15",
+    "courtSection": "1\u00aa Vara do Trabalho de Taubat\u00e9",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": "A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "OTg4YmY4ODYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lODQyNGM0YTg4N2YwZDMtMTU3OTA1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579057200000,
+      "text": "Convertida a tramita\u00e7\u00e3o do processo do meio f\u00edsico para o eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NmJkOGNlYWUtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iY2I0ZDg2OTE2MDA2ODEtMTU3OTA1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579057200000,
+      "text": "RELAT\u00d3RIO DE OCORRENCIAS SAP | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDU5ZmNmNTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iMjRiMGRiMjcyYzM4OTktMTU3OTA1NzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1579057200000,
+      "text": "Termo de Abertura - Conhecimento | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTMzYTdhNzctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00OTQ5Mzk2YmYzMGE1ZmQtMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (subs depos rec ap\u00f3lice)",
+      "attachments": []
+    },
+    {
+      "id": "NTRiMmRhYmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00NmUyMTQ1ZDMyY2M0MWQtMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "subs depos rec ap\u00f3lice | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGFhNzY5NWYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NTRmODAyMTZmN2UyOTktMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDU5OTY5NWQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05YmY1NDQxNzZiNTJlYTktMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTIyNmE1ODAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wOTA0MzJlMmUxODE0MTgtMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (habilita\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "YmM5Yzc0NjktYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC02NGExZjA1ZTgyM2U1MzMtMTU5MjAxNzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1592017200000,
+      "text": "habilita\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM5ZDJmNDYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hNWI4MjMwMmQ2ZjcxYTEtMTU5NDY5NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1594695600000,
+      "text": "Suspenso ou sobrestado o processo por decis\u00e3o judicial",
+      "attachments": []
+    },
+    {
+      "id": "MTRjNWEzMmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZDJmZWUxYmQ1ZWUyNTQtMTYwNjYxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1606618800000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "M2FiODhlNmItYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xNTg0MjE3MTBjMzdhNDEtMTYwNjYxODgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1606618800000,
+      "text": "Encerrada a suspens\u00e3o ou o sobrestamento do processo",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

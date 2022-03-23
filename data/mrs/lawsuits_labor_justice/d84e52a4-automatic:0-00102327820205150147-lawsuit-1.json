@@ -1,0 +1,1146 @@
+{
+  "lawsuit": {
+    "id": "ZDg0ZTUyYTQtYXV0b21hdGljOjAtMDAxMDIzMjc4MjAyMDUxNTAxNDctbGF3c3VpdA==",
+    "activityCount": 177,
+    "number": "0010232-78.2020.5.15.0147",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "MRS Logistica S/A",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Ana Paula Fernandes",
+            "cpf": "269.122.238-18",
+            "lawyerId": "Mzc3YzBlOTUtYXV0b21hdGljOjAtNGNjYzQyNGMwMjI1ODljLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Minist\u00e9rio P\u00fablico do Trabalho",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "Andre Luis Dias Barreira",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Mauricio Fernando dos Santos Lopes",
+            "cpf": "247.226.108-00",
+            "lawyerId": "NmY3NWU2YmQtYXV0b21hdGljOjAtOGVkZmZkOTQxNDMzZDQzLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Uni\u00e3o Federal (Pgf)",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": []
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1577890800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT15",
+    "courtSection": "Gabinete do Desembargador Luis Henrique Rafael - 11\u00aa C\u00e2mara",
+    "nature": {
+      "raw": "Agravo de Peti\u00e7\u00e3o",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "ACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZmIyOWI4ZTc1ZTJkZWRmNmQ5Yjk1NTM5MDYyMzc3MDU=",
+      "date": 1592352000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "YjU0YzBkMmU0MzIxNDNiYjBkNzY3ZDIyMjk5NmZkMzY=",
+      "date": 1585785600000,
+      "text": "Procura\u00e7\u00e3o MRS | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MThmZjlmMWYxYWJjYTlmYmFjNzc0ZDc5NDgzNjgzNzI=",
+      "date": 1603065600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OTkxODcxYWMyOWE3YTRmOTkzYzBjNmM5NWZlODdkOTk=",
+      "date": 1587945600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "YTFmNzFhNTYyODdkY2ZjMjFkMThkNjc5YWY1YzQ1MWU=",
+      "date": 1602547200000,
+      "text": "Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos | Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWU4YjViMTNhMThmMTYwZjYzMzg3Nzk3YjJkZDVkYzE=",
+      "date": 1585785600000,
+      "text": "Certid\u00e3o de remessa AIRR | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjRmYzBhZjUyYTRkNTJlODRhYjJjNTY3YWIyMzc5MmU=",
+      "date": 1602806400000,
+      "text": "02. Dep\u00f3sito recursal RR | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDJjN2M1ZGRkYWY5OWIyZTBiMWZkNDdkNDFiMDRhZjE=",
+      "date": 1612742400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDYyOGExMjQzMmQzZDY4NTU3NzEwY2FiNDNiNmVlOTU=",
+      "date": 1602547200000,
+      "text": "Planilha de C\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjFiZDA5NzNiOGQ1NjFlODdlOTAwYjBhZWM2Y2E0MzU=",
+      "date": 1606867200000,
+      "text": "Decorrido o prazo de JOSE ALBERTO FERNANDES PEREIRA em 02/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZTNhYzBjMDIyZDJmY2FhOGQ3OGZhNjdiYmJjY2E0Y2I=",
+      "date": 1585785600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NjdlMjMyMzUxMzYwZGZjODBhY2E1NThjOGYyZmY5OTg=",
+      "date": 1588032000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTA0NjUyNWQzMDE5OTVhODMwODBjNjZmZDczMTg3NTg=",
+      "date": 1611446400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "Mzg0ZGJjMmY2MDViOTljNzk4ZGI3ZTQ1OGVjYTEyNTc=",
+      "date": 1586995200000,
+      "text": "IMPUGNA\u00c7\u00c3O C\u00c1LCULOS | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDkwMGRhNTI4YzY4YzQ1ZGQ5MThmYjcxN2RhNGY2MTE=",
+      "date": 1588723200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 05/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZGQzNWE0ZTg3Nzg1MzY3NTEzMTY4ZDUwNTllYzIyNTg=",
+      "date": 1600732800000,
+      "text": "Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos | Planilha de Atualiza\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQ0ZWE5NjRkYzk2YTU5ZThlNjgzODFkZDEzNDMwMzI=",
+      "date": 1593820800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "YjkwMjkzOTQyMDM1ZjQwODE3ZmMxN2E3NWY4OTI0ZjQ=",
+      "date": 1594944000000,
+      "text": "Concord\u00e2ncia com laudo pericial | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmJkZDJiNTg4Y2M1YTUwY2Y0ZGExZDQyOTEzZDY1ZDc=",
+      "date": 1592956800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ODg1ZjMzMDA0YWRkNzg2NWJmOGNhMzk0ZTZjYjcyYTA=",
+      "date": 1587945600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "NTA4NmI3YTIyNzkzYjJjYWFlZGUyYzJlMDRlZDI2NDQ=",
+      "date": 1602806400000,
+      "text": "01. Dep\u00f3sito recursal RO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTczOTE2NTg4YjMwMjVmNjdkMzY5MmNmNzI1ZWViYjc=",
+      "date": 1586995200000,
+      "text": "DOC 02 - ANALITICO.pdf | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjAxZThjYzQwMzRkN2ZlNWMzNGFmYjljMDQyZWE0MGM=",
+      "date": 1586995200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Impugna\u00e7\u00e3o (IMPUGNA\u00c7\u00c3O C\u00c1LCULOS)",
+      "attachments": []
+    },
+    {
+      "id": "NTAwYzcwNDNjYjA1YTNmZDc3NjEwNzIyOTQ4MTZiNGU=",
+      "date": 1592870400000,
+      "text": "Solcita\u00e7\u00e3o de dila\u00e7\u00e3o de prazo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODA2MDU0NGMwZDY2ZjdlYmM1ZDMwOWNhZTI4ZDhiYjQ=",
+      "date": 1596585600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODE1ZDBhOTI3OTBmN2FjMzczNTA4YWRkMzRlOGU0YWQ=",
+      "date": 1585958400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "MjAxZmQxMjEwNmRjNGFkODkzMzBjYWMwMzc0ZGUzYTg=",
+      "date": 1593820800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "M2RhNjQ5NWI3MWE0Yzc4NTdmOTYyMjQ0NmI3OWYyMzg=",
+      "date": 1606348800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZTVjYjlhZjI1YzQ4MWE0NDg5MDQzYTQwMTkwMTA5OTY=",
+      "date": 1602547200000,
+      "text": "Embargos \u00e0 Execu\u00e7\u00e3o | Embargos \u00e0 Execu\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmUwZGFhYzYxMzJiZTUxYzk4Y2M0M2JmMzVlOWY4MmQ=",
+      "date": 1603756800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (resposta aos embargos \u00e0 execu\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "NmE1ZGI0NzAwYTIxZGY4ZWZkMzI5YTcyNmE5ODgyNzM=",
+      "date": 1590624000000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 27/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "Yzk3N2I5ZTBmMmE4MDc4MTQ1NTgzYTA2Mzc1N2FmMGM=",
+      "date": 1595289600000,
+      "text": "Decorrido o prazo de JOSE ALBERTO FERNANDES PEREIRA em 20/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "MmY3YmQ0ZDU4YTQyNmUyMzljNmQ4ZWM4NTU5NTVjYWM=",
+      "date": 1601337600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MWE2MmE5NWU4N2RhODljNWY1NmQwZmJkMjk0ZTU5M2E=",
+      "date": 1601596800000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 01/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "MDMzZmZhMDYxNjI1ZDRjYmUxMWM4MjllZGQ0NzU5MWE=",
+      "date": 1585785600000,
+      "text": "Planilha de C\u00e1lculos | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDhjZjBmYjU4OWU1NzJjZDQ4MWQwZTc0Njc2MGQ1NzM=",
+      "date": 1588032000000,
+      "text": "Expedido(a) notifica\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "YjI3NjU3MGUzYTg0MmIyNzE5ODkyZTMwYWY3ZmEwM2M=",
+      "date": 1588118400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 04/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "MzA0MTVmOTMwYjk5ZTUwMTk2NWQwYzA4ODhiMDUwNDg=",
+      "date": 1585785600000,
+      "text": "RG, CTPS e TRCT | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODdhYjhiMWU3NWQzMDMyZWQ4Y2EwMmJiMGVlZjU2OTY=",
+      "date": 1592956800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmFhMjVkNGJhYjhlODZhMDk3ZTNkN2ZhZDI5ODAxMGM=",
+      "date": 1592352000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "YWI5Y2M2YWFkNjRjYWJkYmFiZmUyOWY4MmE0N2ZmMTE=",
+      "date": 1600732800000,
+      "text": "Conclusos os autos para decis\u00e3o (gen\u00e9rica) a OTAVIO LUCAS DE ARAUJO RANGEL",
+      "attachments": []
+    },
+    {
+      "id": "NmFmYTVjNDc4NjQ4NWMwY2Q5OGI5ZTEzOThmZmY5ZTE=",
+      "date": 1603065600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2M2ZjMzYTJkN2QyNzcyMzMyNjMzY2Q3MjA4M2U0OGM=",
+      "date": 1603843200000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 27/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjY5YTQ4YzY2OGE1OTk3NWY4MGU4OTNmYzg2YmYyNjI=",
+      "date": 1594080000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NzQ3MWMyY2QxMGMwYzZjMjY4YWQwM2ViNmI4NDhiYjM=",
+      "date": 1592956800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "MzFlMWQ3Y2ExZDBhMTY2YTczZjQwOGIwYmFkYTJiZTE=",
+      "date": 1585958400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YTZjYjUwMGFhNTNmYzk4YTgyMTZkYjRkYjQyMmRhOWU=",
+      "date": 1600819200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "M2MxYzAzYjE0N2QxY2IyOWNlMTg0NTYyN2E0N2Y5NDg=",
+      "date": 1605484800000,
+      "text": "Decorrido o prazo de UNI\u00c3O FEDERAL (PGF) em 16/11/2020",
+      "attachments": []
+    },
+    {
+      "id": "M2E3MTgzYjU4ZGE5MjJlMzVkYzE3OTc3NjZjODdkYTE=",
+      "date": 1594080000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 07/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "MDY3ZjIxYmQ5ZjgyZDdkNmY4ZmNlOWUyOTdhNjc1YWY=",
+      "date": 1588118400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MmVhOGM0MTQyMTA4ZGYyYTZiYTJhYjljMGVlMzI4MGE=",
+      "date": 1612396800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contraminuta (Contraminuta)",
+      "attachments": []
+    },
+    {
+      "id": "NDA3MWI1YmZkM2RlYzNlNTU2NmNmZmVhNWI1MjJiMjY=",
+      "date": 1600819200000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "MWI4MGZkM2Q4YTI0YTBmMTUxMzRmN2JlNzEzOGFkY2M=",
+      "date": 1585785600000,
+      "text": "Acord\u00e3o | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjc5YmE3YTc3ZTE1NTNiZWFlZmVkMGJiY2YyZDQwNzE=",
+      "date": 1603065600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "MTY1ODBkZTU2N2M3NDg4MThmNGUzY2I4MjljYzgwNGM=",
+      "date": 1611532800000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NGMyMWRkZjEzZTExYTA1MTYxODhkNzYzYjIwY2FkZGU=",
+      "date": 1587945600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NmNjMGEyNDkxZTYzZjFkYjFiNjY2NTk4MWE4NGJlNTk=",
+      "date": 1585785600000,
+      "text": "Contracheque/Recibo de Sal\u00e1rio (paradigma) | Contracheque/Recibo de Sal\u00e1rio (paradigma) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQ0OGE4MGUyZmRjMjQxNDgyMDMxNjBkOGRkMzdiOTQ=",
+      "date": 1600819200000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NTM4MGMyM2ZiYjZhOTRlOTNiOWIxMjRlMjA0YWJmYmU=",
+      "date": 1606348800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "NjE2MWNhOTZiODkxY2Q4NjcxMTlmZjdjYTNhNzIyYTg=",
+      "date": 1602547200000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos \u00e0 Execu\u00e7\u00e3o (Embargos \u00e0 Execu\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "MmQzNDIxMWUzYjAxZGM0MGEwMDcxMGM2ZjM4YWJlNTQ=",
+      "date": 1601337600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 29/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "MTlhMGY3ODU3Mjg4ZjkzZDgxZGIyNGQwMTQ0MDY0YWE=",
+      "date": 1602720000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MzEzZjdmZjQxNTE2NmRkNzFiMDQ2ZTk3ZDBmNDdhZGQ=",
+      "date": 1607817600000,
+      "text": "Agravo de Peti\u00e7\u00e3o | Agravo de Peti\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2M1MWVjNTFjMzMyYTUzYjg5NGY3Y2ViMTJhNTliYmQ=",
+      "date": 1600819200000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjgyYzYwNjUzZmYzNmJmMzQ3MDBjMzhiZTc1MmI3NjA=",
+      "date": 1595203200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "OWUwZTViYmJiYmRkZDJlYWQ1OGFkN2U0MjdkY2EyMTI=",
+      "date": 1588723200000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 05/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "NmU0MDUzZDM3ODQ4MWZmODU5YjY3NzM4Y2Q1NWE5ZDY=",
+      "date": 1586995200000,
+      "text": "DOC 01 PLANILHA DE C\u00c1LCULOS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjMyZTI1ZTA5MWVjYzIzNDZhNGE1NmY4NDMzMjJkMGM=",
+      "date": 1602806400000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "ZDdiNjQyYjkyZGE1NjNjMzE4OGUyODdmYzkxYmFiYmM=",
+      "date": 1593475200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "ZTAyZTdhMGRhZGYyZjcwOTQ1NWQ2MzVhYzEyNWIzNTU=",
+      "date": 1600992000000,
+      "text": "Dila\u00e7\u00e3o de prazo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTk3MWVhNjkyM2EwNWNkM2I4OTI5ZDU3NDA0OWExYTc=",
+      "date": 1614816000000,
+      "text": "Decorrido o prazo de UNI\u00c3O FEDERAL (PGF) em 03/03/2021",
+      "attachments": []
+    },
+    {
+      "id": "OGQ4MmEzYmM0MWNhZmMzZGRmMWQzZTlhZWMwZTdkNWE=",
+      "date": 1592956800000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "YjBmMjVhNTFmYjQ0MzQ1MmEwYzZmN2MzOWJiYzE0ZTg=",
+      "date": 1586304000000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGQ5ZGNjZWEwYzE1ZGRiZDZkZTZmZDI5M2RkMjZiMmY=",
+      "date": 1606348800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDNmYWFjNzRjYTY5NzIzMThjNjA0ZGYyZDllZTdjMGE=",
+      "date": 1587945600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2JmZjA2NDk2MWE1ZjdjYzRmZjhhMWE3OWM1ZTA0YWM=",
+      "date": 1611446400000,
+      "text": "Recebido(s) o(s) Agravo de Peti\u00e7\u00e3o de MRS LOGISTICA S/A sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "OTBkYWFjMzk0YzAxZWMwMDQ4M2EwMjc2YzJiMDJmMDg=",
+      "date": 1596585600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "MjkxYTZiZjcxMWQ0NzA5ZjI1MmI5MWEyOTkzOWMzOWM=",
+      "date": 1596585600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDFkNTYxMTg0M2U3NjYxZDRmMzVjYjg3ZGEzY2ViZjM=",
+      "date": 1602547200000,
+      "text": "Planilha de C\u00e1lculo | Certid\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Njc4MTg1NDYwYWRkOTk4NGExNjNmZWNkMzAwMzJmMTg=",
+      "date": 1585785600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) ANDRE LUIS DIAS BARREIRA",
+      "attachments": []
+    },
+    {
+      "id": "OTdkZjBjMWFiYmNmNmMyYTExZDIwNjFmN2JjZjQ2YTQ=",
+      "date": 1587945600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NDNmYmM5YjA1MDFkZDA0M2Q1YzIxOTBhZjM4OGE3ZmM=",
+      "date": 1607817600000,
+      "text": "c\u00e1lculos ap | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmI3MDY4ZjlhNzQxOTE4Y2Q3NTI4NTFkYTU2YjA2Yjk=",
+      "date": 1594944000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (CONTESTA\u00c7\u00c3O DE CALCULOS)",
+      "attachments": []
+    },
+    {
+      "id": "ZjMyZDMyYzk4MjM2OGM4Njk5N2RlYTBlMzllYzY0YzM=",
+      "date": 1592352000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "MDJkM2RhOTM2MGNhNDdlOTdiNTYzYzg2YmMxNzU0YzQ=",
+      "date": 1592352000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NzBkZmUyZDI3MGQ0NjU4ZDE1ZjZjMWIyMWY0YTExMzE=",
+      "date": 1603065600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2I4MjcwN2EwNmZhNDlkNzYzMmZkNDEzNjg3Y2NiNzg=",
+      "date": 1612396800000,
+      "text": "Contraminuta | Contraminuta (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzgwMTMzMjAxOWQ4ZmQ4NDdkY2E1MDc3Y2JkY2M5MjE=",
+      "date": 1594944000000,
+      "text": "CONTESTA\u00c7\u00c3O DE CALCULOS | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTA2NDg3MWQxYjUwMTY1YTNkN2Q2NTE0ZTJjZmNmYjI=",
+      "date": 1606348800000,
+      "text": "Julgado(s) procedente(s) em parte o(s) pedido(s) ( / Embargos \u00e0 Execu\u00e7\u00e3o) de MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZmMjYyZDFjMGQ3NzE4MmY2YjMyYjVmZWU3ZTExNzk=",
+      "date": 1606694400000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2ZhNGNiYTM4NWIwZmE3NzUyNDczNjliZGNhOTcyZDQ=",
+      "date": 1586304000000,
+      "text": "Juntada de documentos de representa\u00e7\u00e3o | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mjk2NGExMTFiZmM1YjE2YjZhYmVmZmU4ZjRmMmE4ZjU=",
+      "date": 1612483200000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 05/02/2021",
+      "attachments": []
+    },
+    {
+      "id": "YThmMmZlNGI2MmUyYzFmNDdlZWViMjdlZGU1ODEyNGE=",
+      "date": 1606694400000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 01/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "M2YzM2UyYmI2OWJlNmM5NWI4ZjJiNDc2ZGI5Mjk0MDA=",
+      "date": 1602633600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "OGUzMTZjODcxNjkzZDBiMWVhMjYxODY1ZDY0ODgyNzk=",
+      "date": 1603065600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "YWFmM2Y0ZjI0MmQ5ZjBmYmNjODJjZDhiOWYyNmQ1MWQ=",
+      "date": 1595289600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MGM1N2I4ZGJkNzIyMGZjZTRiMjZkMWVkMzg3OGRiMzQ=",
+      "date": 1603152000000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YWU0Yzc0NTVmMjAxMjI5N2I3Y2Y4Mjg3MGY4ZTFiM2Y=",
+      "date": 1606348800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "ZmVkMWVkMzk0NTUxYzBhODAyOWQwZjBlZjRmYTQ3ZmQ=",
+      "date": 1611446400000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTRiZDUwODRiMmVkMmY5NGU4MGNhNWFhNTFhMjcxZjM=",
+      "date": 1602633600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDk4YzY2MjVlYjQ3NGJkYjc2MTI4YWY0M2I3NzNlNGU=",
+      "date": 1595289600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) JOSE ALBERTO FERNANDES PEREIRA",
+      "attachments": []
+    },
+    {
+      "id": "Y2E5NjcwN2Y3NTNkOWY2YTdmZWU0ZjUxMWRjMzk1YTc=",
+      "date": 1603756800000,
+      "text": "resposta aos embargos \u00e0 execu\u00e7\u00e3o | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ5ZDg2OWI1NWZiN2MzMzk4ZTU3ZGQwNGMwZGFiY2M=",
+      "date": 1594944000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Concord\u00e2ncia com laudo pericial)",
+      "attachments": []
+    },
+    {
+      "id": "NGQ3Y2RjYTFmMGVhMWMyNTI0Mzk1MmQ1ZDFjM2I1YjE=",
+      "date": 1601337600000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 28/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZWU3ODUwZWIzYTI4MWVmYmY4NjI2MDZkYjM3YmVlZjk=",
+      "date": 1600992000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Dila\u00e7\u00e3o de prazo)",
+      "attachments": []
+    },
+    {
+      "id": "ZjM2NzI3MjE4MDc1OTE3M2ZhN2EyN2Y1NTYzZTdkZmU=",
+      "date": 1612742400000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) UNIAO FEDERAL (PGF)",
+      "attachments": []
+    },
+    {
+      "id": "MjVlZGI5NGY0MDQ4NTg0ZTkwNDQ0NDdlNzIwOTNkMTU=",
+      "date": 1600992000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmVjODlkOTZkNDdhYzdkYjhjZTNmZGJhNmFlOTgyMWQ=",
+      "date": 1586304000000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzlmOTExOWQyNTlkMzUxYTAyZWY1MWJlOWQ0YzJmMDU=",
+      "date": 1593820800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OGE3NDY0NjQ0ZjdjMWQxMWU2MThjMjljODNmODBmOTA=",
+      "date": 1602806400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Reconsidera\u00e7\u00e3o de despacho e esclareicmentos)",
+      "attachments": []
+    },
+    {
+      "id": "ZWQzMDgwOTM1NDU1NTEwZWU1MDUzNjU5ZjM2YTU1NjM=",
+      "date": 1600992000000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZGY2NjE1NzBhMDEyOWUwY2ExNWU4ZDEwN2I5ZjFlMmQ=",
+      "date": 1600992000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2YwZGNmYWY3MDgzODMwODlmMmM4NDZjNGZmMjU4OTA=",
+      "date": 1603065600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) UNI\u00c3O FEDERAL (PGF)",
+      "attachments": []
+    },
+    {
+      "id": "MjZlNDYxYWI0OWQ2ZWQ4NDM3YTFiY2IxNjY4OTU4ZDY=",
+      "date": 1596585600000,
+      "text": "Decorrido o prazo de JOSE ALBERTO FERNANDES PEREIRA em 04/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "MGM0MDBhODFhZjYxYjNjYjMxY2I4MTVmZjMwZDkyZmM=",
+      "date": 1600992000000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a OTAVIO LUCAS DE ARAUJO RANGEL",
+      "attachments": []
+    },
+    {
+      "id": "MWI3ODMyNDFmNTEyNGViNTY5NDQ2MmIxMWFlYmM1MTI=",
+      "date": 1592352000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmIzZDY1ODZmNWY4ZmFmMGEzMTFjOGViMTZlN2U5YjA=",
+      "date": 1585785600000,
+      "text": "Procura\u00e7\u00e3o e declara\u00e7\u00e3o de hipossuficiencia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTM3MGRlNWRlNmJhN2E3ZDA4ZTg0OThiOTA0MzNiZmM=",
+      "date": 1587686400000,
+      "text": "Manifesta\u00e7\u00e3o \u00e0 impugna\u00e7\u00e3o da executada | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGY1MzA0NDJjZWM0NDVjNjUxMzg1OWU5MTI1OGRiZTY=",
+      "date": 1600905600000,
+      "text": "Disponibilizado (a) o(a) intima\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ODg0M2I4NjA5ZjFhMTczOTEwNDA4YmI5YjI3ZmQ5MWI=",
+      "date": 1586304000000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTMyZWFiY2ZiOWViYjY0Y2RiZTU4NjA3YjEyNzY1NGY=",
+      "date": 1585785600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODhmZWRlN2IyMGNiYTIxNjBlMDY2N2ZlYzljZjA2NGY=",
+      "date": 1602547200000,
+      "text": "Iniciada a execu\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MGM0OTVmMzc2NzAwNmUxNDI1YWI5MzkyN2VkNDE1ODg=",
+      "date": 1607817600000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWYzZjhkYzE0OWY3ZjA3MzQyY2YyM2QzNjM5YjZmZDQ=",
+      "date": 1611446400000,
+      "text": "Conclusos os autos para decis\u00e3o de admissibilidade do recurso a ALEXANDRE SILVA DE LORENZI DINON",
+      "attachments": []
+    },
+    {
+      "id": "Zjg3Nzg0ZDhjNmRkZDAxMzA1NzEzMTRkZjdhOGViMDU=",
+      "date": 1597449600000,
+      "text": "Planilhas do Laudo Pericial Contabil Retificadas | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjI1ZWU3ZWQwMTJkODQ0ODgzYzc0N2Y3OWI2ZmEwZjE=",
+      "date": 1602806400000,
+      "text": "03. Dep\u00f3sito recursal AIRR | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWQxOWRhZjA1OGQyZjdjMTYwY2U4MTg3MjE0NGFlNzk=",
+      "date": 1607817600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Agravo de Peti\u00e7\u00e3o (Agravo de Peti\u00e7\u00e3o)",
+      "attachments": []
+    },
+    {
+      "id": "ZjA0MTA4MzBkMzg1ZTZiODhlYzdjZWQ0MWI1NzQ1ZGQ=",
+      "date": 1585785600000,
+      "text": "Peti\u00e7\u00e3o inicial - fase de conhecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDRlNGFjZmQwZDM0MDFhYjdkMmYzNjhhZGU4MTdjZjc=",
+      "date": 1600992000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MDcxNjQxZWY4MjM4YmFmOWFmYTdiOGU3ZWEwN2VjZDg=",
+      "date": 1602633600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "MGQ0MjMwODMzMTI3MDVhZTUzMDE0M2MwZDNlZWQ0YzM=",
+      "date": 1585785600000,
+      "text": "Fichas | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWM2YTJhNWU0ZWFmZmJkNWUxYWU2ZGQzYzlhOWUyMmI=",
+      "date": 1589500800000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 14/05/2020",
+      "attachments": []
+    },
+    {
+      "id": "N2Q3MjM2MWIxZDdhYmZmY2E4ZTY3ZjFkZDdjMzNjYjM=",
+      "date": 1595030400000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 17/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NDgyYzdhMDU4MTJjZDc1NTNmOTNjOWRiNzI3ZmU5OWU=",
+      "date": 1603843200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 27/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "MDdkZGViZWI2OTk4ODQwYTQ4MGI5NzMxY2FmMGU0MGY=",
+      "date": 1611446400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "MjUwZDAyMWU4MWVkOTgwZGIwZTIxMDZlYjI5MGNhMTE=",
+      "date": 1593820800000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "YWMzNTkzM2I5YzU2YjU1OWM3NmMyMDY0MjI4MzU2Nzc=",
+      "date": 1595289600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "ZWFkZWUzYjhiY2IzNjhmZDQ5NGY5MWViYzYwOTBmZTM=",
+      "date": 1595030400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 17/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "ZTVjYzEzOTZhYTU0MDc4ZTI3NjM1ZWMzZjYzZGE4MjA=",
+      "date": 1607904000000,
+      "text": "Decorrido o prazo de ANDRE LUIS DIAS BARREIRA em 14/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "YjMxZjJmN2I4MjQzODAyYzVhMWY1N2IxOWVkMTU3Mjk=",
+      "date": 1602806400000,
+      "text": "Reconsidera\u00e7\u00e3o de despacho e esclareicmentos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWJiMThiNmM1YmQ1YWMxMzU0ZWMyNGQxY2RhMWNiZTE=",
+      "date": 1607472000000,
+      "text": "Planilhas do Laudo Pericial Contabil Readequadas | Planilha de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTkwMDBkZTliMTIwZDZhOWY2YzZlODg2YzdkYjdjYzI=",
+      "date": 1587945600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "MGU5MzFmMDMyN2RlZTE5MTFiMTJlYTliNDJiMDlhOTc=",
+      "date": 1611532800000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 26/01/2021",
+      "attachments": []
+    },
+    {
+      "id": "NjQ5ZGMyMjQ3OTYxMWY2MWVkY2MyYzVhNTYwNjkyYjU=",
+      "date": 1607817600000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTM2MzdhNmJiMjkyZjJjZWNjMGRkZjkyNmU0ZWY1ODU=",
+      "date": 1585785600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ALEXANDRE SILVA DE LORENZI DINON",
+      "attachments": []
+    },
+    {
+      "id": "MjNhNjI3Mzg5NmM2YmQxN2NjY2NiZjg1Y2FmYjkxNTg=",
+      "date": 1602547200000,
+      "text": "Comprovante de Dep\u00f3sito Judicial | Comprovante de Dep\u00f3sito Judicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjE5YjY0ODY4YTM0YjcyZDk2ZDBmNmI1MzYzNzdiMDY=",
+      "date": 1585785600000,
+      "text": "Senten\u00e7a nos ED | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjQ4YTY5NTlkMjA0YWU5NGE3M2JlMzFlYTNlMWVhODc=",
+      "date": 1585785600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MjVjYTljNzY0N2Y2ZWE5MGE0ZWQ0NTk0MTg0ZGRiNTk=",
+      "date": 1587686400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o (Manifesta\u00e7\u00e3o \u00e0 impugna\u00e7\u00e3o da executada)",
+      "attachments": []
+    },
+    {
+      "id": "NTdiZDEyZjAxYzI5YzZmMmM0YzQ4MGE3NTA4ZGU3OTM=",
+      "date": 1602547200000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a OTAVIO LUCAS DE ARAUJO RANGEL",
+      "attachments": []
+    },
+    {
+      "id": "OTk0ZTNmYzU1YWI0YjI4Y2U1NDgyYmJhOTQ1MTI1ZDU=",
+      "date": 1596585600000,
+      "text": "Conclusos os autos para despacho (gen\u00e9rica) a ANDRE DA CRUZ E SOUZA WENZEL",
+      "attachments": []
+    },
+    {
+      "id": "OWIzMDljMzRmN2I4ZjA3N2I0Nzg0ODFjMzg2N2FiNDA=",
+      "date": 1598054400000,
+      "text": "Decorrido o prazo de JOSE ALBERTO FERNANDES PEREIRA em 21/08/2020",
+      "attachments": []
+    },
+    {
+      "id": "MTUzMTgwZWFhMmM0YzQxMjJkZjdhNjgyMGRiNjk2ZWY=",
+      "date": 1615161600000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "MDg3MTczYjNkY2Y5ZTgxMzkzNDMxYjNhZGJlMWQxM2E=",
+      "date": 1585785600000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmY0MjE2ZTI0OGI0NTQ0Y2JjZmVjMzlhOTc0M2NiZGQ=",
+      "date": 1585785600000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTQ4N2Y1ZmE2NzVhNzI4ODhhMGJhNjQ2MTE0MmM0NDU=",
+      "date": 1585785600000,
+      "text": "Senten\u00e7a | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2E0NmM0MWU3YTE2YmRiMzkxMTMyYmE2NjdmZTVjOTk=",
+      "date": 1602720000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 15/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "MWY2YWFiYjkwMDVmYTE4ZjA2ZjA4YTg4MzQ2ZjIzN2U=",
+      "date": 1585785600000,
+      "text": "Iniciada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "M2Q3OGYzNGVjNzcyZDY0NzcxY2VjOWFlNDA5MmIyZWM=",
+      "date": 1600905600000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 24/09/2020",
+      "attachments": []
+    },
+    {
+      "id": "NThiZWY0M2Q1OTA0N2I1M2NlYTI3NDcwMjgwMTViMjE=",
+      "date": 1607904000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 14/12/2020",
+      "attachments": []
+    },
+    {
+      "id": "MzJmODNiMTBkNGI0ZjY4YTYzZGQ5Zjc3OWY4MzJiZDc=",
+      "date": 1600819200000,
+      "text": "Homologada a liquida\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "YjRlZDk0ZWY3YWM2MDhmNjI3NGZmZDQyMGYwMDY2NzQ=",
+      "date": 1597449600000,
+      "text": "Manifesta\u00e7\u00e3o \u00e0s Impugna\u00e7\u00f5es | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2E4YzQ3ZDJiMmE2NmY5MDMyMzg2ODdhOTVjYjBjMDk=",
+      "date": 1585785600000,
+      "text": "Expedido(a) intima\u00e7\u00e3o a(o) MRS LOGISTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "YWQ0MDc1NzI3NDQwZWViOWQ5ZjJhZWVjYWFlMjhhMDQ=",
+      "date": 1594166400000,
+      "text": "Decorrido o prazo de JOSE ALBERTO FERNANDES PEREIRA em 07/07/2020",
+      "attachments": []
+    },
+    {
+      "id": "NDBiZjYzZGNlZjNmM2ZlNzM1Y2ZhMDAyMzNkZDQ3ZTY=",
+      "date": 1593388800000,
+      "text": "Descritivo do Laudo Pericial Cont\u00e1bil | Apresenta\u00e7\u00e3o de Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OWY2ZTUxZWJjMjM0MGExYTc1OTljMTQ5NjI2YmNhMGY=",
+      "date": 1596585600000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTYwZWI2YzQ0Nzk1Y2MwMmUwNzAzNDIzNGI5MmU3M2U=",
+      "date": 1593388800000,
+      "text": "Planilhas do Laudo Pericial Contabil | Laudo Pericial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzZjYTE0NDZhYzIxNDA5YTU4MTU3MGQ3NjJiYWUzZTE=",
+      "date": 1595289600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTQ5YTJmMGY0ZmJlN2EyMDYzOTJmMzk2Y2FkZjg1ZDY=",
+      "date": 1593820800000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Nzk1NDM5ZTIwNjZmMDQzZTE0YzYxMWFjNzUwM2JjMTU=",
+      "date": 1606348800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MzcyNzA0MTVlYWM5MzRkNzA4MWEyMzFjNmY5MWYyM2I=",
+      "date": 1607472000000,
+      "text": "Peti\u00e7\u00e3o de Juntada de Laudo Pericial Readequado | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjVlMjlkNDkxNWI1NmY5YjA1ODljNDAyOTA1YmIxOGM=",
+      "date": 1592956800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "OTE4NDg2YjQ4YWNlNWQ0MDY3OTE0Y2ZmMzQ1MDJiMDE=",
+      "date": 1585785600000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "YzI5ZGM5ZGMzMTYyYTZhYjE1ZWVmZWVlOTcyNDEyZjA=",
+      "date": 1606003200000,
+      "text": "Conclusos os autos para julgamento da a\u00e7\u00e3o incidental na execu\u00e7\u00e3o a WALKIRIA APARECIDA RIBEIRO",
+      "attachments": []
+    },
+    {
+      "id": "MTY5NTY0YTk1ZTRjMjVkMGEwZTU2Mjg0NTE3M2E3N2M=",
+      "date": 1603152000000,
+      "text": "Publicado(a) o(a) intima\u00e7\u00e3o em 20/10/2020",
+      "attachments": []
+    },
+    {
+      "id": "OWU3ZWViY2MxNDg3ODVlNjljYmEwNDhlNTEyNjA0MDM=",
+      "date": 1602633600000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZjNhOWJjNTFiMDU0ZDRjZjA4ZThiMjEyNzliOGVmNTM=",
+      "date": 1586304000000,
+      "text": "Juntada a peti\u00e7\u00e3o de Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (Juntada de documentos de representa\u00e7\u00e3o)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

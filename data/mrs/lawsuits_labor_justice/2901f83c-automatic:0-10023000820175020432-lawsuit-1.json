@@ -1,0 +1,758 @@
+{
+  "lawsuit": {
+    "id": "MjkwMWY4M2MtYXV0b21hdGljOjAtMTAwMjMwMDA4MjAxNzUwMjA0MzItbGF3c3VpdA==",
+    "activityCount": 114,
+    "number": "1002300-08.2017.5.02.0432",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Ariovaldo da Silva Nazario",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Thiago Luis Farias Nazario",
+            "cpf": "354.105.278-36",
+            "lawyerId": "ZjY5ZDBlMzctYXV0b21hdGljOjAtYTJkMDkxNzE1ZDkxOWViLWxhd3llcg=="
+          }
+        ]
+      },
+      {
+        "name": "Uni\u00e3o Federal (Pgf)",
+        "author": false,
+        "defendant": false,
+        "role": {
+          "raw": "OUTROS PARTICIPANTES",
+          "normalized": null
+        },
+        "lawyers": []
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Raquel Nassif Machado Paneque",
+            "cpf": "252.204.698-51",
+            "lawyerId": "YWEwYTY0YWEtYXV0b21hdGljOjAtYjgxN2M4YTY1YjY1YmEwLWxhd3llcg=="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1483279200000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "4\u00aa Vara do Trabalho de Santo Andr\u00e9",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Ordin\u00e1rio",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YmNhMDBmYWQyY2EzZTA4ODQ0NGFlNzAxZDdjYzFlMTU=",
+      "date": 1520899200000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTdlNzE3OTU2ZDdjNjc3ZGIwMDE3MTkxM2U4ZDhiMjY=",
+      "date": 1520467200000,
+      "text": "HABILITA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjJkMDkxZGE0MTM2OGU4YjZkNzNkZTEyMWU3NGM3MjY=",
+      "date": 1515628800000,
+      "text": "Conclusos os autos para despacho a CARLA MARIA HESPANHOL LIMA",
+      "attachments": []
+    },
+    {
+      "id": "YzBhNWI4NTM0ZWZhNWE4MGY4NGYxZDI2NzNlMWI5MWU=",
+      "date": 1538352000000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o realizada (01/10/2018 10:30 - 4\u00aa Vara do Trabalho de Santo Andr\u00e9)",
+      "attachments": []
+    },
+    {
+      "id": "Zjk4ZWY5NWVmNmJkNjY4MWQxNGRlNWVhM2I4NjlmMjM=",
+      "date": 1544140800000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "Y2JlMTk4ZjY5NzkzMGY5ZGIzNGVkNTg5NzcxNDcxOTU=",
+      "date": 1515628800000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NGY0YmFiNDczMjA4OTJlZDhhZmIyMjA0NzMzYTAxYWM=",
+      "date": 1550361600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Recurso Ordin\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "OGZhZjY3ZTAwN2MyNjFlNTk2ZmZkN2ViMWNkYzE4ZmE=",
+      "date": 1522108800000,
+      "text": "Carta de Preposi\u00e7\u00e3o | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmNkMTk4MTZmODY1ZGY5OTA1Yzg0NjM0ZjEyZTU5ZTY=",
+      "date": 1539216000000,
+      "text": "00.Regulariza\u00e7\u00e3o Processual - TRT2 - ARIOVALDO DA SILVA NAZARIO | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTc0MzUwMWYyNmU3NWEyOWQ2MDA4ODU3YmRmZTY2ZGY=",
+      "date": 1517529600000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "N2UxNDk2YmYyZTExMWIwMmQ5N2I4MjYwZmJlMTMwYmM=",
+      "date": 1512172800000,
+      "text": "declara\u00e7\u00e3o de incompet\u00eancia conex\u00e3o | Impugna\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2RiNjczYjA3ODZhMTY2NGQ0MGYxYzM2MjBjNzU0ZDA=",
+      "date": 1517443200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NWU4NjgyOTdmOGY0OGM3NzE1MTBiNDRkMTZjNTFhMmU=",
+      "date": 1544745600000,
+      "text": "peti\u00e7\u00e3o juntado ac\u00f3rd\u00e3o paradigma | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzcxODIzN2M5MjJhZGU0MTFmNGJlYjdkMTc0ZGEwZmE=",
+      "date": 1520899200000,
+      "text": "Contrato de Trabalho | Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDMxYzYzNmU5YTBhYjFmZTU0ZjhiNGQ5ODE4ZTFjOGU=",
+      "date": 1519171200000,
+      "text": "emenda a inicial 840 paragrado 3 CLT | Apresenta\u00e7\u00e3o de C\u00e1lculos (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQ2NGEyNjljMTkyMDRmY2I1MTJiNDc1M2FhZTExMWM=",
+      "date": 1513123200000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "N2IzZjE3YjQ5N2Q4NzEzZmExZmE5MTU0ZGFjMjA2N2Q=",
+      "date": 1517443200000,
+      "text": "Decorrido o prazo de ARIOVALDO DA SILVA NAZARIO em 31/01/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTEzMjg2NjQ2MTAwMmJkMDAxYzRmNzc3ZGY0NmVkZjA=",
+      "date": 1551830400000,
+      "text": "Contrarraz\u00f5es ao recurso ordin\u00e1rio | Contrarraz\u00f5es (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmYwZWNlNGM1N2IzMzRhOGZmOTRkN2I5ZjVhMjJlOGE=",
+      "date": 1511827200000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NDE1ZGU4NWMyNTE1M2FjMzI2OTQ1YTYzYjVmYjU5ODk=",
+      "date": 1543968000000,
+      "text": "Julgado(s) improcedente(s) o(s) pedido(s) (A\u00c7\u00c3O TRABALHISTA - RITO ORDIN\u00c1RIO (985) / ) de ARIOVALDO DA SILVA NAZARIO",
+      "attachments": []
+    },
+    {
+      "id": "MmFmYWY5ZGU0ZGM5MTgwY2YwMDhjMGEzYmE5ZDg3NWM=",
+      "date": 1522195200000,
+      "text": "R\u00c9PLICA A CONTESTA\u00c7\u00c3O | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTNmODdhNDE0YzI1M2JhZWJmZDE2NjViYTcyZGYxNDQ=",
+      "date": 1520985600000,
+      "text": "Audi\u00eancia inicial realizada (14/03/2018 09:10 - 4\u00aa Vara do Trabalho de Santo Andr\u00e9)",
+      "attachments": []
+    },
+    {
+      "id": "NDMyMGZhMTY4OThiODBiY2FlZWE5MWViMzI2ZWQ5Njc=",
+      "date": 1549411200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 06/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "ZmFiMmEzZmE2Yjk4NDRhZjQ3MDhjNTQ4MmNiZjFmODc=",
+      "date": 1552176000000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 08/03/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OWViYTFiMmQ2MTVkYTBiMGE2NGE1YmU4MTFkMzk1NDY=",
+      "date": 1520899200000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTliNzNhMDY2NGUxYjVlZjAxOWU2ZGZhOWM3NGIwOTY=",
+      "date": 1520467200000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzlhMjFkYzliYzEyZWVmYTljM2FkNzI2Y2I3NjgxNGQ=",
+      "date": 1516752000000,
+      "text": "Publicado(a) o(a) Despacho em 24/01/2018",
+      "attachments": []
+    },
+    {
+      "id": "ZWIxOGE0ODI5YmY0ZWI5NGE5MzRmNTM4NWFiODM5YTI=",
+      "date": 1539216000000,
+      "text": "01.SUBSTABELECIMENTO - MRS - DRA CINDY. | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjdkMzU4ZmVmMDNhMzkwODA1ZWEwYjNlYWUzNDZlMTQ=",
+      "date": 1520985600000,
+      "text": "a juntada do extrato anal\u00edtico de FGTS do autor. | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2I2NGY0MzE1ZjIzNmQ0OTE2OGFjYTM4NjM1YzIxMDg=",
+      "date": 1510790400000,
+      "text": "Procura\u00e7\u00e3o | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YjgyZWMzOGVlOWMzMWQ0ZDJlNmFjODE2ODUwYTA4Nzc=",
+      "date": 1513296000000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "M2M1MWM5MGY2OGJhMTg1NTFkMzk0OTgyYTc4NWExM2U=",
+      "date": 1545350400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 19/12/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "OGE4NjY2M2VlMGQ4ZDI5ZmQ2ZmFmMDNlYjMxMTczYWE=",
+      "date": 1565049600000,
+      "text": "Decis\u00e3o de preven\u00e7\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZTQzMWFmZDIzODI0MjBjNWM3MDk2YWE4MzZhNDRjMmQ=",
+      "date": 1549324800000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "OWQwNTQzNmIxNDA0ZTM1NjA3YzRmZmFjZTYwMzFlNDA=",
+      "date": 1552435200000,
+      "text": "Remetidos os autos para \u00d3rg\u00e3o jurisdicional competente para processar recurso",
+      "attachments": []
+    },
+    {
+      "id": "OGJkNzUwNjdhNTE1ZWMyMjY4MmUyODFmNTJhMzQxMWI=",
+      "date": 1538352000000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "NjVkM2Y4NTQwMjY1NmJhYzcwOGJiNDA5YTA1NjU0ZGM=",
+      "date": 1520985600000,
+      "text": "Audi\u00eancia instru\u00e7\u00e3o redesignada (01/10/2018 10:30 - 4\u00aa Vara do Trabalho de Santo Andr\u00e9)",
+      "attachments": []
+    },
+    {
+      "id": "NTE4NDRhNDk0NWJkYTkyMzMzY2E3ZmY5ZDgzNDQzNzg=",
+      "date": 1517443200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjA0MWUxZjU3NmQ3MDMzZTEzZjZhYjRlYWNjNDA0NzE=",
+      "date": 1543968000000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDQ2NTRjNGJhNGU5NmUyZGYwNzBiZTJlMTA2ZTczMjk=",
+      "date": 1550707200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MDQxYTg4YTM2NWY2ZDQzNWMyYmNjOTU2OTNiNDM2MzU=",
+      "date": 1512172800000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZWYzNmYzNDNiOGE5OTU3MGRmMmVkNDBlODZlNGJjOWM=",
+      "date": 1550620800000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ARIOVALDO DA SILVA NAZARIO - CPF: 008.643.738-05 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NzAwYTY2YWY5MzUzMzQ3NTIzNGRkMjUxMDg5YTI5ZDI=",
+      "date": 1549238400000,
+      "text": "Conclusos os autos para julgamento dos Embargos de Declara\u00e7\u00e3o a CARLA MARIA HESPANHOL LIMA",
+      "attachments": []
+    },
+    {
+      "id": "M2VlM2RkZmExOGVhNWIxMGYwYjg1ZTMyNjlhNWYwNzM=",
+      "date": 1521417600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzEwNDE3NTM0NjcyZWZlZjljZjZhOGFkYTFmMzMwMDg=",
+      "date": 1522108800000,
+      "text": "juntada de documentos | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODdjNzk5MTVmNjc5ZDAzMTI5NWM2YWVlZmY0ODllZDg=",
+      "date": 1513209600000,
+      "text": "Redistribu\u00eddo por sorteio por ter sido declarada a incompet\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZGNmNzlkNDYzZGZjNWVlYWU4NTgzZDQ5NGZhMTkxMWQ=",
+      "date": 1520899200000,
+      "text": "Extrato de FGTS | Extrato de FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2RiY2VmNzExMzk2NGQxNzU3YjdiN2YxY2MyYjA4YWU=",
+      "date": 1510790400000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDliOTMyMGZmNTkxYWQ5OGIwMjJkNzg3NTJhZTdhOTY=",
+      "date": 1510790400000,
+      "text": "Distribu\u00eddo por depend\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "Y2E5MjM4MWQxZmFlZmI1ZGM2NDg1NDcxNDgwYmU1NDg=",
+      "date": 1549324800000,
+      "text": "N\u00e3o acolhidos os Embargos de Declara\u00e7\u00e3o de ARIOVALDO DA SILVA NAZARIO - CPF: 008.643.738-05",
+      "attachments": []
+    },
+    {
+      "id": "MTY0Mjc2MjFhMWU4ZjFlZTE4ZjYzYjI3OThlOTZiMGE=",
+      "date": 1540166400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Raz\u00f5es Finais",
+      "attachments": []
+    },
+    {
+      "id": "YjgyNGUyOTA5MzJmOTEyYmE1MDljOWIwNjk3NTA1ODg=",
+      "date": 1517356800000,
+      "text": "Conclusos os autos para despacho a GLAUCIA REGINA TEIXEIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "MDBmYmQ2MmRjMjcyYTgyZTdlYjkxMWFlYTJjMzk0ZTM=",
+      "date": 1544745600000,
+      "text": "Embargos de Declara\u00e7\u00e3o | Embargos de Declara\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDJlYjRkYmViZTI2MDgyODU5OWFlYTA0N2EzMWViNjY=",
+      "date": 1513123200000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTFiMmM1OGMzNWU1MTljNmQwMzQ3MDNlZTkyMGMzNGM=",
+      "date": 1513036800000,
+      "text": "Conclusos os autos para despacho a LORENA DE MELLO REZENDE COLNAGO",
+      "attachments": []
+    },
+    {
+      "id": "MzYxYjFiMDIxNjc4MDBjNzg1MWRiMmIyODhjZWQyMDk=",
+      "date": 1520467200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Solicita\u00e7\u00e3o de Habilita\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRlMTlkMDljNDM1OTcxYjNmNjM4OWU3YzJkYWZhZDM=",
+      "date": 1516233600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDliMDU1NTUwM2RmNDU1MGY0YTk0Nzc3YTgwOTRhYjU=",
+      "date": 1519862400000,
+      "text": "Decorrido o prazo de ARIOVALDO DA SILVA NAZARIO em 28/02/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "ODQ1NGJmYWJmMjFmOTM4Yzc1NDhhYmRlNDY0MDRkYTc=",
+      "date": 1551830400000,
+      "text": "Juntada a peti\u00e7\u00e3o de Contrarraz\u00f5es (Contrarraz\u00f5es ao recurso ordin\u00e1rio)",
+      "attachments": []
+    },
+    {
+      "id": "NDVkYzIwZDAxZDQ2OWU1MWVmNDMwMDE1YTUwMjI2ZTM=",
+      "date": 1520467200000,
+      "text": "Contrato Social | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWUwZWZlZWU5YzQ3YzgyNGZhZmQyODVhODc2MWYxNjg=",
+      "date": 1545350400000,
+      "text": "Decorrido o prazo de ARIOVALDO DA SILVA NAZARIO em 19/12/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "NTA0NjZmYmI4ZDljZjVhZmExZDdhMGRjYmM1YWM1M2U=",
+      "date": 1517443200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NmIzZTEwNDg5ZDYyOTc4NDZiZTdlZjNlMDI4ODQyNWQ=",
+      "date": 1520467200000,
+      "text": "Contrato | Contrato (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzA5YjllYzE3MzVlM2NhM2M5MmEwYWI4NmNiZGY5ZGI=",
+      "date": 1550534400000,
+      "text": "Decorrido o prazo de ARIOVALDO DA SILVA NAZARIO em 18/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "Zjk5NzFjYjVlNGFjYTNjZjVmMWU1MzZkODgxMWI3YmE=",
+      "date": 1550534400000,
+      "text": "Recebido(s) o(s) Recurso Ordin\u00e1rio de ARIOVALDO DA SILVA NAZARIO - CPF: 008.643.738-05 sem efeito suspensivo",
+      "attachments": []
+    },
+    {
+      "id": "NDVjMmVjOTVmMzRkOTQ5ZDQ1OTkyYjAyMWY5N2EzNDQ=",
+      "date": 1540252800000,
+      "text": "Juntada a peti\u00e7\u00e3o de Raz\u00f5es Finais",
+      "attachments": []
+    },
+    {
+      "id": "OGJlMDRiYjVhMWIyY2JjYjU0MDk2YTdmNWE4N2U0NTA=",
+      "date": 1517184000000,
+      "text": "requerendo prazo complementar para emenda | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjQ5N2Q4ZGIyYTQzZDEyODc4Y2JlY2Q1YzEyMDU3Nzc=",
+      "date": 1543968000000,
+      "text": "Senten\u00e7a | Senten\u00e7a",
+      "attachments": []
+    },
+    {
+      "id": "MWZhZjFmZmNiMDEyYmFkYjk1Y2E2NTFmNzRkOTIzNmI=",
+      "date": 1550534400000,
+      "text": "Decis\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NmI0MzkyYmMzNWMzMTQ3NDliMzgzZDAwODI5MGI0Nzk=",
+      "date": 1550361600000,
+      "text": "Recurso Ordin\u00e1rio | Recurso Ordin\u00e1rio (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGRhNDMzNzg0NGI4NGM1YTQzZjY0NzE5ZDEyMzk1MDM=",
+      "date": 1519257600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWNmN2RjM2E0OGY0ZTE2OTQyOWYwOWY0MjMwMDJlMmI=",
+      "date": 1513296000000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 15/12/2017",
+      "attachments": []
+    },
+    {
+      "id": "YTBmYTEzMmQzMjQ5NDQwMWY1OTliMTUxYjVkNGFkYjY=",
+      "date": 1550534400000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 18/02/2019 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MzMwNDBhMGQ1NmUxYTA4MTIyZGI1MmYzNGNiY2Q4M2Y=",
+      "date": 1540252800000,
+      "text": "Raz\u00f5es Finais | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTA4OGNkMmU1OWFlNzk1MTdlMDNiZGMzMWI4MzcwYjc=",
+      "date": 1522713600000,
+      "text": "Decorrido o prazo de ARIOVALDO DA SILVA NAZARIO em 02/04/2018 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTRiNmNmNzkxMTlkMmE2MDU5MzhhY2RiZWI0ODdjYTQ=",
+      "date": 1538352000000,
+      "text": "Audi\u00eancia julgamento redesignada (23/10/2018 17:30 - 4\u00aa Vara do Trabalho de Santo Andr\u00e9)",
+      "attachments": []
+    },
+    {
+      "id": "YTgxYWJlNmY4MWYzMDEzYmU1NTJlZjEwMmRmNDYzZWE=",
+      "date": 1510790400000,
+      "text": "Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) | Termo de Rescis\u00e3o de Contrato de Trabalho (TRCT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTU3ODNiNGZkZTVkYWYzZGNiNTFkNDEyN2RmNDZhYTU=",
+      "date": 1519257600000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzcwZjAwNDliNjE1MzgxZGE4ODhlYWQ0NjdiMGFjZmI=",
+      "date": 1520899200000,
+      "text": "Ficha de Registro de Empregado | Ficha de Registro de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Mzg5ZDk2NTg3ZTA3YTExZDJkOTJhZDU2N2YzM2I2OGQ=",
+      "date": 1549411200000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "NjFiMDQ4MThjMWMxMmVmNmQ0ZjUyN2E5Mjg3YmY1YjE=",
+      "date": 1516233600000,
+      "text": "Audi\u00eancia inicial designada (14/03/2018 09:10 - 4\u00aa Vara do Trabalho de Santo Andr\u00e9)",
+      "attachments": []
+    },
+    {
+      "id": "ODM1OGUzYTAxZjliOTk1NDI1MDQ4ZDEyZWFkYzU0Njk=",
+      "date": 1521590400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "YzM4MWNiOWUxZjAzOWJkN2JmYjZlNTMxOWU0ZTE3ZDU=",
+      "date": 1522108800000,
+      "text": "Substabelecimento com Reserva de Poderes | Substabelecimento com Reserva de Poderes (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjBiNWE3ZTY1OTI1NzZlYmU1NGQ2YjQ5NmU3MGM2MWM=",
+      "date": 1544745600000,
+      "text": "Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) | Perfil Profissiogr\u00e1fico Previdenci\u00e1rio (PPP) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzkxNWQxOWYyZmE0OGFmODVlMWYzYzY3Y2QzYWMyZDU=",
+      "date": 1520899200000,
+      "text": "Estatuto | Estatuto (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTI0ZTkwYTlmYWU4MTAwM2Q4YTYxYjBmYTIzODcyMzg=",
+      "date": 1511827200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "NDc3MDQ1NDU0OTE3MTRhNzBkNDIxMjVmYTIxZWQzMzY=",
+      "date": 1520899200000,
+      "text": "Cart\u00e3o de Ponto/Controle de Frequ\u00eancia | Cart\u00e3o de Ponto/Controle de Frequ\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDM3YjY4OTI1ZjZhMGY1NTQ4OGQwNzM4MTcyZDAyZGI=",
+      "date": 1550707200000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/02/2019",
+      "attachments": []
+    },
+    {
+      "id": "NzZkYTA1NjFmYTQ5MzZhY2Q3Njk1NWQ4YjdhOTc0YzA=",
+      "date": 1521590400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 21/03/2018",
+      "attachments": []
+    },
+    {
+      "id": "MWM5NDZiNWMxMzkyZDBlODkyZGMzOTg2NWZkNDhhNDg=",
+      "date": 1540166400000,
+      "text": "RAZOES FINAIS - TRT2 - ARIOVALDO DA SILVA NAZARIO | Raz\u00f5es Finais (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MGQ3YjdkNDQzYjdhN2M5NzUyNDY1ZjU1NDU2ZWRkNzM=",
+      "date": 1543968000000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a ARIOVALDO DA SILVA NAZARIO",
+      "attachments": []
+    },
+    {
+      "id": "MjI3MTk5MTdkZmMzNGNiMjA0OWZjYTI0ZGI4NTQzY2Y=",
+      "date": 1513123200000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "OGQ5M2M2YzZmMWU0ZDNkODNjOWI2MDVhOGI2MDdlMmQ=",
+      "date": 1520985600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "MmNjZmJlY2FhMDJiY2ZiYzllZjBmNWY3MmQ3YzQxNDU=",
+      "date": 1517529600000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 02/02/2018",
+      "attachments": []
+    },
+    {
+      "id": "NmFlNmNmMWY1MjFjNmU3MTMyNzE4ODQxNzU3ZmY0NjQ=",
+      "date": 1510790400000,
+      "text": "Carteira de Trabalho e Previd\u00eancia Social (CTPS) | Carteira de Trabalho e Previd\u00eancia Social (CTPS) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTIwYjhmYjEwZmQ3NGQ4YzUzODllNjYxMjIzYjkwYzM=",
+      "date": 1520985600000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGIxMjhjMGI0MjkzMWY1MzE0MjVkYmIyMmE5N2U3ZDk=",
+      "date": 1515628800000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "MTNmODg5N2VhOWQ2NTBiYTM1Y2MzODZhNzdiNWExMzI=",
+      "date": 1519171200000,
+      "text": "Documento Diverso | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "M2E4NzA0NGM1MTY2YjY3YTQ2NTU1MjQzNzg3NGI1ZjU=",
+      "date": 1520899200000,
+      "text": "Acordo Coletivo de Trabalho (ACT) | Acordo Coletivo de Trabalho (ACT) (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDgxMDc5YWJmMGVjYjVmOWJlZGZmYWU1OTA0ZDhiZWQ=",
+      "date": 1550534400000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a FERNANDA MIYATA FERREIRA",
+      "attachments": []
+    },
+    {
+      "id": "MTg5NzQyMDk2OGVkZWVlYmY3MmFiYjUxYjM5NjhjOTM=",
+      "date": 1549324800000,
+      "text": "Senten\u00e7a | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDBiMWRhNGYwNWQ5ZGU3ZjlhZGM2NWNlZWQ4ZjhhMTk=",
+      "date": 1539216000000,
+      "text": "02.CARTA DE PREPOSI\u00c7AO_Nilton Janino | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDUwNTI0N2U4Y2JkNGRiYTZlY2UxNTQyMzVlNmViOGI=",
+      "date": 1511740800000,
+      "text": "Conclusos os autos para decis\u00e3o Geral a LORENA DE MELLO REZENDE COLNAGO",
+      "attachments": []
+    },
+    {
+      "id": "YjBkMjU2MzlhNmQyOTYwOTMxM2ZiMDY1M2UxNDFhMDQ=",
+      "date": 1544745600000,
+      "text": "LAUDO HEMORROIDAS INTERNAS COLONOSCOPIA | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWM4YWM1OTQzNzkyMjdkYTU1ZmM4ODI3Y2U2ZGQ0YWI=",
+      "date": 1544745600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "ZWIwNTg2NGE1MWVhY2YyZTJiYWU5ZTk3ODA5YjNhOTc=",
+      "date": 1544745600000,
+      "text": "Jurisprud\u00eancia | Jurisprud\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NGU4N2RiMGRlZWUzN2RlZGNiMTU2MjA3ZWRlYzUwNmY=",
+      "date": 1520899200000,
+      "text": "Contesta\u00e7\u00e3o | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzljNWVmMWU0YmIzYTkxZTA3YzFlNjZmMDg1ZThmYTU=",
+      "date": 1543968000000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 1400.00",
+      "attachments": []
+    },
+    {
+      "id": "MWFhNGE3ZGVjMzNkNDZiYmFjZDlmOWI5MTUzNTJhZGM=",
+      "date": 1544745600000,
+      "text": "Juntada a peti\u00e7\u00e3o de Embargos de Declara\u00e7\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "Y2QzNGY1NDk0OGIxYjRmNjYyYTc2ZjVhNGE0ZmZmYTU=",
+      "date": 1540252800000,
+      "text": "Conclusos os autos para julgamento Proferir senten\u00e7a a CARLA MARIA HESPANHOL LIMA",
+      "attachments": []
+    },
+    {
+      "id": "Nzc1ZTIyYTYyODUyNTViMThhNGExY2Q1ZTUwNjQyMGI=",
+      "date": 1550534400000,
+      "text": "Decis\u00e3o | Decis\u00e3o",
+      "attachments": []
+    },
+    {
+      "id": "NzM1NGJkZjdhZDRmOWIwZjE1ZWNlNjU5YzA5N2JlNTg=",
+      "date": 1510790400000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjRiNTI2ZTNjNTQzMzUxNzhhYWNiZTM2ODllNzVhNzA=",
+      "date": 1516752000000,
+      "text": "Disponibilizado (a) o(a) Despacho no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "ZjM5N2UyYWQ4NWIyZTdjYmVkM2JkN2VhOTY4ODM5MDA=",
+      "date": 1544140800000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 07/12/2018",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

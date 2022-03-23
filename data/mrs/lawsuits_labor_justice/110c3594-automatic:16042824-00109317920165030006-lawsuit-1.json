@@ -1,0 +1,500 @@
+{
+  "lawsuit": {
+    "id": "MTEwYzM1OTQtYXV0b21hdGljOjE2MDQyODI0LTAwMTA5MzE3OTIwMTY1MDMwMDA2LWxhd3N1aXQ=",
+    "activityCount": 70,
+    "number": "0010931-79.2016.5.03.0006",
+    "value": null,
+    "subject": null,
+    "kind": null,
+    "district": null,
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Ebim Ferreira da Silva",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "POLO ATIVO (PRINCIPAL)",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Junia Cristina de Morais Lima",
+            "cpf": "005.889.356-38",
+            "lawyerId": "MWJiZTMyMzYtYXV0b21hdGljOjE2MDQyODI0LTAxNWNlOWI0ZTI4ZTY3OC1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Logistica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Flavio Bellini de Oliveira Salles",
+            "cpf": "699.622.866-20",
+            "lawyerId": "OWU4ODk4NzMtYXV0b21hdGljOjE2MDQyODI0LWI0MDY5YmMyY2VhNDM5MS1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "Progeo Engenharia LTDA",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "POLO PASSIVO (PRINCIPAL)",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Vivian Dias Castro Santos",
+            "cpf": "059.406.246-26",
+            "lawyerId": "OGZlNmIwNWUtYXV0b21hdGljOjE2MDQyODI0LTVlNzNkNWM4Y2Q5YzdjOC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": null,
+    "distributionDate": 1451656800000,
+    "stateAcronym": null,
+    "normalizedSubject": [],
+    "court": "TRT03",
+    "courtSection": "6\u00aa VARA DO TRABALHO DE BELO HORIZONTE",
+    "nature": {
+      "raw": "A\u00e7\u00e3o Trabalhista - Rito Sumar\u00edssimo",
+      "normalized": ""
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "ZWFlZjJlNjViNzM0NTg2ZGM0MGI0ODQ2YWFkNTcwMjk=",
+      "date": 1467072000000,
+      "text": "Audi\u00eancia una redesignada (12/07/2016 08:55 - 6\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "OGQwZjQxYTM0ZDU5NDhkNTE0YjUzMTEyNGJlMmMzYTQ=",
+      "date": 1466380800000,
+      "text": "TRCT reclamante | Termo de Homologa\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmEwNThhODFjZGQ0NjU5NDRlNGZjNmYzNDA3NzNjN2I=",
+      "date": 1468195200000,
+      "text": "FGTS Extrato | Extrato de Conta do FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGUxOTRjYWRlYmUxMzZhMzAyOWE1NmViZTZmMjhlNmE=",
+      "date": 1468195200000,
+      "text": "014 Contrato MRS x Progeo 2016 parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODUyZTVhZWJmYzM5ZWRiY2Q3MmE4M2MwMmU0ZDlkZWI=",
+      "date": 1468195200000,
+      "text": "Peti\u00e7\u00e3o em PDF | Peti\u00e7\u00e3o em PDF (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTYzMjRhMDY2YTBiMjUzZGVlMGU0YzM0NzI3OWVhNTY=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de MRS LOGISTICA S/A em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MTg2MDE1MWUxNWU0YWUxNzIwNmYzODY2OWExNmVmNjc=",
+      "date": 1468195200000,
+      "text": "012 Aditivo Contrato MRs x Progeo parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTljYjUwOGNiZDViYzIxZDBiNzdlOTJiMzlkZWJiMTQ=",
+      "date": 1468195200000,
+      "text": "Carta de Preposto | Carta de Preposi\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTkxZWY2ZTkyYWRlYTk4NjJhZjJhNGJjMWUxNTkxOGY=",
+      "date": 1468195200000,
+      "text": "013 Aditivo Contrato MRs x Progeo parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTA0NzhiYmY4OTFlOTFhYmNmMjVjN2NjZWU5ZjBiZGQ=",
+      "date": 1466553600000,
+      "text": "Notifica\u00e7\u00e3o | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg0NjhiNDg0MTM5M2RiZGEzMjllOGQ0YjY5YmQ2YWM=",
+      "date": 1468195200000,
+      "text": "015 Contrato MRS x Progeo 2016 parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YzAzYmQ2NDBiMGNkNWI2NzdhNTRhMjhlYWFjYmFmOGY=",
+      "date": 1467158400000,
+      "text": "Disponibilizado (a) o(a) Notifica\u00e7\u00e3o no Di\u00e1rio da Justi\u00e7a Eletr\u00f4nico",
+      "attachments": []
+    },
+    {
+      "id": "MTRjYWY5MjFmYzlkODFkNmZkNzJmMDNjZDk4ZTFhZmQ=",
+      "date": 1468195200000,
+      "text": "Juntada de contesta\u00e7\u00e3o e documentos | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZmFjMTgyMWFjNmNmYmYzZDZiOGUyM2Q4NmUwMzllN2E=",
+      "date": 1468195200000,
+      "text": "Comunicado de Dispensa | Comunica\u00e7\u00e3o de Dispensa (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTc1ZTZlODQ0NTQ1NDVhNWJjNzE1MWE2MmZjN2UyOGM=",
+      "date": 1468195200000,
+      "text": "CONTESTACAO | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDBiZGRlMDRhNmNiZWQ4NTdiNzJiMTRkODkwODNiZWI=",
+      "date": 1466985600000,
+      "text": "Ata da audi\u00eancia processo 3\u00aa Vara Contagem | Ata (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NzkyZWU2ZmE5ZDZhMWQzYWFiMzNjY2JlMjc2ZjExYjY=",
+      "date": 1468195200000,
+      "text": "009 Contrato MRS x Progeo 2015 parte 8 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDI4ZjU0NGRjNGFjYTc3NzI3MTY5NDRiZWJiZjlmZDg=",
+      "date": 1466380800000,
+      "text": "TRCT reclamante | Termo de Quita\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzEwMmU1MmI2ZjhjNmFjN2YyMDMwMTQzOWQ5ZGM2NDE=",
+      "date": 1468195200000,
+      "text": "Contrato Social Progeo | Contrato Social (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjU4MmE1ZmI1MzQwZWM0NTQyOGEwMjIxYzY2ZmYzNTA=",
+      "date": 1468195200000,
+      "text": "Termo de Rescisao Contratual | Termo de Quita\u00e7\u00e3o de Rescis\u00e3o do Contrato de Trabalho (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWRlMWU4YWMyZjJmZmJhZWJkMDJiNGEzNDJlYTBlNTk=",
+      "date": 1468195200000,
+      "text": "Acordo Prorrogacao de Experiencia | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWMyOTE4MGQ0ZmRkODUyNDE4ZTM2Zjk5ZjFiMzkyYTg=",
+      "date": 1468195200000,
+      "text": "002 Contrato de Concessao | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDBhNDc0OTc1OGZmYjExM2RiZjc1OWI3NWJmMGI2YTI=",
+      "date": 1468195200000,
+      "text": "016 Contrato MRS x Progeo 2016 parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YWQ2MTA1YzEzYzc3NmQ4ODhlYjU5NzNiZmUyMTg1NWM=",
+      "date": 1467072000000,
+      "text": "Conclusos os autos para despacho a RAFAELA CAMPOS ALVES",
+      "attachments": []
+    },
+    {
+      "id": "M2YwNTkzYzUxYmUzZjU0N2FmZmU1ZTE4NDJlOGFhYzY=",
+      "date": 1468195200000,
+      "text": "017 Contrato MRS x Progeo 2016 parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2E4NDM2NjZjYmM0YzdiYmQzYTdmOTkyODQwMTA0Mzc=",
+      "date": 1466380800000,
+      "text": "Audi\u00eancia una designada (04/07/2016 08:40 - 6\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "MmNiODdiZDY3NzkzNWE5NDk1M2IyMmFjZDBhMzE5MGI=",
+      "date": 1468195200000,
+      "text": "008 Contrato MRS x Progeo 2015 parte 7 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTc0N2EyZmQ2YWUzYWE3MDk4ZTc0YThjZDFjYTM5ODU=",
+      "date": 1467936000000,
+      "text": "Decorrido o prazo de EBIM FERREIRA DA SILVA em 07/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MjI1MjcwYzM5ZDc4NzdhMmE5ZmNjNzQ3YzkxN2M5ZWY=",
+      "date": 1468195200000,
+      "text": "007 Contrato MRS x Progeo 2015 parte 6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTg5MWJiOWFkOGJlYTNiYzFhZjc5NGRiNWJiZGEzZGY=",
+      "date": 1466985600000,
+      "text": "Peti\u00e7\u00e3o de Requerimento | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NWU3N2QyNmI4NTQwMDQ3ZGM1N2NhZDc4ODYzNzQ3Nzc=",
+      "date": 1468195200000,
+      "text": "Chave de Conectivdade Social | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "OTBlZWZlNjE4OWMyODliZTJhYWQxZmIxMmU1YWEzYWM=",
+      "date": 1467072000000,
+      "text": "Despacho | Despacho",
+      "attachments": []
+    },
+    {
+      "id": "NTEyOTNjNTY5NWI0NWQ2ZDg4MjRhYzAyZjdkOGZmZTM=",
+      "date": 1466553600000,
+      "text": "Expedido(a) Notifica\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "Y2Q4MmVhMDI1ZmEzOGZiODc0NzMzYWM5ZGM5OGVmZWQ=",
+      "date": 1467072000000,
+      "text": "Despacho | Notifica\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MDQwOWJkZmI2ZGE5YzZlOTliZDFmOWZjZTFiMmNkZDU=",
+      "date": 1467763200000,
+      "text": "Decorrido o prazo de PROGEO ENGENHARIA LTDA em 05/07/2016 23:59:59",
+      "attachments": []
+    },
+    {
+      "id": "MDNiMWZkM2ZiYTA2NTgyNzYxYTE0OGRiZThlOTkzZTA=",
+      "date": 1468195200000,
+      "text": "004 Substabelecimento | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MzQyZWJiOGRmYjI0NjQ3MjIwNmZhMDk2OTc1ODRhNWE=",
+      "date": 1468195200000,
+      "text": "002 Contrato MRS x Progeo 2015 parte 1 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YTYyNTFjMDEwNTU1MzFkMGYwMmI1ZDM1NmQwNmU4ZGY=",
+      "date": 1467072000000,
+      "text": "Proferido despacho de mero expediente",
+      "attachments": []
+    },
+    {
+      "id": "ZTNhZTE1NzQzZGYyZDQ5MzYwZmUzMjQ1ZjU3NjczZDA=",
+      "date": 1468281600000,
+      "text": "Arquivado o processo por aus\u00eancia do reclamante",
+      "attachments": []
+    },
+    {
+      "id": "YzZjMGVmMGM4MTMwMjczNTI2ZTE0ZjNhMjdmODNjM2E=",
+      "date": 1466380800000,
+      "text": "CTPS reclamante | CTPS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGI4ZWE2YTU4ODMyNmYyMDU2ZjI4NTkxMzVmNzE2NDc=",
+      "date": 1466380800000,
+      "text": "cadastro | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MWZiZWQ5ZmM5MGRkNDRiZjRhNGQ2NDJkMjNlYmM4Yzg=",
+      "date": 1468195200000,
+      "text": "010 Contrato MRS x Progeo 2015 parte 9 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MjNmMzM1YmE2ZWVlNzRhZDkwNWZiODhiYWExMzIzNGY=",
+      "date": 1468281600000,
+      "text": "Arbitradas e dispensadas as custas processuais no valor de 35.18",
+      "attachments": []
+    },
+    {
+      "id": "ZDlkN2VlNDA4MDAxYjVhOTkzODRiOGVjNjE0MTYwMjM=",
+      "date": 1468195200000,
+      "text": "019 Contrato MRS x Progeo 2016 parte 6 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NTAwZTliZTU3MTYzYjA4N2IwZjNkMWNlZDIzMzAxOGY=",
+      "date": 1468195200000,
+      "text": "Habilita\u00e7\u00e3o em processo | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZjUwODk5MDA5NmYyMzUzYzU3MDZmZTY0YTJjMGRhMDc=",
+      "date": 1466380800000,
+      "text": "Distribu\u00eddo por sorteio",
+      "attachments": []
+    },
+    {
+      "id": "NDk4ZWIyYzUyN2ZkZmQ1MjRiNGZkMWRlYWFjMTkyMzU=",
+      "date": 1468195200000,
+      "text": "001 EBIM FERREIRA DA SILVA - DEFESA MRS | Contesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NDM5YTNjODA5M2E5YTgyOTRhZGZmNTZhZDcyOTY0OTA=",
+      "date": 1468195200000,
+      "text": "006 Contrato MRS x Progeo 2015 parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2YxNGI3MDkyM2U4NTJlNGU3MWNhOWM3ZGY1NThiYWM=",
+      "date": 1468195200000,
+      "text": "Procuracao | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MTA2YTcwYWY0MmEwYmY2MTc4OGVjMTJmNmZkZmQ1MzA=",
+      "date": 1468195200000,
+      "text": "005 Carta de Preposicao | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZTkwMDViODU4Nzk3ODQ5MTg0ZmIzZmZjZmVmMzBhZTc=",
+      "date": 1467158400000,
+      "text": "Publicado(a) o(a) Notifica\u00e7\u00e3o em 29/06/2016",
+      "attachments": []
+    },
+    {
+      "id": "ZDY5MGNkMzZhMjdjNjIzMzBiYzdjMWFlMmZmYWQ2Y2Y=",
+      "date": 1468195200000,
+      "text": "005 Contrato MRS x Progeo 2015 parte 4 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "N2Q3M2YzNWIwYmUxZThjOWE0NDY0NDAxYzIwMjU0MWI=",
+      "date": 1468281600000,
+      "text": "Ata da Audi\u00eancia | Ata da Audi\u00eancia",
+      "attachments": []
+    },
+    {
+      "id": "ZmQ3NWJmMGViMzczYzgyMWJmNWVkYTA2MzY2ZDQ4Yjc=",
+      "date": 1467072000000,
+      "text": "Expedido(a) Intima\u00e7\u00e3o a(o) destinat\u00e1rio",
+      "attachments": []
+    },
+    {
+      "id": "Yjc4ZDY3ZGZkNjNjNzBiODc0MDVmMzA1NzlmZGIzNjI=",
+      "date": 1468195200000,
+      "text": "Contrato de Trabalho | Contrato de Experi\u00eancia (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDk5NWUxYmQyNGQwMjY1ZWY0ZGRkZDUxZTUxMDA5Mzk=",
+      "date": 1468195200000,
+      "text": "ASO admissional | Atestado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZGNhNGVlMWMzOGEyNzAwMTVjN2FkZmYwMTJjZDYxNmE=",
+      "date": 1468195200000,
+      "text": "FGTS GRRF | Extrato de Conta do FGTS (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "MmQxOTc2MmQyNjMyMDI2OGQ4YTRiOWFmZWRjOTlhZDc=",
+      "date": 1468195200000,
+      "text": "Ficha de Registro | Ficha de Empregado (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmVjMDMwYzk4YTBkYzA5NzMzN2UyZWUzMzc2MDVlNjk=",
+      "date": 1466380800000,
+      "text": "Peti\u00e7\u00e3o Inicial | Peti\u00e7\u00e3o Inicial (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjcxZWQxMzZhOWUxYTY4ZTdhNDNmZmU4M2ZkMDcyNjk=",
+      "date": 1467072000000,
+      "text": "Intima\u00e7\u00e3o | Intima\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "Y2FjODI2MmUzYTg3NmE5M2Y2ZDUwNDhmMTU0OGVhMGQ=",
+      "date": 1468281600000,
+      "text": "Arquivados os autos definitivamente",
+      "attachments": []
+    },
+    {
+      "id": "YjlmNjhkNjNjMjE5NTE0YTFkNzJiM2NiMDNiYzczMTM=",
+      "date": 1468195200000,
+      "text": "003 Contrato MRS x Progeo 2015 parte 2 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDhmNDYyOTUwYzE3OTVhNjY2MTNlNTNkNzc0OWE1ZDA=",
+      "date": 1467936000000,
+      "text": "Habilita\u00e7\u00e3o em processo | Manifesta\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjBhNmNlMzRhMGQ1YTM3NjJiNGRlZjdlYTllYmUzMDg=",
+      "date": 1468281600000,
+      "text": "Concedida a assist\u00eancia judici\u00e1ria gratuita a EBIM FERREIRA DA SILVA",
+      "attachments": []
+    },
+    {
+      "id": "M2RhM2Y1OGVjN2FiMTA5Y2IzODcwNjY3N2EzYmE0YmM=",
+      "date": 1468195200000,
+      "text": "004 Contrato MRS x Progeo 2015 parte 3 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "YmZjMzE4ZmZjNjQ1NzZkNzE1ZGI2OGNiM2FlNzI5MWQ=",
+      "date": 1468195200000,
+      "text": "018 Contrato MRS x Progeo 2016 parte 5 | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ZDI1YWVmNmNkNTZmMmQ4ZjJjMTYzOWFmZmZmNGY2YzQ=",
+      "date": 1468195200000,
+      "text": "003 Edital MRS | Documento Diverso (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "ODk0MWY2Mzk0MzQ5YTNlNTBlMGI0ODAzMDdhZWQxMzU=",
+      "date": 1468195200000,
+      "text": "001 Procuracao | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    },
+    {
+      "id": "NjY0NTk0M2YxZDgxN2E5NGIxYzZlMjBiZGU2MjQzNTY=",
+      "date": 1468281600000,
+      "text": "Audi\u00eancia una realizada (12/07/2016 08:55 - 6\u00aa VARA DO TRABALHO DE BELO HORIZONTE)",
+      "attachments": []
+    },
+    {
+      "id": "NzhjY2JlNzdhN2M1OTJiNTE5MzJhMTc4YmMwZDQyNzg=",
+      "date": 1466380800000,
+      "text": "Procura\u00e7\u00e3o reclamante | Procura\u00e7\u00e3o (RESTRITO)",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}

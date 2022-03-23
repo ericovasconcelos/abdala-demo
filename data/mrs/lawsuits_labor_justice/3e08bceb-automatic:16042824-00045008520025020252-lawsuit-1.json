@@ -1,0 +1,166 @@
+{
+  "lawsuit": {
+    "id": "M2UwOGJjZWItYXV0b21hdGljOjE2MDQyODI0LTAwMDQ1MDA4NTIwMDI1MDIwMjUyLWxhd3N1aXQ=",
+    "activityCount": 17,
+    "number": "0004500-85.2002.5.02.0252",
+    "value": "",
+    "subject": "A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)",
+    "kind": "",
+    "district": "Cubat\u00e3o",
+    "courtInstance": 1,
+    "relatedPeople": [
+      {
+        "name": "Jorge Adelson Firmino",
+        "author": true,
+        "defendant": false,
+        "role": {
+          "raw": "Autor",
+          "normalized": "Autor"
+        },
+        "lawyers": [
+          {
+            "name": "Jurandir Fialho Mendes",
+            "cpf": "",
+            "lawyerId": "YWRmOTUxYzktYXV0b21hdGljOjE2MDQyODI0LTllNjU2NzdhZjViMTlkMi1sYXd5ZXI="
+          }
+        ]
+      },
+      {
+        "name": "MRS Log\u00edstica S/A",
+        "author": false,
+        "defendant": true,
+        "role": {
+          "raw": "R\u00e9u",
+          "normalized": "R\u00e9u"
+        },
+        "lawyers": [
+          {
+            "name": "Drausio Apparecido Villas Boas Rangel",
+            "cpf": "",
+            "lawyerId": "ZmE0M2Q2NjktYXV0b21hdGljOjE2MDQyODI0LTRmNDQ0ODE5NWNlOWJhZC1sYXd5ZXI="
+          }
+        ]
+      }
+    ],
+    "justiceSecret": false,
+    "judgeName": "",
+    "distributionDate": 1011924000000,
+    "stateAcronym": "",
+    "normalizedSubject": [],
+    "court": "TRT02",
+    "courtSection": "Vara do trabalho",
+    "nature": {
+      "raw": "",
+      "normalized": "OUTROS"
+    },
+    "status": {
+      "raw": null,
+      "inferred": "INACTIVE"
+    }
+  },
+  "activity": [
+    {
+      "id": "YTRkZTdmMGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lMjkxMGU3ZDdiY2ZjMTQtMTAxMTkyNDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1011924000000,
+      "text": "Distribu\u00eddo com marca\u00e7\u00e3o de audi\u00eancia\r\n\r\n14/03/2002 / 13:00 - Inicial",
+      "attachments": []
+    },
+    {
+      "id": "MzU3N2JkMjEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC04YThiMTU3YzQyNzA4ZmMtMTAxMjE4MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1012183200000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 00279/2002 Rel:00007/2002 Envio: REGISTRADA\r\n\r\nNome: MRS LOG\u00cdSTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "ZmZiMGU2YTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03N2M4Y2IzZjA2Y2IyNjktMTAxMjE4MzIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1012183200000,
+      "text": "Autuado pela Vara",
+      "attachments": []
+    },
+    {
+      "id": "MmI2NzdiY2UtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC00MWY1NmQ3YjU3N2E0NTAtMTAxMzczODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1013738400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 00479/2002 Rel:00012/2002 Envio: REGISTRADA\r\n\r\nNome: MRS LOG\u00cdSTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "NzA5N2U1ZTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xZjI4ZTVmZDg5ZDg3NzQtMTAxMzczODQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1013738400000,
+      "text": "Remarca\u00e7\u00e3o de Audi\u00eancia Inicial\r\n\r\nde: 14/03/2002 / 13:00 - Inicial\r\n\r\npara: 05/04/2002 / 9:25 - Inicial",
+      "attachments": []
+    },
+    {
+      "id": "NGU4MjdjOTMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0xOWUwZGYwZTNjMDVhMTEtMTAxNDM0NjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1014346800000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 596 Sol.N\u00ba 601\r\n\r\nAudi\u00eancia Inicial: 05/04/2002 \u00e0s 9:25 hs.",
+      "attachments": []
+    },
+    {
+      "id": "MTViZTliYmYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1lN2VjOTBkZDkwMGYwOTUtMTAxNTQ3MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1015470000000,
+      "text": "Remarca\u00e7\u00e3o de Audi\u00eancia Inicial\r\n\r\nde: 05/04/2002 / 9:25 - Inicial\r\n\r\npara: 05/04/2002 / 13:25 - Inicial",
+      "attachments": []
+    },
+    {
+      "id": "M2MxMWVmMWMtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1hM2Q5ZjA0NDQ1NmM0NDUtMTAxNTU1NjQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1015556400000,
+      "text": "Expedi\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nDoc : 00737/2002 Rel:00017/2002 Envio: REGISTRADA\r\n\r\nNome: MRS LOG\u00cdSTICA S/A",
+      "attachments": []
+    },
+    {
+      "id": "NDdkODU4NzQtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iNTNlYWNmZTkwNDk1N2QtMTAxNjE2MTIwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1016161200000,
+      "text": "Publica\u00e7\u00e3o de Intima\u00e7\u00e3o/Cita\u00e7\u00e3o p/ Audi\u00eancia\r\n\r\nPara o(s) Autor(es) Ed.N\u00ba 602 Sol.N\u00ba 177\r\n\r\nAudi\u00eancia Inicial: 05/04/2002 \u00e0s 13:25 hs.",
+      "attachments": []
+    },
+    {
+      "id": "NzY2NjllNTAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03MjY3NWZhNDNiMmNlYTAtMTAxNzk3NTYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1017975600000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Instru\u00e7\u00e3o\r\n\r\npara: 25/04/2002 / 14:20 - Instru\u00e7\u00e3o\r\n\r\nJuiz(a) DR. JOS\u00c9 EDUARDO OLIV\u00c9 MALHADAS",
+      "attachments": []
+    },
+    {
+      "id": "MDQwZmZmYTctYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC05ODY0NTUxYTZhNDllYjItMTAxODIzNDgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1018234800000,
+      "text": "Entrega em carga/vista de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nJURANDIR FIALHO MENDES-OAB 122071/D-SP-Autor\r\n\r\ne (0013 )32192423, SANTOS-SP",
+      "attachments": []
+    },
+    {
+      "id": "MDkzZGFiMTgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC03NGY3MzIxYTBlYjNkM2ItMTAxODU4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1018580400000,
+      "text": "Recebimento de autos - A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nData prevista 15/04/2002\r\n\r\nJURANDIR FIALHO MENDES",
+      "attachments": []
+    },
+    {
+      "id": "MDc1YjE5YTYtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC01NGFkZWVkMzI5ZDEzNDgtMTAxODU4MDQwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1018580400000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Manifesta\u00e7\u00e3o\r\n\r\nNome: JORGE ADELSON FIRMINO",
+      "attachments": []
+    },
+    {
+      "id": "YWJhZWZjZGEtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1jZGFiMzczZmEyMTIwY2MtMTAxOTcwMzYwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1019703600000,
+      "text": "Marca\u00e7\u00e3o de Audi\u00eancia de Julgamento\r\n\r\npara: 17/06/2002 / 14:35 - Julgamento\r\n\r\nJuiz(a) DRA. MARIA TEREZA CAVA RODRIGUES",
+      "attachments": []
+    },
+    {
+      "id": "ODRkYjBmN2YtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0yZjQyZjczMTFmOTlkOTgtMTAyNDI4MjgwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1024282800000,
+      "text": "Improced\u00eancia de A\u00e7\u00e3o\r\n\r\nJuiz(a) : DR. JOS\u00c9 EDUARDO OLIV\u00c9 MALHADAS",
+      "attachments": []
+    },
+    {
+      "id": "OTQ3YzBlNjAtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC1iOWI2MzRjNzE5NGM0ZDktMTAyODg2MjAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1028862000000,
+      "text": "Arquivamento de A\u00c7\u00c3O TRABALHISTA (ORDIN\u00c1RIO)\r\n\r\nNro da Rela\u00e7\u00e3o: 172/2002 Data: 09/08/2002 Qtde vols.: 2",
+      "attachments": []
+    },
+    {
+      "id": "YWE1ZDVkODgtYXV0b21hdGljOjE2MDQyODI0LWJpcGJvcC0wMzY5ZmE5NmU1NzQ2OTEtMTI5NjE4MDAwMDAwMC1hY3Rpdml0eV9pdGVt",
+      "date": 1296180000000,
+      "text": "Protocolo de Peti\u00e7\u00e3o de Pedido de desarquivamento\r\n\r\nNome: MRS LOG\u00cdSTICA S/A",
+      "attachments": []
+    }
+  ],
+  "attachments": []
+}
