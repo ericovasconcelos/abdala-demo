@@ -1,6 +1,7 @@
 import React from 'react';
 import dynamic from "next/dynamic";
 import { theme } from '@chakra-ui/react';
+import { ApexOptions } from 'apexcharts';
 
 const Chart = dynamic(() => import('react-apexcharts'), { ssr: false, });
 
@@ -12,7 +13,7 @@ interface ChartLawsuitsProps {
 }
 
 const ChartLawsuits = ({seriesData, categoriesData, type, isDate}:ChartLawsuitsProps) => {
-    const options = {
+    const options:ApexOptions = {
         grid: {
             show: false
         },
@@ -29,7 +30,6 @@ const ChartLawsuits = ({seriesData, categoriesData, type, isDate}:ChartLawsuitsP
             enabled: true,
             x: {
                 format: "yyyy",
-                foreColor: theme.colors.gray[500]
             },
             theme: "dark",
         },
@@ -43,7 +43,7 @@ const ChartLawsuits = ({seriesData, categoriesData, type, isDate}:ChartLawsuitsP
             enabled: false
         },
         xaxis: {
-            type: isDate? 'datetime' as 'datetime' : 'category',
+            type: isDate? "datetime" : 'category',
             axisBorder: {
                 color: theme.colors.gray[600]
             },
